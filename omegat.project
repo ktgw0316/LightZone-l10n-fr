@@ -8,7 +8,7 @@
         <glossary_file>__DEFAULT__</glossary_file>
         <dictionary_dir>__DEFAULT__</dictionary_dir>
         <source_lang>EN-US</source_lang>
-        <target_lang>HU</target_lang>
+        <target_lang>FR</target_lang>
         <source_tok>org.omegat.tokenizer.LuceneEnglishTokenizer</source_tok>
         <target_tok>org.omegat.tokenizer.LuceneFrenchTokenizer</target_tok>
         <sentence_seg>true</sentence_seg>

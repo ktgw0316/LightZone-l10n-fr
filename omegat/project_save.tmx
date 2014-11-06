@@ -14,6 +14,30 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Click the Crop button again to commit.</seg>
+      </tuv>
+      <tuv lang="HU" changeid="Photonoxx" changedate="20141106T102945Z" creationid="Photonoxx" creationdate="20141106T102945Z">
+        <seg>Cliquez à nouveau sur le bouton recadrer pour valider.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Double-click to finish your region (or shift-click, or press ESC).</seg>
+      </tuv>
+      <tuv lang="HU" changeid="Photonoxx" changedate="20141106T102739Z" creationid="Photonoxx" creationdate="20141106T102739Z">
+        <seg>Double cliquez pour valider votre région (ou Maj-clic, ou appuyer sur "échap").</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Drag a rectangle on the image to crop it.</seg>
+      </tuv>
+      <tuv lang="HU" changeid="Photonoxx" changedate="20141106T102908Z" creationid="Photonoxx" creationdate="20141106T102908Z">
+        <seg>Dessiner un rectangle sur l'image pour la recadrer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>en-US</seg>
       </tuv>
       <tuv lang="HU" changeid="Photonoxx" changedate="20141106T102255Z">

@@ -6,6 +6,14 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="EN-US">
+        <seg>1 file to process</seg>
+      </tuv>
+      <tuv lang="HU" changeid="Photonoxx" changedate="20141106T105746Z" creationid="Photonoxx" creationdate="20141106T105746Z">
+        <seg>1 fichoer à traiter</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Cancel</seg>
       </tuv>
       <tuv lang="HU" changeid="Photonoxx" changedate="20141106T105255Z" creationid="Photonoxx" creationdate="20141106T105255Z">
@@ -26,6 +34,14 @@
       </tuv>
       <tuv lang="HU" changeid="Photonoxx" changedate="20141106T102945Z" creationid="Photonoxx" creationdate="20141106T102945Z">
         <seg>Cliquez à nouveau sur le bouton recadrer pour valider.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Done</seg>
+      </tuv>
+      <tuv lang="HU" changeid="Photonoxx" changedate="20141106T105733Z" creationid="Photonoxx" creationdate="20141106T105733Z">
+        <seg>Fait</seg>
       </tuv>
     </tu>
     <tu>
@@ -70,6 +86,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Not enough memory</seg>
+      </tuv>
+      <tuv lang="HU" changeid="Photonoxx" changedate="20141106T105450Z" creationid="Photonoxx" creationdate="20141106T105450Z">
+        <seg>Mémoire insuffisante</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Pick a folder that has some images in it.</seg>
       </tuv>
       <tuv lang="HU" changeid="Photonoxx" changedate="20141106T103105Z" creationid="Photonoxx" creationdate="20141106T103105Z">
@@ -82,6 +106,38 @@
       </tuv>
       <tuv lang="HU" changeid="Photonoxx" changedate="20141106T105354Z" creationid="Photonoxx" creationdate="20141106T105354Z">
         <seg>Le style ne peut être appliqué</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Unknown error processing this file</seg>
+      </tuv>
+      <tuv lang="HU" changeid="Photonoxx" changedate="20141106T105727Z" creationid="Photonoxx" creationdate="20141106T105727Z">
+        <seg>Erreur inconnue lors du traitement de ce fichier</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Unrecognized image format</seg>
+      </tuv>
+      <tuv lang="HU" changeid="Photonoxx" changedate="20141106T105509Z" creationid="Photonoxx" creationdate="20141106T105509Z">
+        <seg>Format d'image non reconnu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Unsupported camera</seg>
+      </tuv>
+      <tuv lang="HU" changeid="Photonoxx" changedate="20141106T105533Z" creationid="Photonoxx" creationdate="20141106T105533Z">
+        <seg>Appareil photo non pris en charge</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Unsupported color profile</seg>
+      </tuv>
+      <tuv lang="HU" changeid="Photonoxx" changedate="20141106T105633Z" creationid="Photonoxx" creationdate="20141106T105633Z">
+        <seg>Profil de couleur non supporté</seg>
       </tuv>
     </tu>
     <tu>

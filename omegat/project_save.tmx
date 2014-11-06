@@ -14,6 +14,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>$1 images selected</seg>
+      </tuv>
+      <tuv lang="HU" changeid="Photonoxx" changedate="20141106T135325Z" creationid="Photonoxx" creationdate="20141106T135325Z">
+        <seg>$1 images sélectionnées</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>$1 of $2 files processed, $3 seconds remaining</seg>
       </tuv>
       <tuv lang="HU" changeid="Photonoxx" changedate="20141106T105900Z" creationid="Photonoxx" creationdate="20141106T105900Z">
@@ -390,6 +398,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Open an Image</seg>
+      </tuv>
+      <tuv lang="HU" changeid="Photonoxx" changedate="20141106T135251Z" creationid="Photonoxx" creationdate="20141106T135251Z">
+        <seg>Ouvrir une image</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Opening...</seg>
       </tuv>
       <tuv lang="HU" changeid="Photonoxx" changedate="20141106T131134Z" creationid="Photonoxx" creationdate="20141106T131134Z">
@@ -478,6 +494,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Save As...</seg>
+      </tuv>
+      <tuv lang="HU" changeid="Photonoxx" changedate="20141106T135440Z" creationid="Photonoxx" creationdate="20141106T135440Z">
+        <seg>Enregistrer sous...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Save Changes</seg>
+      </tuv>
+      <tuv lang="HU" changeid="Photonoxx" changedate="20141106T135430Z" creationid="Photonoxx" creationdate="20141106T135430Z">
+        <seg>Enregistrer les modicfications</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Save Format</seg>
       </tuv>
       <tuv lang="HU" changeid="Photonoxx" changedate="20141106T110335Z" creationid="Photonoxx" creationdate="20141106T110335Z">
@@ -494,10 +526,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Save changes to $1?</seg>
+      </tuv>
+      <tuv lang="HU" changeid="Photonoxx" changedate="20141106T135349Z" creationid="Photonoxx" creationdate="20141106T135349Z">
+        <seg>Enregistrer les modifications de $1?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Save changes to this document before closing?</seg>
       </tuv>
       <tuv lang="HU" changeid="Photonoxx" changedate="20141106T113511Z" creationid="Photonoxx" creationdate="20141106T113511Z">
         <seg>Enregistrer le document avant de fermer ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Save without asking from now on.</seg>
+      </tuv>
+      <tuv lang="HU" changeid="Photonoxx" changedate="20141106T135535Z" creationid="Photonoxx" creationdate="20141106T135535Z">
+        <seg>Enregistrement sans confirmation activé.</seg>
       </tuv>
     </tu>
     <tu>
@@ -530,6 +578,14 @@
       </tuv>
       <tuv lang="HU" changeid="Photonoxx" changedate="20141106T114142Z" creationid="Photonoxx" creationdate="20141106T114142Z">
         <seg>Recherche des Documents enregistrés</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Select an Image</seg>
+      </tuv>
+      <tuv lang="HU" changeid="Photonoxx" changedate="20141106T135309Z" creationid="Photonoxx" creationdate="20141106T135309Z">
+        <seg>Sélectionner une image</seg>
       </tuv>
     </tu>
     <tu>

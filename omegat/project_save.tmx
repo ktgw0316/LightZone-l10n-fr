@@ -126,10 +126,34 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>LightZone Send</seg>
+      </tuv>
+      <tuv lang="HU" changeid="Photonoxx" changedate="20141106T110359Z" creationid="Photonoxx" creationdate="20141106T110359Z">
+        <seg>Envoyer avec LightZone</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Not enough memory</seg>
       </tuv>
       <tuv lang="HU" changeid="Photonoxx" changedate="20141106T105450Z" creationid="Photonoxx" creationdate="20141106T105450Z">
         <seg>Mémoire insuffisante</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Open</seg>
+      </tuv>
+      <tuv lang="HU" changeid="Photonoxx" changedate="20141106T110651Z" creationid="Photonoxx" creationdate="20141106T110651Z">
+        <seg>Ouvrir</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Output Size:</seg>
+      </tuv>
+      <tuv lang="HU" changeid="Photonoxx" changedate="20141106T110552Z" creationid="Photonoxx" creationdate="20141106T110552Z">
+        <seg>Taille de sortie :</seg>
       </tuv>
     </tu>
     <tu>
@@ -158,6 +182,46 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Send</seg>
+      </tuv>
+      <tuv lang="HU" changeid="Photonoxx" changedate="20141106T110523Z" creationid="Photonoxx" creationdate="20141106T110523Z">
+        <seg>Envoyer</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Send $1 images from $2</seg>
+      </tuv>
+      <tuv lang="HU" changeid="Photonoxx" changedate="20141106T110517Z" creationid="Photonoxx" creationdate="20141106T110517Z">
+        <seg>Envoie $1 images sur $2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Send 1 image from $1</seg>
+      </tuv>
+      <tuv lang="HU" changeid="Photonoxx" changedate="20141106T110503Z" creationid="Photonoxx" creationdate="20141106T110503Z">
+        <seg>Envoie 1 image sur $1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Send To Folder</seg>
+      </tuv>
+      <tuv lang="HU" changeid="Photonoxx" changedate="20141106T110609Z" creationid="Photonoxx" creationdate="20141106T110609Z">
+        <seg>Envoyer vers le dossier</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Show Help for LightZone Send</seg>
+      </tuv>
+      <tuv lang="HU" changeid="Photonoxx" changedate="20141106T110638Z" creationid="Photonoxx" creationdate="20141106T110638Z">
+        <seg>Afficher l'aide pour Envoyer avec LightZone</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Start</seg>
       </tuv>
       <tuv lang="HU" changeid="Photonoxx" changedate="20141106T110002Z" creationid="Photonoxx" creationdate="20141106T110002Z">
@@ -170,6 +234,14 @@
       </tuv>
       <tuv lang="HU" changeid="Photonoxx" changedate="20141106T105354Z" creationid="Photonoxx" creationdate="20141106T105354Z">
         <seg>Le style ne peut être appliqué</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To Folder:</seg>
+      </tuv>
+      <tuv lang="HU" changeid="Photonoxx" changedate="20141106T110534Z" creationid="Photonoxx" creationdate="20141106T110534Z">
+        <seg>Vers le dossier :</seg>
       </tuv>
     </tu>
     <tu>

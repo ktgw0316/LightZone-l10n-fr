@@ -6,6 +6,14 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="EN-US">
+        <seg>Cancel</seg>
+      </tuv>
+      <tuv lang="HU" changeid="Photonoxx" changedate="20141106T105255Z" creationid="Photonoxx" creationdate="20141106T105255Z">
+        <seg>Annulerl</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Click on the image where you would like to create one or more regions.</seg>
       </tuv>
       <tuv lang="HU" changeid="Photonoxx" changedate="20141106T102626Z" creationid="Photonoxx" creationdate="20141106T102626Z">
@@ -38,6 +46,30 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Error reading the file</seg>
+      </tuv>
+      <tuv lang="HU" changeid="Photonoxx" changedate="20141106T105433Z" creationid="Photonoxx" creationdate="20141106T105433Z">
+        <seg>Erreur de lecture du fichier</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Invalid image file</seg>
+      </tuv>
+      <tuv lang="HU" changeid="Photonoxx" changedate="20141106T105412Z" creationid="Photonoxx" creationdate="20141106T105412Z">
+        <seg>Fichier image invalide</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>LightZone Batch Processing</seg>
+      </tuv>
+      <tuv lang="HU" changeid="Photonoxx" changedate="20141106T105313Z" creationid="Photonoxx" creationdate="20141106T105313Z">
+        <seg>Traitement par lot de LightZone</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Pick a folder that has some images in it.</seg>
       </tuv>
       <tuv lang="HU" changeid="Photonoxx" changedate="20141106T103105Z" creationid="Photonoxx" creationdate="20141106T103105Z">
@@ -46,10 +78,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Style could not be applied</seg>
+      </tuv>
+      <tuv lang="HU" changeid="Photonoxx" changedate="20141106T105354Z" creationid="Photonoxx" creationdate="20141106T105354Z">
+        <seg>Le style ne peut être appliqué</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>en-US</seg>
       </tuv>
       <tuv lang="HU" changeid="Photonoxx" changedate="20141106T102255Z">
         <seg>fr-FR</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>saved as $1</seg>
+      </tuv>
+      <tuv lang="HU" changeid="Photonoxx" changedate="20141106T105328Z" creationid="Photonoxx" creationdate="20141106T105328Z">
+        <seg>Sauvé sous $1</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->

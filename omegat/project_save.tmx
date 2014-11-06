@@ -270,6 +270,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Initializing Engine Utilities</seg>
+      </tuv>
+      <tuv lang="HU" changeid="Photonoxx" changedate="20141106T114305Z" creationid="Photonoxx" creationdate="20141106T114305Z">
+        <seg>Initialisation Engine Utilities</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Insufficient memory to open this file</seg>
       </tuv>
       <tuv lang="HU" changeid="Photonoxx" changedate="20141106T110821Z" creationid="Photonoxx" creationdate="20141106T110821Z">
@@ -454,6 +462,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Scanning Saved Documents</seg>
+      </tuv>
+      <tuv lang="HU" changeid="Photonoxx" changedate="20141106T114142Z" creationid="Photonoxx" creationdate="20141106T114142Z">
+        <seg>Recherche des Documents enregistrés</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Send</seg>
       </tuv>
       <tuv lang="HU" changeid="Photonoxx" changedate="20141106T110523Z" creationid="Photonoxx" creationdate="20141106T110523Z">
@@ -498,6 +514,14 @@
       </tuv>
       <tuv lang="HU" changeid="Photonoxx" changedate="20141106T110002Z" creationid="Photonoxx" creationdate="20141106T110002Z">
         <seg>Démarrer</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Starting Logging</seg>
+      </tuv>
+      <tuv lang="HU" changeid="Photonoxx" changedate="20141106T114111Z" creationid="Photonoxx" creationdate="20141106T114111Z">
+        <seg>Démarrage du journal</seg>
       </tuv>
     </tu>
     <tu>

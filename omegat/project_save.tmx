@@ -86,6 +86,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Converting...</seg>
+      </tuv>
+      <tuv lang="HU" changeid="Photonoxx" changedate="20141106T111825Z" creationid="Photonoxx" creationdate="20141106T111825Z">
+        <seg>Conversion en cours...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Couldn't access the "$1" Style</seg>
       </tuv>
       <tuv lang="HU" changeid="Photonoxx" changedate="20141106T111505Z" creationid="Photonoxx" creationdate="20141106T111505Z">
@@ -126,10 +134,34 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Couldn't manage to save directly.</seg>
+      </tuv>
+      <tuv lang="HU" changeid="Photonoxx" changedate="20141106T111747Z" creationid="Photonoxx" creationdate="20141106T111747Z">
+        <seg>Impossible de procéder à l'enregistrement direct.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Couldn't print</seg>
+      </tuv>
+      <tuv lang="HU" changeid="Photonoxx" changedate="20141106T111816Z" creationid="Photonoxx" creationdate="20141106T111816Z">
+        <seg>Ne peut imprimer</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Couldn't save this Style</seg>
       </tuv>
       <tuv lang="HU" changeid="Photonoxx" changedate="20141106T111413Z" creationid="Photonoxx" creationdate="20141106T111413Z">
         <seg>Ce Style ne peut être sauvé</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Couldn't save to $1</seg>
+      </tuv>
+      <tuv lang="HU" changeid="Photonoxx" changedate="20141106T111642Z" creationid="Photonoxx" creationdate="20141106T111642Z">
+        <seg>Ne peut sauver vers $1</seg>
       </tuv>
     </tu>
     <tu>
@@ -154,6 +186,14 @@
       </tuv>
       <tuv lang="HU" changeid="Photonoxx" changedate="20141106T102908Z" creationid="Photonoxx" creationdate="20141106T102908Z">
         <seg>Dessiner un rectangle sur l'image pour la recadrer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Error applying Style "$1"</seg>
+      </tuv>
+      <tuv lang="HU" changeid="Photonoxx" changedate="20141106T111610Z" creationid="Photonoxx" creationdate="20141106T111610Z">
+        <seg>Erreur en appliquant le Style "$1"</seg>
       </tuv>
     </tu>
     <tu>
@@ -214,6 +254,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Loading...</seg>
+      </tuv>
+      <tuv lang="HU" changeid="Photonoxx" changedate="20141106T111616Z" creationid="Photonoxx" creationdate="20141106T111616Z">
+        <seg>Chargement...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Malformed LightZone file</seg>
       </tuv>
       <tuv lang="HU" changeid="Photonoxx" changedate="20141106T110748Z" creationid="Photonoxx" creationdate="20141106T110748Z">
@@ -262,6 +310,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Print</seg>
+      </tuv>
+      <tuv lang="HU" changeid="Photonoxx" changedate="20141106T111750Z" creationid="Photonoxx" creationdate="20141106T111750Z">
+        <seg>ImprimerPrint</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Printing...</seg>
+      </tuv>
+      <tuv lang="HU" changeid="Photonoxx" changedate="20141106T111803Z" creationid="Photonoxx" creationdate="20141106T111803Z">
+        <seg>Impression en cours...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Replace</seg>
       </tuv>
       <tuv lang="HU" changeid="Photonoxx" changedate="20141106T111349Z" creationid="Photonoxx" creationdate="20141106T111349Z">
@@ -282,6 +346,14 @@
       </tuv>
       <tuv lang="HU" changeid="Photonoxx" changedate="20141106T110137Z" creationid="Photonoxx" creationdate="20141106T110137Z">
         <seg>Enregistré vers :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Saving...</seg>
+      </tuv>
+      <tuv lang="HU" changeid="Photonoxx" changedate="20141106T111625Z" creationid="Photonoxx" creationdate="20141106T111625Z">
+        <seg>Enregistrement...</seg>
       </tuv>
     </tu>
     <tu>

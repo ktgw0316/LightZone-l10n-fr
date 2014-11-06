@@ -78,6 +78,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Couldn't find the original image</seg>
+      </tuv>
+      <tuv lang="HU" changeid="Photonoxx" changedate="20141106T110719Z" creationid="Photonoxx" creationdate="20141106T110719Z">
+        <seg>Image originale introuvable</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Done</seg>
       </tuv>
       <tuv lang="HU" changeid="Photonoxx" changedate="20141106T105733Z" creationid="Photonoxx" creationdate="20141106T105733Z">
@@ -110,10 +118,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Insufficient memory to open this file</seg>
+      </tuv>
+      <tuv lang="HU" changeid="Photonoxx" changedate="20141106T110821Z" creationid="Photonoxx" creationdate="20141106T110821Z">
+        <seg>Mémoire insuffisante pour ouvrir ce fichier</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Invalid image file</seg>
       </tuv>
       <tuv lang="HU" changeid="Photonoxx" changedate="20141106T105412Z" creationid="Photonoxx" creationdate="20141106T105412Z">
         <seg>Fichier image invalide</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Is this a LightZone Style file?</seg>
+      </tuv>
+      <tuv lang="HU" changeid="Photonoxx" changedate="20141106T110941Z" creationid="Photonoxx" creationdate="20141106T110941Z">
+        <seg>Est-ce un fichier de Style LightZone ?</seg>
       </tuv>
     </tu>
     <tu>
@@ -130,6 +154,14 @@
       </tuv>
       <tuv lang="HU" changeid="Photonoxx" changedate="20141106T110359Z" creationid="Photonoxx" creationdate="20141106T110359Z">
         <seg>Envoyer avec LightZone</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Malformed LightZone file</seg>
+      </tuv>
+      <tuv lang="HU" changeid="Photonoxx" changedate="20141106T110748Z" creationid="Photonoxx" creationdate="20141106T110748Z">
+        <seg>Fichier LightZone malformé</seg>
       </tuv>
     </tu>
     <tu>
@@ -242,6 +274,14 @@
       </tuv>
       <tuv lang="HU" changeid="Photonoxx" changedate="20141106T110534Z" creationid="Photonoxx" creationdate="20141106T110534Z">
         <seg>Vers le dossier :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Unknown error opening this file</seg>
+      </tuv>
+      <tuv lang="HU" changeid="Photonoxx" changedate="20141106T110901Z" creationid="Photonoxx" creationdate="20141106T110901Z">
+        <seg>Erreur inconnue à l'ouverture de ce fichier</seg>
       </tuv>
     </tu>
     <tu>

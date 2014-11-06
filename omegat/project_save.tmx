@@ -30,6 +30,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A Style named "$1" already exists.</seg>
+      </tuv>
+      <tuv lang="HU" changeid="Photonoxx" changedate="20141106T111323Z" creationid="Photonoxx" creationdate="20141106T111323Z">
+        <seg>Un Style nommé "$1" existe déjà.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Batch Name</seg>
       </tuv>
       <tuv lang="HU" changeid="Photonoxx" changedate="20141106T110020Z" creationid="Photonoxx" creationdate="20141106T110020Z">
@@ -78,10 +86,50 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Couldn't access the "$1" Style</seg>
+      </tuv>
+      <tuv lang="HU" changeid="Photonoxx" changedate="20141106T111505Z" creationid="Photonoxx" creationdate="20141106T111505Z">
+        <seg>Ne peut accéder au Style "$1"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Couldn't find a Style named "$1"</seg>
+      </tuv>
+      <tuv lang="HU" changeid="Photonoxx" changedate="20141106T111436Z" creationid="Photonoxx" creationdate="20141106T111436Z">
+        <seg>Ne peut trouver de Style nommé "$1"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Couldn't find the original image</seg>
       </tuv>
       <tuv lang="HU" changeid="Photonoxx" changedate="20141106T110719Z" creationid="Photonoxx" creationdate="20141106T110719Z">
         <seg>Image originale introuvable</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Couldn't import a Style from "$1".</seg>
+      </tuv>
+      <tuv lang="HU" changeid="Photonoxx" changedate="20141106T111306Z" creationid="Photonoxx" creationdate="20141106T111306Z">
+        <seg>Ne peut importer un Style depuis "$1".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Couldn't interpret the file "$1" as a Style</seg>
+      </tuv>
+      <tuv lang="HU" changeid="Photonoxx" changedate="20141106T111553Z" creationid="Photonoxx" creationdate="20141106T111553Z">
+        <seg>Ne peut interpréter le fichier "$1" comme un Style</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Couldn't save this Style</seg>
+      </tuv>
+      <tuv lang="HU" changeid="Photonoxx" changedate="20141106T111413Z" creationid="Photonoxx" creationdate="20141106T111413Z">
+        <seg>Ce Style ne peut être sauvé</seg>
       </tuv>
     </tu>
     <tu>
@@ -214,6 +262,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Replace</seg>
+      </tuv>
+      <tuv lang="HU" changeid="Photonoxx" changedate="20141106T111349Z" creationid="Photonoxx" creationdate="20141106T111349Z">
+        <seg>Remplacer</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Save Format</seg>
       </tuv>
       <tuv lang="HU" changeid="Photonoxx" changedate="20141106T110335Z" creationid="Photonoxx" creationdate="20141106T110335Z">
@@ -330,6 +386,14 @@
       </tuv>
       <tuv lang="HU" changeid="Photonoxx" changedate="20141106T105633Z" creationid="Photonoxx" creationdate="20141106T105633Z">
         <seg>Profil de couleur non supporté</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Would you like to replace it?</seg>
+      </tuv>
+      <tuv lang="HU" changeid="Photonoxx" changedate="20141106T111343Z" creationid="Photonoxx" creationdate="20141106T111343Z">
+        <seg>Voulez-vous le remplacer ?</seg>
       </tuv>
     </tu>
     <tu>

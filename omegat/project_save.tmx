@@ -54,6 +54,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Auto-save is now on.</seg>
+      </tuv>
+      <tuv lang="HU" changeid="Photonoxx" changedate="20141106T135625Z" creationid="Photonoxx" creationdate="20141106T135625Z">
+        <seg>L'Enregistrement Auto est désormais activé.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Batch Name</seg>
       </tuv>
       <tuv lang="HU" changeid="Photonoxx" changedate="20141106T110020Z" creationid="Photonoxx" creationdate="20141106T110020Z">
@@ -722,6 +730,14 @@
       </tuv>
       <tuv lang="HU" changeid="Photonoxx" changedate="20141106T111134Z" creationid="Photonoxx" creationdate="20141106T111134Z">
         <seg>Vous pouvez continuer et ouvrir ce fichier, ou essayer de l'importer comme un Style LightZone.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can turn it off in the LightZone Preferences.</seg>
+      </tuv>
+      <tuv lang="HU" changeid="Photonoxx" changedate="20141106T135700Z" creationid="Photonoxx" creationdate="20141106T135700Z">
+        <seg>Vous pouvez le désactiver dans les préférences de LightZone.</seg>
       </tuv>
     </tu>
     <tu>

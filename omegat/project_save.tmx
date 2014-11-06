@@ -38,6 +38,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Are you sure you want to quit LightZone?</seg>
+      </tuv>
+      <tuv lang="HU" changeid="Photonoxx" changedate="20141106T113646Z" creationid="Photonoxx" creationdate="20141106T113646Z">
+        <seg>Êtes-vous sûr de vouloir quitter LightZone ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Batch Name</seg>
       </tuv>
       <tuv lang="HU" changeid="Photonoxx" changedate="20141106T110020Z" creationid="Photonoxx" creationdate="20141106T110020Z">
@@ -166,6 +174,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Couldn't rename "$1" to "$2"</seg>
+      </tuv>
+      <tuv lang="HU" changeid="Photonoxx" changedate="20141106T113435Z" creationid="Photonoxx" creationdate="20141106T113435Z">
+        <seg>Imppossible de renommer "$1" en "$2"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Couldn't save this Style</seg>
       </tuv>
       <tuv lang="HU" changeid="Photonoxx" changedate="20141106T111413Z" creationid="Photonoxx" creationdate="20141106T111413Z">
@@ -178,6 +194,22 @@
       </tuv>
       <tuv lang="HU" changeid="Photonoxx" changedate="20141106T113112Z" creationid="Photonoxx" creationdate="20141106T111642Z">
         <seg>Impossible d'enregistrer vers $1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Don't Save</seg>
+      </tuv>
+      <tuv lang="HU" changeid="Photonoxx" changedate="20141106T113607Z" creationid="Photonoxx" creationdate="20141106T113607Z">
+        <seg>Ne pas enregistrer</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Don't ask again</seg>
+      </tuv>
+      <tuv lang="HU" changeid="Photonoxx" changedate="20141106T113712Z" creationid="Photonoxx" creationdate="20141106T113712Z">
+        <seg>Ne plus le redemander</seg>
       </tuv>
     </tu>
     <tu>
@@ -218,6 +250,14 @@
       </tuv>
       <tuv lang="HU" changeid="Photonoxx" changedate="20141106T105433Z" creationid="Photonoxx" creationdate="20141106T105433Z">
         <seg>Erreur de lecture du fichier</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If you don't save, your changes will be lost.</seg>
+      </tuv>
+      <tuv lang="HU" changeid="Photonoxx" changedate="20141106T113541Z" creationid="Photonoxx" creationdate="20141106T113541Z">
+        <seg>Si vous n'enregistrez pas, vos modifications seront perdues.</seg>
       </tuv>
     </tu>
     <tu>
@@ -342,10 +382,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Quit</seg>
+      </tuv>
+      <tuv lang="HU" changeid="Photonoxx" changedate="20141106T113650Z" creationid="Photonoxx" creationdate="20141106T113650Z">
+        <seg>QuitterQuit</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Replace</seg>
       </tuv>
       <tuv lang="HU" changeid="Photonoxx" changedate="20141106T111349Z" creationid="Photonoxx" creationdate="20141106T111349Z">
         <seg>Remplacer</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Save</seg>
+      </tuv>
+      <tuv lang="HU" changeid="Photonoxx" changedate="20141106T113550Z" creationid="Photonoxx" creationdate="20141106T113550Z">
+        <seg>Enregistrer</seg>
       </tuv>
     </tu>
     <tu>
@@ -362,6 +418,14 @@
       </tuv>
       <tuv lang="HU" changeid="Photonoxx" changedate="20141106T110137Z" creationid="Photonoxx" creationdate="20141106T110137Z">
         <seg>Enregistré vers :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Save changes to this document before closing?</seg>
+      </tuv>
+      <tuv lang="HU" changeid="Photonoxx" changedate="20141106T113511Z" creationid="Photonoxx" creationdate="20141106T113511Z">
+        <seg>Enregistrer le document avant de fermer ?</seg>
       </tuv>
     </tu>
     <tu>

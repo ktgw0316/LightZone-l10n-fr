@@ -398,6 +398,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Restoring Preferences</seg>
+      </tuv>
+      <tuv lang="HU" changeid="Photonoxx" changedate="20141106T114006Z" creationid="Photonoxx" creationdate="20141106T114006Z">
+        <seg>Restauration des Préférences</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Save</seg>
       </tuv>
       <tuv lang="HU" changeid="Photonoxx" changedate="20141106T113550Z" creationid="Photonoxx" creationdate="20141106T113550Z">
@@ -434,6 +442,14 @@
       </tuv>
       <tuv lang="HU" changeid="Photonoxx" changedate="20141106T111625Z" creationid="Photonoxx" creationdate="20141106T111625Z">
         <seg>Enregistrement...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Scanning Color Profiles</seg>
+      </tuv>
+      <tuv lang="HU" changeid="Photonoxx" changedate="20141106T113950Z" creationid="Photonoxx" creationdate="20141106T113950Z">
+        <seg>Recherche des Profils de couleur</seg>
       </tuv>
     </tu>
     <tu>
@@ -538,6 +554,14 @@
       </tuv>
       <tuv lang="HU" changeid="Photonoxx" changedate="20141106T105633Z" creationid="Photonoxx" creationdate="20141106T105633Z">
         <seg>Profil de couleur non supporté</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Verifying Libraries</seg>
+      </tuv>
+      <tuv lang="HU" changeid="Photonoxx" changedate="20141106T113737Z" creationid="Photonoxx" creationdate="20141106T113737Z">
+        <seg>Vérification des Bibliothèques</seg>
       </tuv>
     </tu>
     <tu>

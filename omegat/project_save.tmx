@@ -6,18 +6,58 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="EN-US">
+        <seg>$1 files to process</seg>
+      </tuv>
+      <tuv lang="HU" changeid="Photonoxx" changedate="20141106T105807Z" creationid="Photonoxx" creationdate="20141106T105807Z">
+        <seg>$1 fichiers à traiter</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>$1 of $2 files processed, $3 seconds remaining</seg>
+      </tuv>
+      <tuv lang="HU" changeid="Photonoxx" changedate="20141106T105900Z" creationid="Photonoxx" creationdate="20141106T105900Z">
+        <seg>$1 de $2 fichiers traités, $3 secondes restantes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>1 file to process</seg>
       </tuv>
-      <tuv lang="HU" changeid="Photonoxx" changedate="20141106T105746Z" creationid="Photonoxx" creationdate="20141106T105746Z">
-        <seg>1 fichoer à traiter</seg>
+      <tuv lang="HU" changeid="Photonoxx" changedate="20141106T110046Z" creationid="Photonoxx" creationdate="20141106T105746Z">
+        <seg>1 fichier à traiter</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Batch Name</seg>
+      </tuv>
+      <tuv lang="HU" changeid="Photonoxx" changedate="20141106T110020Z" creationid="Photonoxx" creationdate="20141106T110020Z">
+        <seg>Nom du traitement</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Batch Output Folder</seg>
+      </tuv>
+      <tuv lang="HU" changeid="Photonoxx" changedate="20141106T105953Z" creationid="Photonoxx" creationdate="20141106T105953Z">
+        <seg>Dossier de destination du traitement</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Cancel</seg>
       </tuv>
-      <tuv lang="HU" changeid="Photonoxx" changedate="20141106T105255Z" creationid="Photonoxx" creationdate="20141106T105255Z">
-        <seg>Annulerl</seg>
+      <tuv lang="HU" changeid="Photonoxx" changedate="20141106T110005Z" creationid="Photonoxx" creationdate="20141106T105255Z">
+        <seg>Annuler</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Choose...</seg>
+      </tuv>
+      <tuv lang="HU" changeid="Photonoxx" changedate="20141106T105906Z" creationid="Photonoxx" creationdate="20141106T105906Z">
+        <seg>Choisir...</seg>
       </tuv>
     </tu>
     <tu>
@@ -98,6 +138,14 @@
       </tuv>
       <tuv lang="HU" changeid="Photonoxx" changedate="20141106T103105Z" creationid="Photonoxx" creationdate="20141106T103105Z">
         <seg>Choisissez un dossier contenant des images.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Start</seg>
+      </tuv>
+      <tuv lang="HU" changeid="Photonoxx" changedate="20141106T110002Z" creationid="Photonoxx" creationdate="20141106T110002Z">
+        <seg>Démarrer</seg>
       </tuv>
     </tu>
     <tu>

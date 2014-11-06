@@ -254,6 +254,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Failed to restore from preferences</seg>
+      </tuv>
+      <tuv lang="HU" changeid="Photonoxx" changedate="20141106T131242Z" creationid="Photonoxx" creationdate="20141106T131242Z">
+        <seg>Échec de la restauration des préférences</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Failed to save preferences</seg>
+      </tuv>
+      <tuv lang="HU" changeid="Photonoxx" changedate="20141106T131214Z" creationid="Photonoxx" creationdate="20141106T131214Z">
+        <seg>Échec de la sauvegarde des préférences</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If you don't save, your changes will be lost.</seg>
       </tuv>
       <tuv lang="HU" changeid="Photonoxx" changedate="20141106T113541Z" creationid="Photonoxx" creationdate="20141106T113541Z">
@@ -358,6 +374,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Opening...</seg>
+      </tuv>
+      <tuv lang="HU" changeid="Photonoxx" changedate="20141106T131134Z" creationid="Photonoxx" creationdate="20141106T131134Z">
+        <seg>Ouverture...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Output Size:</seg>
       </tuv>
       <tuv lang="HU" changeid="Photonoxx" changedate="20141106T110552Z" creationid="Photonoxx" creationdate="20141106T110552Z">
@@ -450,6 +474,14 @@
       </tuv>
       <tuv lang="HU" changeid="Photonoxx" changedate="20141106T111625Z" creationid="Photonoxx" creationdate="20141106T111625Z">
         <seg>Enregistrement...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Scanning $1...</seg>
+      </tuv>
+      <tuv lang="HU" changeid="Photonoxx" changedate="20141106T131321Z" creationid="Photonoxx" creationdate="20141106T131321Z">
+        <seg>Recherche dans $1...</seg>
       </tuv>
     </tu>
     <tu>

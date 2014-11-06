@@ -110,6 +110,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Couldn't delete an older version of "$1"</seg>
+      </tuv>
+      <tuv lang="HU" changeid="Photonoxx" changedate="20141106T113221Z" creationid="Photonoxx" creationdate="20141106T113221Z">
+        <seg>Impossible d'effacer une ancienne version de "$1"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Couldn't find a Style named "$1"</seg>
       </tuv>
       <tuv lang="HU" changeid="Photonoxx" changedate="20141106T112942Z" creationid="Photonoxx" creationdate="20141106T111436Z">
@@ -152,8 +160,8 @@
       <tuv lang="EN-US">
         <seg>Couldn't print</seg>
       </tuv>
-      <tuv lang="HU" changeid="Photonoxx" changedate="20141106T111816Z" creationid="Photonoxx" creationdate="20141106T111816Z">
-        <seg>Ne peut imprimer</seg>
+      <tuv lang="HU" changeid="Photonoxx" changedate="20141106T113143Z" creationid="Photonoxx" creationdate="20141106T111816Z">
+        <seg>Impression impossible</seg>
       </tuv>
     </tu>
     <tu>
@@ -168,8 +176,8 @@
       <tuv lang="EN-US">
         <seg>Couldn't save to $1</seg>
       </tuv>
-      <tuv lang="HU" changeid="Photonoxx" changedate="20141106T111642Z" creationid="Photonoxx" creationdate="20141106T111642Z">
-        <seg>Ne peut sauver vers $1</seg>
+      <tuv lang="HU" changeid="Photonoxx" changedate="20141106T113112Z" creationid="Photonoxx" creationdate="20141106T111642Z">
+        <seg>Impossible d'enregistrer vers $1</seg>
       </tuv>
     </tu>
     <tu>
@@ -320,8 +328,8 @@
       <tuv lang="EN-US">
         <seg>Print</seg>
       </tuv>
-      <tuv lang="HU" changeid="Photonoxx" changedate="20141106T111750Z" creationid="Photonoxx" creationdate="20141106T111750Z">
-        <seg>ImprimerPrint</seg>
+      <tuv lang="HU" changeid="Photonoxx" changedate="20141106T113118Z" creationid="Photonoxx" creationdate="20141106T111750Z">
+        <seg>Imprimer</seg>
       </tuv>
     </tu>
     <tu>

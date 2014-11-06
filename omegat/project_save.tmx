@@ -118,6 +118,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Import as Style</seg>
+      </tuv>
+      <tuv lang="HU" changeid="Photonoxx" changedate="20141106T111149Z" creationid="Photonoxx" creationdate="20141106T111149Z">
+        <seg>Importer comme un Style</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Insufficient memory to open this file</seg>
       </tuv>
       <tuv lang="HU" changeid="Photonoxx" changedate="20141106T110821Z" creationid="Photonoxx" creationdate="20141106T110821Z">
@@ -178,6 +186,14 @@
       </tuv>
       <tuv lang="HU" changeid="Photonoxx" changedate="20141106T110651Z" creationid="Photonoxx" creationdate="20141106T110651Z">
         <seg>Ouvrir</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Open Normally</seg>
+      </tuv>
+      <tuv lang="HU" changeid="Photonoxx" changedate="20141106T111236Z" creationid="Photonoxx" creationdate="20141106T111236Z">
+        <seg>Ouvrir normalement</seg>
       </tuv>
     </tu>
     <tu>
@@ -314,6 +330,14 @@
       </tuv>
       <tuv lang="HU" changeid="Photonoxx" changedate="20141106T105633Z" creationid="Photonoxx" creationdate="20141106T105633Z">
         <seg>Profil de couleur non supporté</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can go ahead and open this file, or you can try to import it as a LightZone Style.</seg>
+      </tuv>
+      <tuv lang="HU" changeid="Photonoxx" changedate="20141106T111134Z" creationid="Photonoxx" creationdate="20141106T111134Z">
+        <seg>Vous pouvez continuer et ouvrir ce fichier, ou essayer de l'importer comme un Style LightZone.</seg>
       </tuv>
     </tu>
     <tu>

@@ -142,6 +142,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Save Format</seg>
+      </tuv>
+      <tuv lang="HU" changeid="Photonoxx" changedate="20141106T110335Z" creationid="Photonoxx" creationdate="20141106T110335Z">
+        <seg>Format d'enregistrement</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Save To:</seg>
+      </tuv>
+      <tuv lang="HU" changeid="Photonoxx" changedate="20141106T110137Z" creationid="Photonoxx" creationdate="20141106T110137Z">
+        <seg>Enregistré vers :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Start</seg>
       </tuv>
       <tuv lang="HU" changeid="Photonoxx" changedate="20141106T110002Z" creationid="Photonoxx" creationdate="20141106T110002Z">

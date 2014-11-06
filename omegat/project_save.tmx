@@ -94,6 +94,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Convert...</seg>
+      </tuv>
+      <tuv lang="HU" changeid="Photonoxx" changedate="20141106T131411Z" creationid="Photonoxx" creationdate="20141106T131411Z">
+        <seg>Convertir...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Converting...</seg>
       </tuv>
       <tuv lang="HU" changeid="Photonoxx" changedate="20141106T111825Z" creationid="Photonoxx" creationdate="20141106T111825Z">
@@ -242,6 +250,14 @@
       </tuv>
       <tuv lang="HU" changeid="Photonoxx" changedate="20141106T111610Z" creationid="Photonoxx" creationdate="20141106T111610Z">
         <seg>Erreur en appliquant le Style "$1"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Error initializing browser</seg>
+      </tuv>
+      <tuv lang="HU" changeid="Photonoxx" changedate="20141106T131351Z" creationid="Photonoxx" creationdate="20141106T131351Z">
+        <seg>Erreur d'initialisation du navigateur</seg>
       </tuv>
     </tu>
     <tu>
@@ -398,10 +414,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Previewing...</seg>
+      </tuv>
+      <tuv lang="HU" changeid="Photonoxx" changedate="20141106T131400Z" creationid="Photonoxx" creationdate="20141106T131400Z">
+        <seg>Prévisualisation...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Print</seg>
       </tuv>
       <tuv lang="HU" changeid="Photonoxx" changedate="20141106T113118Z" creationid="Photonoxx" creationdate="20141106T111750Z">
         <seg>Imprimer</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Print...</seg>
+      </tuv>
+      <tuv lang="HU" changeid="Photonoxx" changedate="20141106T131418Z" creationid="Photonoxx" creationdate="20141106T131418Z">
+        <seg>Imprimer...</seg>
       </tuv>
     </tu>
     <tu>

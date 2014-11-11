@@ -86,6 +86,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>About LightZone</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141111T145038Z" creationid="Photonoxx" creationdate="20141111T145038Z">
+        <seg>À propos de LightZone</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Actual Pixels</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141111T144850Z" creationid="Photonoxx" creationdate="20141111T144850Z">
@@ -230,10 +238,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Browser Layout</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141111T144935Z" creationid="Photonoxx" creationdate="20141111T144935Z">
+        <seg>Mode Navigation</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Cancel</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141106T110005Z" creationid="Photonoxx" creationdate="20141106T105255Z">
         <seg>Annuler</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Check for Update...</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141111T145137Z" creationid="Photonoxx" creationdate="20141111T145137Z">
+        <seg>Rechercher une Mise à Jour...</seg>
       </tuv>
     </tu>
     <tu>
@@ -462,6 +486,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Debug</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141111T145146Z" creationid="Photonoxx" creationdate="20141111T145146Z">
+        <seg>Débuguer</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Default settings for batch processing</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141111T102338Z" creationid="Photonoxx" creationdate="20141111T102251Z">
@@ -586,6 +618,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141111T104657Z" creationid="Photonoxx" creationdate="20141111T104657Z">
         <seg>Éditer l'image sélectionnée</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Editor Layout</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141111T144924Z" creationid="Photonoxx" creationdate="20141111T144924Z">
+        <seg>Mode Édition</seg>
       </tuv>
     </tu>
     <tu>
@@ -806,10 +846,34 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Learning Center</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141111T145049Z" creationid="Photonoxx" creationdate="20141111T145049Z">
+        <seg>Centre d'Apprentissage</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>LightZone Batch Processing</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141106T105313Z" creationid="Photonoxx" creationdate="20141106T105313Z">
         <seg>Traitement par lot de LightZone</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>LightZone Help</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141111T144946Z" creationid="Photonoxx" creationdate="20141111T144946Z">
+        <seg>Aide de LightZone</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>LightZone Product Page</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141111T145107Z" creationid="Photonoxx" creationdate="20141111T145107Z">
+        <seg>Site de LightZone</seg>
       </tuv>
     </tu>
     <tu>
@@ -1058,6 +1122,22 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141111T095939Z" creationid="Photonoxx" creationdate="20141111T095939Z">
         <seg>D'accord</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Online Help</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141111T145006Z" creationid="Photonoxx" creationdate="20141111T145006Z">
+        <seg>Aide en Ligne</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Online User Guide</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141111T145026Z" creationid="Photonoxx" creationdate="20141111T145026Z">
+        <seg>Guide Utilisateur en Ligne</seg>
       </tuv>
     </tu>
     <tu>

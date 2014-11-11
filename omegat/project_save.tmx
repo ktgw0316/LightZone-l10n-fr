@@ -270,6 +270,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Don't Reset</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141111T101511Z" creationid="Photonoxx" creationdate="20141111T101511Z">
+        <seg>Ne pas remettre à zéro</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Don't Save</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141106T113607Z" creationid="Photonoxx" creationdate="20141106T113607Z">
@@ -374,6 +382,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Help</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141111T101440Z" creationid="Photonoxx" creationdate="20141111T101440Z">
+        <seg>Aide</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If you don't save, your changes will be lost.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141106T113541Z" creationid="Photonoxx" creationdate="20141106T113541Z">
@@ -458,6 +474,22 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141106T110359Z" creationid="Photonoxx" creationdate="20141106T110359Z">
         <seg>Envoyer avec LightZone</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>LightZone Startup Error</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141111T101436Z" creationid="Photonoxx" creationdate="20141111T101436Z">
+        <seg>Erreur de démarrage de LightZone</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>LightZone failed to start last time.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141111T101252Z" creationid="Photonoxx" creationdate="20141111T101252Z">
+        <seg>LightZone n'a pas pu démarrer la dernière fois.</seg>
       </tuv>
     </tu>
     <tu>
@@ -630,6 +662,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Reset</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141111T101459Z" creationid="Photonoxx" creationdate="20141111T101459Z">
+        <seg>Remettre à zéro</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Resetting your LightZone Settings may fix this.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141111T101335Z" creationid="Photonoxx" creationdate="20141111T101335Z">
+        <seg>Remettre à zéro les paramètres de LightZone peut régler cela.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Restoring Preferences</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141106T114006Z" creationid="Photonoxx" creationdate="20141106T114006Z">
@@ -666,6 +714,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141106T110335Z" creationid="Photonoxx" creationdate="20141106T110335Z">
         <seg>Format d'enregistrement</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Save Style</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141111T101228Z" creationid="Photonoxx" creationdate="20141111T101228Z">
+        <seg>Enregistrer le Style</seg>
       </tuv>
     </tu>
     <tu>
@@ -930,6 +986,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141106T111343Z" creationid="Photonoxx" creationdate="20141106T111343Z">
         <seg>Voulez-vous le remplacer ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Would you like to try resetting your LightZone Settings?</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141111T101420Z" creationid="Photonoxx" creationdate="20141111T101420Z">
+        <seg>Voulez-vous essayer de remettre à zéro les paramètres de LightZone?</seg>
       </tuv>
     </tu>
     <tu>

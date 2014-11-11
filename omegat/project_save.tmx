@@ -70,6 +70,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>All</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141111T103134Z" creationid="Photonoxx" creationdate="20141111T103134Z">
+        <seg>Tout</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Always apply this Style</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141111T101050Z" creationid="Photonoxx" creationdate="20141111T101050Z">
@@ -130,6 +138,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141106T110005Z" creationid="Photonoxx" creationdate="20141106T105255Z">
         <seg>Annuler</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Checking for update...</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141111T103301Z" creationid="Photonoxx" creationdate="20141111T103227Z">
+        <seg>Cherche une mise à jour...</seg>
       </tuv>
     </tu>
     <tu>
@@ -502,10 +518,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>LightZone Settings Error</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141111T103130Z" creationid="Photonoxx" creationdate="20141111T103130Z">
+        <seg>Erreur des Paramètres de LightZone</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>LightZone Settings Help</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141111T102732Z" creationid="Photonoxx" creationdate="20141111T102732Z">
         <seg>Aide sur les paramètres de LightZone</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>LightZone Settings couldn't be reset</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141111T103042Z" creationid="Photonoxx" creationdate="20141111T103042Z">
+        <seg>Les Paramètres de LightZone ne peuvent être remis à zéro</seg>
       </tuv>
     </tu>
     <tu>
@@ -586,6 +618,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141111T100948Z" creationid="Photonoxx" creationdate="20141111T100948Z">
         <seg>Nom</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>None</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141111T103142Z" creationid="Photonoxx" creationdate="20141111T103142Z">
+        <seg>Rien</seg>
       </tuv>
     </tu>
     <tu>
@@ -994,6 +1034,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141111T102053Z" creationid="Photonoxx" creationdate="20141111T102053Z">
         <seg>La quantité de mémoire que LightZone doit utiliser</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>There was a problem checking for an update.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141111T103319Z" creationid="Photonoxx" creationdate="20141111T103244Z">
+        <seg>Il y a eu un problème lors de la recherche d'une mise à jour.</seg>
       </tuv>
     </tu>
     <tu>

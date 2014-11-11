@@ -70,6 +70,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A file named "$1" already exists in $2.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141111T105344Z" creationid="Photonoxx" creationdate="20141111T105344Z">
+        <seg>Un fichier nommé "$1" existe déjà dans $2.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A new version ($1) of $2 is available.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141111T103656Z" creationid="Photonoxx" creationdate="20141111T103656Z">
@@ -362,6 +370,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141111T102310Z" creationid="Photonoxx" creationdate="20141111T102228Z">
         <seg>Les Paramètres par défaut pour l'enregistrement, l'impression et la conversion</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Discard changes to this image and start over</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141111T105248Z" creationid="Photonoxx" creationdate="20141111T105248Z">
+        <seg>Annuler les modifications de cette images et recommencer</seg>
       </tuv>
     </tu>
     <tu>
@@ -706,6 +722,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141111T101436Z" creationid="Photonoxx" creationdate="20141111T101436Z">
         <seg>Erreur de démarrage de LightZone</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>LightZone could not copy $1 to $2.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141111T105410Z" creationid="Photonoxx" creationdate="20141111T105410Z">
+        <seg>LightZone ne peut copier $1 vers $2.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1066,6 +1090,22 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141106T113511Z" creationid="Photonoxx" creationdate="20141106T113511Z">
         <seg>Enregistrer le document avant de fermer ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Save this image in a new format</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141111T105156Z" creationid="Photonoxx" creationdate="20141111T105156Z">
+        <seg>Enregistrer cette image vers un nouveau format</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Save this image to a file</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141111T105314Z" creationid="Photonoxx" creationdate="20141111T105314Z">
+        <seg>Enregistrer cette images dans un fichier</seg>
       </tuv>
     </tu>
     <tu>

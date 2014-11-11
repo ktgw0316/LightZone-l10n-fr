@@ -478,6 +478,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>LightZone Settings remember what was going on the last time you used LightZone.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141111T101859Z" creationid="Photonoxx" creationdate="20141111T101859Z">
+        <seg>Les paramètres de LightZone se souviennent de la situation la dernière fois que vous avez utilisé LightZone.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>LightZone Startup Error</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141111T101436Z" creationid="Photonoxx" creationdate="20141111T101436Z">
@@ -650,6 +658,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141106T113650Z" creationid="Photonoxx" creationdate="20141106T113650Z">
         <seg>QuitterQuit</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Recently used files and directories</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141111T102118Z" creationid="Photonoxx" creationdate="20141111T102118Z">
+        <seg>Fichiers et dossiers récemment utilisés</seg>
       </tuv>
     </tu>
     <tu>
@@ -898,6 +914,30 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141111T100058Z" creationid="Photonoxx" creationdate="20141111T100058Z">
         <seg>Le fichier LightZone, "$1" ne peut trouver son fichier image, "$2".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Settings include things like:</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141111T101934Z" creationid="Photonoxx" creationdate="20141111T101934Z">
+        <seg>Les Paramètres incluent des choses telles que:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The amount of memory LightZone should use</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141111T102053Z" creationid="Photonoxx" creationdate="20141111T102053Z">
+        <seg>La quantité de mémoire que LightZone doit utiliser</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Thumbnail copies of your images</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141111T102020Z" creationid="Photonoxx" creationdate="20141111T102020Z">
+        <seg>Vignettes de vos images</seg>
       </tuv>
     </tu>
     <tu>

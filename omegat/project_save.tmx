@@ -110,6 +110,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Apply Style</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141111T142958Z" creationid="Photonoxx" creationdate="20141111T142958Z">
+        <seg>Aplliquer un Style</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Apply Style to the selected image</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141111T104729Z" creationid="Photonoxx" creationdate="20141111T104729Z">
@@ -174,6 +182,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Browse Recent</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141111T142853Z" creationid="Photonoxx" creationdate="20141111T142742Z">
+        <seg>Parcourir Dossiers Récents</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Cancel</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141106T110005Z" creationid="Photonoxx" creationdate="20141106T105255Z">
@@ -200,8 +216,16 @@
       <tuv lang="EN-US">
         <seg>Clear Recent Files</seg>
       </tuv>
-      <tuv lang="FR" changeid="Photonoxx" changedate="20141111T142724Z" creationid="Photonoxx" creationdate="20141111T142724Z">
-        <seg>Vider la liste des fichiers récents</seg>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141111T142846Z" creationid="Photonoxx" creationdate="20141111T142724Z">
+        <seg>Vider la liste des Fichiers Récents</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Clear Recent Folders</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141111T142837Z" creationid="Photonoxx" creationdate="20141111T142837Z">
+        <seg>Vider la liste des Dossiers Récents</seg>
       </tuv>
     </tu>
     <tu>
@@ -218,6 +242,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141106T102945Z" creationid="Photonoxx" creationdate="20141106T102945Z">
         <seg>Cliquez à nouveau sur le bouton recadrer pour valider.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Close Image</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141111T143030Z" creationid="Photonoxx" creationdate="20141111T143030Z">
+        <seg>Fermer l'Image</seg>
       </tuv>
     </tu>
     <tu>
@@ -822,6 +854,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Manage Styles...</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141111T143014Z" creationid="Photonoxx" creationdate="20141111T143014Z">
+        <seg>Gérer les Styles...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Name</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141111T100948Z" creationid="Photonoxx" creationdate="20141111T100948Z">
@@ -840,8 +880,24 @@
       <tuv lang="EN-US">
         <seg>No Recent Files</seg>
       </tuv>
-      <tuv lang="FR" changeid="Photonoxx" changedate="20141111T142659Z" creationid="Photonoxx" creationdate="20141111T142659Z">
-        <seg>Pas de fichiers récents</seg>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141111T142913Z" creationid="Photonoxx" creationdate="20141111T142659Z">
+        <seg>Aucun Fichiers Récents</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>No Recent Folders</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141111T142900Z" creationid="Photonoxx" creationdate="20141111T142802Z">
+        <seg>Aucun Dossiers Récents</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>No Styles</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141111T143005Z" creationid="Photonoxx" creationdate="20141111T143005Z">
+        <seg>Aucun Styles</seg>
       </tuv>
     </tu>
     <tu>
@@ -904,8 +960,8 @@
       <tuv lang="EN-US">
         <seg>Open Recent</seg>
       </tuv>
-      <tuv lang="FR" changeid="Photonoxx" changedate="20141111T142632Z" creationid="Photonoxx" creationdate="20141111T142632Z">
-        <seg>Ouvrir fichiers récents</seg>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141111T142920Z" creationid="Photonoxx" creationdate="20141111T142632Z">
+        <seg>Ouvrir Fichiers Récents</seg>
       </tuv>
     </tu>
     <tu>
@@ -1170,6 +1226,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141106T110137Z" creationid="Photonoxx" creationdate="20141106T110137Z">
         <seg>Enregistré vers :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Save as Style...</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141111T142947Z" creationid="Photonoxx" creationdate="20141111T142947Z">
+        <seg>Enregistrer comme un Style...</seg>
       </tuv>
     </tu>
     <tu>

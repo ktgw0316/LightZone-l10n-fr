@@ -38,6 +38,30 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;html&gt;Continue  (The program may now be unstable)&lt;/html&gt;</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141111T100806Z" creationid="Photonoxx" creationdate="20141111T100806Z">
+        <seg>&lt;html&gt;Continuer  (Le programme pourrait être instable désormais)&lt;/html&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;html&gt;Exit without saving files&lt;/html&gt;</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141111T100832Z" creationid="Photonoxx" creationdate="20141111T100832Z">
+        <seg>&lt;html&gt;Quitter sans enregistrer les fichiers&lt;/html&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;html&gt;Save all files and exit  &lt;b&gt;(Recommended)&lt;/b&gt;&lt;/html&gt;</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141111T100729Z" creationid="Photonoxx" creationdate="20141111T100729Z">
+        <seg>&lt;html&gt;Enregistrer tous les fichiers et quitter  &lt;b&gt;(Recommandé)&lt;/b&gt;&lt;/html&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A Style named "$1" already exists.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141106T111323Z" creationid="Photonoxx" creationdate="20141106T111323Z">
@@ -270,6 +294,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Error Details</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141111T100858Z" creationid="Photonoxx" creationdate="20141111T100858Z">
+        <seg>Détails de l'Erreur</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Error applying Style "$1"</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141106T111610Z" creationid="Photonoxx" creationdate="20141106T111610Z">
@@ -350,6 +382,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Internal Error</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141111T100842Z" creationid="Photonoxx" creationdate="20141111T100842Z">
+        <seg>Erreur Interne</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Invalid image file</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141106T105412Z" creationid="Photonoxx" creationdate="20141106T105412Z">
@@ -402,6 +442,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141111T100444Z" creationid="Photonoxx" creationdate="20141111T100444Z">
         <seg>LightZone a rencontré une erreur interne.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>LightZone has run out of memory and will now shut down.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141111T100638Z" creationid="Photonoxx" creationdate="20141111T100638Z">
+        <seg>LightZone est arrivé à cours de mémoire et va maintenant s'éteindre.</seg>
       </tuv>
     </tu>
     <tu>
@@ -698,6 +746,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141106T110609Z" creationid="Photonoxx" creationdate="20141106T110609Z">
         <seg>Envoyer vers le dossier</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Show Details</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141111T100650Z" creationid="Photonoxx" creationdate="20141111T100650Z">
+        <seg>Montrer les détails</seg>
       </tuv>
     </tu>
     <tu>

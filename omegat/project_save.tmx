@@ -2006,6 +2006,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>To save work, the browser saves previews in a special cache folder.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141111T150308Z" creationid="Photonoxx" creationdate="20141111T150308Z">
+        <seg>Pour économiser du travail, le Navigateur enregistre des Aperçus dans un dossier de cache spécial.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Tools</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141111T103750Z" creationid="Photonoxx" creationdate="20141111T103750Z">

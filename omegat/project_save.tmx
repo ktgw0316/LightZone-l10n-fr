@@ -262,6 +262,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Default settings for batch processing</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141111T102338Z" creationid="Photonoxx" creationdate="20141111T102251Z">
+        <seg>Les Paramètres pour le traitement par lot</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Default settings for saving, printing, and converting</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141111T102310Z" creationid="Photonoxx" creationdate="20141111T102228Z">
+        <seg>Les Paramètres par défaut pour l'enregistrement, l'impression et la conversion</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Do you want to search for it?</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141111T100321Z" creationid="Photonoxx" creationdate="20141111T100321Z">
@@ -664,8 +680,8 @@
       <tuv lang="EN-US">
         <seg>Recently used files and directories</seg>
       </tuv>
-      <tuv lang="FR" changeid="Photonoxx" changedate="20141111T102118Z" creationid="Photonoxx" creationdate="20141111T102118Z">
-        <seg>Fichiers et dossiers récemment utilisés</seg>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141111T102306Z" creationid="Photonoxx" creationdate="20141111T102118Z">
+        <seg>Les Fichiers et dossiers récemment utilisés</seg>
       </tuv>
     </tu>
     <tu>
@@ -936,8 +952,8 @@
       <tuv lang="EN-US">
         <seg>Thumbnail copies of your images</seg>
       </tuv>
-      <tuv lang="FR" changeid="Photonoxx" changedate="20141111T102020Z" creationid="Photonoxx" creationdate="20141111T102020Z">
-        <seg>Vignettes de vos images</seg>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141111T102302Z" creationid="Photonoxx" creationdate="20141111T102020Z">
+        <seg>Les Vignettes de vos images</seg>
       </tuv>
     </tu>
     <tu>
@@ -1018,6 +1034,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141111T100503Z" creationid="Photonoxx" creationdate="20141111T100503Z">
         <seg>Que voulez-vous faire ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Window positions and sizes</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141111T102308Z" creationid="Photonoxx" creationdate="20141111T102135Z">
+        <seg>La Position et taille de la fenêtre</seg>
       </tuv>
     </tu>
     <tu>

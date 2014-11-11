@@ -198,6 +198,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Convert</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141111T104537Z" creationid="Photonoxx" creationdate="20141111T104537Z">
+        <seg>Convertir</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Convert...</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141106T131411Z" creationid="Photonoxx" creationdate="20141106T131411Z">
@@ -210,6 +218,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141106T111825Z" creationid="Photonoxx" creationdate="20141106T111825Z">
         <seg>Conversion en cours...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Copy the selected image to another folder</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141111T104248Z" creationid="Photonoxx" creationdate="20141111T104248Z">
+        <seg>Copier l'image sélectionnée vers un autre dossier</seg>
       </tuv>
     </tu>
     <tu>
@@ -818,6 +834,22 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141106T113118Z" creationid="Photonoxx" creationdate="20141106T111750Z">
         <seg>Imprimer</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Print the selected image</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141111T104509Z" creationid="Photonoxx" creationdate="20141111T104509Z">
+        <seg>Imprimer l'image sélectionnée</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Print this image</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141111T104527Z" creationid="Photonoxx" creationdate="20141111T104527Z">
+        <seg>Imprimer cette image</seg>
       </tuv>
     </tu>
     <tu>

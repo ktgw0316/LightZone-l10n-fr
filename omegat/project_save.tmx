@@ -86,6 +86,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Add</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141111T144156Z" creationid="Photonoxx" creationdate="20141111T144156Z">
+        <seg>Ajouter</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>All</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141111T103134Z" creationid="Photonoxx" creationdate="20141111T103134Z">
@@ -112,8 +120,8 @@
       <tuv lang="EN-US">
         <seg>Apply Style</seg>
       </tuv>
-      <tuv lang="FR" changeid="Photonoxx" changedate="20141111T142958Z" creationid="Photonoxx" creationdate="20141111T142958Z">
-        <seg>Aplliquer un Style</seg>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141111T144000Z" creationid="Photonoxx" creationdate="20141111T142958Z">
+        <seg>Appliquer un Style</seg>
       </tuv>
     </tu>
     <tu>
@@ -162,6 +170,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141106T105953Z" creationid="Photonoxx" creationdate="20141106T105953Z">
         <seg>Dossier de destination du traitement</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Bring All to Front</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141111T144137Z" creationid="Photonoxx" creationdate="20141111T144137Z">
+        <seg>Mettre tout à l'avant</seg>
       </tuv>
     </tu>
     <tu>
@@ -902,6 +918,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Minimize</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141111T144040Z" creationid="Photonoxx" creationdate="20141111T144040Z">
+        <seg>Réduire</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Name</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141111T100948Z" creationid="Photonoxx" creationdate="20141111T100948Z">
@@ -914,6 +938,22 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141111T142549Z" creationid="Photonoxx" creationdate="20141111T142549Z">
         <seg>Nouvelle fenêtre</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>No Browser</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141111T144025Z" creationid="Photonoxx" creationdate="20141111T144025Z">
+        <seg>Aucun Navigateur</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>No Open Windows</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141111T144149Z" creationid="Photonoxx" creationdate="20141111T144149Z">
+        <seg>Aucune fenêtre ouverte</seg>
       </tuv>
     </tu>
     <tu>
@@ -1138,6 +1178,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141106T113650Z" creationid="Photonoxx" creationdate="20141106T113650Z">
         <seg>QuitterQuit</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Rating</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141111T143953Z" creationid="Photonoxx" creationdate="20141111T143953Z">
+        <seg>Notation</seg>
       </tuv>
     </tu>
     <tu>
@@ -1454,6 +1502,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Show Browser</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141111T144012Z" creationid="Photonoxx" creationdate="20141111T144012Z">
+        <seg>Montrer le Navigateur</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Show Details</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141111T100650Z" creationid="Photonoxx" creationdate="20141111T100650Z">
@@ -1742,6 +1798,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Window</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141111T144033Z" creationid="Photonoxx" creationdate="20141111T144033Z">
+        <seg>Fenêtre</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Window positions and sizes</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141111T102308Z" creationid="Photonoxx" creationdate="20141111T102135Z">
@@ -1786,6 +1850,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141111T103451Z" creationid="Photonoxx" creationdate="20141111T103451Z">
         <seg>Votre ordinateur doit être connecté à internet pour recherche une mise à jour.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Zoom</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141111T144112Z" creationid="Photonoxx" creationdate="20141111T144112Z">
+        <seg>Agrandir</seg>
       </tuv>
     </tu>
     <tu>

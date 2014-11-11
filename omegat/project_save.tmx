@@ -142,6 +142,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Browse</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141111T104045Z" creationid="Photonoxx" creationdate="20141111T104045Z">
+        <seg>Naviguer</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Browse Mode</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141111T104136Z" creationid="Photonoxx" creationdate="20141111T104121Z">
+        <seg>Navigation</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Cancel</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141106T110005Z" creationid="Photonoxx" creationdate="20141106T105255Z">
@@ -378,6 +394,22 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141106T102908Z" creationid="Photonoxx" creationdate="20141106T102908Z">
         <seg>Dessiner un rectangle sur l'image pour la recadrer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Edit</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141111T104054Z" creationid="Photonoxx" creationdate="20141111T104054Z">
+        <seg>Éditer</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Edit Mode</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141111T104145Z" creationid="Photonoxx" creationdate="20141111T104145Z">
+        <seg>Édition</seg>
       </tuv>
     </tu>
     <tu>
@@ -1062,6 +1094,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Show LightZone Help</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141111T104158Z" creationid="Photonoxx" creationdate="20141111T104158Z">
+        <seg>Montrer l'Aide de LightZone</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Show/Hide Folder Tree Pane</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141111T103920Z" creationid="Photonoxx" creationdate="20141111T103920Z">
@@ -1070,10 +1110,34 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Show/Hide History Pane</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141111T104020Z" creationid="Photonoxx" creationdate="20141111T104020Z">
+        <seg>Afficher/Masquer le Panneau de l'Historique</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Show/Hide Styles Pane</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141111T103844Z" creationid="Photonoxx" creationdate="20141111T103844Z">
         <seg>Afficher/Masquer le Panneau des Styles</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Show/Hide Tool Pane</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141111T104007Z" creationid="Photonoxx" creationdate="20141111T104007Z">
+        <seg>Afficher/Masquer le Panneau des Outils</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Show/Hide metadata Info Pane</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141111T103948Z" creationid="Photonoxx" creationdate="20141111T103948Z">
+        <seg>Afficher/Masquer le Panneau des informations de métadonnées</seg>
       </tuv>
     </tu>
     <tu>

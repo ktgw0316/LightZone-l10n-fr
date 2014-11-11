@@ -222,6 +222,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Do you want to search for it?</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141111T100321Z" creationid="Photonoxx" creationdate="20141111T100321Z">
+        <seg>Voulez-vous le rechercher ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Don't Save</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141106T113607Z" creationid="Photonoxx" creationdate="20141106T113607Z">
@@ -302,6 +310,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Find $1</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141111T100413Z" creationid="Photonoxx" creationdate="20141111T100413Z">
+        <seg>Trouver $1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If you don't save, your changes will be lost.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141106T113541Z" creationid="Photonoxx" creationdate="20141106T113541Z">
@@ -378,6 +394,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141106T110359Z" creationid="Photonoxx" creationdate="20141106T110359Z">
         <seg>Envoyer avec LightZone</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>LightZone has encountered an internal error.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141111T100444Z" creationid="Photonoxx" creationdate="20141111T100444Z">
+        <seg>LightZone a rencontré une erreur interne.</seg>
       </tuv>
     </tu>
     <tu>
@@ -630,6 +654,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Search</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141111T100355Z" creationid="Photonoxx" creationdate="20141111T100355Z">
+        <seg>Chercher</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Select an Image</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141106T135309Z" creationid="Photonoxx" creationdate="20141106T135309Z">
@@ -766,10 +798,34 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Use $1</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141111T100348Z" creationid="Photonoxx" creationdate="20141111T100348Z">
+        <seg>Utiliser $1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Use This</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141111T100341Z" creationid="Photonoxx" creationdate="20141111T100341Z">
+        <seg>Utiliser celui-ci</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Verifying Libraries</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141106T113737Z" creationid="Photonoxx" creationdate="20141106T113737Z">
         <seg>Vérification des Bibliothèques</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>What would you like to do?</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141111T100503Z" creationid="Photonoxx" creationdate="20141111T100503Z">
+        <seg>Que voulez-vous faire ?</seg>
       </tuv>
     </tu>
     <tu>

@@ -6,6 +6,14 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="EN-US">
+        <seg>"$1" already exists.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141111T145458Z" creationid="Photonoxx" creationdate="20141111T145458Z">
+        <seg>"$1" Existe déjà.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>$1 files to process</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141106T105807Z" creationid="Photonoxx" creationdate="20141106T105807Z">
@@ -26,6 +34,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141106T105900Z" creationid="Photonoxx" creationdate="20141106T105900Z">
         <seg>$1 de $2 fichiers traités, $3 secondes restantes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>(LightZone must restart for this to take effect.)</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141111T145654Z" creationid="Photonoxx" creationdate="20141111T145654Z">
+        <seg>(LightZone doit redémarrer pour prendre cela en compte.)</seg>
       </tuv>
     </tu>
     <tu>
@@ -170,6 +186,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141111T102909Z" creationid="Photonoxx" creationdate="20141111T102909Z">
         <seg>Êtes-vous sûr de vouloir remettre à zéro ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Auto Save</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141111T145711Z" creationid="Photonoxx" creationdate="20141111T145711Z">
+        <seg>Enregistrement Auto</seg>
       </tuv>
     </tu>
     <tu>
@@ -546,6 +570,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141111T105248Z" creationid="Photonoxx" creationdate="20141111T105248Z">
         <seg>Annuler les modifications de cette images et recommencer</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Do you want to replace it?</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141111T145514Z" creationid="Photonoxx" creationdate="20141111T145514Z">
+        <seg>Voulez-vous le remplacer?</seg>
       </tuv>
     </tu>
     <tu>
@@ -1286,6 +1318,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Preferences</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141111T145621Z" creationid="Photonoxx" creationdate="20141111T145621Z">
+        <seg>Préférences</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Preferences...</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141111T143728Z" creationid="Photonoxx" creationdate="20141111T143728Z">
@@ -1410,6 +1450,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141106T111349Z" creationid="Photonoxx" creationdate="20141106T111349Z">
         <seg>Remplacer</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Replacing it will overwrite its current contents.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141111T145610Z" creationid="Photonoxx" creationdate="20141111T145610Z">
+        <seg>Le Remplacement écrasera les Contenus actuels.</seg>
       </tuv>
     </tu>
     <tu>

@@ -70,6 +70,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A new version ($1) of $2 is available.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141111T103656Z" creationid="Photonoxx" creationdate="20141111T103656Z">
+        <seg>Une nouvelle version ($1) de $2 est disponible.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>All</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141111T103134Z" creationid="Photonoxx" creationdate="20141111T103134Z">
@@ -438,10 +446,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Folders</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141111T103739Z" creationid="Photonoxx" creationdate="20141111T103739Z">
+        <seg>Dossiers</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Help</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141111T101440Z" creationid="Photonoxx" creationdate="20141111T101440Z">
         <seg>Aide</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>History</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141111T103759Z" creationid="Photonoxx" creationdate="20141111T103759Z">
+        <seg>Historique</seg>
       </tuv>
     </tu>
     <tu>
@@ -458,6 +482,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141106T111149Z" creationid="Photonoxx" creationdate="20141106T111149Z">
         <seg>Importer comme un Style</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Info</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141111T103745Z" creationid="Photonoxx" creationdate="20141111T103745Z">
+        <seg>Information</seg>
       </tuv>
     </tu>
     <tu>
@@ -926,6 +958,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Saving to $1...</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141111T103724Z" creationid="Photonoxx" creationdate="20141111T103724Z">
+        <seg>Enregistrement sous $1...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Saving...</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141106T111625Z" creationid="Photonoxx" creationdate="20141106T111625Z">
@@ -1022,6 +1062,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Show/Hide Folder Tree Pane</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141111T103920Z" creationid="Photonoxx" creationdate="20141111T103920Z">
+        <seg>Afficher/Masquer le Panneau de l'arborescence des dossiers</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Show/Hide Styles Pane</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141111T103844Z" creationid="Photonoxx" creationdate="20141111T103844Z">
+        <seg>Afficher/Masquer le Panneau des Styles</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Start</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141106T110002Z" creationid="Photonoxx" creationdate="20141106T110002Z">
@@ -1114,6 +1170,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141106T110534Z" creationid="Photonoxx" creationdate="20141106T110534Z">
         <seg>Vers le dossier :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Tools</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141111T103750Z" creationid="Photonoxx" creationdate="20141111T103750Z">
+        <seg>Outils</seg>
       </tuv>
     </tu>
     <tu>

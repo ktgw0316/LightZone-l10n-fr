@@ -270,6 +270,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Convert Image...</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141111T143113Z" creationid="Photonoxx" creationdate="20141111T143113Z">
+        <seg>Convertir une Image...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Convert the selected image to a new image type</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141111T104621Z" creationid="Photonoxx" creationdate="20141111T104621Z">
@@ -546,6 +554,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141106T105433Z" creationid="Photonoxx" creationdate="20141106T105433Z">
         <seg>Erreur de lecture du fichier</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Exit</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141111T143301Z" creationid="Photonoxx" creationdate="20141111T143301Z">
+        <seg>Quitter</seg>
       </tuv>
     </tu>
     <tu>
@@ -1374,6 +1390,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Send...</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141111T143039Z" creationid="Photonoxx" creationdate="20141111T143039Z">
+        <seg>Envoyer...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Show Details</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141111T100650Z" creationid="Photonoxx" creationdate="20141111T100650Z">
@@ -1402,6 +1426,22 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141111T131017Z" creationid="Photonoxx" creationdate="20141111T131017Z">
         <seg>Afficher les Régions</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Show in Explorer</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141111T143129Z" creationid="Photonoxx" creationdate="20141111T143129Z">
+        <seg>Montrer dans l'Explorateur</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Show in Finder</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141111T143246Z" creationid="Photonoxx" creationdate="20141111T143246Z">
+        <seg>Montrer dans Finder</seg>
       </tuv>
     </tu>
     <tu>

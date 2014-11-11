@@ -752,8 +752,8 @@
       <tuv lang="EN-US">
         <seg>saved as $1</seg>
       </tuv>
-      <tuv lang="FR" changeid="Photonoxx" changedate="20141106T105328Z" creationid="Photonoxx" creationdate="20141106T105328Z">
-        <seg>Sauvé sous $1</seg>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141111T095505Z" creationid="Photonoxx" creationdate="20141106T105328Z">
+        <seg>Enregistré sous $1</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->

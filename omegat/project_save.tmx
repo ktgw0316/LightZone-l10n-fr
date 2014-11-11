@@ -190,6 +190,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Browser</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141111T143740Z" creationid="Photonoxx" creationdate="20141111T143740Z">
+        <seg>Navigateur</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Cancel</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141106T110005Z" creationid="Photonoxx" creationdate="20141106T105255Z">
@@ -1046,6 +1054,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Paste Region Linked</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141111T143717Z" creationid="Photonoxx" creationdate="20141111T143717Z">
+        <seg>Coller et lier la Région</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Pick a folder that has some images in it.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141106T103105Z" creationid="Photonoxx" creationdate="20141106T103105Z">
@@ -1058,6 +1074,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141111T103551Z" creationid="Photonoxx" creationdate="20141111T103551Z">
         <seg>Merci de vous connecter, puis réessayer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Preferences...</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141111T143728Z" creationid="Photonoxx" creationdate="20141111T143728Z">
+        <seg>Préférences...</seg>
       </tuv>
     </tu>
     <tu>

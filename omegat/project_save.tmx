@@ -582,6 +582,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Hide Regions</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141111T131030Z" creationid="Photonoxx" creationdate="20141111T131030Z">
+        <seg>Masquer les Régions</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>History</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141111T103759Z" creationid="Photonoxx" creationdate="20141111T103759Z">
@@ -1134,6 +1142,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Save to $1</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141111T130936Z" creationid="Photonoxx" creationdate="20141111T130936Z">
+        <seg>Enregistrer vers $1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Save without asking from now on.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141106T135535Z" creationid="Photonoxx" creationdate="20141106T135535Z">
@@ -1250,6 +1266,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141111T104158Z" creationid="Photonoxx" creationdate="20141111T104158Z">
         <seg>Montrer l'Aide de LightZone</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Show Regions</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141111T131017Z" creationid="Photonoxx" creationdate="20141111T131017Z">
+        <seg>Afficher les Régions</seg>
       </tuv>
     </tu>
     <tu>

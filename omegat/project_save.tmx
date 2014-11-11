@@ -366,6 +366,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Loading Classes</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141111T100002Z" creationid="Photonoxx" creationdate="20141111T100002Z">
+        <seg>Chargement des Classes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Loading...</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141106T111616Z" creationid="Photonoxx" creationdate="20141106T111616Z">
@@ -386,6 +394,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141106T105450Z" creationid="Photonoxx" creationdate="20141106T105450Z">
         <seg>Mémoire insuffisante</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>OK</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141111T095939Z" creationid="Photonoxx" creationdate="20141111T095939Z">
+        <seg>D'accord</seg>
       </tuv>
     </tu>
     <tu>

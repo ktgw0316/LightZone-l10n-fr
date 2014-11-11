@@ -342,10 +342,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Is one of these the right image?</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141111T100146Z" creationid="Photonoxx" creationdate="20141111T100146Z">
+        <seg>Un de ceux-ci est il la bonne image ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Is this a LightZone Style file?</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141106T110941Z" creationid="Photonoxx" creationdate="20141106T110941Z">
         <seg>Est-ce un fichier de Style LightZone ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Is this right?</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141111T100259Z" creationid="Photonoxx" creationdate="20141111T100259Z">
+        <seg>Est-ce le bon ?</seg>
       </tuv>
     </tu>
     <tu>
@@ -682,6 +698,22 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141106T105354Z" creationid="Photonoxx" creationdate="20141106T105354Z">
         <seg>Le style ne peut être appliqué</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The LightZone file, "$1" can't locate its image file, "$2", but it found "$3" instead.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141111T100234Z" creationid="Photonoxx" creationdate="20141111T100234Z">
+        <seg>Le fichier LightZone, "$1" ne peut trouver son fichier image, "$2", mais a trouvé "$3" à la place.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The LightZone file, "$1" can't locate its image file, "$2".</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141111T100058Z" creationid="Photonoxx" creationdate="20141111T100058Z">
+        <seg>Le fichier LightZone, "$1" ne peut trouver son fichier image, "$2".</seg>
       </tuv>
     </tu>
     <tu>

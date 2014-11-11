@@ -726,6 +726,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>LightZone copied $1 to $2, but could not delete the old image from $3.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141111T105456Z" creationid="Photonoxx" creationdate="20141111T105456Z">
+        <seg>LightZone a copié $1 vers $2, mais ne peut effacer l'ancienne image de $3.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>LightZone could not copy $1 to $2.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141111T105410Z" creationid="Photonoxx" creationdate="20141111T105410Z">
@@ -1370,6 +1378,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141111T103750Z" creationid="Photonoxx" creationdate="20141111T103750Z">
         <seg>Outils</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Undo Redo</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141111T105527Z" creationid="Photonoxx" creationdate="20141111T105527Z">
+        <seg>Annuler Rétablir</seg>
       </tuv>
     </tu>
     <tu>

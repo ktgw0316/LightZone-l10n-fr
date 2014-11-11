@@ -278,6 +278,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Browser Cache</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141111T150050Z" creationid="Photonoxx" creationdate="20141111T150050Z">
+        <seg>Cache du Navigateur</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Browser Layout</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141111T144935Z" creationid="Photonoxx" creationdate="20141111T144935Z">
@@ -298,6 +306,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141111T145137Z" creationid="Photonoxx" creationdate="20141111T145137Z">
         <seg>Rechercher une Mise à Jour...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Check here to show the Video Learning Center window when LightZone starts.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141111T150035Z" creationid="Photonoxx" creationdate="20141111T150035Z">
+        <seg>Cocher ici pour montrer le Centre d'Apprentissage Vidéo au démarrage de LightZone.</seg>
       </tuv>
     </tu>
     <tu>
@@ -842,6 +858,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141106T113541Z" creationid="Photonoxx" creationdate="20141106T113541Z">
         <seg>Si vous n'enregistrez pas, vos modifications seront perdues.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If you open an new image while you are still editing another image, LightZone can automatically save your work, or it can ask you what to do.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141111T145903Z" creationid="Photonoxx" creationdate="20141111T145903Z">
+        <seg>Si vous ouvrez une nouvelle Image durant l'édition d'une autre, LightZone peut enregistrer automatiquement votre travail, ou il peut vous demander quoi faire.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1802,6 +1826,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141111T131017Z" creationid="Photonoxx" creationdate="20141111T131017Z">
         <seg>Afficher les Régions</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Show Video Learning Center</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141111T145932Z" creationid="Photonoxx" creationdate="20141111T145932Z">
+        <seg>Montrer le centre d'Apprentissage Vidéo</seg>
       </tuv>
     </tu>
     <tu>

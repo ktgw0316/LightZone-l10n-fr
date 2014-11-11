@@ -702,6 +702,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Resetting LightZone Settings means LightZone will work the way it did when it was new.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141111T102437Z" creationid="Photonoxx" creationdate="20141111T102437Z">
+        <seg>Remettre à zéro les paramètres de LightZone signifie que LightZone fonctionnera tel qu'à la première installation.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Resetting your LightZone Settings may fix this.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141111T101335Z" creationid="Photonoxx" creationdate="20141111T101335Z">
@@ -946,6 +954,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141111T102053Z" creationid="Photonoxx" creationdate="20141111T102053Z">
         <seg>La quantité de mémoire que LightZone doit utiliser</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This can fix some problems, but loses your customizations and slows things down for a short while.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141111T102707Z" creationid="Photonoxx" creationdate="20141111T102707Z">
+        <seg>Cela peut régler certains problèmes, mais perd vos personnalisations et ralentit un peu les choses pour un court moment.</seg>
       </tuv>
     </tu>
     <tu>

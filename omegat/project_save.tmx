@@ -70,6 +70,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Always apply this Style</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141111T101050Z" creationid="Photonoxx" creationdate="20141111T101050Z">
+        <seg>Toujours appliquer ce Style</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Always apply this Style to RAW images from "$1"</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141111T101031Z" creationid="Photonoxx" creationdate="20141111T101031Z">
+        <seg>Toujours appliquer ce Style aux images RAW de "$1"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Are you sure you want to quit LightZone?</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141106T113646Z" creationid="Photonoxx" creationdate="20141106T113646Z">
@@ -350,6 +366,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Folder</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141111T100945Z" creationid="Photonoxx" creationdate="20141111T100945Z">
+        <seg>Dossier</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If you don't save, your changes will be lost.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141106T113541Z" creationid="Photonoxx" creationdate="20141106T113541Z">
@@ -474,6 +498,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141106T110748Z" creationid="Photonoxx" creationdate="20141106T110748Z">
         <seg>Fichier LightZone malformé</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Name</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141111T100948Z" creationid="Photonoxx" creationdate="20141111T100948Z">
+        <seg>Nom</seg>
       </tuv>
     </tu>
     <tu>
@@ -778,6 +810,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141106T114111Z" creationid="Photonoxx" creationdate="20141106T114111Z">
         <seg>Démarrage du journal</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Style Number $1</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141111T101211Z" creationid="Photonoxx" creationdate="20141111T101211Z">
+        <seg>Style Numéro $1</seg>
       </tuv>
     </tu>
     <tu>

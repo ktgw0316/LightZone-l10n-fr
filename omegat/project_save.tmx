@@ -918,6 +918,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If you do not set this option, LightZone will use an sRGB default profile.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141111T151545Z" creationid="Photonoxx" creationdate="20141111T151545Z">
+        <seg>Si vous ne définissez pas cette option, LightZone utilisera un profil sRGB par défaut.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If you don't save, your changes will be lost.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141106T113541Z" creationid="Photonoxx" creationdate="20141106T113541Z">
@@ -1130,6 +1138,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141111T100638Z" creationid="Photonoxx" creationdate="20141111T100638Z">
         <seg>LightZone est arrivé à cours de mémoire et va maintenant s'éteindre.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>LightZone must know the correct color profile for your display in order to show colors correctly.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141111T151452Z" creationid="Photonoxx" creationdate="20141111T151452Z">
+        <seg>LightZone doit connaître le Profil couleur approprié à votre Affichage afin d'afficher les couleurs correctement.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1842,6 +1858,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141111T143039Z" creationid="Photonoxx" creationdate="20141111T143039Z">
         <seg>Envoyer...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Set the color profile of your display device.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141111T151341Z" creationid="Photonoxx" creationdate="20141111T151341Z">
+        <seg>Définissez le Profil Couleur de votre périphérique d'Affichage.</seg>
       </tuv>
     </tu>
     <tu>

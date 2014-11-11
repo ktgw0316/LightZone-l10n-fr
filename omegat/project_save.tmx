@@ -198,6 +198,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Clear Recent Files</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141111T142724Z" creationid="Photonoxx" creationdate="20141111T142724Z">
+        <seg>Vider la liste des fichiers récents</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Click on the image where you would like to create one or more regions.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141106T102626Z" creationid="Photonoxx" creationdate="20141106T102626Z">
@@ -542,6 +550,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>File</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141111T142538Z" creationid="Photonoxx" creationdate="20141111T142538Z">
+        <seg>Fichier</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Find $1</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141111T100413Z" creationid="Photonoxx" creationdate="20141111T100413Z">
@@ -814,6 +830,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>New Window</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141111T142549Z" creationid="Photonoxx" creationdate="20141111T142549Z">
+        <seg>Nouvelle fenêtre</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>No Recent Files</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141111T142659Z" creationid="Photonoxx" creationdate="20141111T142659Z">
+        <seg>Pas de fichiers récents</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>No internet connection</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141111T103409Z" creationid="Photonoxx" creationdate="20141111T103409Z">
@@ -870,10 +902,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Open Recent</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141111T142632Z" creationid="Photonoxx" creationdate="20141111T142632Z">
+        <seg>Ouvrir fichiers récents</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Open an Image</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141106T135251Z" creationid="Photonoxx" creationdate="20141106T135251Z">
         <seg>Ouvrir une image</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Open...</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141111T142553Z" creationid="Photonoxx" creationdate="20141111T142553Z">
+        <seg>Ouvrir...</seg>
       </tuv>
     </tu>
     <tu>
@@ -1006,6 +1054,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Rescan Folder</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141111T142616Z" creationid="Photonoxx" creationdate="20141111T142616Z">
+        <seg>Rescanner le dossier</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Reset</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141111T101459Z" creationid="Photonoxx" creationdate="20141111T101459Z">
@@ -1058,6 +1114,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141111T130623Z" creationid="Photonoxx" creationdate="20141111T130623Z">
         <seg>Revenir</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Revert...</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141111T142559Z" creationid="Photonoxx" creationdate="20141111T142559Z">
+        <seg>Revenirt...</seg>
       </tuv>
     </tu>
     <tu>

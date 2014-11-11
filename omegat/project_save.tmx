@@ -46,6 +46,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(The previews will be recomputed automatically.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141111T150859Z" creationid="Photonoxx" creationdate="20141111T150859Z">
+        <seg>(Les Aperçus seront regénérés automatiquement.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>1 file to process</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141106T110046Z" creationid="Photonoxx" creationdate="20141106T105746Z">
@@ -2018,6 +2026,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141111T150450Z" creationid="Photonoxx" creationdate="20141111T150450Z">
         <seg>Ce dossier peut être créé à la même place que son Image ("Local"), ou dans un Emplacement Centralisé ("Global").</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This will discard preview images and orientations saved by the LightZone browser.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141111T150820Z" creationid="Photonoxx" creationdate="20141111T150820Z">
+        <seg>Cela purgera les Aperçus et les orientations enregistrés par le Navigateur LightZone.</seg>
       </tuv>
     </tu>
     <tu>

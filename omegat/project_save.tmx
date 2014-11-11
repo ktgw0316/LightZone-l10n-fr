@@ -334,6 +334,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Don't remind me</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141111T103335Z" creationid="Photonoxx" creationdate="20141111T103335Z">
+        <seg>Ne plus me le rappeler</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Done</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141106T105733Z" creationid="Photonoxx" creationdate="20141106T105733Z">
@@ -346,6 +354,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141106T102739Z" creationid="Photonoxx" creationdate="20141106T102739Z">
         <seg>Double cliquez pour valider votre région (ou Maj-clic, ou appuyer sur "échap").</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Download Now</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141111T103353Z" creationid="Photonoxx" creationdate="20141111T103353Z">
+        <seg>Télécharger Maintenant</seg>
       </tuv>
     </tu>
     <tu>
@@ -622,6 +638,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>No internet connection</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141111T103409Z" creationid="Photonoxx" creationdate="20141111T103409Z">
+        <seg>Pas de connexion internet</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>No update is available.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141111T103616Z" creationid="Photonoxx" creationdate="20141111T103616Z">
+        <seg>Pas de mise à jour disponible.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>None</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141111T103142Z" creationid="Photonoxx" creationdate="20141111T103142Z">
@@ -702,6 +734,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Please connect, then try again.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141111T103551Z" creationid="Photonoxx" creationdate="20141111T103551Z">
+        <seg>Merci de vous connecter, puis réessayer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Previewing...</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141106T131400Z" creationid="Photonoxx" creationdate="20141106T131400Z">
@@ -746,6 +786,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141111T102306Z" creationid="Photonoxx" creationdate="20141111T102118Z">
         <seg>Les Fichiers et dossiers récemment utilisés</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Remind me later</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141111T103627Z" creationid="Photonoxx" creationdate="20141111T103627Z">
+        <seg>Me le rappeler plus tard</seg>
       </tuv>
     </tu>
     <tu>
@@ -1178,6 +1226,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141106T135700Z" creationid="Photonoxx" creationdate="20141106T135700Z">
         <seg>Vous pouvez le désactiver dans les préférences de LightZone.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Your computer needs to be connected to the internet to check for an update.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141111T103451Z" creationid="Photonoxx" creationdate="20141111T103451Z">
+        <seg>Votre ordinateur doit être connecté à internet pour recherche une mise à jour.</seg>
       </tuv>
     </tu>
     <tu>

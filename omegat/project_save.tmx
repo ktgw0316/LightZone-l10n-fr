@@ -102,6 +102,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Apply Style to the selected image</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141111T104729Z" creationid="Photonoxx" creationdate="20141111T104729Z">
+        <seg>Appliquer un Style à l'image sélectionnée</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Are you sure you want to quit LightZone?</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141106T113646Z" creationid="Photonoxx" creationdate="20141106T113646Z">
@@ -202,6 +210,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141111T104537Z" creationid="Photonoxx" creationdate="20141111T104537Z">
         <seg>Convertir</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Convert the selected image to a new image type</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141111T104621Z" creationid="Photonoxx" creationdate="20141111T104621Z">
+        <seg>Convertir l'image sélectionnée vers un autre type d'image</seg>
       </tuv>
     </tu>
     <tu>
@@ -426,6 +442,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141111T104145Z" creationid="Photonoxx" creationdate="20141111T104145Z">
         <seg>Édition</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Edit the selected image</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141111T104657Z" creationid="Photonoxx" creationdate="20141111T104657Z">
+        <seg>Éditer l'image sélectionnée</seg>
       </tuv>
     </tu>
     <tu>

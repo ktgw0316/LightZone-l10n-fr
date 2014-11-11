@@ -8,752 +8,470 @@
       <tuv lang="EN-US">
         <seg>$1 files to process</seg>
       </tuv>
-      <tuv lang="HU" changeid="Photonoxx" changedate="20141106T105807Z" creationid="Photonoxx" creationdate="20141106T105807Z">
-        <seg>$1 fichiers à traiter</seg>
-      </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>$1 images selected</seg>
-      </tuv>
-      <tuv lang="HU" changeid="Photonoxx" changedate="20141106T135325Z" creationid="Photonoxx" creationdate="20141106T135325Z">
-        <seg>$1 images sélectionnées</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>$1 of $2 files processed, $3 seconds remaining</seg>
       </tuv>
-      <tuv lang="HU" changeid="Photonoxx" changedate="20141106T105900Z" creationid="Photonoxx" creationdate="20141106T105900Z">
-        <seg>$1 de $2 fichiers traités, $3 secondes restantes</seg>
-      </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>1 file to process</seg>
-      </tuv>
-      <tuv lang="HU" changeid="Photonoxx" changedate="20141106T110046Z" creationid="Photonoxx" creationdate="20141106T105746Z">
-        <seg>1 fichier à traiter</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>A Style named "$1" already exists.</seg>
       </tuv>
-      <tuv lang="HU" changeid="Photonoxx" changedate="20141106T111323Z" creationid="Photonoxx" creationdate="20141106T111323Z">
-        <seg>Un Style nommé "$1" existe déjà.</seg>
-      </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Are you sure you want to quit LightZone?</seg>
-      </tuv>
-      <tuv lang="HU" changeid="Photonoxx" changedate="20141106T113646Z" creationid="Photonoxx" creationdate="20141106T113646Z">
-        <seg>Êtes-vous sûr de vouloir quitter LightZone ?</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Auto-save is now on.</seg>
       </tuv>
-      <tuv lang="HU" changeid="Photonoxx" changedate="20141106T135625Z" creationid="Photonoxx" creationdate="20141106T135625Z">
-        <seg>L'Enregistrement Auto est désormais activé.</seg>
-      </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Batch Name</seg>
-      </tuv>
-      <tuv lang="HU" changeid="Photonoxx" changedate="20141106T110020Z" creationid="Photonoxx" creationdate="20141106T110020Z">
-        <seg>Nom du traitement</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Batch Output Folder</seg>
       </tuv>
-      <tuv lang="HU" changeid="Photonoxx" changedate="20141106T105953Z" creationid="Photonoxx" creationdate="20141106T105953Z">
-        <seg>Dossier de destination du traitement</seg>
-      </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Cancel</seg>
-      </tuv>
-      <tuv lang="HU" changeid="Photonoxx" changedate="20141106T110005Z" creationid="Photonoxx" creationdate="20141106T105255Z">
-        <seg>Annuler</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Choose...</seg>
       </tuv>
-      <tuv lang="HU" changeid="Photonoxx" changedate="20141106T105906Z" creationid="Photonoxx" creationdate="20141106T105906Z">
-        <seg>Choisir...</seg>
-      </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Click on the image where you would like to create one or more regions.</seg>
-      </tuv>
-      <tuv lang="HU" changeid="Photonoxx" changedate="20141106T102626Z" creationid="Photonoxx" creationdate="20141106T102626Z">
-        <seg>Cliquez sur l'image là où vous souhaitez créer une ou plusieurs régions.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Click the Crop button again to commit.</seg>
       </tuv>
-      <tuv lang="HU" changeid="Photonoxx" changedate="20141106T102945Z" creationid="Photonoxx" creationdate="20141106T102945Z">
-        <seg>Cliquez à nouveau sur le bouton recadrer pour valider.</seg>
-      </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Convert...</seg>
-      </tuv>
-      <tuv lang="HU" changeid="Photonoxx" changedate="20141106T131411Z" creationid="Photonoxx" creationdate="20141106T131411Z">
-        <seg>Convertir...</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Converting...</seg>
       </tuv>
-      <tuv lang="HU" changeid="Photonoxx" changedate="20141106T111825Z" creationid="Photonoxx" creationdate="20141106T111825Z">
-        <seg>Conversion en cours...</seg>
-      </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Couldn't access the "$1" Style</seg>
-      </tuv>
-      <tuv lang="HU" changeid="Photonoxx" changedate="20141106T113004Z" creationid="Photonoxx" creationdate="20141106T111505Z">
-        <seg>impossible d'accéder au Style "$1"</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Couldn't convert $1</seg>
       </tuv>
-      <tuv lang="HU" changeid="Photonoxx" changedate="20141106T111952Z" creationid="Photonoxx" creationdate="20141106T111952Z">
-        <seg>Conversion de $1 impossible</seg>
-      </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Couldn't delete an older version of "$1"</seg>
-      </tuv>
-      <tuv lang="HU" changeid="Photonoxx" changedate="20141106T113221Z" creationid="Photonoxx" creationdate="20141106T113221Z">
-        <seg>Impossible d'effacer une ancienne version de "$1"</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Couldn't find a Style named "$1"</seg>
       </tuv>
-      <tuv lang="HU" changeid="Photonoxx" changedate="20141106T112942Z" creationid="Photonoxx" creationdate="20141106T111436Z">
-        <seg>Impossible de trouver un Style nommé "$1"</seg>
-      </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Couldn't find the original image</seg>
-      </tuv>
-      <tuv lang="HU" changeid="Photonoxx" changedate="20141106T110719Z" creationid="Photonoxx" creationdate="20141106T110719Z">
-        <seg>Image originale introuvable</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Couldn't import a Style from "$1".</seg>
       </tuv>
-      <tuv lang="HU" changeid="Photonoxx" changedate="20141106T112852Z" creationid="Photonoxx" creationdate="20141106T111306Z">
-        <seg>Import d'un Style depuis "$1" impossible.</seg>
-      </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Couldn't interpret the file "$1" as a Style</seg>
-      </tuv>
-      <tuv lang="HU" changeid="Photonoxx" changedate="20141106T113037Z" creationid="Photonoxx" creationdate="20141106T111553Z">
-        <seg>Impossible d'interpréter le fichier "$1" comme un Style</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Couldn't manage to save directly.</seg>
       </tuv>
-      <tuv lang="HU" changeid="Photonoxx" changedate="20141106T111747Z" creationid="Photonoxx" creationdate="20141106T111747Z">
-        <seg>Impossible de procéder à l'enregistrement direct.</seg>
-      </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Couldn't print</seg>
-      </tuv>
-      <tuv lang="HU" changeid="Photonoxx" changedate="20141106T113143Z" creationid="Photonoxx" creationdate="20141106T111816Z">
-        <seg>Impression impossible</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Couldn't rename "$1" to "$2"</seg>
       </tuv>
-      <tuv lang="HU" changeid="Photonoxx" changedate="20141106T113435Z" creationid="Photonoxx" creationdate="20141106T113435Z">
-        <seg>Imppossible de renommer "$1" en "$2"</seg>
-      </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Couldn't save this Style</seg>
-      </tuv>
-      <tuv lang="HU" changeid="Photonoxx" changedate="20141106T111413Z" creationid="Photonoxx" creationdate="20141106T111413Z">
-        <seg>Ce Style ne peut être sauvé</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Couldn't save to $1</seg>
       </tuv>
-      <tuv lang="HU" changeid="Photonoxx" changedate="20141106T113112Z" creationid="Photonoxx" creationdate="20141106T111642Z">
-        <seg>Impossible d'enregistrer vers $1</seg>
-      </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Don't Save</seg>
-      </tuv>
-      <tuv lang="HU" changeid="Photonoxx" changedate="20141106T113607Z" creationid="Photonoxx" creationdate="20141106T113607Z">
-        <seg>Ne pas enregistrer</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Don't ask again</seg>
       </tuv>
-      <tuv lang="HU" changeid="Photonoxx" changedate="20141106T113712Z" creationid="Photonoxx" creationdate="20141106T113712Z">
-        <seg>Ne plus le redemander</seg>
-      </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Done</seg>
-      </tuv>
-      <tuv lang="HU" changeid="Photonoxx" changedate="20141106T105733Z" creationid="Photonoxx" creationdate="20141106T105733Z">
-        <seg>Fait</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Double-click to finish your region (or shift-click, or press ESC).</seg>
       </tuv>
-      <tuv lang="HU" changeid="Photonoxx" changedate="20141106T102739Z" creationid="Photonoxx" creationdate="20141106T102739Z">
-        <seg>Double cliquez pour valider votre région (ou Maj-clic, ou appuyer sur "échap").</seg>
-      </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Drag a rectangle on the image to crop it.</seg>
-      </tuv>
-      <tuv lang="HU" changeid="Photonoxx" changedate="20141106T102908Z" creationid="Photonoxx" creationdate="20141106T102908Z">
-        <seg>Dessiner un rectangle sur l'image pour la recadrer.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Error applying Style "$1"</seg>
       </tuv>
-      <tuv lang="HU" changeid="Photonoxx" changedate="20141106T111610Z" creationid="Photonoxx" creationdate="20141106T111610Z">
-        <seg>Erreur en appliquant le Style "$1"</seg>
-      </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Error initializing browser</seg>
-      </tuv>
-      <tuv lang="HU" changeid="Photonoxx" changedate="20141106T131351Z" creationid="Photonoxx" creationdate="20141106T131351Z">
-        <seg>Erreur d'initialisation du navigateur</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Error reading the file</seg>
       </tuv>
-      <tuv lang="HU" changeid="Photonoxx" changedate="20141106T105433Z" creationid="Photonoxx" creationdate="20141106T105433Z">
-        <seg>Erreur de lecture du fichier</seg>
-      </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Failed to restore from preferences</seg>
-      </tuv>
-      <tuv lang="HU" changeid="Photonoxx" changedate="20141106T131242Z" creationid="Photonoxx" creationdate="20141106T131242Z">
-        <seg>Échec de la restauration des préférences</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Failed to save preferences</seg>
       </tuv>
-      <tuv lang="HU" changeid="Photonoxx" changedate="20141106T131214Z" creationid="Photonoxx" creationdate="20141106T131214Z">
-        <seg>Échec de la sauvegarde des préférences</seg>
-      </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>If you don't save, your changes will be lost.</seg>
-      </tuv>
-      <tuv lang="HU" changeid="Photonoxx" changedate="20141106T113541Z" creationid="Photonoxx" creationdate="20141106T113541Z">
-        <seg>Si vous n'enregistrez pas, vos modifications seront perdues.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Import as Style</seg>
       </tuv>
-      <tuv lang="HU" changeid="Photonoxx" changedate="20141106T111149Z" creationid="Photonoxx" creationdate="20141106T111149Z">
-        <seg>Importer comme un Style</seg>
-      </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Initializing Engine Utilities</seg>
-      </tuv>
-      <tuv lang="HU" changeid="Photonoxx" changedate="20141106T114305Z" creationid="Photonoxx" creationdate="20141106T114305Z">
-        <seg>Initialisation Engine Utilities</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Insufficient memory to open this file</seg>
       </tuv>
-      <tuv lang="HU" changeid="Photonoxx" changedate="20141106T110821Z" creationid="Photonoxx" creationdate="20141106T110821Z">
-        <seg>Mémoire insuffisante pour ouvrir ce fichier</seg>
-      </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Invalid image file</seg>
-      </tuv>
-      <tuv lang="HU" changeid="Photonoxx" changedate="20141106T105412Z" creationid="Photonoxx" creationdate="20141106T105412Z">
-        <seg>Fichier image invalide</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Is this a LightZone Style file?</seg>
       </tuv>
-      <tuv lang="HU" changeid="Photonoxx" changedate="20141106T110941Z" creationid="Photonoxx" creationdate="20141106T110941Z">
-        <seg>Est-ce un fichier de Style LightZone ?</seg>
-      </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>LightZone Batch Processing</seg>
-      </tuv>
-      <tuv lang="HU" changeid="Photonoxx" changedate="20141106T105313Z" creationid="Photonoxx" creationdate="20141106T105313Z">
-        <seg>Traitement par lot de LightZone</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>LightZone Send</seg>
       </tuv>
-      <tuv lang="HU" changeid="Photonoxx" changedate="20141106T110359Z" creationid="Photonoxx" creationdate="20141106T110359Z">
-        <seg>Envoyer avec LightZone</seg>
-      </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Loading...</seg>
-      </tuv>
-      <tuv lang="HU" changeid="Photonoxx" changedate="20141106T111616Z" creationid="Photonoxx" creationdate="20141106T111616Z">
-        <seg>Chargement...</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Malformed LightZone file</seg>
       </tuv>
-      <tuv lang="HU" changeid="Photonoxx" changedate="20141106T110748Z" creationid="Photonoxx" creationdate="20141106T110748Z">
-        <seg>Fichier LightZone malformé</seg>
-      </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Not enough memory</seg>
-      </tuv>
-      <tuv lang="HU" changeid="Photonoxx" changedate="20141106T105450Z" creationid="Photonoxx" creationdate="20141106T105450Z">
-        <seg>Mémoire insuffisante</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Open</seg>
       </tuv>
-      <tuv lang="HU" changeid="Photonoxx" changedate="20141106T110651Z" creationid="Photonoxx" creationdate="20141106T110651Z">
-        <seg>Ouvrir</seg>
-      </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Open Normally</seg>
-      </tuv>
-      <tuv lang="HU" changeid="Photonoxx" changedate="20141106T111236Z" creationid="Photonoxx" creationdate="20141106T111236Z">
-        <seg>Ouvrir normalement</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Open an Image</seg>
       </tuv>
-      <tuv lang="HU" changeid="Photonoxx" changedate="20141106T135251Z" creationid="Photonoxx" creationdate="20141106T135251Z">
-        <seg>Ouvrir une image</seg>
-      </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Opening...</seg>
-      </tuv>
-      <tuv lang="HU" changeid="Photonoxx" changedate="20141106T131134Z" creationid="Photonoxx" creationdate="20141106T131134Z">
-        <seg>Ouverture...</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Output Size:</seg>
       </tuv>
-      <tuv lang="HU" changeid="Photonoxx" changedate="20141106T110552Z" creationid="Photonoxx" creationdate="20141106T110552Z">
-        <seg>Taille de sortie :</seg>
-      </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Pick a folder that has some images in it.</seg>
-      </tuv>
-      <tuv lang="HU" changeid="Photonoxx" changedate="20141106T103105Z" creationid="Photonoxx" creationdate="20141106T103105Z">
-        <seg>Choisissez un dossier contenant des images.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Previewing...</seg>
       </tuv>
-      <tuv lang="HU" changeid="Photonoxx" changedate="20141106T131400Z" creationid="Photonoxx" creationdate="20141106T131400Z">
-        <seg>Prévisualisation...</seg>
-      </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Print</seg>
-      </tuv>
-      <tuv lang="HU" changeid="Photonoxx" changedate="20141106T113118Z" creationid="Photonoxx" creationdate="20141106T111750Z">
-        <seg>Imprimer</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Print...</seg>
       </tuv>
-      <tuv lang="HU" changeid="Photonoxx" changedate="20141106T131418Z" creationid="Photonoxx" creationdate="20141106T131418Z">
-        <seg>Imprimer...</seg>
-      </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Printing...</seg>
-      </tuv>
-      <tuv lang="HU" changeid="Photonoxx" changedate="20141106T111803Z" creationid="Photonoxx" creationdate="20141106T111803Z">
-        <seg>Impression en cours...</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Quit</seg>
       </tuv>
-      <tuv lang="HU" changeid="Photonoxx" changedate="20141106T113650Z" creationid="Photonoxx" creationdate="20141106T113650Z">
-        <seg>QuitterQuit</seg>
-      </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Replace</seg>
-      </tuv>
-      <tuv lang="HU" changeid="Photonoxx" changedate="20141106T111349Z" creationid="Photonoxx" creationdate="20141106T111349Z">
-        <seg>Remplacer</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Restoring Preferences</seg>
       </tuv>
-      <tuv lang="HU" changeid="Photonoxx" changedate="20141106T114006Z" creationid="Photonoxx" creationdate="20141106T114006Z">
-        <seg>Restauration des Préférences</seg>
-      </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Save</seg>
-      </tuv>
-      <tuv lang="HU" changeid="Photonoxx" changedate="20141106T113550Z" creationid="Photonoxx" creationdate="20141106T113550Z">
-        <seg>Enregistrer</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Save As...</seg>
       </tuv>
-      <tuv lang="HU" changeid="Photonoxx" changedate="20141106T135440Z" creationid="Photonoxx" creationdate="20141106T135440Z">
-        <seg>Enregistrer sous...</seg>
-      </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Save Changes</seg>
-      </tuv>
-      <tuv lang="HU" changeid="Photonoxx" changedate="20141106T135430Z" creationid="Photonoxx" creationdate="20141106T135430Z">
-        <seg>Enregistrer les modicfications</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Save Format</seg>
       </tuv>
-      <tuv lang="HU" changeid="Photonoxx" changedate="20141106T110335Z" creationid="Photonoxx" creationdate="20141106T110335Z">
-        <seg>Format d'enregistrement</seg>
-      </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Save To:</seg>
-      </tuv>
-      <tuv lang="HU" changeid="Photonoxx" changedate="20141106T110137Z" creationid="Photonoxx" creationdate="20141106T110137Z">
-        <seg>Enregistré vers :</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Save changes to $1?</seg>
       </tuv>
-      <tuv lang="HU" changeid="Photonoxx" changedate="20141106T135349Z" creationid="Photonoxx" creationdate="20141106T135349Z">
-        <seg>Enregistrer les modifications de $1?</seg>
-      </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Save changes to this document before closing?</seg>
-      </tuv>
-      <tuv lang="HU" changeid="Photonoxx" changedate="20141106T113511Z" creationid="Photonoxx" creationdate="20141106T113511Z">
-        <seg>Enregistrer le document avant de fermer ?</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Save without asking from now on.</seg>
       </tuv>
-      <tuv lang="HU" changeid="Photonoxx" changedate="20141106T135535Z" creationid="Photonoxx" creationdate="20141106T135535Z">
-        <seg>Enregistrement sans confirmation activé.</seg>
-      </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Saving...</seg>
-      </tuv>
-      <tuv lang="HU" changeid="Photonoxx" changedate="20141106T111625Z" creationid="Photonoxx" creationdate="20141106T111625Z">
-        <seg>Enregistrement...</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Scanning $1...</seg>
       </tuv>
-      <tuv lang="HU" changeid="Photonoxx" changedate="20141106T131321Z" creationid="Photonoxx" creationdate="20141106T131321Z">
-        <seg>Recherche dans $1...</seg>
-      </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Scanning Color Profiles</seg>
-      </tuv>
-      <tuv lang="HU" changeid="Photonoxx" changedate="20141106T113950Z" creationid="Photonoxx" creationdate="20141106T113950Z">
-        <seg>Recherche des Profils de couleur</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Scanning Saved Documents</seg>
       </tuv>
-      <tuv lang="HU" changeid="Photonoxx" changedate="20141106T114142Z" creationid="Photonoxx" creationdate="20141106T114142Z">
-        <seg>Recherche des Documents enregistrés</seg>
-      </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Select an Image</seg>
-      </tuv>
-      <tuv lang="HU" changeid="Photonoxx" changedate="20141106T135309Z" creationid="Photonoxx" creationdate="20141106T135309Z">
-        <seg>Sélectionner une image</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Send</seg>
       </tuv>
-      <tuv lang="HU" changeid="Photonoxx" changedate="20141106T110523Z" creationid="Photonoxx" creationdate="20141106T110523Z">
-        <seg>Envoyer</seg>
-      </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Send $1 images from $2</seg>
-      </tuv>
-      <tuv lang="HU" changeid="Photonoxx" changedate="20141106T110517Z" creationid="Photonoxx" creationdate="20141106T110517Z">
-        <seg>Envoie $1 images sur $2</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Send 1 image from $1</seg>
       </tuv>
-      <tuv lang="HU" changeid="Photonoxx" changedate="20141106T110503Z" creationid="Photonoxx" creationdate="20141106T110503Z">
-        <seg>Envoie 1 image sur $1</seg>
-      </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Send To Folder</seg>
-      </tuv>
-      <tuv lang="HU" changeid="Photonoxx" changedate="20141106T110609Z" creationid="Photonoxx" creationdate="20141106T110609Z">
-        <seg>Envoyer vers le dossier</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Show Help for LightZone Send</seg>
       </tuv>
-      <tuv lang="HU" changeid="Photonoxx" changedate="20141106T110638Z" creationid="Photonoxx" creationdate="20141106T110638Z">
-        <seg>Afficher l'aide pour Envoyer avec LightZone</seg>
-      </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Start</seg>
-      </tuv>
-      <tuv lang="HU" changeid="Photonoxx" changedate="20141106T110002Z" creationid="Photonoxx" creationdate="20141106T110002Z">
-        <seg>Démarrer</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Starting Logging</seg>
       </tuv>
-      <tuv lang="HU" changeid="Photonoxx" changedate="20141106T114111Z" creationid="Photonoxx" creationdate="20141106T114111Z">
-        <seg>Démarrage du journal</seg>
-      </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Style could not be applied</seg>
-      </tuv>
-      <tuv lang="HU" changeid="Photonoxx" changedate="20141106T105354Z" creationid="Photonoxx" creationdate="20141106T105354Z">
-        <seg>Le style ne peut être appliqué</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>To Folder:</seg>
       </tuv>
-      <tuv lang="HU" changeid="Photonoxx" changedate="20141106T110534Z" creationid="Photonoxx" creationdate="20141106T110534Z">
-        <seg>Vers le dossier :</seg>
-      </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Unknown error opening this file</seg>
-      </tuv>
-      <tuv lang="HU" changeid="Photonoxx" changedate="20141106T110901Z" creationid="Photonoxx" creationdate="20141106T110901Z">
-        <seg>Erreur inconnue à l'ouverture de ce fichier</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Unknown error processing this file</seg>
       </tuv>
-      <tuv lang="HU" changeid="Photonoxx" changedate="20141106T105727Z" creationid="Photonoxx" creationdate="20141106T105727Z">
-        <seg>Erreur inconnue lors du traitement de ce fichier</seg>
-      </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Unrecognized image format</seg>
-      </tuv>
-      <tuv lang="HU" changeid="Photonoxx" changedate="20141106T105509Z" creationid="Photonoxx" creationdate="20141106T105509Z">
-        <seg>Format d'image non reconnu</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Unsupported camera</seg>
       </tuv>
-      <tuv lang="HU" changeid="Photonoxx" changedate="20141106T105533Z" creationid="Photonoxx" creationdate="20141106T105533Z">
-        <seg>Appareil photo non pris en charge</seg>
-      </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Unsupported color profile</seg>
-      </tuv>
-      <tuv lang="HU" changeid="Photonoxx" changedate="20141106T105633Z" creationid="Photonoxx" creationdate="20141106T105633Z">
-        <seg>Profil de couleur non supporté</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Verifying Libraries</seg>
       </tuv>
-      <tuv lang="HU" changeid="Photonoxx" changedate="20141106T113737Z" creationid="Photonoxx" creationdate="20141106T113737Z">
-        <seg>Vérification des Bibliothèques</seg>
-      </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Would you like to replace it?</seg>
-      </tuv>
-      <tuv lang="HU" changeid="Photonoxx" changedate="20141106T111343Z" creationid="Photonoxx" creationdate="20141106T111343Z">
-        <seg>Voulez-vous le remplacer ?</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>You can go ahead and open this file, or you can try to import it as a LightZone Style.</seg>
       </tuv>
-      <tuv lang="HU" changeid="Photonoxx" changedate="20141106T111134Z" creationid="Photonoxx" creationdate="20141106T111134Z">
-        <seg>Vous pouvez continuer et ouvrir ce fichier, ou essayer de l'importer comme un Style LightZone.</seg>
-      </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>You can turn it off in the LightZone Preferences.</seg>
-      </tuv>
-      <tuv lang="HU" changeid="Photonoxx" changedate="20141106T135700Z" creationid="Photonoxx" creationdate="20141106T135700Z">
-        <seg>Vous pouvez le désactiver dans les préférences de LightZone.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>en-US</seg>
       </tuv>
-      <tuv lang="HU" changeid="Photonoxx" changedate="20141106T102255Z">
-        <seg>fr-FR</seg>
-      </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>saved as $1</seg>
-      </tuv>
-      <tuv lang="HU" changeid="Photonoxx" changedate="20141106T105328Z" creationid="Photonoxx" creationdate="20141106T105328Z">
-        <seg>Sauvé sous $1</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->

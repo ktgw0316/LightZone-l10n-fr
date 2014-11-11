@@ -94,6 +94,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Are you sure you want to reset?</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141111T102909Z" creationid="Photonoxx" creationdate="20141111T102909Z">
+        <seg>Êtes-vous sûr de vouloir remettre à zéro ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Auto-save is now on.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141106T135625Z" creationid="Photonoxx" creationdate="20141106T135625Z">
@@ -494,10 +502,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>LightZone Settings Help</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141111T102732Z" creationid="Photonoxx" creationdate="20141111T102732Z">
+        <seg>Aide sur les paramètres de LightZone</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>LightZone Settings remember what was going on the last time you used LightZone.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141111T101859Z" creationid="Photonoxx" creationdate="20141111T101859Z">
         <seg>Les paramètres de LightZone se souviennent de la situation la dernière fois que vous avez utilisé LightZone.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>LightZone Settings were successfully reset.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141111T103016Z" creationid="Photonoxx" creationdate="20141111T103016Z">
+        <seg>Remise à zéro des Paramètres de LightZone avec succès.</seg>
       </tuv>
     </tu>
     <tu>
@@ -702,10 +726,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Reset LightZone Settings</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141111T102941Z" creationid="Photonoxx" creationdate="20141111T102941Z">
+        <seg>Remise à zéro des paramètres de LightZone</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Resetting LightZone Settings means LightZone will work the way it did when it was new.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141111T102437Z" creationid="Photonoxx" creationdate="20141111T102437Z">
         <seg>Remettre à zéro les paramètres de LightZone signifie que LightZone fonctionnera tel qu'à la première installation.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Resetting LightZone Settings will restore LightZone to its factory settings.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141111T102840Z" creationid="Photonoxx" creationdate="20141111T102840Z">
+        <seg>Remettre à zéro les Paramètres de LightZone restaurera les paramètres par défaut de LightZone.</seg>
       </tuv>
     </tu>
     <tu>

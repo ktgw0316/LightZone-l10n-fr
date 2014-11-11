@@ -318,6 +318,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Check for Update</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141111T151119Z" creationid="Photonoxx" creationdate="20141111T151119Z">
+        <seg>Rechercher une mise à Jour</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Check for Update...</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141111T145137Z" creationid="Photonoxx" creationdate="20141111T145137Z">
@@ -354,6 +362,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141106T105906Z" creationid="Photonoxx" creationdate="20141106T105906Z">
         <seg>Choisir...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Clear</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141111T151031Z" creationid="Photonoxx" creationdate="20141111T151031Z">
+        <seg>Effacer</seg>
       </tuv>
     </tu>
     <tu>
@@ -482,6 +498,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141106T113004Z" creationid="Photonoxx" creationdate="20141106T111505Z">
         <seg>impossible d'accéder au Style "$1"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Couldn't clear the global browser cache.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141111T151102Z" creationid="Photonoxx" creationdate="20141111T151102Z">
+        <seg>Impossible d'effacer le Cache Global du Navigateur.</seg>
       </tuv>
     </tu>
     <tu>
@@ -618,6 +642,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141111T105248Z" creationid="Photonoxx" creationdate="20141111T105248Z">
         <seg>Annuler les modifications de cette images et recommencer</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Display Color Profile</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141111T151251Z" creationid="Photonoxx" creationdate="20141111T151251Z">
+        <seg>Profil Couleur d'Affichage</seg>
       </tuv>
     </tu>
     <tu>
@@ -2174,6 +2206,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>When launched, LightZone can automatically check if a newer version is available for download.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141111T151224Z" creationid="Photonoxx" creationdate="20141111T151224Z">
+        <seg>Au Lancement, LightZone peut rechercher automatiquement si une nouvelle version est disponible au téléchargement.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Window</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141111T144033Z" creationid="Photonoxx" creationdate="20141111T144033Z">
@@ -2226,6 +2266,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141106T135700Z" creationid="Photonoxx" creationdate="20141106T135700Z">
         <seg>Vous pouvez le désactiver dans les préférences de LightZone.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You may have to restore orientations manually using the browser's rotate buttons.)</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141111T151027Z" creationid="Photonoxx" creationdate="20141111T151027Z">
+        <seg>Il se pourrait que vous deviez redéfinir manuellement l'orientation en utilisant le bouton Tourner du Navigateur.)</seg>
       </tuv>
     </tu>
     <tu>

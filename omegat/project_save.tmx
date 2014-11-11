@@ -518,6 +518,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Export</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141111T130630Z" creationid="Photonoxx" creationdate="20141111T130630Z">
+        <seg>Exporter</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Failed to restore from preferences</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141106T131242Z" creationid="Photonoxx" creationdate="20141106T131242Z">
@@ -1034,6 +1042,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141106T114006Z" creationid="Photonoxx" creationdate="20141106T114006Z">
         <seg>Restauration des Préférences</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Revert</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141111T130623Z" creationid="Photonoxx" creationdate="20141111T130623Z">
+        <seg>Revenir</seg>
       </tuv>
     </tu>
     <tu>

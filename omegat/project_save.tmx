@@ -488,8 +488,8 @@
       <tuv lang="EN-US">
         <seg>Common aspect ratios</seg>
       </tuv>
-      <tuv lang="FR" changeid="Photonoxx" changedate="20141114T183825Z" creationid="Photonoxx" creationdate="20141114T183825Z">
-        <seg>Ratios courants</seg>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141114T183922Z" creationid="Photonoxx" creationdate="20141114T183825Z">
+        <seg>Proportions courantes</seg>
       </tuv>
     </tu>
     <tu>
@@ -914,6 +914,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141111T144924Z" creationid="Photonoxx" creationdate="20141111T144924Z">
         <seg>Mode Édition</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Enforce aspect ratio constraints</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141114T184124Z" creationid="Photonoxx" creationdate="20141114T184048Z">
+        <seg>Forcer les Contraintes de Proportions</seg>
       </tuv>
     </tu>
     <tu>
@@ -1930,6 +1938,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141111T103627Z" creationid="Photonoxx" creationdate="20141111T103627Z">
         <seg>Me le rappeler plus tard</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Remove Aspect Ratio Constraints</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141114T184119Z" creationid="Photonoxx" creationdate="20141114T183909Z">
+        <seg>Désactiver les contraintes de Proportions</seg>
       </tuv>
     </tu>
     <tu>

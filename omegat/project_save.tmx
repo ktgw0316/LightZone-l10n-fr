@@ -614,6 +614,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Couldn't move $1 to the Trash.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141114T182754Z" creationid="Photonoxx" creationdate="20141114T182754Z">
+        <seg>Impossible de déplacer $1 vers la poubelle.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Couldn't print</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141106T113143Z" creationid="Photonoxx" creationdate="20141106T111816Z">
@@ -1350,6 +1358,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Move "$1" to the Recycle Bin?</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141114T182817Z" creationid="Photonoxx" creationdate="20141114T182817Z">
+        <seg>Déplacer "$1" vers la Corbeille ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Move "$1" to the Trash?</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141114T182610Z" creationid="Photonoxx" creationdate="20141114T182610Z">
@@ -1358,10 +1374,34 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Move $1 selected images to the Recycle Bin?</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141114T182856Z" creationid="Photonoxx" creationdate="20141114T182856Z">
+        <seg>Déplacer $1 images sélectionnées vers la Corbeille ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Move $1 selected images to the Trash?</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141114T182653Z" creationid="Photonoxx" creationdate="20141114T182646Z">
+        <seg>Déplacer $1 images sélectionnées vers la Poubelle ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Move to Recycle Bin...</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141114T182106Z" creationid="Photonoxx" creationdate="20141114T182106Z">
         <seg>Déplacer vers la corbeille...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Move to Trash</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141114T182727Z" creationid="Photonoxx" creationdate="20141114T182727Z">
+        <seg>Déplacer vers la Poubelle</seg>
       </tuv>
     </tu>
     <tu>

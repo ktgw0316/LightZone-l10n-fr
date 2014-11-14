@@ -6,6 +6,14 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="EN-US">
+        <seg>"$1" already exists as a folder.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141114T183501Z" creationid="Photonoxx" creationdate="20141114T183501Z">
+        <seg>"$1" existe déjà comme un dossier.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>"$1" already exists.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141111T145458Z" creationid="Photonoxx" creationdate="20141111T145458Z">
@@ -470,6 +478,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Continue</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141114T183412Z" creationid="Photonoxx" creationdate="20141114T183412Z">
+        <seg>ContinueR</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Convert</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141111T104537Z" creationid="Photonoxx" creationdate="20141111T104537Z">
@@ -566,6 +582,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Couldn't delete $1.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141114T183408Z" creationid="Photonoxx" creationdate="20141114T183408Z">
+        <seg>Impossible d'effacer $1.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Couldn't delete an older version of "$1"</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141106T113221Z" creationid="Photonoxx" creationdate="20141106T113221Z">
@@ -614,6 +638,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Couldn't move $1 to the Recycle Bin.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141114T183311Z" creationid="Photonoxx" creationdate="20141114T183311Z">
+        <seg>Impossible de déplacer $1 vers la Corbeille.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Couldn't move $1 to the Trash.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141114T182754Z" creationid="Photonoxx" creationdate="20141114T182754Z">
@@ -634,6 +666,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141106T113435Z" creationid="Photonoxx" creationdate="20141106T113435Z">
         <seg>Imppossible de renommer "$1" en "$2"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Couldn't rename "$1" to "$2".</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141114T183519Z" creationid="Photonoxx" creationdate="20141114T183519Z">
+        <seg>Impossible de renommer "$1" en "$2".</seg>
       </tuv>
     </tu>
     <tu>
@@ -1790,6 +1830,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Really delete these files?</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141114T183354Z" creationid="Photonoxx" creationdate="20141114T183354Z">
+        <seg>Voulez-voulez vraiment effacer ces fichiers ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Really delete this file?</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141114T183346Z" creationid="Photonoxx" creationdate="20141114T183346Z">
+        <seg>Voulez-voulez vraiment effacer ce fichier ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Recently used files and directories</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141111T102306Z" creationid="Photonoxx" creationdate="20141111T102118Z">
@@ -1858,6 +1914,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141114T182335Z" creationid="Photonoxx" creationdate="20141114T182335Z">
         <seg>Enlever la Notation et Sélectionner le Suivant</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Rename $1 to:</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141114T183439Z" creationid="Photonoxx" creationdate="20141114T183439Z">
+        <seg>Renommer $1 en :</seg>
       </tuv>
     </tu>
     <tu>

@@ -166,6 +166,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Aperture</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141114T181226Z" creationid="Photonoxx" creationdate="20141114T181226Z">
+        <seg>Ouverture</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Apply Style</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141111T144000Z" creationid="Photonoxx" creationdate="20141111T142958Z">
@@ -322,6 +330,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141106T110005Z" creationid="Photonoxx" creationdate="20141106T105255Z">
         <seg>Annuler</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Capture Time</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141114T181212Z" creationid="Photonoxx" creationdate="20141114T181212Z">
+        <seg>Date de prise de vue</seg>
       </tuv>
     </tu>
     <tu>
@@ -894,6 +910,30 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>File Name</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141114T181157Z" creationid="Photonoxx" creationdate="20141114T181144Z">
+        <seg>Nom de Fichier</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>File Size</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141114T181247Z" creationid="Photonoxx" creationdate="20141114T181247Z">
+        <seg>Taille de Fichier</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>File Type</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141114T181150Z" creationid="Photonoxx" creationdate="20141114T181150Z">
+        <seg>Type de Fichier</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>File description</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141111T145202Z" creationid="Photonoxx" creationdate="20141111T145202Z">
@@ -914,6 +954,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141111T105136Z" creationid="Photonoxx" creationdate="20141111T105136Z">
         <seg>Finir d'éditer et retourner à la Navigation</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Focal Length</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141114T181259Z" creationid="Photonoxx" creationdate="20141114T181259Z">
+        <seg>Longueur Focale</seg>
       </tuv>
     </tu>
     <tu>
@@ -1082,6 +1130,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141111T145049Z" creationid="Photonoxx" creationdate="20141111T145049Z">
         <seg>Centre d'Apprentissage</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Lens</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141114T181252Z" creationid="Photonoxx" creationdate="20141114T181252Z">
+        <seg>Objectif</seg>
       </tuv>
     </tu>
     <tu>
@@ -1258,6 +1314,22 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141111T144040Z" creationid="Photonoxx" creationdate="20141111T144040Z">
         <seg>Réduire</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Modification Time</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141114T181220Z" creationid="Photonoxx" creationdate="20141114T181220Z">
+        <seg>Date de Modification Time</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>My Computer</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141114T181136Z" creationid="Photonoxx" creationdate="20141114T181136Z">
+        <seg>Mon Ordinateur</seg>
       </tuv>
     </tu>
     <tu>
@@ -2118,6 +2190,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Shutter Speed</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141114T181240Z" creationid="Photonoxx" creationdate="20141114T181240Z">
+        <seg>Vitesse d'obturation</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Slide right to increase thumbnail size</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141114T175646Z" creationid="Photonoxx" creationdate="20141114T175646Z">
@@ -2154,6 +2234,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141111T144440Z" creationid="Photonoxx" creationdate="20141111T144440Z">
         <seg>Régions Spline</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Stack</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141114T181124Z" creationid="Photonoxx" creationdate="20141114T181124Z">
+        <seg>Empilement</seg>
       </tuv>
     </tu>
     <tu>

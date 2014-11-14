@@ -1854,6 +1854,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Rotate Right and Select Next</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141114T182012Z" creationid="Photonoxx" creationdate="20141114T182012Z">
+        <seg>Tourner vers la droite et Sélectionner le suivant</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Sampled Colors</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141111T145357Z" creationid="Photonoxx" creationdate="20141111T145357Z">

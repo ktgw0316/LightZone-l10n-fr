@@ -654,6 +654,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Delete</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141114T181004Z" creationid="Photonoxx" creationdate="20141114T181004Z">
+        <seg>Effacer</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Delete Selected Regions</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141111T144523Z" creationid="Photonoxx" creationdate="20141111T144523Z">
@@ -1080,8 +1088,8 @@
       <tuv lang="EN-US">
         <seg>Lift Tools</seg>
       </tuv>
-      <tuv lang="FR" changeid="Photonoxx" changedate="20141114T180756Z" creationid="Photonoxx" creationdate="20141114T180756Z">
-        <seg>Presse Papier de RéglagesTri</seg>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141114T180815Z" creationid="Photonoxx" creationdate="20141114T180756Z">
+        <seg>Presse Papier de Réglages</seg>
       </tuv>
     </tu>
     <tu>
@@ -1918,6 +1926,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Select</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141114T180850Z" creationid="Photonoxx" creationdate="20141114T180850Z">
+        <seg>Sélectionner</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Select an Image</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141106T135309Z" creationid="Photonoxx" creationdate="20141106T135309Z">
@@ -2112,8 +2128,8 @@
       <tuv lang="EN-US">
         <seg>Sort</seg>
       </tuv>
-      <tuv lang="FR" changeid="Photonoxx" changedate="20141114T180804Z" creationid="Photonoxx" creationdate="20141114T180804Z">
-        <seg>ort</seg>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141114T180827Z" creationid="Photonoxx" creationdate="20141114T180804Z">
+        <seg>Tri</seg>
       </tuv>
     </tu>
     <tu>
@@ -2242,6 +2258,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141114T175615Z" creationid="Photonoxx" creationdate="20141114T175615Z">
         <seg>Progression des Vignettes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Thumbnail Size</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141114T180837Z" creationid="Photonoxx" creationdate="20141114T180837Z">
+        <seg>Taille des vignettes</seg>
       </tuv>
     </tu>
     <tu>

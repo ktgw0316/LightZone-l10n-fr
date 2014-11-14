@@ -358,6 +358,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Choose the browser sort criteria</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141114T175707Z" creationid="Photonoxx" creationdate="20141114T175707Z">
+        <seg>Choisir le critère de tri du navigateur</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Choose...</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141106T105906Z" creationid="Photonoxx" creationdate="20141106T105906Z">
@@ -1662,6 +1670,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Rotate 90 degrees clockwise</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141114T175836Z" creationid="Photonoxx" creationdate="20141114T175836Z">
+        <seg>Tourner de 90 degrés sens horaire</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Rotate 90 degrees counter-clockwise</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141114T175818Z" creationid="Photonoxx" creationdate="20141114T175818Z">
+        <seg>Tourner de 90 degrés sens anti-horaire</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Rotate Left</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141111T144638Z" creationid="Photonoxx" creationdate="20141111T144638Z">
@@ -2014,6 +2038,30 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Slide right to increase thumbnail size</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141114T175646Z" creationid="Photonoxx" creationdate="20141114T175646Z">
+        <seg>Déplacer vers la droite pour augmenter la taille des vignettes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Sort Ascending</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141114T175722Z" creationid="Photonoxx" creationdate="20141114T175722Z">
+        <seg>Tri ascendant</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Sort Descending</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141114T175732Z" creationid="Photonoxx" creationdate="20141114T175732Z">
+        <seg>Tri descendant</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Spline Regions</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141111T144440Z" creationid="Photonoxx" creationdate="20141111T144440Z">
@@ -2114,6 +2162,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141111T150820Z" creationid="Photonoxx" creationdate="20141111T150820Z">
         <seg>Cela purgera les Aperçus et les orientations enregistrés par le Navigateur LightZone.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Thumbnail Progress</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141114T175615Z" creationid="Photonoxx" creationdate="20141114T175615Z">
+        <seg>Progression des Vignettes</seg>
       </tuv>
     </tu>
     <tu>

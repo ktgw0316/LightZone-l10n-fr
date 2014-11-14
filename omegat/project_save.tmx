@@ -1078,6 +1078,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Lift Tools</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141114T180756Z" creationid="Photonoxx" creationdate="20141114T180756Z">
+        <seg>Presse Papier de RéglagesTri</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>LightZone Batch Processing</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141106T105313Z" creationid="Photonoxx" creationdate="20141106T105313Z">
@@ -2098,6 +2106,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141114T175646Z" creationid="Photonoxx" creationdate="20141114T175646Z">
         <seg>Déplacer vers la droite pour augmenter la taille des vignettes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Sort</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141114T180804Z" creationid="Photonoxx" creationdate="20141114T180804Z">
+        <seg>ort</seg>
       </tuv>
     </tu>
     <tu>

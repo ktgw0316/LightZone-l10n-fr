@@ -718,6 +718,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Crop</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141114T184251Z" creationid="Photonoxx" creationdate="20141114T184251Z">
+        <seg>RecadrerCrop</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Cut Region</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141111T143408Z" creationid="Photonoxx" creationdate="20141111T143408Z">
@@ -1106,6 +1114,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141111T101440Z" creationid="Photonoxx" creationdate="20141111T101440Z">
         <seg>Aide</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Hide Crop Tool</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141114T184332Z" creationid="Photonoxx" creationdate="20141114T184332Z">
+        <seg>Masquer l'ouitl de Recadrage</seg>
       </tuv>
     </tu>
     <tu>
@@ -2022,6 +2038,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Reset the crop bounds</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141114T184206Z" creationid="Photonoxx" creationdate="20141114T184206Z">
+        <seg>Remettre à zéro le recadrage</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Reset the rotation</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141114T184224Z" creationid="Photonoxx" creationdate="20141114T184224Z">
+        <seg>Remettre à zéro la rotation</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Resetting LightZone Settings means LightZone will work the way it did when it was new.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141111T102437Z" creationid="Photonoxx" creationdate="20141111T102437Z">
@@ -2374,6 +2406,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Show Crop Tool</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141114T184311Z" creationid="Photonoxx" creationdate="20141114T184311Z">
+        <seg>Afficher l'outil de Recadrage</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Show Details</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141111T100650Z" creationid="Photonoxx" creationdate="20141111T100650Z">
@@ -2450,6 +2490,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141114T182039Z" creationid="Photonoxx" creationdate="20141114T182039Z">
         <seg>Montrer dans le Dossier</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Show the Crop Tool</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141114T184426Z" creationid="Photonoxx" creationdate="20141114T184426Z">
+        <seg>Afficher l'outil de Recadrage</seg>
       </tuv>
     </tu>
     <tu>
@@ -2586,6 +2634,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141106T105354Z" creationid="Photonoxx" creationdate="20141106T105354Z">
         <seg>Le style ne peut être appliqué</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Swap width and height</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141114T184245Z" creationid="Photonoxx" creationdate="20141114T184245Z">
+        <seg>Intervertir Hauteur et Largeur</seg>
       </tuv>
     </tu>
     <tu>

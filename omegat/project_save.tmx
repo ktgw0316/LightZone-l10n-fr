@@ -1390,6 +1390,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Move to Recycle Bin</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141114T183057Z" creationid="Photonoxx" creationdate="20141114T183057Z">
+        <seg>Déplacer vers la Corbeille</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Move to Recycle Bin...</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141114T182106Z" creationid="Photonoxx" creationdate="20141114T182106Z">

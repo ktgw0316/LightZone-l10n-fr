@@ -38,6 +38,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>$1 not found</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141114T184719Z" creationid="Photonoxx" creationdate="20141114T184719Z">
+        <seg>$1 non trouvé</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>$1 of $2 files processed, $3 seconds remaining</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141106T105900Z" creationid="Photonoxx" creationdate="20141106T105900Z">
@@ -720,8 +728,8 @@
       <tuv lang="EN-US">
         <seg>Crop</seg>
       </tuv>
-      <tuv lang="FR" changeid="Photonoxx" changedate="20141114T184251Z" creationid="Photonoxx" creationdate="20141114T184251Z">
-        <seg>RecadrerCrop</seg>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141114T184559Z" creationid="Photonoxx" creationdate="20141114T184251Z">
+        <seg>Recadrer</seg>
       </tuv>
     </tu>
     <tu>
@@ -890,6 +898,30 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141106T102908Z" creationid="Photonoxx" creationdate="20141106T102908Z">
         <seg>Dessiner un rectangle sur l'image pour la recadrer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Draw Bezier Regions</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141114T184701Z" creationid="Photonoxx" creationdate="20141114T184701Z">
+        <seg>Dessiner des régions Bézier</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Draw Polygon Regions</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141114T184640Z" creationid="Photonoxx" creationdate="20141114T184640Z">
+        <seg>Dessiner des régions Polygonales</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Draw Spline Regions</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141114T184711Z" creationid="Photonoxx" creationdate="20141114T184711Z">
+        <seg>Dessiner des régions Spline</seg>
       </tuv>
     </tu>
     <tu>
@@ -1138,6 +1170,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141111T131030Z" creationid="Photonoxx" creationdate="20141111T131030Z">
         <seg>Masquer les Régions</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Hide the Crop Tool</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141114T184442Z" creationid="Photonoxx" creationdate="20141114T184442Z">
+        <seg>Masquer l'ouitl de Recadrage</seg>
       </tuv>
     </tu>
     <tu>
@@ -2030,10 +2070,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Reset Crop</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141114T184612Z" creationid="Photonoxx" creationdate="20141114T184612Z">
+        <seg>Remettre à zéro le Recadrage</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Reset LightZone Settings</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141111T102941Z" creationid="Photonoxx" creationdate="20141111T102941Z">
         <seg>Remise à zéro des paramètres de LightZone</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Reset Rotate</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141114T184555Z" creationid="Photonoxx" creationdate="20141114T184555Z">
+        <seg>Remettre à zéro la Rotation</seg>
       </tuv>
     </tu>
     <tu>
@@ -2098,6 +2154,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141111T142559Z" creationid="Photonoxx" creationdate="20141111T142559Z">
         <seg>Revenirt...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Rotate</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141114T184504Z" creationid="Photonoxx" creationdate="20141114T184504Z">
+        <seg>Tourner</seg>
       </tuv>
     </tu>
     <tu>

@@ -1422,6 +1422,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Orient</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141114T180313Z" creationid="Photonoxx" creationdate="20141114T180313Z">
+        <seg>Orientation</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Output Size:</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141106T110552Z" creationid="Photonoxx" creationdate="20141106T110552Z">
@@ -1550,10 +1558,18 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Rate</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141114T180317Z" creationid="Photonoxx" creationdate="20141114T180317Z">
+        <seg>Notation</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Rate the selected image</seg>
       </tuv>
-      <tuv lang="FR" changeid="Photonoxx" changedate="20141114T180143Z" creationid="Photonoxx" creationdate="20141114T180143Z">
-        <seg>Noter lRate the selected image</seg>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141114T180206Z" creationid="Photonoxx" creationdate="20141114T180143Z">
+        <seg>Noter la/les images sélectionnée(s)</seg>
       </tuv>
     </tu>
     <tu>
@@ -1898,6 +1914,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141106T135309Z" creationid="Photonoxx" creationdate="20141106T135309Z">
         <seg>Sélectionner une image</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Select only most recent version from each stack</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141114T180303Z" creationid="Photonoxx" creationdate="20141114T180303Z">
+        <seg>Choisir uniquement la version la plus récente de chaque Ensemble</seg>
       </tuv>
     </tu>
     <tu>

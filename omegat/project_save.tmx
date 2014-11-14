@@ -654,6 +654,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Display the path of the current folder</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141114T175539Z" creationid="Photonoxx" creationdate="20141114T175539Z">
+        <seg>Montrer le chemin du dossier actuel</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Do you want to replace it?</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141111T145514Z" creationid="Photonoxx" creationdate="20141111T145514Z">
@@ -882,6 +890,22 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141111T103739Z" creationid="Photonoxx" creationdate="20141111T103739Z">
         <seg>Dossiers</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Go back to previously selected folder</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141114T175344Z" creationid="Photonoxx" creationdate="20141114T175344Z">
+        <seg>Retourner au dossier prédemment sélectionné</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Go forward to recently selected folder</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141114T175518Z" creationid="Photonoxx" creationdate="20141114T175518Z">
+        <seg>Aller vers le dossier récemment sélectionné</seg>
       </tuv>
     </tu>
     <tu>

@@ -1350,6 +1350,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Move "$1" to the Trash?</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141114T182610Z" creationid="Photonoxx" creationdate="20141114T182610Z">
+        <seg>Déplacer "$1" vers la Poubelle ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Move to Recycle Bin...</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141114T182106Z" creationid="Photonoxx" creationdate="20141114T182106Z">
@@ -1798,6 +1806,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Remove Rating and Select Next</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141114T182335Z" creationid="Photonoxx" creationdate="20141114T182335Z">
+        <seg>Enlever la Notation et Sélectionner le Suivant</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Rename...</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141114T182045Z" creationid="Photonoxx" creationdate="20141114T182045Z">
@@ -2098,6 +2114,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141114T180850Z" creationid="Photonoxx" creationdate="20141114T180850Z">
         <seg>Sélectionner</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Select a Folder</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141114T182354Z" creationid="Photonoxx" creationdate="20141114T182354Z">
+        <seg>Sélectionner un dossier</seg>
       </tuv>
     </tu>
     <tu>

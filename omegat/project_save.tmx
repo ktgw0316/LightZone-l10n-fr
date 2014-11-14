@@ -518,6 +518,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Copy Tools</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141114T181605Z" creationid="Photonoxx" creationdate="20141114T181548Z">
+        <seg>Copier le Développement</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Copy the selected image to another folder</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141111T104248Z" creationid="Photonoxx" creationdate="20141111T104248Z">
@@ -1546,6 +1554,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141111T143717Z" creationid="Photonoxx" creationdate="20141111T143717Z">
         <seg>Coller et lier la Région</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Paste Tools...</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141114T181601Z" creationid="Photonoxx" creationdate="20141114T181601Z">
+        <seg>Coller le Développement...</seg>
       </tuv>
     </tu>
     <tu>

@@ -182,6 +182,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Apply toolstack to the selected image</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141114T180039Z" creationid="Photonoxx" creationdate="20141114T180039Z">
+        <seg>Appliquer la Pile d'Outils à l'image sélectionnée</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Are you sure you want to clear the global browser cache?</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141111T150658Z" creationid="Photonoxx" creationdate="20141111T150658Z">
@@ -502,6 +510,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Copy toolstack to clipboard from selected image</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141114T180012Z" creationid="Photonoxx" creationdate="20141114T180012Z">
+        <seg>Copier la Pile d'Outils depuis l'image sélectionnée</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Couldn't access the "$1" Style</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141106T113004Z" creationid="Photonoxx" creationdate="20141106T111505Z">
@@ -642,6 +658,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141111T144523Z" creationid="Photonoxx" creationdate="20141111T144523Z">
         <seg>Effacer la Régions sélectionnée</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Delete the selected image</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141114T180148Z" creationid="Photonoxx" creationdate="20141114T180055Z">
+        <seg>Effacer la/les image(s) sélectionnée(s)</seg>
       </tuv>
     </tu>
     <tu>
@@ -1522,6 +1546,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141106T113650Z" creationid="Photonoxx" creationdate="20141106T113650Z">
         <seg>QuitterQuit</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Rate the selected image</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141114T180143Z" creationid="Photonoxx" creationdate="20141114T180143Z">
+        <seg>Noter lRate the selected image</seg>
       </tuv>
     </tu>
     <tu>

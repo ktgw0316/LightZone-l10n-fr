@@ -702,6 +702,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Delete...</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141114T182136Z" creationid="Photonoxx" creationdate="20141114T182136Z">
+        <seg>Effacer...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Discard changes to this image and start over</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141111T105248Z" creationid="Photonoxx" creationdate="20141111T105248Z">
@@ -1022,6 +1030,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Hide Image Types</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141114T182227Z" creationid="Photonoxx" creationdate="20141114T182227Z">
+        <seg>Masquer le Type d'Image</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Hide Regions</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141111T131030Z" creationid="Photonoxx" creationdate="20141111T131030Z">
@@ -1330,6 +1346,22 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141114T181220Z" creationid="Photonoxx" creationdate="20141114T181220Z">
         <seg>Date de Modification Time</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Move to Recycle Bin...</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141114T182106Z" creationid="Photonoxx" creationdate="20141114T182106Z">
+        <seg>Déplacer vers la corbeille...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Move to Trash...</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141114T182131Z" creationid="Photonoxx" creationdate="20141114T182131Z">
+        <seg>Déplacer vers la poubelle...</seg>
       </tuv>
     </tu>
     <tu>
@@ -1670,6 +1702,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Rate $1</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141114T182232Z" creationid="Photonoxx" creationdate="20141114T182232Z">
+        <seg>Noter $1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Rate $1 and Select Next</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141114T182257Z" creationid="Photonoxx" creationdate="20141114T182257Z">
+        <seg>Noter $1 et Sélectionner le Suivant</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Rate the selected image</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141114T180206Z" creationid="Photonoxx" creationdate="20141114T180143Z">
@@ -1718,6 +1766,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Refresh</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141114T182023Z" creationid="Photonoxx" creationdate="20141114T182023Z">
+        <seg>Rafraîchir</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Regions</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141111T144318Z" creationid="Photonoxx" creationdate="20141111T144318Z">
@@ -1730,6 +1786,22 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141111T103627Z" creationid="Photonoxx" creationdate="20141111T103627Z">
         <seg>Me le rappeler plus tard</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Remove Rating</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141114T182310Z" creationid="Photonoxx" creationdate="20141114T182310Z">
+        <seg>Enlever la Notation</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Rename...</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141114T182045Z" creationid="Photonoxx" creationdate="20141114T182045Z">
+        <seg>Renommer...</seg>
       </tuv>
     </tu>
     <tu>
@@ -2118,6 +2190,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Show Image Types</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141114T182204Z" creationid="Photonoxx" creationdate="20141114T182204Z">
+        <seg>Afficher le Type d'Image</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Show LightZone Help</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141111T104158Z" creationid="Photonoxx" creationdate="20141111T104158Z">
@@ -2162,6 +2242,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141111T143246Z" creationid="Photonoxx" creationdate="20141111T143246Z">
         <seg>Montrer dans Finder</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Show in Folder</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141114T182039Z" creationid="Photonoxx" creationdate="20141114T182039Z">
+        <seg>Montrer dans le Dossier</seg>
       </tuv>
     </tu>
     <tu>

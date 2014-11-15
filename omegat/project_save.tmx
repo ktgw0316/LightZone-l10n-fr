@@ -4022,6 +4022,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Select Software Update to get the latest Java from Apple.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141115T104706Z" creationid="Photonoxx" creationdate="20141115T104706Z">
+        <seg>Choisir Mise à jour Logiciel pour obtenir la dernière version de Java d'Apple.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Select a Folder</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141114T182354Z" creationid="Photonoxx" creationdate="20141114T182354Z">

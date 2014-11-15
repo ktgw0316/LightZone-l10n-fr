@@ -574,6 +574,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Cancel neutral color selection</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141115T095350Z" creationid="Photonoxx" creationdate="20141115T095350Z">
+        <seg>Annuler la sélection couleur neutre</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Cannot redo</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141114T184912Z" creationid="Photonoxx" creationdate="20141114T184912Z">
@@ -3602,6 +3610,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141114T182354Z" creationid="Photonoxx" creationdate="20141114T182354Z">
         <seg>Sélectionner un dossier</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Select a neutral color in the photo</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141115T095310Z" creationid="Photonoxx" creationdate="20141115T095310Z">
+        <seg>Choisir une couleur neutre dans la photo</seg>
       </tuv>
     </tu>
     <tu>

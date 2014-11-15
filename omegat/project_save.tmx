@@ -1782,6 +1782,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Open image from dialog</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141115T074902Z" creationid="Photonoxx" creationdate="20141115T074902Z">
+        <seg>Ouvrir une image avec le sélecteur de fichiers</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Open...</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141111T142553Z" creationid="Photonoxx" creationdate="20141111T142553Z">
@@ -2162,6 +2170,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141114T184224Z" creationid="Photonoxx" creationdate="20141114T184224Z">
         <seg>Remettre à zéro la rotation</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Reset...</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141115T075009Z" creationid="Photonoxx" creationdate="20141115T075009Z">
+        <seg>Remettre à zéro...</seg>
       </tuv>
     </tu>
     <tu>

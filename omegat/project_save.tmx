@@ -1182,6 +1182,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Disable the hue selection</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141115T093204Z" creationid="Photonoxx" creationdate="20141115T093204Z">
+        <seg>Désactiver le filtre de teinte</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Disable the luminosity selection</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141115T093358Z" creationid="Photonoxx" creationdate="20141115T093358Z">
+        <seg>Désactiver le Filtre de luminosité</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Discard changes to this image and start over</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141111T105248Z" creationid="Photonoxx" creationdate="20141111T105248Z">
@@ -1386,6 +1402,22 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141115T092817Z" creationid="Photonoxx" creationdate="20141115T092817Z">
         <seg>Activer la Sélection Couleur</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Enable the hue selection</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141115T093142Z" creationid="Photonoxx" creationdate="20141115T093142Z">
+        <seg>Activer le filtre de teinte</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Enable the luminosity selection</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141115T093342Z" creationid="Photonoxx" creationdate="20141115T093342Z">
+        <seg>Activer le Filtre de luminosité</seg>
       </tuv>
     </tu>
     <tu>
@@ -3418,6 +3450,22 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141114T180303Z" creationid="Photonoxx" creationdate="20141114T180303Z">
         <seg>Choisir uniquement la version la plus récente de chaque Ensemble</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Select the hue range</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141115T093318Z" creationid="Photonoxx" creationdate="20141115T093318Z">
+        <seg>Choisir la Gamme de teinte</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Select the luminosity range</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141115T093418Z" creationid="Photonoxx" creationdate="20141115T093418Z">
+        <seg>Choisir la Gamme de luminosité</seg>
       </tuv>
     </tu>
     <tu>

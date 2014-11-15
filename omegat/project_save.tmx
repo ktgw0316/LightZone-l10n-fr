@@ -326,6 +326,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Apply this tool to a selected color</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141115T092945Z" creationid="Photonoxx" creationdate="20141115T092945Z">
+        <seg>Appliquer cet Outil à une Couleur sélectionnée</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Apply toolstack to the selected image</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141114T180039Z" creationid="Photonoxx" creationdate="20141114T180039Z">
@@ -526,6 +534,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Cancel color selection</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141115T093006Z" creationid="Photonoxx" creationdate="20141115T093006Z">
+        <seg>Annuler la sélection couleur</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Cannot redo</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141114T184912Z" creationid="Photonoxx" creationdate="20141114T184912Z">
@@ -690,6 +706,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141111T104919Z" creationid="Photonoxx" creationdate="20141111T104919Z">
         <seg>Replier les piles d'images</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Collapse this tool</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141115T092855Z" creationid="Photonoxx" creationdate="20141115T092855Z">
+        <seg>Replier cet Outil</seg>
       </tuv>
     </tu>
     <tu>
@@ -1454,6 +1478,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Expand this tool</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141115T092846Z" creationid="Photonoxx" creationdate="20141115T092846Z">
+        <seg>Déplier cet Outil</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Export</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141111T130630Z" creationid="Photonoxx" creationdate="20141111T130630Z">
@@ -1730,6 +1762,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141115T085241Z" creationid="Photonoxx" creationdate="20141115T085241Z">
         <seg>Masquer l'Outil de Rotation</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Hide extra tool controls</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141115T093119Z" creationid="Photonoxx" creationdate="20141115T093119Z">
+        <seg>Masquer les contrôles supplémentaires</seg>
       </tuv>
     </tu>
     <tu>
@@ -3566,6 +3606,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Show extra tool controls</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141115T093109Z" creationid="Photonoxx" creationdate="20141115T093109Z">
+        <seg>Afficher les contrôles supplémentaires</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Show in Explorer</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141111T143129Z" creationid="Photonoxx" creationdate="20141111T143129Z">
@@ -3618,6 +3666,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141115T085158Z" creationid="Photonoxx" creationdate="20141115T085158Z">
         <seg>Afficher l'Outil de Rotation</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Show the help for this tool</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141115T092908Z" creationid="Photonoxx" creationdate="20141115T092908Z">
+        <seg>Afficher l'aide pour cet Outil</seg>
       </tuv>
     </tu>
     <tu>

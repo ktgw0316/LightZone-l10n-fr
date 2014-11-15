@@ -1198,6 +1198,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>General</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141115T083025Z" creationid="Photonoxx" creationdate="20141115T083025Z">
+        <seg>Général</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Go back to previously selected folder</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141114T175344Z" creationid="Photonoxx" creationdate="20141114T175344Z">
@@ -2438,6 +2446,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Save LightZone files as:</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141115T082912Z" creationid="Photonoxx" creationdate="20141115T082912Z">
+        <seg>Enregistrer les fichiers LightZone comme :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Save Style</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141111T101228Z" creationid="Photonoxx" creationdate="20141111T101228Z">
@@ -2754,6 +2770,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141111T145932Z" creationid="Photonoxx" creationdate="20141111T145932Z">
         <seg>Montrer le centre d'Apprentissage Vidéo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Show and hide the titled borders around buttons in the LightZone toolbars.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141115T082807Z" creationid="Photonoxx" creationdate="20141115T082807Z">
+        <seg>Affiche ou Masque les légendes des icônes dans les barres d'outils de LightZone.</seg>
       </tuv>
     </tu>
     <tu>

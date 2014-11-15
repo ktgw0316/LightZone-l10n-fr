@@ -558,6 +558,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Color Mask</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141115T084646Z" creationid="Photonoxx" creationdate="20141115T084646Z">
+        <seg>Masque de Couleur</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Color Selection Mask</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141115T084814Z" creationid="Photonoxx" creationdate="20141115T084814Z">
+        <seg>Masque de la Sélection de Couleur</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Common aspect ratios</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141114T183922Z" creationid="Photonoxx" creationdate="20141114T183825Z">
@@ -1302,6 +1318,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Hide Previews</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141115T084610Z" creationid="Photonoxx" creationdate="20141115T084610Z">
+        <seg>Masquer les Aperçus</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Hide Regions</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141111T131030Z" creationid="Photonoxx" creationdate="20141111T131030Z">
@@ -1314,6 +1338,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141114T184442Z" creationid="Photonoxx" creationdate="20141114T184442Z">
         <seg>Masquer l'ouitl de Recadrage</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Histogram</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141115T084650Z" creationid="Photonoxx" creationdate="20141115T084650Z">
+        <seg>Histogramme</seg>
       </tuv>
     </tu>
     <tu>
@@ -2022,6 +2054,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Pixel Sampler</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141115T084858Z" creationid="Photonoxx" creationdate="20141115T084858Z">
+        <seg>Informations Pixel</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Please connect, then try again.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141111T103551Z" creationid="Photonoxx" creationdate="20141111T103551Z">
@@ -2466,6 +2506,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141111T145357Z" creationid="Photonoxx" creationdate="20141111T145357Z">
         <seg>Couleurs Échantillonnées</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Sampler</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141115T084844Z" creationid="Photonoxx" creationdate="20141115T084726Z">
+        <seg>Pipette</seg>
       </tuv>
     </tu>
     <tu>
@@ -3418,6 +3466,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141111T103451Z" creationid="Photonoxx" creationdate="20141111T103451Z">
         <seg>Votre ordinateur doit être connecté à internet pour recherche une mise à jour.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Zone Mapper Zones</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141115T084741Z" creationid="Photonoxx" creationdate="20141115T084741Z">
+        <seg>Zone du Zone Mapper</seg>
       </tuv>
     </tu>
     <tu>

@@ -1414,6 +1414,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>LightZone Settings Info</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141115T080059Z" creationid="Photonoxx" creationdate="20141115T080059Z">
+        <seg>Informations des Paramètres LightZone</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>LightZone Settings Reset</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141115T080144Z" creationid="Photonoxx" creationdate="20141115T080144Z">
+        <seg>Remise à zéro des Paramètres LightZone</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>LightZone Settings couldn't be reset</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141111T103042Z" creationid="Photonoxx" creationdate="20141111T103042Z">
@@ -1502,6 +1518,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>LightZone must now quit.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141115T080131Z" creationid="Photonoxx" creationdate="20141115T080131Z">
+        <seg>LightZone doit quitter maintenant.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Loading Classes</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141111T100002Z" creationid="Photonoxx" creationdate="20141111T100002Z">
@@ -1530,6 +1554,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141111T143014Z" creationid="Photonoxx" creationdate="20141111T143014Z">
         <seg>Gérer les Styles...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Memory Limit</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141115T080201Z" creationid="Photonoxx" creationdate="20141115T080201Z">
+        <seg>Limite Mémoire</seg>
       </tuv>
     </tu>
     <tu>
@@ -1952,8 +1984,8 @@
       <tuv lang="EN-US">
         <seg>Quit</seg>
       </tuv>
-      <tuv lang="FR" changeid="Photonoxx" changedate="20141106T113650Z" creationid="Photonoxx" creationdate="20141106T113650Z">
-        <seg>QuitterQuit</seg>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141115T080149Z" creationid="Photonoxx" creationdate="20141106T113650Z">
+        <seg>Quitter</seg>
       </tuv>
     </tu>
     <tu>
@@ -2546,6 +2578,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141111T151341Z" creationid="Photonoxx" creationdate="20141111T151341Z">
         <seg>Définissez le Profil Couleur de votre périphérique d'Affichage.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Sets the upper limit on the amount of memory that LightZone will use.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141115T080243Z" creationid="Photonoxx" creationdate="20141115T080243Z">
+        <seg>Régler la limite maximale de mémoire que LightZone utilisera</seg>
       </tuv>
     </tu>
     <tu>

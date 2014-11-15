@@ -368,8 +368,8 @@
       <tuv lang="EN-US">
         <seg>As Shot</seg>
       </tuv>
-      <tuv lang="FR" changeid="Photonoxx" changedate="20141115T094642Z" creationid="Photonoxx" creationdate="20141115T094602Z">
-        <seg>Appareil Photo </seg>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141115T095050Z" creationid="Photonoxx" creationdate="20141115T094602Z">
+        <seg>Comme la Photo </seg>
       </tuv>
     </tu>
     <tu>
@@ -2750,6 +2750,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Pick White Point</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141115T095159Z" creationid="Photonoxx" creationdate="20141115T095159Z">
+        <seg>Choisir le Point Blanc</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Pick a folder that has some images in it.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141106T103105Z" creationid="Photonoxx" creationdate="20141106T103105Z">
@@ -4482,6 +4490,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141115T094105Z" creationid="Photonoxx" creationdate="20141115T094105Z">
         <seg>Balance des Blancs</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>White Point Change</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141115T095141Z" creationid="Photonoxx" creationdate="20141115T095141Z">
+        <seg>Change le Point Blanc</seg>
       </tuv>
     </tu>
     <tu>

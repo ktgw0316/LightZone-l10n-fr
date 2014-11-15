@@ -78,6 +78,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>...and $1 more</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141115T085518Z" creationid="Photonoxx" creationdate="20141115T085518Z">
+        <seg>...et $1 de plus</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>1 file to process</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141106T110046Z" creationid="Photonoxx" creationdate="20141106T105746Z">
@@ -838,6 +846,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Crop Mode</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141115T085601Z" creationid="Photonoxx" creationdate="20141115T085601Z">
+        <seg>Mode Recadrage</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Cut Region</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141111T143408Z" creationid="Photonoxx" creationdate="20141111T143408Z">
@@ -1242,6 +1258,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141115T085335Z" creationid="Photonoxx" creationdate="20141115T085335Z">
         <seg>Adapter l'image à l'écran</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Fit within 1024 x 1024</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141115T085759Z" creationid="Photonoxx" creationdate="20141115T085659Z">
+        <seg>Adapter en 1024 x 1024</seg>
       </tuv>
     </tu>
     <tu>
@@ -2310,6 +2334,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Region Mode</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141115T085617Z" creationid="Photonoxx" creationdate="20141115T085617Z">
+        <seg>Mode Région</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Regions</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141111T144318Z" creationid="Photonoxx" creationdate="20141111T144318Z">
@@ -2546,6 +2578,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141115T083952Z" creationid="Photonoxx" creationdate="20141115T083952Z">
         <seg>Tourner vers la gauche et Sélectionner le suivant</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Rotate Mode</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141115T085610Z" creationid="Photonoxx" creationdate="20141115T085610Z">
+        <seg>Mode Rotation</seg>
       </tuv>
     </tu>
     <tu>
@@ -3138,6 +3178,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141114T181124Z" creationid="Photonoxx" creationdate="20141114T181124Z">
         <seg>Empilement</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Standard Cursor Mode</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141115T085552Z" creationid="Photonoxx" creationdate="20141115T085552Z">
+        <seg>Mode Pointeur Standard</seg>
       </tuv>
     </tu>
     <tu>

@@ -1310,6 +1310,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Interactive Rendering</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141115T081257Z" creationid="Photonoxx" creationdate="20141115T081257Z">
+        <seg>Rendu Interactif</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Internal Error</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141111T100842Z" creationid="Photonoxx" creationdate="20141111T100842Z">
@@ -1922,6 +1930,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141106T103105Z" creationid="Photonoxx" creationdate="20141106T103105Z">
         <seg>Choisissez un dossier contenant des images.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Pick a new scratch folder</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141115T081242Z" creationid="Photonoxx" creationdate="20141115T081242Z">
+        <seg>Désigner un nouveau dossier temporaire</seg>
       </tuv>
     </tu>
     <tu>

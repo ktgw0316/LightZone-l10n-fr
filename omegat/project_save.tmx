@@ -1238,6 +1238,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Delete Point</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141115T102630Z" creationid="Photonoxx" creationdate="20141115T102630Z">
+        <seg>Supprimer le Point</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Delete Region</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141115T102639Z" creationid="Photonoxx" creationdate="20141115T102639Z">
+        <seg>Supprimer la Région</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Delete Selected Regions</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141111T144523Z" creationid="Photonoxx" creationdate="20141111T144523Z">
@@ -1870,6 +1886,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Height</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141115T102539Z" creationid="Photonoxx" creationdate="20141115T102539Z">
+        <seg>Hauteur</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Help</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141111T101440Z" creationid="Photonoxx" creationdate="20141111T101440Z">
@@ -1890,6 +1914,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141114T182227Z" creationid="Photonoxx" creationdate="20141114T182227Z">
         <seg>Masquer le Type d'Image</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Hide Inner Region</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141115T102611Z" creationid="Photonoxx" creationdate="20141115T102611Z">
+        <seg>Masquer la région intérieure</seg>
       </tuv>
     </tu>
     <tu>
@@ -3638,6 +3670,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Scale</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141115T102535Z" creationid="Photonoxx" creationdate="20141115T102535Z">
+        <seg>Échelle</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Scale to Fit</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141115T102512Z" creationid="Photonoxx" creationdate="20141115T102512Z">
+        <seg>Adapter à l'image</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Scaled Print Size</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141115T102300Z" creationid="Photonoxx" creationdate="20141115T102300Z">
@@ -3898,6 +3946,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141114T182204Z" creationid="Photonoxx" creationdate="20141114T182204Z">
         <seg>Afficher le Type d'Image</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Show Inner Region</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141115T102619Z" creationid="Photonoxx" creationdate="20141115T102619Z">
+        <seg>Afficher la région intérieure</seg>
       </tuv>
     </tu>
     <tu>
@@ -4666,6 +4722,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141115T095141Z" creationid="Photonoxx" creationdate="20141115T095141Z">
         <seg>Change le Point Blanc</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Width</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141115T102543Z" creationid="Photonoxx" creationdate="20141115T102543Z">
+        <seg>Largeur</seg>
       </tuv>
     </tu>
     <tu>

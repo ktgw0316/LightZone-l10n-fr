@@ -190,6 +190,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Adjust the color range</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141115T091517Z" creationid="Photonoxx" creationdate="20141115T091517Z">
+        <seg>Ajuster la Gamme de couleur</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Advanced Options</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141115T090019Z" creationid="Photonoxx" creationdate="20141115T090019Z">
@@ -386,6 +394,22 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141115T085938Z" creationid="Photonoxx" creationdate="20141115T085938Z">
         <seg>Bits/Canal</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Blend</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141115T091322Z" creationid="Photonoxx" creationdate="20141115T091322Z">
+        <seg>Fusion</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Blend Mode Change</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141115T091339Z" creationid="Photonoxx" creationdate="20141115T091339Z">
+        <seg>Change le mode de Fusion</seg>
       </tuv>
     </tu>
     <tu>
@@ -2270,6 +2294,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Opacity Change</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141115T091558Z" creationid="Photonoxx" creationdate="20141115T091558Z">
+        <seg>Change l'Opacité</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Open</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141106T110651Z" creationid="Photonoxx" creationdate="20141106T110651Z">
@@ -2538,6 +2570,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141115T090927Z" creationid="Photonoxx" creationdate="20141115T090927Z">
         <seg>Rayon</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Range</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141115T091500Z" creationid="Photonoxx" creationdate="20141115T091500Z">
+        <seg>Gamme</seg>
       </tuv>
     </tu>
     <tu>
@@ -3210,6 +3250,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141111T143039Z" creationid="Photonoxx" creationdate="20141111T143039Z">
         <seg>Envoyer...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Set opacity</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141115T091529Z" creationid="Photonoxx" creationdate="20141115T091529Z">
+        <seg>Définir l'opacité</seg>
       </tuv>
     </tu>
     <tu>

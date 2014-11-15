@@ -1432,8 +1432,8 @@
       <tuv lang="EN-US">
         <seg>LightZone Settings remember what was going on the last time you used LightZone: your recently used files and folders; recent window positions and sizes; and so on.</seg>
       </tuv>
-      <tuv lang="FR" changeid="Photonoxx" changedate="20141115T075154Z" creationid="Photonoxx" creationdate="20141115T075154Z">
-        <seg>Les Paramètres de LightZone Settings remember what was going on the last time you used LightZone: your recently used files and folders; recent window positions and sizes; and so on.</seg>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141115T075631Z" creationid="Photonoxx" creationdate="20141115T075154Z">
+        <seg>Les paramètres de LightZone se souviennent de la situation la dernière fois que vous avez utilisé LightZone : Vos Fichiers et Dossiers Récents; La Position et taille des Fenêtres; etc.</seg>
       </tuv>
     </tu>
     <tu>

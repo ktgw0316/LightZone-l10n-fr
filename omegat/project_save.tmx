@@ -2502,6 +2502,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>LightZone has examined /proc/cpuinfo on this computer and found "$1", with no SSE2 flag set.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141115T104335Z" creationid="Photonoxx" creationdate="20141115T104335Z">
+        <seg>LightZone a examiné /proc/cpuinfo sur cet ordinateur et a trouvé "$1", sans drapeau SSE2 défini.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>LightZone has run out of memory and will now shut down.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141111T100638Z" creationid="Photonoxx" creationdate="20141111T100638Z">
@@ -2730,6 +2738,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141111T142549Z" creationid="Photonoxx" creationdate="20141111T142549Z">
         <seg>Nouvelle fenêtre</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Newer Java required</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141115T104606Z" creationid="Photonoxx" creationdate="20141115T104606Z">
+        <seg>Une nouvelle version de Java est requise</seg>
       </tuv>
     </tu>
     <tu>
@@ -4750,6 +4766,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>To learn more about SSE2 and the CPUs that support it, see</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141115T104510Z" creationid="Photonoxx" creationdate="20141115T104510Z">
+        <seg>Pour en savoir plus sur le SSE2 et les processeur qui le supportent, voir</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>To save work, the browser saves previews in a special cache folder.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141111T150308Z" creationid="Photonoxx" creationdate="20141111T150308Z">
@@ -5178,6 +5202,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141106T102255Z">
         <seg>fr-FR</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>http://en.wikipedia.org/wiki/SSE2#CPUs_supporting_SSE2</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141115T104519Z" creationid="Photonoxx" creationdate="20141115T104519Z">
+        <seg>http://en.wikipedia.org/wiki/SSE2#CPU_support</seg>
       </tuv>
     </tu>
     <tu>

@@ -214,6 +214,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>After the reset, LightZone must quit.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141115T095920Z" creationid="Photonoxx" creationdate="20141115T095920Z">
+        <seg>Après la remise à zéro, LightZone doit quitter.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>All</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141111T103134Z" creationid="Photonoxx" creationdate="20141111T103134Z">
@@ -3006,6 +3014,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Recently used files and folders</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141115T100034Z" creationid="Photonoxx" creationdate="20141115T100034Z">
+        <seg>Les Fichiers et Dossiers Récemment utilisés</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Recently used settings for tools</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141115T100018Z" creationid="Photonoxx" creationdate="20141115T100018Z">
+        <seg>Les Réglages Récemment utilisés pour les outils</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Red</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141115T090515Z" creationid="Photonoxx" creationdate="20141115T090515Z">
@@ -3258,6 +3282,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141111T102840Z" creationid="Photonoxx" creationdate="20141111T102840Z">
         <seg>Remettre à zéro les Paramètres de LightZone restaurera les paramètres par défaut de LightZone.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Resetting these can help fix some problems, but loses your customizations.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141115T095809Z" creationid="Photonoxx" creationdate="20141115T095809Z">
+        <seg>Remettre à zéro peut aider à résoudre certains problèmes, mais perd vos personnalisations.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4226,6 +4258,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141115T081030Z" creationid="Photonoxx" creationdate="20141115T081030Z">
         <seg>C'est le Dossier où LightZone enregistre temporairement des données pendant que vous éditez vos photos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This reset will restore LightZone to its factory settings.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141115T095854Z" creationid="Photonoxx" creationdate="20141115T095854Z">
+        <seg>Cette Remise à zéro restaure les paramètres d'usine de LightZone.</seg>
       </tuv>
     </tu>
     <tu>

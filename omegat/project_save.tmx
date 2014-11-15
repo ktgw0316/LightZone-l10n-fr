@@ -382,6 +382,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Blue</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141115T090527Z" creationid="Photonoxx" creationdate="20141115T090527Z">
+        <seg>Bleu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Blues</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141111T145437Z" creationid="Photonoxx" creationdate="20141111T145437Z">
@@ -610,6 +618,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141111T104919Z" creationid="Photonoxx" creationdate="20141111T104919Z">
         <seg>Replier les piles d'images</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Color Change</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141115T090611Z" creationid="Photonoxx" creationdate="20141115T090611Z">
+        <seg>Modifier Couleur</seg>
       </tuv>
     </tu>
     <tu>
@@ -1438,6 +1454,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Green</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141115T090523Z" creationid="Photonoxx" creationdate="20141115T090523Z">
+        <seg>Vert</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Greens</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141111T145421Z" creationid="Photonoxx" creationdate="20141111T145421Z">
@@ -2238,6 +2262,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Pick Color</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141115T090510Z" creationid="Photonoxx" creationdate="20141115T090510Z">
+        <seg>Choisir Couleur</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Pick a folder that has some images in it.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141106T103105Z" creationid="Photonoxx" creationdate="20141106T103105Z">
@@ -2442,6 +2474,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141111T102306Z" creationid="Photonoxx" creationdate="20141111T102118Z">
         <seg>Les Fichiers et dossiers récemment utilisés</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Red</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141115T090515Z" creationid="Photonoxx" creationdate="20141115T090515Z">
+        <seg>Rouge</seg>
       </tuv>
     </tu>
     <tu>

@@ -2742,6 +2742,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Show Tool Titles</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141115T082445Z" creationid="Photonoxx" creationdate="20141115T082445Z">
+        <seg>Afficher les légendes des Outils</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Show Video Learning Center</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141111T145932Z" creationid="Photonoxx" creationdate="20141111T145932Z">
@@ -3194,6 +3202,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141115T081652Z" creationid="Photonoxx" creationdate="20141115T081652Z">
         <seg>Quand les Régions sont validées</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When checked, using LightZone as the external editor for another application will cause LightZone to save your photo directly back to the other application when you select File &gt; Save.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141115T082154Z" creationid="Photonoxx" creationdate="20141115T082154Z">
+        <seg>Si coché, utiliser LightZone comme un éditeur externe pour une autre application induira que LightZone sauvera directement vos photos vers l'autre application en sélectionnant Fchier &gt; Enregistrer.</seg>
       </tuv>
     </tu>
     <tu>

@@ -414,6 +414,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Blending Mode</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141115T091629Z" creationid="Photonoxx" creationdate="20141115T091629Z">
+        <seg>Mode de Fusion</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Blue</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141115T090527Z" creationid="Photonoxx" creationdate="20141115T090527Z">
@@ -698,6 +706,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141115T090736Z" creationid="Photonoxx" creationdate="20141115T090736Z">
         <seg>Rayon Couleur</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Color Selection</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141115T091826Z" creationid="Photonoxx" creationdate="20141115T091826Z">
+        <seg>Sélection Couleur</seg>
       </tuv>
     </tu>
     <tu>
@@ -1078,6 +1094,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Disable</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141115T091900Z" creationid="Photonoxx" creationdate="20141115T091900Z">
+        <seg>Désactiver</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Discard changes to this image and start over</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141111T105248Z" creationid="Photonoxx" creationdate="20141111T105248Z">
@@ -1266,6 +1290,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141115T090053Z" creationid="Photonoxx" creationdate="20141115T090053Z">
         <seg>Info Vide</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Enable</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141115T091853Z" creationid="Photonoxx" creationdate="20141115T091853Z">
+        <seg>Activer</seg>
       </tuv>
     </tu>
     <tu>
@@ -1770,6 +1802,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141106T105412Z" creationid="Photonoxx" creationdate="20141106T105412Z">
         <seg>Fichier image invalide</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Invert Masks</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141115T091743Z" creationid="Photonoxx" creationdate="20141115T091743Z">
+        <seg>Inverser Masques</seg>
       </tuv>
     </tu>
     <tu>
@@ -2798,6 +2838,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Reset Color Selection</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141115T091723Z" creationid="Photonoxx" creationdate="20141115T091723Z">
+        <seg>RAZ Sélection Couleur</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Reset Crop</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141114T184612Z" creationid="Photonoxx" creationdate="20141114T184612Z">
@@ -2818,6 +2866,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141114T184555Z" creationid="Photonoxx" creationdate="20141114T184555Z">
         <seg>Remettre à zéro la Rotation</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Reset color selection</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141115T091714Z" creationid="Photonoxx" creationdate="20141115T091714Z">
+        <seg>RAZ sélection couleur</seg>
       </tuv>
     </tu>
     <tu>
@@ -3802,6 +3858,22 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141115T091211Z" creationid="Photonoxx" creationdate="20141115T091211Z">
         <seg>Tolérance</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Tool Opacity</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141115T091640Z" creationid="Photonoxx" creationdate="20141115T091640Z">
+        <seg>Outil Opacité</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Tool Settings</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141115T091758Z" creationid="Photonoxx" creationdate="20141115T091758Z">
+        <seg>Réglages Outils</seg>
       </tuv>
     </tu>
     <tu>

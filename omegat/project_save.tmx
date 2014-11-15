@@ -942,6 +942,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Drag along features in your image to align them.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141115T074322Z" creationid="Photonoxx" creationdate="20141115T074322Z">
+        <seg>Déplacer sur les traits de votre image pour les aligner.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Draw Bezier Regions</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141114T184701Z" creationid="Photonoxx" creationdate="20141114T184701Z">
@@ -1562,6 +1570,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141114T182653Z" creationid="Photonoxx" creationdate="20141114T182646Z">
         <seg>Déplacer $1 images sélectionnées vers la Poubelle ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Move the sliders in the Rotate Tool to rotate your image.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141115T074420Z" creationid="Photonoxx" creationdate="20141115T074420Z">
+        <seg>Déplacer les curseurs dans l'outils Rotation pour tourner votre image.</seg>
       </tuv>
     </tu>
     <tu>

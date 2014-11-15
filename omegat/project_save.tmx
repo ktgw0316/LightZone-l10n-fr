@@ -1326,10 +1326,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Hide Proof Tool</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141115T085043Z" creationid="Photonoxx" creationdate="20141115T085035Z">
+        <seg>Masquer l'Outil d'Épreuvage</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Hide Regions</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141111T131030Z" creationid="Photonoxx" creationdate="20141111T131030Z">
         <seg>Masquer les Régions</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Hide print proofing tool</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141115T085008Z" creationid="Photonoxx" creationdate="20141115T085008Z">
+        <seg>Masquer l'outil d'épreuvage d'impression</seg>
       </tuv>
     </tu>
     <tu>
@@ -2134,10 +2150,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Printer Profile</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141115T085123Z" creationid="Photonoxx" creationdate="20141115T085123Z">
+        <seg>Profil d'Imprimante</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Printing...</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141106T111803Z" creationid="Photonoxx" creationdate="20141106T111803Z">
         <seg>Impression en cours...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Proof</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141115T085109Z" creationid="Photonoxx" creationdate="20141115T085109Z">
+        <seg>Épreuvage</seg>
       </tuv>
     </tu>
     <tu>
@@ -2306,6 +2338,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141114T182045Z" creationid="Photonoxx" creationdate="20141114T182045Z">
         <seg>Renommer...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Rendering Intent</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141115T085142Z" creationid="Photonoxx" creationdate="20141115T085142Z">
+        <seg>Intention de rendu</seg>
       </tuv>
     </tu>
     <tu>
@@ -2856,8 +2896,8 @@
       <tuv lang="EN-US">
         <seg>Show Proof Tool</seg>
       </tuv>
-      <tuv lang="FR" changeid="Photonoxx" changedate="20141111T144306Z" creationid="Photonoxx" creationdate="20141111T144306Z">
-        <seg>Montrer l'Outil d'Épreuvage</seg>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141115T085055Z" creationid="Photonoxx" creationdate="20141111T144306Z">
+        <seg>Afficher l'Outil d'Épreuvage</seg>
       </tuv>
     </tu>
     <tu>
@@ -2926,10 +2966,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Show print proofing tool</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141115T084953Z" creationid="Photonoxx" creationdate="20141115T084953Z">
+        <seg>Afficher l'outil d'épreuvage d'impression</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Show the Crop Tool</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141114T184426Z" creationid="Photonoxx" creationdate="20141114T184426Z">
         <seg>Afficher l'outil de Recadrage</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Show the Rotate Tool</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141115T085158Z" creationid="Photonoxx" creationdate="20141115T085158Z">
+        <seg>Afficher l'Outil de Rotation</seg>
       </tuv>
     </tu>
     <tu>

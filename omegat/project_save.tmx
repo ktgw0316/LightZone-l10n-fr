@@ -62,6 +62,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>$1 sec at f/$2</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141115T090118Z" creationid="Photonoxx" creationdate="20141115T090118Z">
+        <seg>$1 sec à f/$2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(LightZone must restart for this to take effect.)</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141111T145654Z" creationid="Photonoxx" creationdate="20141111T145654Z">
@@ -465,6 +473,14 @@
         <seg>Capture Time</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141114T181212Z" creationid="Photonoxx" creationdate="20141114T181212Z">
+        <seg>Date de prise de vue</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Capture time</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141115T090213Z" creationid="Photonoxx" creationdate="20141115T090213Z">
         <seg>Date de prise de vue</seg>
       </tuv>
     </tu>
@@ -1126,6 +1142,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Edit size</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141115T090157Z" creationid="Photonoxx" creationdate="20141115T090157Z">
+        <seg>Taille d'édition</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Edit the selected image</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141111T104657Z" creationid="Photonoxx" creationdate="20141111T104657Z">
@@ -1238,6 +1262,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Exposure</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141115T090111Z" creationid="Photonoxx" creationdate="20141115T090111Z">
+        <seg>Exposition</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Failed to restore from preferences</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141106T131242Z" creationid="Photonoxx" creationdate="20141106T131242Z">
@@ -1290,6 +1322,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141111T145202Z" creationid="Photonoxx" creationdate="20141111T145202Z">
         <seg>Description du Fichier</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>File time</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141115T090224Z" creationid="Photonoxx" creationdate="20141115T090224Z">
+        <seg>Date du fichier</seg>
       </tuv>
     </tu>
     <tu>
@@ -3006,6 +3046,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Set the default value</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141115T090249Z" creationid="Photonoxx" creationdate="20141115T090249Z">
+        <seg>Définir aux valeurs par défaut</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Sets the upper limit on the amount of memory that LightZone will use.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141115T080243Z" creationid="Photonoxx" creationdate="20141115T080243Z">
@@ -3586,6 +3634,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141106T113737Z" creationid="Photonoxx" creationdate="20141106T113737Z">
         <seg>Vérification des Bibliothèques</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Version size</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141115T090129Z" creationid="Photonoxx" creationdate="20141115T090129Z">
+        <seg>Taille de la Version</seg>
       </tuv>
     </tu>
     <tu>

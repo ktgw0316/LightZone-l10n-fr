@@ -198,6 +198,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Add a new Style</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141115T103125Z" creationid="Photonoxx" creationdate="20141115T103125Z">
+        <seg>Ajouter un nouveau Style</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Adjust the color range</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141115T091517Z" creationid="Photonoxx" creationdate="20141115T091517Z">
@@ -1006,6 +1014,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Couldn't access Styles</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141115T103240Z" creationid="Photonoxx" creationdate="20141115T103240Z">
+        <seg>Impossible d'accéder aux Styles</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Couldn't access the "$1" Style</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141106T113004Z" creationid="Photonoxx" creationdate="20141106T111505Z">
@@ -1262,6 +1278,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Delete Style failed</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141115T103351Z" creationid="Photonoxx" creationdate="20141115T103351Z">
+        <seg>Échec de la suppression du Style</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Delete the selected image</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141114T180148Z" creationid="Photonoxx" creationdate="20141114T180055Z">
@@ -1502,6 +1526,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Edit the list of Styles</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141115T103204Z" creationid="Photonoxx" creationdate="20141115T103204Z">
+        <seg>Éditer la liste de Styles</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Edit the selected image</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141111T104657Z" creationid="Photonoxx" creationdate="20141111T104657Z">
@@ -1658,6 +1690,22 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141111T130630Z" creationid="Photonoxx" creationdate="20141111T130630Z">
         <seg>Exporter</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Export Style</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141115T103323Z" creationid="Photonoxx" creationdate="20141115T103312Z">
+        <seg>Exporter Style</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Export...</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141115T103303Z" creationid="Photonoxx" creationdate="20141115T103303Z">
+        <seg>Exporter...</seg>
       </tuv>
     </tu>
     <tu>
@@ -2062,10 +2110,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Import Style</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141115T103259Z" creationid="Photonoxx" creationdate="20141115T103254Z">
+        <seg>Importer Style</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Import as Style</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141106T111149Z" creationid="Photonoxx" creationdate="20141106T111149Z">
         <seg>Importer comme un Style</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Import...</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141115T103244Z" creationid="Photonoxx" creationdate="20141115T103244Z">
+        <seg>Importer...</seg>
       </tuv>
     </tu>
     <tu>
@@ -2626,6 +2690,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141111T143005Z" creationid="Photonoxx" creationdate="20141111T143005Z">
         <seg>Aucun Styles</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>No Styles defined</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141115T103409Z" creationid="Photonoxx" creationdate="20141115T103409Z">
+        <seg>Aucun Style défini</seg>
       </tuv>
     </tu>
     <tu>
@@ -3262,6 +3334,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Remove this Style</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141115T103138Z" creationid="Photonoxx" creationdate="20141115T103138Z">
+        <seg>Supprimer ce Style</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Rename $1 to:</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141114T183439Z" creationid="Photonoxx" creationdate="20141114T183439Z">
@@ -3426,6 +3506,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141115T085902Z" creationid="Photonoxx" creationdate="20141115T085902Z">
         <seg>Redimensionner en</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Restore Factory Styles</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141115T103225Z" creationid="Photonoxx" creationdate="20141115T103225Z">
+        <seg>Restaurer les Styles d'usine</seg>
       </tuv>
     </tu>
     <tu>

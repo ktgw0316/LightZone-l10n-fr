@@ -430,6 +430,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Black and White</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141115T094137Z" creationid="Photonoxx" creationdate="20141115T094137Z">
+        <seg>Noir et Blanc</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Blend</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141115T091322Z" creationid="Photonoxx" creationdate="20141115T091322Z">
@@ -574,6 +582,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Channel Mixer</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141115T094123Z" creationid="Photonoxx" creationdate="20141115T094123Z">
+        <seg>Mélangeur de Canaux</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Check for Update</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141111T151119Z" creationid="Photonoxx" creationdate="20141111T151119Z">
@@ -686,6 +702,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Clone</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141115T094200Z" creationid="Photonoxx" creationdate="20141115T094200Z">
+        <seg>Cloner</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Close Image</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141111T143030Z" creationid="Photonoxx" creationdate="20141111T143030Z">
@@ -722,6 +746,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141115T093904Z" creationid="Photonoxx" creationdate="20141115T093854Z">
         <seg>Balance Couleur</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Color Cast</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141115T094054Z" creationid="Photonoxx" creationdate="20141115T094054Z">
+        <seg>Déviation Couleur</seg>
       </tuv>
     </tu>
     <tu>
@@ -2502,6 +2534,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Noise Reduction</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141115T094152Z" creationid="Photonoxx" creationdate="20141115T094152Z">
+        <seg>Réduction de Bruit</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>None</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141111T103142Z" creationid="Photonoxx" creationdate="20141111T103142Z">
@@ -2914,6 +2954,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141115T090515Z" creationid="Photonoxx" creationdate="20141115T090515Z">
         <seg>Rouge</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Red Eyes</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141115T094249Z" creationid="Photonoxx" creationdate="20141115T094249Z">
+        <seg>Yeux Rouges</seg>
       </tuv>
     </tu>
     <tu>
@@ -3886,6 +3934,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Smart Sharpen</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141115T094331Z" creationid="Photonoxx" creationdate="20141115T094331Z">
+        <seg>Netteté intelligente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Sort</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141114T180827Z" creationid="Photonoxx" creationdate="20141114T180804Z">
@@ -3922,6 +3978,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141111T144440Z" creationid="Photonoxx" creationdate="20141111T144440Z">
         <seg>Régions Spline</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Spot</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141115T094237Z" creationid="Photonoxx" creationdate="20141115T094237Z">
+        <seg>Poussière</seg>
       </tuv>
     </tu>
     <tu>
@@ -4370,6 +4434,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141115T080723Z" creationid="Photonoxx" creationdate="20141115T080723Z">
         <seg>À l'enregistrement de votre photo la première fois, le sélecteur de fichier peut afficher automatiquement le dossier de la photo d'origine, ou afficher le dernier dossier où LightZone a enregistré quelque chose.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>White Balance</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141115T094105Z" creationid="Photonoxx" creationdate="20141115T094105Z">
+        <seg>Balance des Blancs</seg>
       </tuv>
     </tu>
     <tu>

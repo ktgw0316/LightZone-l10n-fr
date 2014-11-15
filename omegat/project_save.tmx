@@ -182,6 +182,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>All the Time</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141115T081602Z" creationid="Photonoxx" creationdate="20141115T081602Z">
+        <seg>En temps réel</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Always apply this Style</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141111T101050Z" creationid="Photonoxx" creationdate="20141111T101050Z">
@@ -306,6 +314,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141106T105953Z" creationid="Photonoxx" creationdate="20141106T105953Z">
         <seg>Dossier de destination du traitement</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Between Region Changes</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141115T081700Z" creationid="Photonoxx" creationdate="20141115T081634Z">
+        <seg>À chaque changement des Régions</seg>
       </tuv>
     </tu>
     <tu>
@@ -842,6 +858,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141114T182136Z" creationid="Photonoxx" creationdate="20141114T182136Z">
         <seg>Effacer...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Direct Save</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141115T081823Z" creationid="Photonoxx" creationdate="20141115T081823Z">
+        <seg>Enregistrement Direct</seg>
       </tuv>
     </tu>
     <tu>
@@ -3162,6 +3186,22 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141111T100503Z" creationid="Photonoxx" creationdate="20141111T100503Z">
         <seg>Que voulez-vous faire ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When Regions are Done</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141115T081652Z" creationid="Photonoxx" creationdate="20141115T081652Z">
+        <seg>Quand les Régions sont validées</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When drawing regions, LightZone can update the photo in real time, it can update only between changes, or it can wait until regions are done.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141115T081547Z" creationid="Photonoxx" creationdate="20141115T081547Z">
+        <seg>Quand vous dessinez des régions, LightZone peut mettre à jour la photo en temps réel, seulement après chaque modification, ou seulement une fois que les régions sont validées.</seg>
       </tuv>
     </tu>
     <tu>

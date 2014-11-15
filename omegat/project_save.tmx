@@ -694,6 +694,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Couldn't find an Image path attribute</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141115T084133Z" creationid="Photonoxx" creationdate="20141115T084133Z">
+        <seg>Impossible de trouver un Attribut de chemin d'Image</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Couldn't find an Image tag</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141115T084055Z" creationid="Photonoxx" creationdate="20141115T084055Z">
+        <seg>Impossible de trouver un Tag Image</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Couldn't find the original image</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141106T110719Z" creationid="Photonoxx" creationdate="20141106T110719Z">
@@ -2778,6 +2794,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141111T104158Z" creationid="Photonoxx" creationdate="20141111T104158Z">
         <seg>Montrer l'Aide de LightZone</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Show Previews</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141115T084214Z" creationid="Photonoxx" creationdate="20141115T084214Z">
+        <seg>Afficher les Aperçus</seg>
       </tuv>
     </tu>
     <tu>

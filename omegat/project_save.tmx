@@ -190,6 +190,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Add $1</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141115T092320Z" creationid="Photonoxx" creationdate="20141115T092320Z">
+        <seg>Ajouter $1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Adjust the color range</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141115T091517Z" creationid="Photonoxx" creationdate="20141115T091517Z">
@@ -282,6 +290,22 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141114T181226Z" creationid="Photonoxx" creationdate="20141114T181226Z">
         <seg>Ouverture</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Apply Preset</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141115T092239Z" creationid="Photonoxx" creationdate="20141115T092239Z">
+        <seg>Appliquer le réglage</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Apply Presets</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141115T092307Z" creationid="Photonoxx" creationdate="20141115T092307Z">
+        <seg>Aplliquer les Réglages</seg>
       </tuv>
     </tu>
     <tu>
@@ -650,6 +674,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141111T143030Z" creationid="Photonoxx" creationdate="20141111T143030Z">
         <seg>Fermer l'Image</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Collapse Tool</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141115T092439Z" creationid="Photonoxx" creationdate="20141115T092439Z">
+        <seg>Replier l'outil</seg>
       </tuv>
     </tu>
     <tu>
@@ -1370,6 +1402,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141111T143301Z" creationid="Photonoxx" creationdate="20141111T143301Z">
         <seg>Quitter</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Expand Tool</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141115T092430Z" creationid="Photonoxx" creationdate="20141115T092430Z">
+        <seg>Déplier l'outil</seg>
       </tuv>
     </tu>
     <tu>
@@ -2770,6 +2810,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141111T103627Z" creationid="Photonoxx" creationdate="20141111T103627Z">
         <seg>Me le rappeler plus tard</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Remove $1</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141115T092408Z" creationid="Photonoxx" creationdate="20141115T092408Z">
+        <seg>Retirer $1</seg>
       </tuv>
     </tu>
     <tu>

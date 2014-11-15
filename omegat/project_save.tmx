@@ -830,6 +830,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Color Handling</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141115T100720Z" creationid="Photonoxx" creationdate="20141115T100720Z">
+        <seg>Traitement des Couleurs</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Color Intensity</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141115T090746Z" creationid="Photonoxx" creationdate="20141115T090746Z">
@@ -2138,6 +2146,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141111T145049Z" creationid="Photonoxx" creationdate="20141111T145049Z">
         <seg>Centre d'Apprentissage</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Left</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141115T100727Z" creationid="Photonoxx" creationdate="20141115T100727Z">
+        <seg>Gauche</seg>
       </tuv>
     </tu>
     <tu>
@@ -4418,6 +4434,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141111T103750Z" creationid="Photonoxx" creationdate="20141111T103750Z">
         <seg>Outils</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Top</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141115T100744Z" creationid="Photonoxx" creationdate="20141115T100744Z">
+        <seg>Haut</seg>
       </tuv>
     </tu>
     <tu>

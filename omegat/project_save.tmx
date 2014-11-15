@@ -1214,6 +1214,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Crash reports sent to Light Crafts are anonymous except for the sender's IP address.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141115T103832Z" creationid="Photonoxx" creationdate="20141115T103832Z">
+        <seg>Les Rapports de plantage envoyés à Light Crafts sont anonymes à l'exception de l'adresse IP de l'expéditeur.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Creator</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141115T083621Z" creationid="Photonoxx" creationdate="20141115T083621Z">
@@ -2142,6 +2150,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Image Info</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141115T103936Z" creationid="Photonoxx" creationdate="20141115T103936Z">
+        <seg>Info Image</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Import Style</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141115T103259Z" creationid="Photonoxx" creationdate="20141115T103254Z">
@@ -2178,6 +2194,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141106T114305Z" creationid="Photonoxx" creationdate="20141106T114305Z">
         <seg>Initialisation Engine Utilities</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Inspectors</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141115T104005Z" creationid="Photonoxx" creationdate="20141115T104005Z">
+        <seg>Contrôleurs</seg>
       </tuv>
     </tu>
     <tu>
@@ -2298,6 +2322,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141114T180815Z" creationid="Photonoxx" creationdate="20141114T180756Z">
         <seg>Presse Papier de Réglages</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Light Crafts embeds no personal data of any kind in these reports.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141115T103913Z" creationid="Photonoxx" creationdate="20141115T103913Z">
+        <seg>Light Crafts n'inclue aucune donnée personnelle d'aucune sorte dans ce rapport.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4030,6 +4062,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Send report to Light Crafts</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141115T103731Z" creationid="Photonoxx" creationdate="20141115T103731Z">
+        <seg>Envoyer un rapport à Light Crafts</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Send...</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141111T143039Z" creationid="Photonoxx" creationdate="20141111T143039Z">
@@ -4138,6 +4178,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141115T102619Z" creationid="Photonoxx" creationdate="20141115T102619Z">
         <seg>Afficher la région intérieure</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Show Inspectors</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141115T104022Z" creationid="Photonoxx" creationdate="20141115T104022Z">
+        <seg>Afficher les Contrôleurs</seg>
       </tuv>
     </tu>
     <tu>

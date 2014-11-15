@@ -4430,6 +4430,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>User comment</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141115T095649Z" creationid="Photonoxx" creationdate="20141115T095649Z">
+        <seg>Commentaire</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Verifying Libraries</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141106T113737Z" creationid="Photonoxx" creationdate="20141106T113737Z">

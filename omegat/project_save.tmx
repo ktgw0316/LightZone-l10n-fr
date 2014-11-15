@@ -2646,6 +2646,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Open LightZone files to rotate them</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141115T100141Z" creationid="Photonoxx" creationdate="20141115T100141Z">
+        <seg>Ouvrir les fichiers LightZone pour les faire tourner</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Open Normally</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141106T111236Z" creationid="Photonoxx" creationdate="20141106T111236Z">
@@ -4462,6 +4470,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Use Luminosity Zones</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141115T100307Z" creationid="Photonoxx" creationdate="20141115T100307Z">
+        <seg>Utiliser les Zones de Luminosité</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Use RGB Zones</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141115T100244Z" creationid="Photonoxx" creationdate="20141115T100244Z">
+        <seg>Utiliser les Zones RVB</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Use This</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141111T100341Z" creationid="Photonoxx" creationdate="20141111T100341Z">
@@ -4650,6 +4674,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141115T084741Z" creationid="Photonoxx" creationdate="20141115T084741Z">
         <seg>Zone du Zone Mapper</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Zone Type Change</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141115T100350Z" creationid="Photonoxx" creationdate="20141115T100350Z">
+        <seg>Changer le Type de Zone</seg>
       </tuv>
     </tu>
     <tu>

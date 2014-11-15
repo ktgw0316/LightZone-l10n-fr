@@ -718,6 +718,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Color Balance</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141115T093904Z" creationid="Photonoxx" creationdate="20141115T093854Z">
+        <seg>Balance Couleur</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Color Change</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141115T090611Z" creationid="Photonoxx" creationdate="20141115T090611Z">
@@ -810,6 +818,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141114T183412Z" creationid="Photonoxx" creationdate="20141114T183412Z">
         <seg>ContinueR</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Contrast Mask</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141115T093738Z" creationid="Photonoxx" creationdate="20141115T093738Z">
+        <seg>Masque de Contraste</seg>
       </tuv>
     </tu>
     <tu>
@@ -1678,6 +1694,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Gaussian Blur</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141115T093819Z" creationid="Photonoxx" creationdate="20141115T093819Z">
+        <seg>Flou Gaussien</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>General</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141115T083025Z" creationid="Photonoxx" creationdate="20141115T083025Z">
@@ -1858,6 +1882,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141115T091045Z" creationid="Photonoxx" creationdate="20141115T091045Z">
         <seg>Teinte</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Hue/Saturation</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141115T093829Z" creationid="Photonoxx" creationdate="20141115T093829Z">
+        <seg>Teinte/Saturation</seg>
       </tuv>
     </tu>
     <tu>
@@ -3594,6 +3626,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141115T090956Z" creationid="Photonoxx" creationdate="20141115T090956Z">
         <seg>Ombres</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Sharpen</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141115T093752Z" creationid="Photonoxx" creationdate="20141115T093752Z">
+        <seg>Netteté</seg>
       </tuv>
     </tu>
     <tu>

@@ -94,6 +94,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>8 Bits/Channel</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141115T085926Z" creationid="Photonoxx" creationdate="20141115T085926Z">
+        <seg>8 Bits/Canal</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;html&gt;Continue  (The program may now be unstable)&lt;/html&gt;</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141111T100806Z" creationid="Photonoxx" creationdate="20141111T100806Z">
@@ -170,6 +178,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141111T144156Z" creationid="Photonoxx" creationdate="20141111T144156Z">
         <seg>Ajouter</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Advanced Options</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141115T090019Z" creationid="Photonoxx" creationdate="20141115T090019Z">
+        <seg>Options Avancées</seg>
       </tuv>
     </tu>
     <tu>
@@ -338,6 +354,22 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141111T144457Z" creationid="Photonoxx" creationdate="20141111T144457Z">
         <seg>Régions Bézier</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Bit Depth</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141115T090005Z" creationid="Photonoxx" creationdate="20141115T090005Z">
+        <seg>Profondeur de couleur</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Bits/Channel</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141115T085938Z" creationid="Photonoxx" creationdate="20141115T085938Z">
+        <seg>Bits/Canal</seg>
       </tuv>
     </tu>
     <tu>
@@ -570,6 +602,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141115T084646Z" creationid="Photonoxx" creationdate="20141115T084646Z">
         <seg>Masque de Couleur</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Color Profile</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141115T085842Z" creationid="Photonoxx" creationdate="20141115T085842Z">
+        <seg>Profil Couleur</seg>
       </tuv>
     </tu>
     <tu>
@@ -990,6 +1030,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Don't limit</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141115T085832Z" creationid="Photonoxx" creationdate="20141115T085832Z">
+        <seg>Ne pas limiter</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Don't remind me</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141111T103335Z" creationid="Photonoxx" creationdate="20141111T103335Z">
@@ -1090,6 +1138,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141111T144924Z" creationid="Photonoxx" creationdate="20141111T144924Z">
         <seg>Mode Édition</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Empty Info</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141115T090053Z" creationid="Photonoxx" creationdate="20141115T090053Z">
+        <seg>Info Vide</seg>
       </tuv>
     </tu>
     <tu>
@@ -1266,6 +1322,30 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141115T085759Z" creationid="Photonoxx" creationdate="20141115T085659Z">
         <seg>Adapter en 1024 x 1024</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Fit within 1536 x 1536</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141115T085808Z" creationid="Photonoxx" creationdate="20141115T085808Z">
+        <seg>Adapter en 1536 x 1536</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Fit within 2048 x 2048</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141115T085812Z" creationid="Photonoxx" creationdate="20141115T085812Z">
+        <seg>Adapter en 2048 x 2048</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Fit within 2560 x 2560</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141115T085822Z" creationid="Photonoxx" creationdate="20141115T085822Z">
+        <seg>Adapter en 2560 x 2560</seg>
       </tuv>
     </tu>
     <tu>
@@ -1766,6 +1846,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Metadata</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141115T090030Z" creationid="Photonoxx" creationdate="20141115T090030Z">
+        <seg>Métadonnées</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Minimize</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141111T144040Z" creationid="Photonoxx" creationdate="20141111T144040Z">
@@ -1890,6 +1978,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141111T144315Z" creationid="Photonoxx" creationdate="20141111T144315Z">
         <seg>Aucune image</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>No Info</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141115T090100Z" creationid="Photonoxx" creationdate="20141115T090100Z">
+        <seg>Pas d'Info</seg>
       </tuv>
     </tu>
     <tu>
@@ -2222,6 +2318,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Quality</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141115T085910Z" creationid="Photonoxx" creationdate="20141115T085910Z">
+        <seg>Qualité</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Quit</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141115T080149Z" creationid="Photonoxx" creationdate="20141106T113650Z">
@@ -2506,6 +2610,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141111T101335Z" creationid="Photonoxx" creationdate="20141111T101335Z">
         <seg>Remettre à zéro les paramètres de LightZone peut régler cela.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Resize To</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141115T085902Z" creationid="Photonoxx" creationdate="20141115T085902Z">
+        <seg>Redimensionner en</seg>
       </tuv>
     </tu>
     <tu>

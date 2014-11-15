@@ -2854,6 +2854,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Pixels per inch</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141115T102313Z" creationid="Photonoxx" creationdate="20141115T102313Z">
+        <seg>Pixels par pouces</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Please connect, then try again.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141111T103551Z" creationid="Photonoxx" creationdate="20141111T103551Z">
@@ -3626,6 +3634,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141106T111625Z" creationid="Photonoxx" creationdate="20141106T111625Z">
         <seg>Enregistrement...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Scaled Print Size</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141115T102300Z" creationid="Photonoxx" creationdate="20141115T102300Z">
+        <seg>Mise à l'échelle</seg>
       </tuv>
     </tu>
     <tu>

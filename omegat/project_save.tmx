@@ -2046,6 +2046,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Lock</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141115T091932Z" creationid="Photonoxx" creationdate="20141115T091932Z">
+        <seg>Protéger</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Luminosity</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141115T091051Z" creationid="Photonoxx" creationdate="20141115T091051Z">
@@ -2750,6 +2758,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Remember Preset</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141115T092226Z" creationid="Photonoxx" creationdate="20141115T092226Z">
+        <seg>Se souvenir du réglage</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Remind me later</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141111T103627Z" creationid="Photonoxx" creationdate="20141111T103627Z">
@@ -2778,6 +2794,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141114T182335Z" creationid="Photonoxx" creationdate="20141114T182335Z">
         <seg>Enlever la Notation et Sélectionner le Suivant</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Remove from the stack</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141115T092155Z" creationid="Photonoxx" creationdate="20141115T092155Z">
+        <seg>Retirer du développement</seg>
       </tuv>
     </tu>
     <tu>
@@ -3226,6 +3250,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141114T180850Z" creationid="Photonoxx" creationdate="20141114T180850Z">
         <seg>Sélectionner</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Select $1 Preset</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141115T092128Z" creationid="Photonoxx" creationdate="20141115T092128Z">
+        <seg>Sélectionne $1 Préréglage</seg>
       </tuv>
     </tu>
     <tu>
@@ -3922,6 +3954,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141106T105727Z" creationid="Photonoxx" creationdate="20141106T105727Z">
         <seg>Erreur inconnue lors du traitement de ce fichier</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Unlock</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141115T091944Z" creationid="Photonoxx" creationdate="20141115T091944Z">
+        <seg>Débloquer</seg>
       </tuv>
     </tu>
     <tu>

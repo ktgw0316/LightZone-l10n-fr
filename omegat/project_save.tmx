@@ -1238,6 +1238,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Fit image to screen</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141115T085335Z" creationid="Photonoxx" creationdate="20141115T085335Z">
+        <seg>Adapter l'image à l'écran</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Focal Length</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141114T181259Z" creationid="Photonoxx" creationdate="20141114T181259Z">
@@ -1342,6 +1350,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Hide Rotate Tool</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141115T085241Z" creationid="Photonoxx" creationdate="20141115T085241Z">
+        <seg>Masquer l'Outil de Rotation</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Hide print proofing tool</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141115T085008Z" creationid="Photonoxx" creationdate="20141115T085008Z">
@@ -1354,6 +1370,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141114T184442Z" creationid="Photonoxx" creationdate="20141114T184442Z">
         <seg>Masquer l'ouitl de Recadrage</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Hide the Rotate Tool</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141115T085208Z" creationid="Photonoxx" creationdate="20141115T085208Z">
+        <seg>Masquer l'Outil de Rotation</seg>
       </tuv>
     </tu>
     <tu>
@@ -2910,6 +2934,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Show Rotate Tool</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141115T085229Z" creationid="Photonoxx" creationdate="20141115T085229Z">
+        <seg>Afficher l'Outil de Rotation</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Show Tool Titles</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141115T082445Z" creationid="Photonoxx" creationdate="20141115T082445Z">
@@ -3534,14 +3566,6 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Zoom</seg>
-      </tuv>
-      <tuv lang="FR" changeid="Photonoxx" changedate="20141111T144112Z" creationid="Photonoxx" creationdate="20141111T144112Z">
-        <seg>Agrandir</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
         <seg>Zoom In</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141111T144706Z" creationid="Photonoxx" creationdate="20141111T144706Z">
@@ -3562,6 +3586,30 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141111T144735Z" creationid="Photonoxx" creationdate="20141111T144735Z">
         <seg>Adapter à la fenêtre</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Zoom in</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141115T085341Z" creationid="Photonoxx" creationdate="20141115T085341Z">
+        <seg>Zoom +</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Zoom one-to-one</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141115T085319Z" creationid="Photonoxx" creationdate="20141115T085319Z">
+        <seg>Zoom 1:1 one-to-one</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Zoom out</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141115T085348Z" creationid="Photonoxx" creationdate="20141115T085348Z">
+        <seg>Zoom -</seg>
       </tuv>
     </tu>
     <tu>

@@ -1014,6 +1014,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Couldn't access Style "$1"</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141115T103427Z" creationid="Photonoxx" creationdate="20141115T103427Z">
+        <seg>Impossible d'accéder aux Style "$1"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Couldn't access Styles</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141115T103240Z" creationid="Photonoxx" creationdate="20141115T103240Z">
@@ -1142,6 +1150,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Couldn't read Style from "$1"</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141115T103450Z" creationid="Photonoxx" creationdate="20141115T103450Z">
+        <seg>Impossible de lire le Style depuis "$1"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Couldn't rename "$1" to "$2"</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141106T113435Z" creationid="Photonoxx" creationdate="20141106T113435Z">
@@ -1178,6 +1194,22 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141106T113112Z" creationid="Photonoxx" creationdate="20141106T111642Z">
         <seg>Impossible d'enregistrer vers $1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Couldn't store Style "$1"</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141115T103506Z" creationid="Photonoxx" creationdate="20141115T103506Z">
+        <seg>Impossible de stocker le Style "$1"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Couldn't write Style "$1" to file "$2"</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141115T103548Z" creationid="Photonoxx" creationdate="20141115T103548Z">
+        <seg>Impossible d'enregistrer le Style "$1" dans le fichier "$2"</seg>
       </tuv>
     </tu>
     <tu>
@@ -2482,6 +2514,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141106T110748Z" creationid="Photonoxx" creationdate="20141106T110748Z">
         <seg>Fichier LightZone malformé</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Manage Styles</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141115T103615Z" creationid="Photonoxx" creationdate="20141115T103615Z">
+        <seg>Gérer les Styles</seg>
       </tuv>
     </tu>
     <tu>
@@ -4406,6 +4446,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Style "$1" was written to "$2"</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141115T103608Z" creationid="Photonoxx" creationdate="20141115T103608Z">
+        <seg>Le Style "$1" a été enregistré vers "$2"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Style Number $1</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141111T101211Z" creationid="Photonoxx" creationdate="20141111T101211Z">
@@ -4538,6 +4586,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141115T081030Z" creationid="Photonoxx" creationdate="20141115T081030Z">
         <seg>C'est le Dossier où LightZone enregistre temporairement des données pendant que vous éditez vos photos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This program has run out of memory and will now shut down.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141115T103707Z" creationid="Photonoxx" creationdate="20141115T103707Z">
+        <seg>Ce programme est arrivé à cours de mémoire et va maintenant s'éteindre.</seg>
       </tuv>
     </tu>
     <tu>

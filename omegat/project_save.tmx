@@ -2422,6 +2422,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Rotate Left and Select Next</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141115T083952Z" creationid="Photonoxx" creationdate="20141115T083952Z">
+        <seg>Tourner vers la gauche et Sélectionner le suivant</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Rotate Right</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141111T144648Z" creationid="Photonoxx" creationdate="20141111T144648Z">
@@ -2918,6 +2926,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Smaller image files will make LightZone faster.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141115T083820Z" creationid="Photonoxx" creationdate="20141115T083820Z">
+        <seg>De plus petits fichiers images rend LightZone plus rapide.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Sort</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141114T180827Z" creationid="Photonoxx" creationdate="20141114T180804Z">
@@ -2938,6 +2954,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141114T175732Z" creationid="Photonoxx" creationdate="20141114T175732Z">
         <seg>Tri descendant</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Specify the image file format LightZone should use when it saves your work.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141115T083723Z" creationid="Photonoxx" creationdate="20141115T083723Z">
+        <seg>Spécifie le format de fichier que LightZone doit utiliser quand il enregistre votre travail.</seg>
       </tuv>
     </tu>
     <tu>

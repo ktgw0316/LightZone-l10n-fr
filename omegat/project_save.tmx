@@ -238,6 +238,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Amount</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141115T091205Z" creationid="Photonoxx" creationdate="20141115T091205Z">
+        <seg>Quantité</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>An updated version of LightZone is required to read this Style</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141114T184824Z" creationid="Photonoxx" creationdate="20141114T184824Z">
@@ -1646,6 +1654,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Hue</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141115T091045Z" creationid="Photonoxx" creationdate="20141115T091045Z">
+        <seg>Teinte</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If you do not set this option, LightZone will use an sRGB default profile.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141111T151545Z" creationid="Photonoxx" creationdate="20141111T151545Z">
@@ -1962,6 +1978,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141106T111616Z" creationid="Photonoxx" creationdate="20141106T111616Z">
         <seg>Chargement...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Luminosity</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141115T091051Z" creationid="Photonoxx" creationdate="20141115T091051Z">
+        <seg>Luminosité</seg>
       </tuv>
     </tu>
     <tu>
@@ -2498,6 +2522,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141115T080149Z" creationid="Photonoxx" creationdate="20141106T113650Z">
         <seg>Quitter</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>RGB</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141115T091303Z" creationid="Photonoxx" creationdate="20141115T091303Z">
+        <seg>RVB</seg>
       </tuv>
     </tu>
     <tu>
@@ -3550,6 +3582,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Temperature</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141115T091219Z" creationid="Photonoxx" creationdate="20141115T091219Z">
+        <seg>Température</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The LightZone file, "$1" can't locate its image file, "$2", but it found "$3" instead.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141111T100234Z" creationid="Photonoxx" creationdate="20141111T100234Z">
@@ -3654,6 +3694,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Threshold</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141115T091255Z" creationid="Photonoxx" creationdate="20141115T091255Z">
+        <seg>Seuil</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Thumbnail Progress</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141114T175615Z" creationid="Photonoxx" creationdate="20141114T175615Z">
@@ -3678,6 +3726,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Tint</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141115T091236Z" creationid="Photonoxx" creationdate="20141115T091236Z">
+        <seg>Nuance</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>To Folder:</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141106T110534Z" creationid="Photonoxx" creationdate="20141106T110534Z">
@@ -3690,6 +3746,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141111T150308Z" creationid="Photonoxx" creationdate="20141111T150308Z">
         <seg>Pour économiser du travail, le Navigateur enregistre des Aperçus dans un dossier de cache spécial.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Tolerance</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141115T091211Z" creationid="Photonoxx" creationdate="20141115T091211Z">
+        <seg>Tolérance</seg>
       </tuv>
     </tu>
     <tu>

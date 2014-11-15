@@ -702,6 +702,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Color Dropper Selection</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141115T092757Z" creationid="Photonoxx" creationdate="20141115T092757Z">
+        <seg>Sélection Pipette</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Color Intensity</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141115T090746Z" creationid="Photonoxx" creationdate="20141115T090746Z">
@@ -754,6 +762,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141115T084814Z" creationid="Photonoxx" creationdate="20141115T084814Z">
         <seg>Masque de la Sélection de Couleur</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Color Selector</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141115T092626Z" creationid="Photonoxx" creationdate="20141115T092626Z">
+        <seg>Sélecteur de Couleur</seg>
       </tuv>
     </tu>
     <tu>
@@ -1134,6 +1150,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Disable Color Selection</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141115T092828Z" creationid="Photonoxx" creationdate="20141115T092828Z">
+        <seg>Désactiver la Sélection Couleur</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Discard changes to this image and start over</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141111T105248Z" creationid="Photonoxx" creationdate="20141111T105248Z">
@@ -1330,6 +1354,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141115T091853Z" creationid="Photonoxx" creationdate="20141115T091853Z">
         <seg>Activer</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Enable Color Selection</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141115T092817Z" creationid="Photonoxx" creationdate="20141115T092817Z">
+        <seg>Activer la Sélection Couleur</seg>
       </tuv>
     </tu>
     <tu>
@@ -3758,6 +3790,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Swap Tools</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141115T092529Z" creationid="Photonoxx" creationdate="20141115T092529Z">
+        <seg>Intervertir les Outils</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Swap width and height</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141114T184245Z" creationid="Photonoxx" creationdate="20141114T184245Z">
@@ -3938,6 +3978,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141115T091211Z" creationid="Photonoxx" creationdate="20141115T091211Z">
         <seg>Tolérance</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Tool Change</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141115T092607Z" creationid="Photonoxx" creationdate="20141115T092607Z">
+        <seg>Modifier l'Outil</seg>
       </tuv>
     </tu>
     <tu>

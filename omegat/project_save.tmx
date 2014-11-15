@@ -366,10 +366,34 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>As Shot</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141115T094642Z" creationid="Photonoxx" creationdate="20141115T094602Z">
+        <seg>Appareil Photo </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>As-Shot White Balance</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141115T094526Z" creationid="Photonoxx" creationdate="20141115T094526Z">
+        <seg>Balance des Blancs Boitier</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Auto Save</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141111T145711Z" creationid="Photonoxx" creationdate="20141111T145711Z">
         <seg>Enregistrement Auto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Auto White Balance</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141115T094449Z" creationid="Photonoxx" creationdate="20141115T094449Z">
+        <seg>Balance des Blancs Auto</seg>
       </tuv>
     </tu>
     <tu>
@@ -2718,6 +2742,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Pick White Balance</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141115T094435Z" creationid="Photonoxx" creationdate="20141115T094435Z">
+        <seg>Choisir la Balance des Blancs</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Pick a folder that has some images in it.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141106T103105Z" creationid="Photonoxx" creationdate="20141106T103105Z">
@@ -2850,6 +2882,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141115T080149Z" creationid="Photonoxx" creationdate="20141106T113650Z">
         <seg>Quitter</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>RAW Adjustments</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141115T094346Z" creationid="Photonoxx" creationdate="20141115T094346Z">
+        <seg>Ajustements RAW</seg>
       </tuv>
     </tu>
     <tu>

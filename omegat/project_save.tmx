@@ -3182,6 +3182,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Region Change</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141115T102846Z" creationid="Photonoxx" creationdate="20141115T102846Z">
+        <seg>Changer Région</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Region Mode</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141115T085617Z" creationid="Photonoxx" creationdate="20141115T085617Z">
@@ -3366,6 +3374,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Reset the rotation angle</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141115T102953Z" creationid="Photonoxx" creationdate="20141115T102953Z">
+        <seg>Remettre à zéro l'angle de rotation</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Reset...</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141115T075009Z" creationid="Photonoxx" creationdate="20141115T075009Z">
@@ -3514,6 +3530,38 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141114T182012Z" creationid="Photonoxx" creationdate="20141114T182012Z">
         <seg>Tourner vers la droite et Sélectionner le suivant</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Rotate the image</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141115T102919Z" creationid="Photonoxx" creationdate="20141115T102919Z">
+        <seg>Tourner l'image</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Rotate the image (fine)</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141115T102935Z" creationid="Photonoxx" creationdate="20141115T102935Z">
+        <seg>Tourner l'image (précis)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Rotate the image 90 degrees clockwise</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141115T103045Z" creationid="Photonoxx" creationdate="20141115T103045Z">
+        <seg>Tourner l'image de 90 degrés Horaire</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Rotate the image 90 degrees counterclockwise</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141115T103023Z" creationid="Photonoxx" creationdate="20141115T103023Z">
+        <seg>Tourner l'image de 90 degrés Anti-Horaire</seg>
       </tuv>
     </tu>
     <tu>
@@ -3866,6 +3914,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141115T091529Z" creationid="Photonoxx" creationdate="20141115T091529Z">
         <seg>Définir l'opacité</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Set the angle of rotation in degrees</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141115T103114Z" creationid="Photonoxx" creationdate="20141115T103114Z">
+        <seg>Définir l'angle de Rotation en degrés</seg>
       </tuv>
     </tu>
     <tu>

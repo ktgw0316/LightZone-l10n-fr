@@ -1046,6 +1046,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Enter copyright text in the space above.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141115T083125Z" creationid="Photonoxx" creationdate="20141115T083125Z">
+        <seg>Entrez le texte de copyright the space ci-dessus.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Error Details</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141111T100858Z" creationid="Photonoxx" creationdate="20141111T100858Z">

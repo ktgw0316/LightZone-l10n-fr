@@ -1950,10 +1950,34 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Invert</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141115T093437Z" creationid="Photonoxx" creationdate="20141115T093437Z">
+        <seg>Inverser</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Invert Color Selection</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141115T093639Z" creationid="Photonoxx" creationdate="20141115T093639Z">
+        <seg>Inverser Sélection Couleur</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Invert Masks</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141115T091743Z" creationid="Photonoxx" creationdate="20141115T091743Z">
         <seg>Inverser Masques</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Invert the color selection</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141115T093454Z" creationid="Photonoxx" creationdate="20141115T093454Z">
+        <seg>Inverser la sélection Couleur</seg>
       </tuv>
     </tu>
     <tu>
@@ -2450,6 +2474,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141111T103142Z" creationid="Photonoxx" creationdate="20141111T103142Z">
         <seg>Rien</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Normal Color Selection</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141115T093657Z" creationid="Photonoxx" creationdate="20141115T093657Z">
+        <seg>Sélection Couleur Normale</seg>
       </tuv>
     </tu>
     <tu>
@@ -3134,6 +3166,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Revert the color selection</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141115T093619Z" creationid="Photonoxx" creationdate="20141115T093619Z">
+        <seg>RAZ la Sélection Couleur</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Revert...</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141111T142559Z" creationid="Photonoxx" creationdate="20141111T142559Z">
@@ -3466,6 +3506,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141115T093418Z" creationid="Photonoxx" creationdate="20141115T093418Z">
         <seg>Choisir la Gamme de luminosité</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Selection</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141115T093701Z" creationid="Photonoxx" creationdate="20141115T093701Z">
+        <seg>Sélection</seg>
       </tuv>
     </tu>
     <tu>

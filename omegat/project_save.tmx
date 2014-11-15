@@ -2214,6 +2214,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Restoring LightZone Settings means LightZone will work the way it did when it was new.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141115T075937Z" creationid="Photonoxx" creationdate="20141115T075937Z">
+        <seg>Restaurer les paramètres de LightZone signifie que LightZone fonctionnera tel qu'à la première installation.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Restoring Preferences</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141106T114006Z" creationid="Photonoxx" creationdate="20141106T114006Z">
@@ -2842,6 +2850,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141114T184843Z" creationid="Photonoxx" creationdate="20141114T184843Z">
         <seg>Ce Style n'a pas de numéro de Version</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This can fix lots of problems, but loses your customizations.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141115T080015Z" creationid="Photonoxx" creationdate="20141115T080015Z">
+        <seg>Cela peut régler de nombreux problèmes, mais perd vos personnalisations.</seg>
       </tuv>
     </tu>
     <tu>

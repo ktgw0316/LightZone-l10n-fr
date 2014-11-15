@@ -582,6 +582,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Can't Launch LightZone</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141115T104054Z" creationid="Photonoxx" creationdate="20141115T104054Z">
+        <seg>Impossible de lancer LightZone</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Cancel</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141106T110005Z" creationid="Photonoxx" creationdate="20141106T105255Z">
@@ -2014,6 +2022,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Hide Inspectors</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141115T104028Z" creationid="Photonoxx" creationdate="20141115T104028Z">
+        <seg>Masquer les Contrôleurs</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Hide Previews</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141115T084610Z" creationid="Photonoxx" creationdate="20141115T084610Z">
@@ -2366,6 +2382,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>LightZone Project</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141115T104041Z" creationid="Photonoxx" creationdate="20141115T104041Z">
+        <seg>Projet LightZone</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>LightZone Send</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141106T110359Z" creationid="Photonoxx" creationdate="20141106T110359Z">
@@ -2498,6 +2522,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141115T080131Z" creationid="Photonoxx" creationdate="20141115T080131Z">
         <seg>LightZone doit quitter maintenant.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>LightZone on Linux requires a CPU supporting the SSE2 instruction set.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141115T104137Z" creationid="Photonoxx" creationdate="20141115T104137Z">
+        <seg>LightZone sous Linux requière Un processeur supportant le jeu d'instruction SSE2.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4642,6 +4674,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141115T103707Z" creationid="Photonoxx" creationdate="20141115T103707Z">
         <seg>Ce programme est arrivé à cours de mémoire et va maintenant s'éteindre.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This requirement was introduced with version 2.4, in May 2007.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141115T104212Z" creationid="Photonoxx" creationdate="20141115T104212Z">
+        <seg>Ce pré-requis a été introduit dans la version 2.4, en Mai 2007.</seg>
       </tuv>
     </tu>
     <tu>

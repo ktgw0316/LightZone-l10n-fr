@@ -790,6 +790,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Creator</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141115T083621Z" creationid="Photonoxx" creationdate="20141115T083621Z">
+        <seg>Créateur</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Crop</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141114T184559Z" creationid="Photonoxx" creationdate="20141114T184251Z">
@@ -1046,10 +1054,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Enter copyright text here.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141115T083554Z" creationid="Photonoxx" creationdate="20141115T083554Z">
+        <seg>Entrez le texte de copyright ici.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Enter copyright text in the space above.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141115T083125Z" creationid="Photonoxx" creationdate="20141115T083125Z">
         <seg>Entrez le texte de copyright the space ci-dessus.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Enter creator here.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141115T083611Z" creationid="Photonoxx" creationdate="20141115T083611Z">
+        <seg>Entrez le Créateur ici.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3002,6 +3026,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141111T102053Z" creationid="Photonoxx" creationdate="20141111T102053Z">
         <seg>La quantité de mémoire que LightZone doit utiliser</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Then select an image in the browser, and click the button next to the copyright field in the browser's metadata area to write this copyright text to an image file.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141115T083539Z" creationid="Photonoxx" creationdate="20141115T083539Z">
+        <seg>Puis sélectionnez une image dans le navigateur et cliquez sur le bouton à côté du champs "copyright" dans le panneau Métadonnées du navigateurs pour écrire ce texte dans un fichier image.</seg>
       </tuv>
     </tu>
     <tu>

@@ -1430,6 +1430,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>LightZone Settings remember what was going on the last time you used LightZone: your recently used files and folders; recent window positions and sizes; and so on.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141115T075154Z" creationid="Photonoxx" creationdate="20141115T075154Z">
+        <seg>Les Paramètres de LightZone Settings remember what was going on the last time you used LightZone: your recently used files and folders; recent window positions and sizes; and so on.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>LightZone Settings were successfully reset.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141111T103016Z" creationid="Photonoxx" creationdate="20141111T103016Z">

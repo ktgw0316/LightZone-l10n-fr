@@ -126,6 +126,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A high limit enables LightZone operate faster and smoother; a low limit leaves more memory for other applications.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141115T080412Z" creationid="Photonoxx" creationdate="20141115T080412Z">
+        <seg>Une limite haute permet à LightZone des opérations plus rapides et fluides; Une limite basse laisse plus de mémoire pour les autres applications.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A new version ($1) of $2 is available.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141111T103656Z" creationid="Photonoxx" creationdate="20141111T103656Z">
@@ -2426,6 +2434,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141111T130936Z" creationid="Photonoxx" creationdate="20141111T130936Z">
         <seg>Enregistrer vers $1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Save to Folder</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141115T080448Z" creationid="Photonoxx" creationdate="20141115T080448Z">
+        <seg>Enregistrer vers le Dossier</seg>
       </tuv>
     </tu>
     <tu>

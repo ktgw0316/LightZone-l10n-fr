@@ -630,6 +630,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Color Intensity</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141115T090746Z" creationid="Photonoxx" creationdate="20141115T090746Z">
+        <seg>Intentsité Couleur</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Color Mask</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141115T084646Z" creationid="Photonoxx" creationdate="20141115T084646Z">
@@ -638,10 +646,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Color Noise</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141115T090827Z" creationid="Photonoxx" creationdate="20141115T090827Z">
+        <seg>Bruit Couleur</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Color Profile</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141115T085842Z" creationid="Photonoxx" creationdate="20141115T085842Z">
         <seg>Profil Couleur</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Color Radius</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141115T090736Z" creationid="Photonoxx" creationdate="20141115T090736Z">
+        <seg>Rayon Couleur</seg>
       </tuv>
     </tu>
     <tu>
@@ -934,6 +958,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Cyan-Red</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141115T090855Z" creationid="Photonoxx" creationdate="20141115T090855Z">
+        <seg>Cyan-Rouge</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Debug</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141111T145146Z" creationid="Photonoxx" creationdate="20141111T145146Z">
@@ -986,6 +1018,22 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141114T182136Z" creationid="Photonoxx" creationdate="20141114T182136Z">
         <seg>Effacer...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Depth</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141115T091002Z" creationid="Photonoxx" creationdate="20141115T091002Z">
+        <seg>Profondeur</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Detail</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141115T090936Z" creationid="Photonoxx" creationdate="20141115T090936Z">
+        <seg>Détail</seg>
       </tuv>
     </tu>
     <tu>
@@ -1454,6 +1502,30 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Grain Intensity</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141115T090816Z" creationid="Photonoxx" creationdate="20141115T090816Z">
+        <seg>Intensité Grain</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Grain Noise</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141115T090836Z" creationid="Photonoxx" creationdate="20141115T090836Z">
+        <seg>Bruit Grain</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Grain Radius</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141115T090808Z" creationid="Photonoxx" creationdate="20141115T090808Z">
+        <seg>Rayon Grain</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Green</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141115T090523Z" creationid="Photonoxx" creationdate="20141115T090523Z">
@@ -1546,6 +1618,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141115T085208Z" creationid="Photonoxx" creationdate="20141115T085208Z">
         <seg>Masquer l'Outil de Rotation</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Highlights</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141115T090948Z" creationid="Photonoxx" creationdate="20141115T090948Z">
+        <seg>Hautes lumières</seg>
       </tuv>
     </tu>
     <tu>
@@ -1886,6 +1966,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Magenta-Green</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141115T090900Z" creationid="Photonoxx" creationdate="20141115T090900Z">
+        <seg>Magenta-Vert</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Malformed LightZone file</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141106T110748Z" creationid="Photonoxx" creationdate="20141106T110748Z">
@@ -1914,6 +2002,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141115T090030Z" creationid="Photonoxx" creationdate="20141115T090030Z">
         <seg>Métadonnées</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Midpoint</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141115T090923Z" creationid="Photonoxx" creationdate="20141115T090923Z">
+        <seg>Médiane</seg>
       </tuv>
     </tu>
     <tu>
@@ -2402,6 +2498,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141115T080149Z" creationid="Photonoxx" creationdate="20141106T113650Z">
         <seg>Quitter</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Radius</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141115T090927Z" creationid="Photonoxx" creationdate="20141115T090927Z">
+        <seg>Rayon</seg>
       </tuv>
     </tu>
     <tu>
@@ -3102,6 +3206,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Shadows</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141115T090956Z" creationid="Photonoxx" creationdate="20141115T090956Z">
+        <seg>Ombres</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Show Browser</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141111T144012Z" creationid="Photonoxx" creationdate="20141111T144012Z">
@@ -3402,6 +3514,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141106T114111Z" creationid="Photonoxx" creationdate="20141106T114111Z">
         <seg>Démarrage du journal</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Strength</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141115T090844Z" creationid="Photonoxx" creationdate="20141115T090844Z">
+        <seg>Force</seg>
       </tuv>
     </tu>
     <tu>
@@ -3770,6 +3890,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141111T101420Z" creationid="Photonoxx" creationdate="20141111T101420Z">
         <seg>Voulez-vous essayer de remettre à zéro les paramètres de LightZone?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Yellow-Blue</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141115T090912Z" creationid="Photonoxx" creationdate="20141115T090912Z">
+        <seg>Jaune-Bleu</seg>
       </tuv>
     </tu>
     <tu>

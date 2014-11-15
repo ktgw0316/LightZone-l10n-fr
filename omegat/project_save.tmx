@@ -1262,6 +1262,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If you have a fast hard disk, using a folder on it will enable LightZone to operate faster.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141115T081210Z" creationid="Photonoxx" creationdate="20141115T081210Z">
+        <seg>Si vous avez un disque dur rapide, y choisir un dossier permettra à LightZone d'opérer plus rapidement.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If you open an new image while you are still editing another image, LightZone can automatically save your work, or it can ask you what to do.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141111T145903Z" creationid="Photonoxx" creationdate="20141111T145903Z">
@@ -2962,6 +2970,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141111T150450Z" creationid="Photonoxx" creationdate="20141111T150450Z">
         <seg>Ce dossier peut être créé à la même place que son Image ("Local"), ou dans un Emplacement Centralisé ("Global").</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This is the folder that LightZone will use to store data temporarily while you edit your photos.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141115T081030Z" creationid="Photonoxx" creationdate="20141115T081030Z">
+        <seg>C'est le Dossier où LightZone enregistre temporairement des données pendant que vous éditez vos photos.</seg>
       </tuv>
     </tu>
     <tu>

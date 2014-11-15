@@ -1862,6 +1862,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Original Folder</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141115T080739Z" creationid="Photonoxx" creationdate="20141115T080739Z">
+        <seg>Dossier Original</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Output Size:</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141106T110552Z" creationid="Photonoxx" creationdate="20141106T110552Z">
@@ -2050,6 +2058,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141114T183346Z" creationid="Photonoxx" creationdate="20141114T183346Z">
         <seg>Voulez-voulez vraiment effacer ce fichier ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Recent Folder</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141115T080750Z" creationid="Photonoxx" creationdate="20141115T080750Z">
+        <seg>Dossier Récent</seg>
       </tuv>
     </tu>
     <tu>
@@ -2490,6 +2506,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141106T114142Z" creationid="Photonoxx" creationdate="20141106T114142Z">
         <seg>Recherche des Documents enregistrés</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Scratch Folder</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141115T080859Z" creationid="Photonoxx" creationdate="20141115T080859Z">
+        <seg>Dossier Temporaire</seg>
       </tuv>
     </tu>
     <tu>
@@ -3114,6 +3138,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141111T151224Z" creationid="Photonoxx" creationdate="20141111T151224Z">
         <seg>Au Lancement, LightZone peut rechercher automatiquement si une nouvelle version est disponible au téléchargement.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When saving your photo for the first time, the file chooser can automatically display the folder where your original photo came from, or it can display the last folder where LightZone saved something.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141115T080723Z" creationid="Photonoxx" creationdate="20141115T080723Z">
+        <seg>À l'enregistrement de votre photo la première fois, le sélecteur de fichier peut afficher automatiquement le dossier de la photo d'origine, ou afficher le dernier dossier où LightZone a enregistré quelque chose.</seg>
       </tuv>
     </tu>
     <tu>

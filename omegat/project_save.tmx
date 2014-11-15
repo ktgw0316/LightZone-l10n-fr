@@ -302,6 +302,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Application Managed Colors</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141115T100537Z" creationid="Photonoxx" creationdate="20141115T100502Z">
+        <seg>Couleurs gérées par l'Application</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Apply Preset</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141115T092239Z" creationid="Photonoxx" creationdate="20141115T092239Z">
@@ -622,6 +630,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Center Image</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141115T100430Z" creationid="Photonoxx" creationdate="20141115T100430Z">
+        <seg>Centrer l'Image</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Channel Mixer</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141115T094123Z" creationid="Photonoxx" creationdate="20141115T094123Z">
@@ -818,6 +834,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141115T090746Z" creationid="Photonoxx" creationdate="20141115T090746Z">
         <seg>Intentsité Couleur</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Color Management</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141115T100600Z" creationid="Photonoxx" creationdate="20141115T100600Z">
+        <seg>Gestion de Couleur</seg>
       </tuv>
     </tu>
     <tu>
@@ -2734,6 +2758,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Page Setup...</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141115T100419Z" creationid="Photonoxx" creationdate="20141115T100419Z">
+        <seg>Mise en page...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Paste Region</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141111T143423Z" creationid="Photonoxx" creationdate="20141111T143423Z">
@@ -2874,6 +2906,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141106T131418Z" creationid="Photonoxx" creationdate="20141106T131418Z">
         <seg>Imprimer...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Printer Managed Colors</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141115T100546Z" creationid="Photonoxx" creationdate="20141115T100519Z">
+        <seg>Couleurs gérées par l'Imprimante</seg>
       </tuv>
     </tu>
     <tu>
@@ -4674,6 +4714,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141115T084741Z" creationid="Photonoxx" creationdate="20141115T084741Z">
         <seg>Zone du Zone Mapper</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Zone Placement</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141115T100409Z" creationid="Photonoxx" creationdate="20141115T100409Z">
+        <seg>Placement de Zone</seg>
       </tuv>
     </tu>
     <tu>

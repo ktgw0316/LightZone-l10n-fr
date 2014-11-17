@@ -94,6 +94,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(Opposite of Lighten.)</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141117T111023Z" creationid="Photonoxx" creationdate="20141117T111023Z">
+        <seg>(Opposé de Éclaircir.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>(See also: Exclusion.)</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141117T111211Z" creationid="Photonoxx" creationdate="20141117T111211Z">
+        <seg>(Voir aussi : Exclusion.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(The previews will be recomputed automatically.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141111T150859Z" creationid="Photonoxx" creationdate="20141111T150859Z">
@@ -1514,6 +1530,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141115T090936Z" creationid="Photonoxx" creationdate="20141115T090936Z">
         <seg>Détail</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Difference</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141117T111027Z" creationid="Photonoxx" creationdate="20141117T111027Z">
+        <seg>Différence</seg>
       </tuv>
     </tu>
     <tu>
@@ -4894,6 +4918,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Subtracts either the blend color from the base color or the base color from the blend color depending on whichever is brighter.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141117T111201Z" creationid="Photonoxx" creationdate="20141117T111201Z">
+        <seg>Soustrait soit la couleur de fusion de la couleur de base, soit la couleur de base de la couleur de fusion, en fonction de laquelle est la plus claire.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Swap Tools</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141115T092529Z" creationid="Photonoxx" creationdate="20141115T092529Z">
@@ -4954,6 +4986,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141111T102053Z" creationid="Photonoxx" creationdate="20141111T102053Z">
         <seg>La quantité de mémoire que LightZone doit utiliser</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The result color is either the base or blend color, whichever is darker.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141117T110958Z" creationid="Photonoxx" creationdate="20141117T110958Z">
+        <seg>La couleur finale sera soit la couleur de base soit la couleur de fusion, choisissant la plus sombre des deux.</seg>
       </tuv>
     </tu>
     <tu>

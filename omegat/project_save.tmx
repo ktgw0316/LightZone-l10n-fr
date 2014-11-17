@@ -2870,6 +2870,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>LightZone: Photo Buttons Overview</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141117T151253Z" creationid="Photonoxx" creationdate="20141117T151218Z">
+        <seg>LightZone: Vue d'ensemble des boutons d'Actions Photo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Lighten</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141117T112524Z" creationid="Photonoxx" creationdate="20141117T112524Z">
@@ -3414,6 +3422,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Overview of the photo buttons.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141117T151239Z" creationid="Photonoxx" creationdate="20141117T151239Z">
+        <seg>Vue d'ensemble des boutons d'Actions Photo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Page Setup...</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141115T100419Z" creationid="Photonoxx" creationdate="20141115T100419Z">
@@ -3450,6 +3466,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141117T140915Z" creationid="Photonoxx" creationdate="20141117T140915Z">
         <seg>Les motifs ou couleurs recouvre les pixels existants tandis que sont préservées les hautes et basses lumières des couleurs de base.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Photo buttons overview</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141117T151312Z" creationid="Photonoxx" creationdate="20141117T151312Z">
+        <seg>Vue d'ensemble des boutons d'Actions Photo</seg>
       </tuv>
     </tu>
     <tu>

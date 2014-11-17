@@ -5182,10 +5182,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This blending mode causes only the shadows to be affected.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141117T142609Z" creationid="Photonoxx" creationdate="20141117T142609Z">
+        <seg>Ce mode de fusion n'applique la couleur de fusion que sur les tons foncés.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This blending mode has no effect; therefore, the blend and result colors are the same.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141117T105718Z" creationid="Photonoxx" creationdate="20141117T105718Z">
         <seg>Ce mode de fusion n'a pas d'effet; de ce fait, les couleurs de fusion et les couleurs finales sont identiques.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This blending mode is similar to the Color Burn blending mode except that the effect results in less saturation and contrast.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141117T142752Z" creationid="Photonoxx" creationdate="20141117T142752Z">
+        <seg>Ce mode de fusion est similaire au mode de fusion Color Burn excepté que le résultat est moins saturé et contrasté.</seg>
       </tuv>
     </tu>
     <tu>

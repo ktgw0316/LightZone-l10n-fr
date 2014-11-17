@@ -78,6 +78,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(Opposite of Color Burn.)</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141117T110353Z" creationid="Photonoxx" creationdate="20141117T110353Z">
+        <seg>(Opposé de Color Burn.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(Opposite of Color Dodge.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141117T110149Z" creationid="Photonoxx" creationdate="20141117T110149Z">

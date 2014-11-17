@@ -4742,6 +4742,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The RGB color space can represent all luminosities from 100% white to 100% black.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141117T095052Z" creationid="Photonoxx" creationdate="20141117T095052Z">
+        <seg>L'espace couleur RVB peut représenter tous les degrés de luminosité du Blanc à 100% jusqu'au Noir à 100%.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The Settings include things like:</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141111T101934Z" creationid="Photonoxx" creationdate="20141111T101934Z">
@@ -5138,6 +5146,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141115T081547Z" creationid="Photonoxx" creationdate="20141115T081547Z">
         <seg>Quand vous dessinez des régions, LightZone peut mettre à jour la photo en temps réel, seulement après chaque modification, ou seulement une fois que les régions sont validées.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When either &lt;a0&gt;converting&lt;/a0&gt; or &lt;a1&gt;printing&lt;/a1&gt; your photos using application managed colors, you can enable &lt;e2&gt;black point compensation&lt;/e2&gt; when the &lt;a3&gt;rendering intent&lt;/a3&gt; is Relative Colorimetric.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141117T094921Z" creationid="Photonoxx" creationdate="20141117T094921Z">
+        <seg>Lorsque vous &lt;a0&gt;convertissez&lt;/a0&gt; ou &lt;a1&gt;imprimez&lt;/a1&gt; vos photos avec les couleurs gérées par le logiciel, vous pourvez activer &lt;e2&gt;la Compensation du Point Noir&lt;/e2&gt; lorsque &lt;a3&gt;l'Intention de Rendu&lt;/a3&gt; est sur Colorimétrie Relative.</seg>
       </tuv>
     </tu>
     <tu>

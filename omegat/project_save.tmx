@@ -3406,6 +3406,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Ordinarily, a tool affects your entire photo.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141117T152334Z" creationid="Photonoxx" creationdate="20141117T152334Z">
+        <seg>D'ordinaire, un outil affecte la totalité de votre photo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Orient</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141114T180313Z" creationid="Photonoxx" creationdate="20141114T180313Z">
@@ -5754,6 +5762,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141115T095649Z" creationid="Photonoxx" creationdate="20141115T095649Z">
         <seg>Commentaire</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Using a color/luminosity selection, you can restrict a tool's effect to just a selected hue or luminosity range.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141117T152542Z" creationid="Photonoxx" creationdate="20141117T152542Z">
+        <seg>En utilisant une Sélection de Couleur/Luminosité, vous pouvez restreindre l'effet de l'outil à une gamme de teinte et/ou de luminosité sélectionnée.</seg>
       </tuv>
     </tu>
     <tu>

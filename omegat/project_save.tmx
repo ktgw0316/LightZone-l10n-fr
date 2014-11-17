@@ -2070,6 +2070,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Hence, the darkest black of your photo becomes the darkest black that the device can render.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141117T100358Z" creationid="Photonoxx" creationdate="20141117T100358Z">
+        <seg>Il en résultera que le noir le plus sombre de votre photo deviendra le noir le plus sombre que le périphérique pourra restituer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Hide Crop Tool</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141114T184332Z" creationid="Photonoxx" creationdate="20141114T184332Z">

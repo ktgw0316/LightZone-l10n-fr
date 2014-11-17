@@ -1350,6 +1350,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Darkens the base color to reflect the blend color by increasing contrast.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141117T110017Z" creationid="Photonoxx" creationdate="20141117T105842Z">
+        <seg>Assombrit la couleur de base  pour refléter la couleur de fusion en augmentant le contraste.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Debug</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141111T145146Z" creationid="Photonoxx" creationdate="20141111T145146Z">
@@ -5018,6 +5026,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141115T081030Z" creationid="Photonoxx" creationdate="20141115T081030Z">
         <seg>C'est le Dossier où LightZone enregistre temporairement des données pendant que vous éditez vos photos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This is the same as the Normal blending mode but at 50% opacity.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141117T105823Z" creationid="Photonoxx" creationdate="20141117T105823Z">
+        <seg>Agit de la même façon que le mode de fusion Normal, mais avec une opacité de 50%.</seg>
       </tuv>
     </tu>
     <tu>

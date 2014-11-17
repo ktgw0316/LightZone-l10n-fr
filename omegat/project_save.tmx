@@ -5198,6 +5198,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This blending mode is a combination of both the Color Dodge and inverse Color Burn modes, but much smoother than either.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141117T143920Z" creationid="Photonoxx" creationdate="20141117T143920Z">
+        <seg>Ce mode de fusion est une combinaison des modes Color Dodge et du mode Color Burn inversé, mais bien plus doux que l'un ou l'autre.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This blending mode is similar to the Color Burn blending mode except that the effect results in less saturation and contrast.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141117T142752Z" creationid="Photonoxx" creationdate="20141117T142752Z">

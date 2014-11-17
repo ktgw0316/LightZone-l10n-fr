@@ -934,10 +934,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Click the &lt;a0&gt;Color Selection tab&lt;/a0&gt; to reveal the color/luminosity selection controls.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141117T153202Z" creationid="Photonoxx" creationdate="20141117T153202Z">
+        <seg>Cliquez sur &lt;a0&gt;l'onglet Sélection Couleur&lt;/a0&gt; pour afficher les contrôles de Sélection de Couleur/Luminosité.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Click the Crop button again to commit.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141106T102945Z" creationid="Photonoxx" creationdate="20141106T102945Z">
         <seg>Cliquez à nouveau sur le bouton recadrer pour valider.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Click the eyedropper button.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141117T153231Z" creationid="Photonoxx" creationdate="20141117T153231Z">
+        <seg>Cliquez sur le bouton de la pipette.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4618,6 +4634,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141115T093418Z" creationid="Photonoxx" creationdate="20141115T093418Z">
         <seg>Choisir la Gamme de luminosité</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Select the tool that you want to make a color/luminosity selection for by clicking its title bar.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141117T153053Z" creationid="Photonoxx" creationdate="20141117T153053Z">
+        <seg>Choisir l'outil pour lequel vous voulez définir une Sélection de Couleur/Luminosité en cliquand sur sa barre de titre.</seg>
       </tuv>
     </tu>
     <tu>

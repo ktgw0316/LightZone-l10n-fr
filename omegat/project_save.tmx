@@ -136,8 +136,8 @@
       <tuv lang="EN-US">
         <seg>(The color/luminosity selections as well as the &lt;a0&gt;Color Selection Viewer&lt;/a0&gt; will update to reflect the selected color/luminosity.)</seg>
       </tuv>
-      <tuv lang="FR" changeid="Photonoxx" changedate="20141117T154043Z" creationid="Photonoxx" creationdate="20141117T154043Z">
-        <seg>(La The color/luminosity selections as well as the &lt;a0&gt;Color Selection Viewer&lt;/a0&gt; will update to reflect the selected color/luminosity.)</seg>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141117T154501Z" creationid="Photonoxx" creationdate="20141117T154043Z">
+        <seg>(La Sélection de Couleur/Luminosité de même que  &lt;a0&gt;l'Aperçu du Masque de Couleur&lt;/a0&gt; se mettront à jour pour refléter la couleur/luminosité sélectionnée.)</seg>
       </tuv>
     </tu>
     <tu>
@@ -3450,6 +3450,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141106T131134Z" creationid="Photonoxx" creationdate="20141106T131134Z">
         <seg>Ouverture...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Optionally, adjust the Range slider to increase or decrease the range of hues selected around the color shown by the color swatch.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141117T154742Z" creationid="Photonoxx" creationdate="20141117T154742Z">
+        <seg>Optionnellement, ajustez le curseur de Gamme pour agrandir ou réduire la gamme de teintes sélectionnées autour de la couleur affichée par l'échantillon de couleur.</seg>
       </tuv>
     </tu>
     <tu>

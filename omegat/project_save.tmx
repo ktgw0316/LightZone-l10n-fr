@@ -1422,6 +1422,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Description of the various blending modes.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141117T100915Z" creationid="Photonoxx" creationdate="20141117T100915Z">
+        <seg>Description des différents Modes de Fusion.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Detail</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141115T090936Z" creationid="Photonoxx" creationdate="20141115T090936Z">
@@ -2198,6 +2206,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>However, because the luminosity range is compressed, information from your photo is still lost: the loss is just evenly spread out over the entire luminosity range (and thus less noticeable) rather than being truncated at the black end.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141117T100832Z" creationid="Photonoxx" creationdate="20141117T100832Z">
+        <seg>Cependant, comme la gamme de luminosité est compressée, des informations de votre photo restent perdues : cette perte sera juste répartie sur toute la gamme de luminosité (et de ce fait sera moins perceptible) plutôt que d'être tronquée au delà de la limite Noire.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Hue</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141115T091045Z" creationid="Photonoxx" creationdate="20141115T091045Z">
@@ -2650,6 +2666,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141117T094403Z" creationid="Photonoxx" creationdate="20141117T094403Z">
         <seg>LightZone: Compensation du Point Noir</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>LightZone: Blending Modes</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141117T100849Z" creationid="Photonoxx" creationdate="20141117T100849Z">
+        <seg>LightZone: Les Modes de Fusion</seg>
       </tuv>
     </tu>
     <tu>

@@ -454,6 +454,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Average</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141117T105729Z" creationid="Photonoxx" creationdate="20141117T105729Z">
+        <seg>Moyenne</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Base color</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141117T101633Z" creationid="Photonoxx" creationdate="20141117T101633Z">
@@ -4934,6 +4942,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This blending mode has no effect; therefore, the blend and result colors are the same.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141117T105718Z" creationid="Photonoxx" creationdate="20141117T105718Z">
+        <seg>Ce mode de fusion n'a pas d'effet; de ce fait, les couleurs de fusion et les couleurs finales sont identiques.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This can fix lots of problems, but loses your customizations.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141115T080015Z" creationid="Photonoxx" creationdate="20141115T080015Z">
@@ -5346,6 +5362,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141115T080723Z" creationid="Photonoxx" creationdate="20141115T080723Z">
         <seg>À l'enregistrement de votre photo la première fois, le sélecteur de fichier peut afficher automatiquement le dossier de la photo d'origine, ou afficher le dernier dossier où LightZone a enregistré quelque chose.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>While descriptions for each are below, it's best to experiment.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141117T105611Z" creationid="Photonoxx" creationdate="20141117T105611Z">
+        <seg>Bien qu'une description pour chacun se trouve ci-dessous, il est mieux d'expérimenter.</seg>
       </tuv>
     </tu>
     <tu>

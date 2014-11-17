@@ -5094,6 +5094,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The base color is not replaced, but is mixed with the blend color to reflect the relative lightness or darkness of the original color.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141117T141338Z" creationid="Photonoxx" creationdate="20141117T141338Z">
+        <seg>La couleur de base n'est pas remplacée, mais mélangxée avec la couleur de fusion pour refléter les tons clairs ou foncés de la couleur d'origine.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The effect is similar to projecting multiple photographic slides onto the same screen.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141117T135626Z" creationid="Photonoxx" creationdate="20141117T135626Z">

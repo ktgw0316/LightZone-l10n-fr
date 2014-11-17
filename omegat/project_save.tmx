@@ -78,6 +78,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(Opposite of Color Dodge.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141117T110149Z" creationid="Photonoxx" creationdate="20141117T110149Z">
+        <seg>(à l'opposé de Color Dodge.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(The previews will be recomputed automatically.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141111T150859Z" creationid="Photonoxx" creationdate="20141111T150859Z">
@@ -594,6 +602,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141111T145437Z" creationid="Photonoxx" creationdate="20141111T145437Z">
         <seg>Bleus</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Brightens the base color to reflect the blend color by decreasing contrast.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141117T110332Z" creationid="Photonoxx" creationdate="20141117T110332Z">
+        <seg>Éclaircit la couleur de base pour refléter la couleur de fusion en diminuant le contraste.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4266,6 +4282,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141117T103331Z" creationid="Photonoxx" creationdate="20141117T103331Z">
         <seg>Ensuite, comme le montré par les flèches rouges, les couleurs de base et de fusion sont fusionnées ensemble en utilisant un mode de fusion pour produire les couleurs finales.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>See also: Soft Burn.)</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141117T110158Z" creationid="Photonoxx" creationdate="20141117T110158Z">
+        <seg>Voir aussi: Soft Burn.)</seg>
       </tuv>
     </tu>
     <tu>

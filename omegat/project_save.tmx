@@ -598,6 +598,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Browser anatomy</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141117T093029Z" creationid="Photonoxx" creationdate="20141117T093029Z">
+        <seg>Présentation du Navigateur</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Can't Launch LightZone</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141115T104054Z" creationid="Photonoxx" creationdate="20141115T104054Z">
@@ -1370,6 +1378,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141115T091002Z" creationid="Photonoxx" creationdate="20141115T091002Z">
         <seg>Profondeur</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Description of the parts of the browser window.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141117T092957Z" creationid="Photonoxx" creationdate="20141117T092957Z">
+        <seg>Description des parties de la fenêtre du navigateur.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2722,6 +2738,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141114T182653Z" creationid="Photonoxx" creationdate="20141114T182646Z">
         <seg>Déplacer $1 images sélectionnées vers la Poubelle ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Move the mouse to an area of interest and click to learn more about it.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141117T093130Z" creationid="Photonoxx" creationdate="20141117T093130Z">
+        <seg>Déplacez la souris vers une zone d'intérêt et cliquez pour en apprendre plus à son sujet.</seg>
       </tuv>
     </tu>
     <tu>

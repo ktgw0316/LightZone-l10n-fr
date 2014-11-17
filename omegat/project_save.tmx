@@ -550,6 +550,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Blend color</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141117T102306Z" creationid="Photonoxx" creationdate="20141117T102306Z">
+        <seg>Couleur de Fusion</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Blending Mode</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141115T091629Z" creationid="Photonoxx" creationdate="20141115T091629Z">
@@ -3886,6 +3894,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Result color</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141117T102333Z" creationid="Photonoxx" creationdate="20141117T102333Z">
+        <seg>Couleur Finale</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Revert</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141111T130623Z" creationid="Photonoxx" creationdate="20141111T130623Z">
@@ -4928,8 +4944,8 @@
       <tuv lang="EN-US">
         <seg>This is the color of a pixel after a tool's effect has been applied to the photo.</seg>
       </tuv>
-      <tuv lang="FR" changeid="Photonoxx" changedate="20141117T101943Z" creationid="Photonoxx" creationdate="20141117T101943Z">
-        <seg>C'est la couleur d'un pixel après que le résultat d'un outil n'ait été appliqué à la photo.</seg>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141117T102326Z" creationid="Photonoxx" creationdate="20141117T101943Z">
+        <seg>C'est la couleur d'un pixel après que le résultat d'un outil ait été appliqué à la photo.</seg>
       </tuv>
     </tu>
     <tu>

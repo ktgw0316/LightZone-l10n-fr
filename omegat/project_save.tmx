@@ -3110,6 +3110,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Output devices (such as printers and computer displays) often have limitations in how black the darkest black they can render is.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141117T095330Z" creationid="Photonoxx" creationdate="20141117T095330Z">
+        <seg>Les périphériques de sortie (comme les imprimantes et les écrans d'ordinateurs) sont souvent limité quant à leur possibilité de restitution des Noirs les plus sombres.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Output to:</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141111T095705Z" creationid="Photonoxx" creationdate="20141111T095705Z">

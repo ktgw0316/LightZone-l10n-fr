@@ -5110,6 +5110,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The base colors are darkened slightly with very bright blend colors dodged in.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141117T144209Z" creationid="Photonoxx" creationdate="20141117T144209Z">
+        <seg>Les couleurs de base sont légèrement assombries avec  des couleurs de fusions très claires.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The effect is similar to projecting multiple photographic slides onto the same screen.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141117T135626Z" creationid="Photonoxx" creationdate="20141117T135626Z">
@@ -5186,6 +5194,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141117T142609Z" creationid="Photonoxx" creationdate="20141117T142609Z">
         <seg>Ce mode de fusion n'applique la couleur de fusion que sur les tons foncés.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This blending mode darkens or lightens the colors depending on the blend color.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141117T144313Z" creationid="Photonoxx" creationdate="20141117T144313Z">
+        <seg>Ce mode de fusion assombrit ou éclaircit les couleurs en fonctions de la couleur de fusion.</seg>
       </tuv>
     </tu>
     <tu>

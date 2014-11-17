@@ -334,6 +334,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Along the top-left of the LightZone browser window is a toolbar containing the set of photo buttons shown below.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141117T151524Z" creationid="Photonoxx" creationdate="20141117T151524Z">
+        <seg>Positionnée en haut à gauche de la fenêtre du Navigateur de LightZone se trouve une barre d'outil contenant l'ensemble des boutons d'Actions photo ci-dessous.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Always apply this Style</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141111T101050Z" creationid="Photonoxx" creationdate="20141111T101050Z">
@@ -5090,6 +5098,22 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141115T091219Z" creationid="Photonoxx" creationdate="20141115T091219Z">
         <seg>Température</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The &lt;b0&gt;Edit&lt;/b0&gt; button is equivalent to Browser &gt; Edit.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141117T151626Z" creationid="Photonoxx" creationdate="20141117T151626Z">
+        <seg>Le bouton &lt;b0&gt;Éditer&lt;/b0&gt; est équivalent à Navigateur &gt; Éditer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The &lt;b0&gt;Open&lt;/b0&gt; button is equivalent to File &gt; &lt;a1&gt;Open&lt;/a1&gt;.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141117T151711Z" creationid="Photonoxx" creationdate="20141117T151711Z">
+        <seg>Le bouton &lt;b0&gt;Ouvrir&lt;/b0&gt; est équivalent à Fichier &gt; &lt;a1&gt;Ouvrir&lt;/a1&gt;.</seg>
       </tuv>
     </tu>
     <tu>

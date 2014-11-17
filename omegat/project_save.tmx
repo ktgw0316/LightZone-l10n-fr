@@ -2478,6 +2478,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If you are satisfied with the color/luminosity selection, click the eyedropper button again to complete the selection.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141117T155149Z" creationid="Photonoxx" creationdate="20141117T155149Z">
+        <seg>Si vous êtes satisfait par la Sélection de Couleur/Luminosité, cliquez de nouveau sur la pipette pour terminer la sélection.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If you do not set this option, LightZone will use an sRGB default profile.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141111T151545Z" creationid="Photonoxx" creationdate="20141111T151545Z">
@@ -3958,6 +3966,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Regions and masks</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141117T155206Z" creationid="Photonoxx" creationdate="20141117T155206Z">
+        <seg>Régions and masques</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Remember Preset</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141115T092226Z" creationid="Photonoxx" creationdate="20141115T092226Z">
@@ -4578,6 +4594,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141117T103331Z" creationid="Photonoxx" creationdate="20141117T103331Z">
         <seg>Ensuite, comme le montré par les flèches rouges, les couleurs de base et de fusion sont fusionnées ensemble en utilisant un mode de fusion pour produire les couleurs finales.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>See also:</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141117T155155Z" creationid="Photonoxx" creationdate="20141117T155155Z">
+        <seg>Voir aussi :</seg>
       </tuv>
     </tu>
     <tu>
@@ -5674,6 +5698,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141111T150308Z" creationid="Photonoxx" creationdate="20141111T150308Z">
         <seg>Pour économiser du travail, le Navigateur enregistre des Aperçus dans un dossier de cache spécial.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To select all colors except the selected color, click the Invert checkbox.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141117T155048Z" creationid="Photonoxx" creationdate="20141117T155048Z">
+        <seg>Pour sélectionner toutes les couleurs exceptées les couleurs sélectionnées, cochez la case Inverser.</seg>
       </tuv>
     </tu>
     <tu>

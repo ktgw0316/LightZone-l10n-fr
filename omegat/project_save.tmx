@@ -3070,6 +3070,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Multiply</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141117T113058Z" creationid="Photonoxx" creationdate="20141117T113058Z">
+        <seg>Multiplier</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>My Computer</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141114T181136Z" creationid="Photonoxx" creationdate="20141114T181136Z">
@@ -5098,6 +5106,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141117T105718Z" creationid="Photonoxx" creationdate="20141117T105718Z">
         <seg>Ce mode de fusion n'a pas d'effet; de ce fait, les couleurs de fusion et les couleurs finales sont identiques.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This blending mode is the same as the Normal blending mode except that the effect is applied only to midtones and highlights.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141117T113002Z" creationid="Photonoxx" creationdate="20141117T113002Z">
+        <seg>Ce mode de fusion est le même que le mode de fusion Normal excepté que l'outil n'est appliqué qu'aux tons moyens et aux hautes lumières.</seg>
       </tuv>
     </tu>
     <tu>

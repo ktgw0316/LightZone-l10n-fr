@@ -1086,6 +1086,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Color/Luminosity selection</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141117T152233Z" creationid="Photonoxx" creationdate="20141117T152233Z">
+        <seg>Sélection de Couleur/Luminosité</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Common aspect ratios</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141114T183922Z" creationid="Photonoxx" creationdate="20141114T183825Z">
@@ -2878,6 +2886,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>LightZone: Color/Luminosity Selection</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141117T152124Z" creationid="Photonoxx" creationdate="20141117T152124Z">
+        <seg>LightZone: Sélection de Couleur/Luminosité</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>LightZone: Editor Anatomy</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141117T093600Z" creationid="Photonoxx" creationdate="20141117T093600Z">
@@ -4126,6 +4142,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Restricting tools' effect to a color/luminosity range.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141117T152215Z" creationid="Photonoxx" creationdate="20141117T152215Z">
+        <seg>Restreindre l'effet d'un outil à une gamme de couleur/luminosité.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Result color</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141117T102333Z" creationid="Photonoxx" creationdate="20141117T102333Z">
@@ -5106,6 +5130,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141115T091219Z" creationid="Photonoxx" creationdate="20141115T091219Z">
         <seg>Température</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The &lt;b0&gt;Convert&lt;/b0&gt; button is equivalent to File &gt; &lt;a1&gt;Convert&lt;/a1&gt;.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141117T152039Z" creationid="Photonoxx" creationdate="20141117T152039Z">
+        <seg>Le bouton &lt;b0&gt;Convertir&lt;/b0&gt; est équivalent à Fichier &gt; &lt;a1&gt;Convertir&lt;/a1&gt;.</seg>
       </tuv>
     </tu>
     <tu>

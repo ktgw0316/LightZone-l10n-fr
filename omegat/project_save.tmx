@@ -166,6 +166,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;a1&gt;More on styles...&lt;/a1&gt;</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141117T151929Z" creationid="Photonoxx" creationdate="20141117T151929Z">
+        <seg>&lt;a1&gt;En savoir plus sur les Styles...&lt;/a1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;html&gt;Continue  (The program may now be unstable)&lt;/html&gt;</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141111T100806Z" creationid="Photonoxx" creationdate="20141111T100806Z">
@@ -5114,6 +5122,30 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141117T151711Z" creationid="Photonoxx" creationdate="20141117T151711Z">
         <seg>Le bouton &lt;b0&gt;Ouvrir&lt;/b0&gt; est équivalent à Fichier &gt; &lt;a1&gt;Ouvrir&lt;/a1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The &lt;b0&gt;Print&lt;/b0&gt; button is equivalent to File &gt; &lt;a1&gt;Print&lt;/a1&gt;.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141117T151800Z" creationid="Photonoxx" creationdate="20141117T151800Z">
+        <seg>Le bouton &lt;b0&gt;Imprimer&lt;/b0&gt; est équivalent à Fichier &gt; &lt;a1&gt;Imprimer&lt;/a1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The &lt;b0&gt;Send&lt;/b0&gt; button is equivalent to File &gt; &lt;a1&gt;Send&lt;/a1&gt;.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141117T152000Z" creationid="Photonoxx" creationdate="20141117T152000Z">
+        <seg>Le bouton &lt;b0&gt;Envoyer&lt;/b0&gt; est équivalent à Fichier &gt; &lt;a1&gt;Envoyer&lt;/a1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The &lt;b0&gt;Styles&lt;/b0&gt; button allows you to apply a style to the photos of the currently selected thumbnails.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141117T151915Z" creationid="Photonoxx" creationdate="20141117T151915Z">
+        <seg>Le bouton &lt;b0&gt;Styles&lt;/b0&gt;  vous permet d'appliquer un Style aux photos dont les aperçus sont actuellement sélectionnés.</seg>
       </tuv>
     </tu>
     <tu>

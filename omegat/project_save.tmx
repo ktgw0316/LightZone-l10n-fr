@@ -1958,6 +1958,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>First, as shown by the green arrows, the base colors of a photo have a tool's effect applied to them producing the blend colors.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141117T103150Z" creationid="Photonoxx" creationdate="20141117T103150Z">
+        <seg>D'abord, comme montré par les flèches vertes, les couleurs de base de la photo  sont modifiées par l'outil pour produire les couleurs de fusions.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Fit image to screen</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141115T085335Z" creationid="Photonoxx" creationdate="20141115T085335Z">
@@ -4234,6 +4242,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141111T100355Z" creationid="Photonoxx" creationdate="20141111T100355Z">
         <seg>Chercher</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Second, as shown by the red arrows, the base and blend colors are blended together using a blending mode producing the result colors.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141117T103331Z" creationid="Photonoxx" creationdate="20141117T103331Z">
+        <seg>Ensuite, comme le montré par les flèches rouges, les couleurs de base et de fusion sont fusionnées ensemble en utilisant un mode de fusion pour produire les couleurs finales.</seg>
       </tuv>
     </tu>
     <tu>

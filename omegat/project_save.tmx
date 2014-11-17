@@ -4942,10 +4942,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This is illustrated in the figure below.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141117T102713Z" creationid="Photonoxx" creationdate="20141117T102713Z">
+        <seg>Ceci est expliqué dans l'illustration ci-dessous.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This is the color of a pixel after a tool's effect has been applied to the photo.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141117T102326Z" creationid="Photonoxx" creationdate="20141117T101943Z">
         <seg>C'est la couleur d'un pixel après que le résultat d'un outil ait été appliqué à la photo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This is the color of a pixel after its base and blend colors have been blended together using a blending mode.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141117T102635Z" creationid="Photonoxx" creationdate="20141117T102635Z">
+        <seg>C'est la couleur d'un pixel après que ses couleurs de base et de fusion aient été fusionnées ensemble en utilisant un mode fusion.</seg>
       </tuv>
     </tu>
     <tu>

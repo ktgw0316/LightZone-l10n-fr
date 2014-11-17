@@ -4414,6 +4414,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Screen</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141117T141435Z" creationid="Photonoxx" creationdate="20141117T141435Z">
+        <seg>Superposition</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Search</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141111T100355Z" creationid="Photonoxx" creationdate="20141111T100355Z">
@@ -5096,8 +5104,8 @@
       <tuv lang="EN-US">
         <seg>The base color is not replaced, but is mixed with the blend color to reflect the relative lightness or darkness of the original color.</seg>
       </tuv>
-      <tuv lang="FR" changeid="Photonoxx" changedate="20141117T141338Z" creationid="Photonoxx" creationdate="20141117T141338Z">
-        <seg>La couleur de base n'est pas remplacée, mais mélangxée avec la couleur de fusion pour refléter les tons clairs ou foncés de la couleur d'origine.</seg>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141117T141410Z" creationid="Photonoxx" creationdate="20141117T141338Z">
+        <seg>La couleur de base n'est pas remplacée, mais mixée avec la couleur de fusion pour refléter les tons clairs ou foncés de la couleur d'origine.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5178,6 +5186,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141117T135850Z" creationid="Photonoxx" creationdate="20141117T135850Z">
         <seg>Ce mode de fusion est similaire au mode de fusion Exclusion excepté un rendu  de couleurs plus claires et plus vives.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This blending mode is similar to the Multiply blending mode except that it multiplies the inverse of the blend and base colors.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141117T141633Z" creationid="Photonoxx" creationdate="20141117T141633Z">
+        <seg>Ce mode de fusion est similaire au mode de fusion Multiplier excepté qu'il multiplie l'inverse de la couleur de fusion et la couleur de base.</seg>
       </tuv>
     </tu>
     <tu>

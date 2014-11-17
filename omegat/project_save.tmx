@@ -3078,6 +3078,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Multiplies or screens the colors depending on the base color.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141117T140609Z" creationid="Photonoxx" creationdate="20141117T140609Z">
+        <seg>Multiplie ou superpose les couleurs, en fonction de la couleur de Base.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Multiply</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141117T140342Z" creationid="Photonoxx" creationdate="20141117T113058Z">

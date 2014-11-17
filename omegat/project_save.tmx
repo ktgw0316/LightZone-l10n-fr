@@ -2398,6 +2398,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If the blend color is lighter, the image is lightened as if it were dodged; if the blend color is darker, the image is darkened as if it were burned in.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141117T145658Z" creationid="Photonoxx" creationdate="20141117T145658Z">
+        <seg>Si la couleur de fusion est plus claire, l'image est éclaircie comme si elle était moins dense; si la couleur de fusion est plus sombre, l'image est assombrie comme si elle était plus dense.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If you do not set this option, LightZone will use an sRGB default profile.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141111T151545Z" creationid="Photonoxx" creationdate="20141111T151545Z">

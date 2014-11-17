@@ -5126,6 +5126,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The result color is always lighter.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141117T141703Z" creationid="Photonoxx" creationdate="20141117T141703Z">
+        <seg>La couleur finale est toujours plus claire.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The result color is either the base or blend color, whichever is darker.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141117T110958Z" creationid="Photonoxx" creationdate="20141117T110958Z">

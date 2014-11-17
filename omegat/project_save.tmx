@@ -510,6 +510,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Black point compensation attempts to resolve the difference between the darkest black in your photo and the darkest black that a particular device can render.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141117T095540Z" creationid="Photonoxx" creationdate="20141117T095540Z">
+        <seg>La Compensation du Point Noir tente de résoudre la différence entre le Noir le plus sombre de votre photo et le Noir le plus sombre que peut restituer votre périphérique.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Blend</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141115T091322Z" creationid="Photonoxx" creationdate="20141115T091322Z">

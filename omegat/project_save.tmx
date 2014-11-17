@@ -542,6 +542,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Blending modes</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141117T100926Z" creationid="Photonoxx" creationdate="20141117T100926Z">
+        <seg>Les Modes de Fusion</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Blue</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141115T090527Z" creationid="Photonoxx" creationdate="20141115T090527Z">
@@ -2802,6 +2810,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141114T181220Z" creationid="Photonoxx" creationdate="20141114T181220Z">
         <seg>Date de Modification Time</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Most tools can have a &lt;e0&gt;blending mode&lt;/e0&gt; specified for them.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141117T101134Z" creationid="Photonoxx" creationdate="20141117T101134Z">
+        <seg>La plupart des outils peuvent avoir un &lt;e0&gt;mode de Fusion&lt;/e0&gt; défini pour eux.</seg>
       </tuv>
     </tu>
     <tu>

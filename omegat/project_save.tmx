@@ -80,8 +80,8 @@
       <tuv lang="EN-US">
         <seg>(Opposite of Color Burn.)</seg>
       </tuv>
-      <tuv lang="FR" changeid="Photonoxx" changedate="20141117T110353Z" creationid="Photonoxx" creationdate="20141117T110353Z">
-        <seg>(Opposé de Color Burn.)</seg>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141117T165801Z" creationid="Photonoxx" creationdate="20141117T110353Z">
+        <seg>(Opposé de Densité Couleur + .)</seg>
       </tuv>
     </tu>
     <tu>
@@ -3208,8 +3208,8 @@
       <tuv lang="EN-US">
         <seg>Multiply</seg>
       </tuv>
-      <tuv lang="FR" changeid="Photonoxx" changedate="20141117T140342Z" creationid="Photonoxx" creationdate="20141117T113058Z">
-        <seg>Multiplier</seg>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141117T165908Z" creationid="Photonoxx" creationdate="20141117T113058Z">
+        <seg>Produit</seg>
       </tuv>
     </tu>
     <tu>

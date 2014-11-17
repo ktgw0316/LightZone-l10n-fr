@@ -1374,6 +1374,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Darken</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141117T110819Z" creationid="Photonoxx" creationdate="20141117T110819Z">
+        <seg>Assombrir</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Darkens the base color to reflect the blend color by increasing contrast.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141117T110017Z" creationid="Photonoxx" creationdate="20141117T105842Z">

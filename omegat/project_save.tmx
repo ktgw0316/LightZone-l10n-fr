@@ -134,6 +134,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(The color/luminosity selections as well as the &lt;a0&gt;Color Selection Viewer&lt;/a0&gt; will update to reflect the selected color/luminosity.)</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141117T154043Z" creationid="Photonoxx" creationdate="20141117T154043Z">
+        <seg>(La The color/luminosity selections as well as the &lt;a0&gt;Color Selection Viewer&lt;/a0&gt; will update to reflect the selected color/luminosity.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(The mouse will change to an eyedropper.)</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141117T153307Z" creationid="Photonoxx" creationdate="20141117T153307Z">
@@ -938,6 +946,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141106T102626Z" creationid="Photonoxx" creationdate="20141106T102626Z">
         <seg>Cliquez sur l'image là où vous souhaitez créer une ou plusieurs régions.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Click somewhere on your photo that is either the color or luminosity you want to select.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141117T154032Z" creationid="Photonoxx" creationdate="20141117T154032Z">
+        <seg>Cliquez quelque part sur votre photo là où se trouve la couleur et/ou la luminosité que vous souhaitez sélectionner.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5648,8 +5664,8 @@
       <tuv lang="EN-US">
         <seg>To select only by hue, uncheck the Enable luminosity checkbox; to select only by luminosity, uncheck the Enable hue checkbox.</seg>
       </tuv>
-      <tuv lang="FR" changeid="Photonoxx" changedate="20141117T153415Z" creationid="Photonoxx" creationdate="20141117T153415Z">
-        <seg>Pour ne sélectionner que par Teinte, décocher Enable luminosity checkbox; to select only by luminosity, uncheck the Enable hue checkbox.</seg>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141117T153911Z" creationid="Photonoxx" creationdate="20141117T153415Z">
+        <seg>Pour ne sélectionner que par Teinte, décochez la case "Activer/désactiver le filtre de luminosité"; pour ne sélectionner que par luminosité, décochez la case "Activer/désactiver le filtre de teinte".</seg>
       </tuv>
     </tu>
     <tu>

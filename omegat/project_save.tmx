@@ -2374,6 +2374,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If the blend color is lighter than 50% gray, the color is lightened (screened); if the blend color is darker than 50% gray, the color is darkened (multiplied).</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141117T111827Z" creationid="Photonoxx" creationdate="20141117T111827Z">
+        <seg>Si la couleur de fusion est plus claire que le gris à 50%, la couleur sera éclaircie (superposée); Si la couleur de fusion est plus sombre que le gris à 50%, la couleur sera assombrie (multipliée).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If you do not set this option, LightZone will use an sRGB default profile.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141111T151545Z" creationid="Photonoxx" creationdate="20141111T151545Z">

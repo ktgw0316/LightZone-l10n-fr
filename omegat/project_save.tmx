@@ -2206,6 +2206,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If no black point compensation is done, then detail will be lost in the darkest shadow areas of your photo because the dark areas beyond the darkest black the device can render are truncated.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141117T095931Z" creationid="Photonoxx" creationdate="20141117T095931Z">
+        <seg>Si aucune Compensation du Point Noir n'est effectuée, alors des détails seront perdus dans les zones d'ombre les plus sombres de votre photo car les parties plus sombres que la capacité de restitution du périphérique seront tronquées.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If you do not set this option, LightZone will use an sRGB default profile.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141111T151545Z" creationid="Photonoxx" creationdate="20141111T151545Z">

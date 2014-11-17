@@ -128,8 +128,8 @@
       <tuv lang="EN-US">
         <seg>(See also: Screen.)</seg>
       </tuv>
-      <tuv lang="FR" changeid="Photonoxx" changedate="20141117T140409Z" creationid="Photonoxx" creationdate="20141117T135640Z">
-        <seg>(Voir aussi : Superposer.)</seg>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141117T170150Z" creationid="Photonoxx" creationdate="20141117T135640Z">
+        <seg>(Voir aussi : Superposition.)</seg>
       </tuv>
     </tu>
     <tu>
@@ -2296,8 +2296,8 @@
       <tuv lang="EN-US">
         <seg>Hard Light</seg>
       </tuv>
-      <tuv lang="FR" changeid="Photonoxx" changedate="20141117T111405Z" creationid="Photonoxx" creationdate="20141117T111405Z">
-        <seg>Lumière dure</seg>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141117T170125Z" creationid="Photonoxx" creationdate="20141117T111405Z">
+        <seg>Lumière crue</seg>
       </tuv>
     </tu>
     <tu>
@@ -5106,6 +5106,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141115T094331Z" creationid="Photonoxx" creationdate="20141115T094331Z">
         <seg>Netteté intelligente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Soft Light</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141117T170213Z" creationid="Photonoxx" creationdate="20141117T170213Z">
+        <seg>Lumière Tamisée</seg>
       </tuv>
     </tu>
     <tu>

@@ -5126,6 +5126,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The effect is similar to shining a diffused spotlight on the image.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141117T144446Z" creationid="Photonoxx" creationdate="20141117T144446Z">
+        <seg>Le résultat est similaire à braquer une lampe avec un diffuseur sur l'image.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The result color is always darker.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141117T135252Z" creationid="Photonoxx" creationdate="20141117T135252Z">

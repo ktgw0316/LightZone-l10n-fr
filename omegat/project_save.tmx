@@ -1390,6 +1390,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Description of the parts of the editor window.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141117T093639Z" creationid="Photonoxx" creationdate="20141117T093639Z">
+        <seg>Description des parties de la fenêtre de l'Éditeur.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Detail</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141115T090936Z" creationid="Photonoxx" creationdate="20141115T090936Z">
@@ -1626,6 +1634,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141111T144924Z" creationid="Photonoxx" creationdate="20141111T144924Z">
         <seg>Mode Édition</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Editor anatomy</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141117T093700Z" creationid="Photonoxx" creationdate="20141117T093700Z">
+        <seg>Présentation de l'Éditeur</seg>
       </tuv>
     </tu>
     <tu>
@@ -2594,6 +2610,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141117T092829Z" creationid="Photonoxx" creationdate="20141117T092829Z">
         <seg>LightZone: Présentation du Navigateur</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>LightZone: Editor Anatomy</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141117T093600Z" creationid="Photonoxx" creationdate="20141117T093600Z">
+        <seg>LightZone: Présentation de l'Éditeur</seg>
       </tuv>
     </tu>
     <tu>

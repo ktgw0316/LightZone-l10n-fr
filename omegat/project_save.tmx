@@ -4926,6 +4926,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This is the color of a pixel after a tool's effect has been applied to the photo.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141117T101943Z" creationid="Photonoxx" creationdate="20141117T101943Z">
+        <seg>C'est la couleur d'un pixel après que le résultat d'un outil n'ait été appliqué à la photo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This is the color of a pixel before a tool's effect has been applied to the photo.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141117T101756Z" creationid="Photonoxx" creationdate="20141117T101756Z">

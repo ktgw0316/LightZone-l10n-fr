@@ -2366,6 +2366,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Light Crafts would like to acknowledge the following people who contributed to LightZone:</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141117T092723Z" creationid="Photonoxx" creationdate="20141117T092723Z">
+        <seg>Light Crafts souhaite remercier les personnes suivantes pour avoir contribué à LightZone:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>LightZone Batch Processing</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141106T105313Z" creationid="Photonoxx" creationdate="20141106T105313Z">
@@ -2566,6 +2574,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>LightZone: Browser Anatomy</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141117T092829Z" creationid="Photonoxx" creationdate="20141117T092829Z">
+        <seg>LightZone: Présentation du Navigateur</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Loading Classes</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141111T100002Z" creationid="Photonoxx" creationdate="20141111T100002Z">
@@ -2658,6 +2674,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141111T144040Z" creationid="Photonoxx" creationdate="20141111T144040Z">
         <seg>Réduire</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Mitch Alland, Bruce Ammerman, Jamie Bsales, David Card, Anthony Dias, Jeff Donnelly, Jessica Donnelly, Romain Guy, Hans-Jürgen Hertz-Eichenrode, Jon Hill, Matthew Hollingworth, James Karney, Terry Karney, Walt Marhefka, Carlos Palma, Bud Paulding, Paul Rancuret, David Richard, Uwe Steinmueller, Mark Strathdee, Elizabeth Thrasher, Dean Tucker, Eric Vogel, John Waclo, Lalia Wilson, Ed Wolpov, and Brian Wong.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141117T092732Z" creationid="Photonoxx" creationdate="20141117T092732Z">
+        <seg>Mitch Alland, Bruce Ammerman, Jamie Bsales, David Card, Anthony Dias, Jeff Donnelly, Jessica Donnelly, Romain Guy, Hans-Jürgen Hertz-Eichenrode, Jon Hill, Matthew Hollingworth, James Karney, Terry Karney, Walt Marhefka, Carlos Palma, Bud Paulding, Paul Rancuret, David Richard, Uwe Steinmueller, Mark Strathdee, Elizabeth Thrasher, Dean Tucker, Eric Vogel, John Waclo, Lalia Wilson, Ed Wolpov, et Brian Wong.</seg>
       </tuv>
     </tu>
     <tu>

@@ -3438,6 +3438,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Patterns or colors overlay existing pixels while preserving the highlights and shadows of the base color.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141117T140915Z" creationid="Photonoxx" creationdate="20141117T140915Z">
+        <seg>Les motifs ou couleurs recouvre les pixels existants tandis que sont préservées les hautes et basses lumières des couleurs de base.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Photo viewer</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141117T093537Z" creationid="Photonoxx" creationdate="20141117T093537Z">

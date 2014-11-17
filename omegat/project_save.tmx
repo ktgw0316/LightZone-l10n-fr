@@ -5158,6 +5158,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This is useful for adding highlights or shadows to an image.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141117T111915Z" creationid="Photonoxx" creationdate="20141117T111915Z">
+        <seg>Il est utile pour ajouter des hautes lumières ou des ombres à une image.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This program has run out of memory and will now shut down.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141115T103707Z" creationid="Photonoxx" creationdate="20141115T103707Z">

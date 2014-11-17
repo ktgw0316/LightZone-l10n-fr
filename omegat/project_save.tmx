@@ -128,8 +128,8 @@
       <tuv lang="EN-US">
         <seg>(See also: Screen.)</seg>
       </tuv>
-      <tuv lang="FR" changeid="Photonoxx" changedate="20141117T135640Z" creationid="Photonoxx" creationdate="20141117T135640Z">
-        <seg>(Voir aussi : Écran.)</seg>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141117T140409Z" creationid="Photonoxx" creationdate="20141117T135640Z">
+        <seg>(Voir aussi : Superposer.)</seg>
       </tuv>
     </tu>
     <tu>
@@ -3080,7 +3080,7 @@
       <tuv lang="EN-US">
         <seg>Multiply</seg>
       </tuv>
-      <tuv lang="FR" changeid="Photonoxx" changedate="20141117T113058Z" creationid="Photonoxx" creationdate="20141117T113058Z">
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141117T140342Z" creationid="Photonoxx" creationdate="20141117T113058Z">
         <seg>Multiplier</seg>
       </tuv>
     </tu>
@@ -3386,6 +3386,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141111T095705Z" creationid="Photonoxx" creationdate="20141111T095705Z">
         <seg>Enregistré vers :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Overlay</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141117T140423Z" creationid="Photonoxx" creationdate="20141117T140423Z">
+        <seg>Incrustation</seg>
       </tuv>
     </tu>
     <tu>

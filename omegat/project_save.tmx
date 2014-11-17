@@ -110,6 +110,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(See also: Negation.)</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141117T111347Z" creationid="Photonoxx" creationdate="20141117T111347Z">
+        <seg>(Voir aussi : Negation.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(The previews will be recomputed automatically.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141111T150859Z" creationid="Photonoxx" creationdate="20141111T150859Z">
@@ -1350,6 +1358,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Creates an effect similar to, but lower in contrast than, the Difference blending mode.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141117T111333Z" creationid="Photonoxx" creationdate="20141117T111333Z">
+        <seg>Crée un effet similaire au modes de fusion Différence, mais avec un contraste moins fort.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Creator</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141115T083621Z" creationid="Photonoxx" creationdate="20141115T083621Z">
@@ -2170,6 +2186,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141111T145421Z" creationid="Photonoxx" creationdate="20141111T145421Z">
         <seg>Verts</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Hard Light</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141117T111405Z" creationid="Photonoxx" creationdate="20141117T111405Z">
+        <seg>Lumière dure</seg>
       </tuv>
     </tu>
     <tu>
@@ -5034,6 +5058,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141117T105718Z" creationid="Photonoxx" creationdate="20141117T105718Z">
         <seg>Ce mode de fusion n'a pas d'effet; de ce fait, les couleurs de fusion et les couleurs finales sont identiques.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This blending mode multiplies or screens the colors, depending on the blend color.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141117T111548Z" creationid="Photonoxx" creationdate="20141117T111548Z">
+        <seg>Ce mode de fusion multiplie ou superpose les couleurs de base et de fusion, en fonction de la couleur de fusion.</seg>
       </tuv>
     </tu>
     <tu>

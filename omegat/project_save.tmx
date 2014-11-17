@@ -126,6 +126,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(See also: Screen.)</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141117T135640Z" creationid="Photonoxx" creationdate="20141117T135640Z">
+        <seg>(Voir aussi : Écran.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(The previews will be recomputed automatically.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141111T150859Z" creationid="Photonoxx" creationdate="20141111T150859Z">
@@ -3094,6 +3102,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Negation</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141117T135708Z" creationid="Photonoxx" creationdate="20141117T135708Z">
+        <seg>Négation</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>New Window</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141111T142549Z" creationid="Photonoxx" creationdate="20141111T142549Z">
@@ -5122,6 +5138,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141117T105718Z" creationid="Photonoxx" creationdate="20141117T105718Z">
         <seg>Ce mode de fusion n'a pas d'effet; de ce fait, les couleurs de fusion et les couleurs finales sont identiques.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This blending mode is similar to the Exclusion blending mode except that it shows brighter and more vibrant colors.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141117T135850Z" creationid="Photonoxx" creationdate="20141117T135850Z">
+        <seg>Ce mode de fusion est similaire au mode de fusion Exclusion excepté un rendu  de couleurs plus claires et plus vives.</seg>
       </tuv>
     </tu>
     <tu>

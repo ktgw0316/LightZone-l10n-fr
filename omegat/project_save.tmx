@@ -88,8 +88,8 @@
       <tuv lang="EN-US">
         <seg>(Opposite of Color Dodge.</seg>
       </tuv>
-      <tuv lang="FR" changeid="Photonoxx" changedate="20141117T110149Z" creationid="Photonoxx" creationdate="20141117T110149Z">
-        <seg>(à l'opposé de Color Dodge.</seg>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141117T165553Z" creationid="Photonoxx" creationdate="20141117T110149Z">
+        <seg>(Opposé de Densité Couleur - .</seg>
       </tuv>
     </tu>
     <tu>
@@ -1030,6 +1030,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Color Burn</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141117T165518Z" creationid="Photonoxx" creationdate="20141117T165518Z">
+        <seg>Densité Couleur +</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Color Cast</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141115T094054Z" creationid="Photonoxx" creationdate="20141115T094054Z">
@@ -1042,6 +1050,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141115T090611Z" creationid="Photonoxx" creationdate="20141115T090611Z">
         <seg>Modifier Couleur</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Color Dodge</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141117T165623Z" creationid="Photonoxx" creationdate="20141117T165623Z">
+        <seg>Densité Couleur -</seg>
       </tuv>
     </tu>
     <tu>

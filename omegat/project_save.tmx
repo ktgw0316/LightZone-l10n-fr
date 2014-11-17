@@ -134,6 +134,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(The mouse will change to an eyedropper.)</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141117T153307Z" creationid="Photonoxx" creationdate="20141117T153307Z">
+        <seg>(La souris prend l'apparence d'une pipette.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(The previews will be recomputed automatically.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141111T150859Z" creationid="Photonoxx" creationdate="20141111T150859Z">
@@ -5634,6 +5642,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141111T150308Z" creationid="Photonoxx" creationdate="20141111T150308Z">
         <seg>Pour économiser du travail, le Navigateur enregistre des Aperçus dans un dossier de cache spécial.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To select only by hue, uncheck the Enable luminosity checkbox; to select only by luminosity, uncheck the Enable hue checkbox.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141117T153415Z" creationid="Photonoxx" creationdate="20141117T153415Z">
+        <seg>Pour ne sélectionner que par Teinte, décocher Enable luminosity checkbox; to select only by luminosity, uncheck the Enable hue checkbox.</seg>
       </tuv>
     </tu>
     <tu>

@@ -3014,6 +3014,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>On the other hand, if black point compensation is done, the luminosity range of your photo is compressed to fit into the luminosity range of the device.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141117T100222Z" creationid="Photonoxx" creationdate="20141117T100222Z">
+        <seg>D'un autre côté, si une Compensation du Point Noir est effectuée, la gamme de luminosité de votre photo sera compressée pour correspondre avec la gamme de luminosité de votre périphérique.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Online Help</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141111T145006Z" creationid="Photonoxx" creationdate="20141111T145006Z">

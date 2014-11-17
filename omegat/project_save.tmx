@@ -5054,6 +5054,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The effect is similar to projecting multiple photographic slides onto the same screen.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141117T135626Z" creationid="Photonoxx" creationdate="20141117T135626Z">
+        <seg>Le résultat est similaire à projeter plusieurs couches de diapositives sur un écran.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The result color is always darker.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141117T135252Z" creationid="Photonoxx" creationdate="20141117T135252Z">

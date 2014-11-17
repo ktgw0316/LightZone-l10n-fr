@@ -3454,6 +3454,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Optionally, adjust the Luminosity range sliders to affect the part of the selected luminosity range.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141117T154945Z" creationid="Photonoxx" creationdate="20141117T154945Z">
+        <seg>Optionnellement, ajustez le curseur de Luminosité pour modifier la Gamme de Luminosité sélectionnée.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Optionally, adjust the Range slider to increase or decrease the range of hues selected around the color shown by the color swatch.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141117T154742Z" creationid="Photonoxx" creationdate="20141117T154742Z">

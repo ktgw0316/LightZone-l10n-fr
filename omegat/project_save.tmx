@@ -142,6 +142,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A blending mode controls how the effects of tools in the &lt;a1&gt;tool stack&lt;/a1&gt; blend together to form the final photo.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141117T101535Z" creationid="Photonoxx" creationdate="20141117T101535Z">
+        <seg>Un mode de fusion contrôle la façon dont les résultats des outils dans la &lt;a1&gt;chaîne de développement&lt;/a1&gt; seront fusionnés ensemble pour former la photo finale.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A file named "$1" already exists in $2.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141111T105344Z" creationid="Photonoxx" creationdate="20141111T105344Z">
@@ -442,6 +450,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141106T135625Z" creationid="Photonoxx" creationdate="20141106T135625Z">
         <seg>L'Enregistrement Auto est désormais activé.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Base color</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141117T101633Z" creationid="Photonoxx" creationdate="20141117T101633Z">
+        <seg>Couleur de Base</seg>
       </tuv>
     </tu>
     <tu>
@@ -2306,6 +2322,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141115T103244Z" creationid="Photonoxx" creationdate="20141115T103244Z">
         <seg>Importer...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In order to understand blending modes, there are a few terms to know:</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141117T101617Z" creationid="Photonoxx" creationdate="20141117T101617Z">
+        <seg>Avant tout, pour comprendre les Modes de Fusion, il y a quelques termes à connaître :</seg>
       </tuv>
     </tu>
     <tu>
@@ -4898,6 +4922,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141111T150450Z" creationid="Photonoxx" creationdate="20141111T150450Z">
         <seg>Ce dossier peut être créé à la même place que son Image ("Local"), ou dans un Emplacement Centralisé ("Global").</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This is the color of a pixel before a tool's effect has been applied to the photo.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141117T101756Z" creationid="Photonoxx" creationdate="20141117T101756Z">
+        <seg>C'est la couleur d'un pixel avant que le résultat d'un outil n'ait été appliqué à la photo.</seg>
       </tuv>
     </tu>
     <tu>

@@ -502,6 +502,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Black point compensation</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141117T094425Z" creationid="Photonoxx" creationdate="20141117T094425Z">
+        <seg>Compensation du Point Noir</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Blend</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141115T091322Z" creationid="Photonoxx" creationdate="20141115T091322Z">
@@ -1378,6 +1386,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141115T091002Z" creationid="Photonoxx" creationdate="20141115T091002Z">
         <seg>Profondeur</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Description of black point compensation.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141117T094418Z" creationid="Photonoxx" creationdate="20141117T094418Z">
+        <seg>Description de la Compensation du Point Noir.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2602,6 +2618,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141117T092551Z" creationid="Photonoxx" creationdate="20141117T092551Z">
         <seg>LightZone: Remerciements</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>LightZone: Black Point Compensation</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141117T094403Z" creationid="Photonoxx" creationdate="20141117T094403Z">
+        <seg>LightZone: Compensation du Point Noir</seg>
       </tuv>
     </tu>
     <tu>

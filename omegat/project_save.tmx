@@ -94,6 +94,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(Opposite of Darken.)</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141117T112607Z" creationid="Photonoxx" creationdate="20141117T112607Z">
+        <seg>(Opposé de Assombrir.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(Opposite of Lighten.)</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141117T111023Z" creationid="Photonoxx" creationdate="20141117T111023Z">
@@ -2846,6 +2854,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Lighten</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141117T112524Z" creationid="Photonoxx" creationdate="20141117T112524Z">
+        <seg>Éclaircir</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Loading Classes</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141111T100002Z" creationid="Photonoxx" creationdate="20141111T100002Z">
@@ -2930,6 +2946,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141115T090923Z" creationid="Photonoxx" creationdate="20141115T090923Z">
         <seg>Médiane</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Midtones</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141117T112619Z" creationid="Photonoxx" creationdate="20141117T112619Z">
+        <seg>Tons Moyens</seg>
       </tuv>
     </tu>
     <tu>
@@ -5030,6 +5054,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The result color is either the base or blend color, whichever is lighter.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141117T112553Z" creationid="Photonoxx" creationdate="20141117T112553Z">
+        <seg>La couleur finale sera soit la couleur de base soit la couleur de fusion, choisissant la plus claire des deux.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Then select an image in the browser, and click the button next to the copyright field in the browser's metadata area to write this copyright text to an image file.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141115T083539Z" creationid="Photonoxx" creationdate="20141115T083539Z">
@@ -5066,6 +5098,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141117T105718Z" creationid="Photonoxx" creationdate="20141117T105718Z">
         <seg>Ce mode de fusion n'a pas d'effet; de ce fait, les couleurs de fusion et les couleurs finales sont identiques.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This blending mode is the same as the Normal blending mode except that the effect is applied only to midtones.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141117T112756Z" creationid="Photonoxx" creationdate="20141117T112756Z">
+        <seg>Ce mode de fusion est le même que le mode de fusion Normal excepté que l'outil n'est appliqué qu'aux tons moyens.</seg>
       </tuv>
     </tu>
     <tu>

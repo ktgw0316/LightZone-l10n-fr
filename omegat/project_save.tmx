@@ -606,6 +606,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Batch converting images</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141118T141454Z" creationid="Photonoxx" creationdate="20141118T141454Z">
+        <seg>Conversion par lot d'Images</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Between Region Changes</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141115T081700Z" creationid="Photonoxx" creationdate="20141115T081634Z">

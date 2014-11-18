@@ -3710,6 +3710,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Optionally enter a new name for the converted image.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141118T150317Z" creationid="Photonoxx" creationdate="20141118T150317Z">
+        <seg>Éventuellement entrez un nouveau nom pour l'image convertie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Optionally, adjust the Luminosity range sliders to affect the part of the selected luminosity range.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141117T154945Z" creationid="Photonoxx" creationdate="20141117T154945Z">
@@ -4902,6 +4910,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Select File &gt; Convert...</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141118T150151Z" creationid="Photonoxx" creationdate="20141118T150151Z">
+        <seg>Aller dans Fichier &gt; Convertir...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Select Recent</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141114T183635Z" creationid="Photonoxx" creationdate="20141114T183635Z">
@@ -6018,6 +6034,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141118T141801Z" creationid="Photonoxx" creationdate="20141118T141801Z">
         <seg>Pour convertir vos photos :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To convert your photo:</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141118T150130Z" creationid="Photonoxx" creationdate="20141118T150130Z">
+        <seg>Pour Convertir votre photo:</seg>
       </tuv>
     </tu>
     <tu>

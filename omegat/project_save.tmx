@@ -1302,6 +1302,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Converting images</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141118T144953Z" creationid="Photonoxx" creationdate="20141118T144953Z">
+        <seg>Conversion d'Images</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Converting images (individually)</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141118T144648Z" creationid="Photonoxx" creationdate="20141118T144648Z">
@@ -2566,6 +2574,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>How to convert your photos to JPEG or TIFF image files.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141118T144937Z" creationid="Photonoxx" creationdate="20141118T144937Z">
+        <seg>Comment convertir vos images en fichiers JPEG ou TIFF.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>However, because the luminosity range is compressed, information from your photo is still lost: the loss is just evenly spread out over the entire luminosity range (and thus less noticeable) rather than being truncated at the black end.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141117T100832Z" creationid="Photonoxx" creationdate="20141117T100832Z">
@@ -3122,6 +3138,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141117T152124Z" creationid="Photonoxx" creationdate="20141117T152124Z">
         <seg>LightZone: Sélection de Couleur/Luminosité</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>LightZone: Converting Images</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141118T144909Z" creationid="Photonoxx" creationdate="20141118T144909Z">
+        <seg>LightZone: Conversion d'Images</seg>
       </tuv>
     </tu>
     <tu>

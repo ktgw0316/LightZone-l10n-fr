@@ -158,6 +158,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(Use the Shift key to select multiple, contiguous thumbnails or the &lt;s0&gt;Command&lt;/s0&gt; &lt;s1&gt;Control&lt;/s1&gt; key to select multiple, non-contiguous thumbnails.)</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141118T143452Z" creationid="Photonoxx" creationdate="20141118T143452Z">
+        <seg>(Utilisez la touche Maj pour sélectionner plusieurs vignettes consécutives ou la touche &lt;s0&gt;Commande&lt;/s0&gt; &lt;s1&gt;Contrôle&lt;/s1&gt; pour sélectionner plusieurs vignettes non contigues.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(a) no color selected</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141118T101754Z" creationid="Photonoxx" creationdate="20141118T101754Z">
@@ -4778,6 +4786,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141114T183638Z" creationid="Photonoxx" creationdate="20141114T183638Z">
         <seg>Tout Sélectionner</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Select Browser &gt; Convert... (The batch convert dialog will be presented.)</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141118T143600Z" creationid="Photonoxx" creationdate="20141118T143600Z">
+        <seg>Aller dans Navigateur &gt; Convertir... (La fenêtre de conversion par lot sera affichée.)</seg>
       </tuv>
     </tu>
     <tu>

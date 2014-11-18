@@ -446,6 +446,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>An image format that uses "lossy" compression to achieve small file size.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141118T145707Z" creationid="Photonoxx" creationdate="20141118T145707Z">
+        <seg>Un format d'image qui utilise une compression "avec perte" pour obtenir des fichiers de petite taille.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>An updated version of LightZone is required to read this Style</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141114T184824Z" creationid="Photonoxx" creationdate="20141114T184824Z">
@@ -6386,6 +6394,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141111T145418Z" creationid="Photonoxx" creationdate="20141111T145418Z">
         <seg>Jaunes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can convert your photos to either JPEG or TIFF images and in various sizes suitable for different purposes.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141118T145608Z" creationid="Photonoxx" creationdate="20141118T145608Z">
+        <seg>Vous pouvez convertir vos photos vers les formats JPEG ou TIFF et ce dans différentes tailles en fonction de vos besoins.</seg>
       </tuv>
     </tu>
     <tu>

@@ -70,6 +70,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(LightZone display a progress dialog while converting your photos.)</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141118T144557Z" creationid="Photonoxx" creationdate="20141118T144557Z">
+        <seg>(LightZone affiche la progression durant la conversion de vos photos.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(LightZone must restart for this to take effect.)</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141111T145654Z" creationid="Photonoxx" creationdate="20141111T145654Z">
@@ -982,6 +990,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Click Done.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141118T144614Z" creationid="Photonoxx" creationdate="20141118T144614Z">
+        <seg>Cliquez "Fait".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Click Start.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141118T144454Z" creationid="Photonoxx" creationdate="20141118T144454Z">
@@ -1282,6 +1298,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141106T131411Z" creationid="Photonoxx" creationdate="20141106T131411Z">
         <seg>Convertir...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Converting images (individually)</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141118T144648Z" creationid="Photonoxx" creationdate="20141118T144648Z">
+        <seg>Convertir les images (individuellement)</seg>
       </tuv>
     </tu>
     <tu>
@@ -4670,6 +4694,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Saving your work</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141118T144703Z" creationid="Photonoxx" creationdate="20141118T144703Z">
+        <seg>Enregistrer votre travail</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Saving...</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141106T111625Z" creationid="Photonoxx" creationdate="20141106T111625Z">
@@ -4946,6 +4978,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141111T143039Z" creationid="Photonoxx" creationdate="20141111T143039Z">
         <seg>Envoyer...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Sending photos</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141118T144726Z" creationid="Photonoxx" creationdate="20141118T144726Z">
+        <seg>Envoyer des photos</seg>
       </tuv>
     </tu>
     <tu>

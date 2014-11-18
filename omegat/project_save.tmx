@@ -158,6 +158,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(a) no color selected</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141118T101754Z" creationid="Photonoxx" creationdate="20141118T101754Z">
+        <seg>(a) Aucune couleur sélectionnée</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>(b) blues selected</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141118T101807Z" creationid="Photonoxx" creationdate="20141118T101807Z">
+        <seg>(b) bleus sélectionnés</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>...and $1 more</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141115T085518Z" creationid="Photonoxx" creationdate="20141115T085518Z">
@@ -2246,6 +2262,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For example, compare what is shown below.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141118T101737Z" creationid="Photonoxx" creationdate="20141118T101737Z">
+        <seg>Par exemple, comparons ce qui est affiché ci dessous.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Gaussian Blur</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141115T093819Z" creationid="Photonoxx" creationdate="20141115T093819Z">
@@ -2586,6 +2610,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141115T103244Z" creationid="Photonoxx" creationdate="20141115T103244Z">
         <seg>Importer...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In (a), no selection has been made so the viewer shows your entire photo in full color.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141118T101941Z" creationid="Photonoxx" creationdate="20141118T101941Z">
+        <seg>Sur (a), Aucune sélection n'a été faite, donc, le visionneur affiche votre photo avec ses couleurs normales.</seg>
       </tuv>
     </tu>
     <tu>

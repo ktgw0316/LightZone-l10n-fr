@@ -4872,8 +4872,8 @@
       <tuv lang="EN-US">
         <seg>Sharing space with the &lt;a0&gt;ZoneFinder&lt;/a0&gt;, &lt;a1&gt;Histogram&lt;/a1&gt;, and &lt;a2&gt;Sampler&lt;/a2&gt; in the upper-right corner of the LightZone window is also the Color Selection Viewer that shows the areas of your photo that are in the selected tool's &lt;a3&gt;color/luminosity selection&lt;/a3&gt;.</seg>
       </tuv>
-      <tuv lang="FR" changeid="Photonoxx" changedate="20141118T101124Z" creationid="Photonoxx" creationdate="20141118T101124Z">
-        <seg>Partageant l'espace avec le &lt;a0&gt;ZoneFinder&lt;/a0&gt;, &lt;a1&gt;l'Histogramme&lt;/a1&gt;, et &lt;a2&gt;L'Échantilloneur&lt;/a2&gt;, dans le coin en haut à droite de la fenêtre de LightZone se trouve aussi s also the Color Selection Viewer that shows the areas of your photo that are in the selected tool's &lt;a3&gt;color/luminosity selection&lt;/a3&gt;.</seg>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141118T101504Z" creationid="Photonoxx" creationdate="20141118T101124Z">
+        <seg>Partageant l'espace avec le &lt;a0&gt;ZoneFinder&lt;/a0&gt;, &lt;a1&gt;l'Histogramme&lt;/a1&gt;, et &lt;a2&gt;L'Échantilloneur&lt;/a2&gt;, dans le coin en haut à droite de la fenêtre de LightZone se trouve aussi le visionneur de Sélection Couleur qui affiche les parties de votre photo correspondant à la &lt;a3&gt;Sélection couleur/luminosité&lt;/a3&gt; de l'outil sélectionné.</seg>
       </tuv>
     </tu>
     <tu>

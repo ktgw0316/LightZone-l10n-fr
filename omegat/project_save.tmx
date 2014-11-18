@@ -3734,6 +3734,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Optionally, check &lt;a0&gt;Black point compensation&lt;/a0&gt; (applies only when the rendering intent is Relative Colorimetric).</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141118T153151Z" creationid="Photonoxx" creationdate="20141118T153151Z">
+        <seg>Éventuellement, choisissez l'intention de rendu Colorimétrie Relative avec &lt;a0&gt;Compensation du Point Noir&lt;/a0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Optionally, enter a width and height in pixels in the Resize To text fields to scale down your photo.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141118T153241Z" creationid="Photonoxx" creationdate="20141118T153241Z">
+        <seg>Éventuellement, définissez la largeur et la hauteur en pixel width and height in pixels in the Resize To text fields to scale down your photo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Ordinarily, a tool affects your entire photo.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141117T152334Z" creationid="Photonoxx" creationdate="20141117T152334Z">

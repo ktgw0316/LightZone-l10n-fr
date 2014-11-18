@@ -4912,8 +4912,8 @@
       <tuv lang="EN-US">
         <seg>Select File &gt; Convert...</seg>
       </tuv>
-      <tuv lang="FR" changeid="Photonoxx" changedate="20141118T150151Z" creationid="Photonoxx" creationdate="20141118T150151Z">
-        <seg>Aller dans Fichier &gt; Convertir...</seg>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141118T150944Z" creationid="Photonoxx" creationdate="20141118T150151Z">
+        <seg>Depuis l'éditeur allez dans Fichier &gt; Convertir Image... Ou depuis le Navigateur, choisir la vignette d'une image et aller dans Navigateur &gt; Convert...</seg>
       </tuv>
     </tu>
     <tu>
@@ -4970,6 +4970,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141114T180303Z" creationid="Photonoxx" creationdate="20141114T180303Z">
         <seg>Choisir uniquement la version la plus récente de chaque Ensemble</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Select the color profile to include.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141118T150751Z" creationid="Photonoxx" creationdate="20141118T150751Z">
+        <seg>Choisissez le profil couleur à inclure.</seg>
       </tuv>
     </tu>
     <tu>

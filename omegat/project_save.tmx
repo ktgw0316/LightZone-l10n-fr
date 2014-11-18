@@ -6086,6 +6086,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Use the Choose... button to select the folder to convert the images to.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141118T143907Z" creationid="Photonoxx" creationdate="20141118T143907Z">
+        <seg>Utilisez le bouton Choisir... pour définir le dossier de destination des images converties.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>User comment</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141115T095649Z" creationid="Photonoxx" creationdate="20141115T095649Z">

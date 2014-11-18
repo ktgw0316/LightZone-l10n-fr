@@ -982,6 +982,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Click Start.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141118T144454Z" creationid="Photonoxx" creationdate="20141118T144454Z">
+        <seg>Cliquez sur Démarrer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Click on the image where you would like to create one or more regions.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141106T102626Z" creationid="Photonoxx" creationdate="20141106T102626Z">
@@ -4870,6 +4878,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Select the type of image to convert to: JPEG or TIFF.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141118T144251Z" creationid="Photonoxx" creationdate="20141118T144251Z">
+        <seg>Sélectionnez le type d'image pour la conversion : JPEG ou TIFF.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Select whether to use LZW compression (TIFF only).</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141118T144436Z" creationid="Photonoxx" creationdate="20141118T144436Z">
+        <seg>Activez ou non la compression LZW (seulement pour les TIFF).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Selection</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141115T093701Z" creationid="Photonoxx" creationdate="20141115T093701Z">
@@ -4954,6 +4978,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141115T090249Z" creationid="Photonoxx" creationdate="20141115T090249Z">
         <seg>Définir aux valeurs par défaut</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Set the quality (for JPEG) or bit depth (for TIFF).</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141118T144345Z" creationid="Photonoxx" creationdate="20141118T144345Z">
+        <seg>Définir la qualité (pour le JPEG) ou la profondeur de couleur (pour les TIFF).</seg>
       </tuv>
     </tu>
     <tu>

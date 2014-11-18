@@ -1646,6 +1646,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Cyans</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141118T154009Z" creationid="Photonoxx" creationdate="20141118T154009Z">
+        <seg>Cyans</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Darken</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141117T110819Z" creationid="Photonoxx" creationdate="20141117T110819Z">
@@ -3258,6 +3266,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141115T090900Z" creationid="Photonoxx" creationdate="20141115T090900Z">
         <seg>Magenta-Vert</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Magentas</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141118T154014Z" creationid="Photonoxx" creationdate="20141118T154014Z">
+        <seg>Magentas</seg>
       </tuv>
     </tu>
     <tu>

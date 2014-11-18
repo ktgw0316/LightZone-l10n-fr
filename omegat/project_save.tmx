@@ -862,6 +862,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>CIFF</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141118T154351Z" creationid="Photonoxx" creationdate="20141118T154351Z">
+        <seg>CIFF</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Can't Launch LightZone</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141115T104054Z" creationid="Photonoxx" creationdate="20141115T104054Z">
@@ -906,6 +914,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141114T184856Z" creationid="Photonoxx" creationdate="20141114T184856Z">
         <seg>Annulation Impossible</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Canon</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141118T154353Z" creationid="Photonoxx" creationdate="20141118T154353Z">
+        <seg>Canon</seg>
       </tuv>
     </tu>
     <tu>
@@ -2046,6 +2062,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>EXIF</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141118T154340Z" creationid="Photonoxx" creationdate="20141118T154340Z">
+        <seg>EXIF</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Edit</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141111T104054Z" creationid="Photonoxx" creationdate="20141111T104054Z">
@@ -2202,6 +2226,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141106T105433Z" creationid="Photonoxx" creationdate="20141106T105433Z">
         <seg>Erreur de lecture du fichier</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Exclusion</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141118T154531Z" creationid="Photonoxx" creationdate="20141118T154531Z">
+        <seg>Exclusion</seg>
       </tuv>
     </tu>
     <tu>
@@ -2426,6 +2458,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141118T101737Z" creationid="Photonoxx" creationdate="20141118T101737Z">
         <seg>Par exemple, comparons ce qui est affiché ci dessous.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>GPS</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141118T154354Z" creationid="Photonoxx" creationdate="20141118T154354Z">
+        <seg>GPS</seg>
       </tuv>
     </tu>
     <tu>
@@ -2718,6 +2758,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>IPTC</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141118T154345Z" creationid="Photonoxx" creationdate="20141118T154345Z">
+        <seg>IPTC</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If no black point compensation is done, then detail will be lost in the darkest shadow areas of your photo because the dark areas beyond the darkest black the device can render are truncated.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141117T095931Z" creationid="Photonoxx" creationdate="20141117T095931Z">
@@ -2846,6 +2894,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Index</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141118T154441Z" creationid="Photonoxx" creationdate="20141118T154441Z">
+        <seg>Index</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Info</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141111T103745Z" creationid="Photonoxx" creationdate="20141111T103745Z">
@@ -2962,6 +3018,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141118T145804Z" creationid="Photonoxx" creationdate="20141118T145804Z">
         <seg>Il est souvent utilisé pour envoyer des photos par E-maiI ou pour les afficher sur le web.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>JPEG</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141118T154615Z" creationid="Photonoxx" creationdate="20141118T154615Z">
+        <seg>JPEG</seg>
       </tuv>
     </tu>
     <tu>
@@ -3590,6 +3654,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Nikon</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141118T154356Z" creationid="Photonoxx" creationdate="20141118T154356Z">
+        <seg>Nikon</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>No Browser</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141111T144025Z" creationid="Photonoxx" creationdate="20141111T144025Z">
@@ -3690,6 +3762,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141111T103142Z" creationid="Photonoxx" creationdate="20141111T103142Z">
         <seg>Rien</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Normal</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141118T154520Z" creationid="Photonoxx" creationdate="20141118T154520Z">
+        <seg>Normal</seg>
       </tuv>
     </tu>
     <tu>
@@ -4066,6 +4146,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141111T144352Z" creationid="Photonoxx" creationdate="20141111T144352Z">
         <seg>Régions polygonales</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Position</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141118T154326Z" creationid="Photonoxx" creationdate="20141118T154326Z">
+        <seg>Position</seg>
       </tuv>
     </tu>
     <tu>
@@ -5726,6 +5814,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Styles</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141118T154329Z" creationid="Photonoxx" creationdate="20141118T154329Z">
+        <seg>Styles</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Subtracts either the blend color from the base color or the base color from the blend color depending on whichever is brighter.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141117T111201Z" creationid="Photonoxx" creationdate="20141117T111201Z">
@@ -5746,6 +5842,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141114T184245Z" creationid="Photonoxx" creationdate="20141114T184245Z">
         <seg>Intervertir Hauteur et Largeur</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>TIFF</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141118T154348Z" creationid="Photonoxx" creationdate="20141118T154348Z">
+        <seg>TIFF</seg>
       </tuv>
     </tu>
     <tu>
@@ -6278,6 +6382,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Tom Bradford,Anton Kast,Grant Kim,Paul J. Lucas,Richard McKeethen,Justin Osial,Fabio Riccardi,Lars Vinberg</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141118T154332Z" creationid="Photonoxx" creationdate="20141118T154332Z">
+        <seg>Tom Bradford,Anton Kast,Grant Kim,Paul J. Lucas,Richard McKeethen,Justin Osial,Fabio Riccardi,Lars Vinberg</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Tool Change</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141115T092607Z" creationid="Photonoxx" creationdate="20141115T092607Z">
@@ -6762,6 +6874,30 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141115T104519Z" creationid="Photonoxx" creationdate="20141115T104519Z">
         <seg>http://en.wikipedia.org/wiki/SSE2#CPU_support</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>http://lightzoneproject.org/</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141118T154420Z" creationid="Photonoxx" creationdate="20141118T154420Z">
+        <seg>http://lightzoneproject.org/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>http://lightzoneproject.org/node/2/</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141118T154417Z" creationid="Photonoxx" creationdate="20141118T154417Z">
+        <seg>http://lightzoneproject.org/node/2/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>http://lightzoneproject.org/node/35/</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141118T154425Z" creationid="Photonoxx" creationdate="20141118T154425Z">
+        <seg>http://lightzoneproject.org/node/35/</seg>
       </tuv>
     </tu>
     <tu>

@@ -5118,6 +5118,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Soft Burn</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141118T095047Z" creationid="Photonoxx" creationdate="20141118T095031Z">
+        <seg>Densité douce +</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Soft Dodge</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141118T095100Z" creationid="Photonoxx" creationdate="20141118T095100Z">
+        <seg>Densité douce -</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Soft Light</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141117T170213Z" creationid="Photonoxx" creationdate="20141117T170213Z">

@@ -136,8 +136,8 @@
       <tuv lang="EN-US">
         <seg>(The color/luminosity selections as well as the &lt;a0&gt;Color Selection Viewer&lt;/a0&gt; will update to reflect the selected color/luminosity.)</seg>
       </tuv>
-      <tuv lang="FR" changeid="Photonoxx" changedate="20141117T154501Z" creationid="Photonoxx" creationdate="20141117T154043Z">
-        <seg>(La Sélection de Couleur/Luminosité de même que  &lt;a0&gt;l'Aperçu du Masque de Couleur&lt;/a0&gt; se mettront à jour pour refléter la couleur/luminosité sélectionnée.)</seg>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141118T100034Z" creationid="Photonoxx" creationdate="20141117T154043Z">
+        <seg>(La Sélection de Couleur/Luminosité de même que  &lt;a0&gt;le visionneur de la Sélection Couleur&lt;/a0&gt; se mettront à jour pour refléter la couleur/luminosité sélectionnée.)</seg>
       </tuv>
     </tu>
     <tu>
@@ -170,6 +170,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141106T110046Z" creationid="Photonoxx" creationdate="20141106T105746Z">
         <seg>1 fichier à traiter</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>2 of 4</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141118T100118Z" creationid="Photonoxx" creationdate="20141118T100118Z">
+        <seg>2 de 4</seg>
       </tuv>
     </tu>
     <tu>
@@ -1142,6 +1150,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Color Selection Viewer</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141118T100111Z" creationid="Photonoxx" creationdate="20141118T100111Z">
+        <seg>le visionneur de la Sélection Couleur</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Color Selector</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141115T092626Z" creationid="Photonoxx" creationdate="20141115T092626Z">
@@ -1618,6 +1634,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141117T094418Z" creationid="Photonoxx" creationdate="20141117T094418Z">
         <seg>Description de la Compensation du Point Noir.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Description of the Color Selection Viewer.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141118T100058Z" creationid="Photonoxx" creationdate="20141118T100058Z">
+        <seg>Description du visionneur de la Sélection Couleur.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2954,6 +2978,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141117T092829Z" creationid="Photonoxx" creationdate="20141117T092829Z">
         <seg>LightZone: Présentation du Navigateur</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>LightZone: Color Selection Viewer</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141118T100046Z" creationid="Photonoxx" creationdate="20141118T100046Z">
+        <seg>LightZone: le visionneur de la Sélection Couleur</seg>
       </tuv>
     </tu>
     <tu>

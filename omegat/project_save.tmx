@@ -2662,6 +2662,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In addition to being able to &lt;a0&gt;convert images individually&lt;/a0&gt;, you can use the &lt;a1&gt;Photo Browser&lt;/a1&gt; to convert multiple images as a batch.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141118T141743Z" creationid="Photonoxx" creationdate="20141118T141743Z">
+        <seg>En plus de pouvoir &lt;a0&gt;convertir les images individuellement&lt;/a0&gt;, vous pouvez utiliser le &lt;a1&gt;Navigateur photo&lt;/a1&gt; pour convertir plusieurs images en lot.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In order to understand blending modes, there are a few terms to know:</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141117T101617Z" creationid="Photonoxx" creationdate="20141117T101617Z">
@@ -5842,6 +5850,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141106T110534Z" creationid="Photonoxx" creationdate="20141106T110534Z">
         <seg>Vers le dossier :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To batch convert your photos:</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141118T141801Z" creationid="Photonoxx" creationdate="20141118T141801Z">
+        <seg>Pour convertir vos photos :</seg>
       </tuv>
     </tu>
     <tu>

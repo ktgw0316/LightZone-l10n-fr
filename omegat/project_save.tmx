@@ -6086,6 +6086,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Using the Photo Browser, select two or more thumbnails of the photos that you want to convert.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141118T143228Z" creationid="Photonoxx" creationdate="20141118T143228Z">
+        <seg>Avec le Navigateur photo, sélectionnez deux vignettes ou plus des photos que vous voulez convertir.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Verifying Libraries</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141106T113737Z" creationid="Photonoxx" creationdate="20141106T113737Z">

@@ -446,6 +446,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>An image format that can use "lossless" compression; however, file sizes are usually quite large.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141118T145917Z" creationid="Photonoxx" creationdate="20141118T145917Z">
+        <seg>Un format d'image qui peut utiliser une compression "sans perte"; cependant, la taille des fichiers est plutôt conséquente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>An image format that uses "lossy" compression to achieve small file size.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141118T145707Z" creationid="Photonoxx" creationdate="20141118T145707Z">
@@ -1774,6 +1782,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Despite that, this is usually the best format to use for import into other applications.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141118T150056Z" creationid="Photonoxx" creationdate="20141118T150056Z">
+        <seg>Malgré tout, c'est habituellement le meilleur format à utiliser pour l'import vers d'autres applications.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Detail</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141115T090936Z" creationid="Photonoxx" creationdate="20141115T090936Z">
@@ -2858,6 +2874,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141111T100259Z" creationid="Photonoxx" creationdate="20141111T100259Z">
         <seg>Est-ce le bon ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It's often used to send photos by e-mail or display photos on the web.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141118T145804Z" creationid="Photonoxx" creationdate="20141118T145804Z">
+        <seg>Il est souvent utilisé pour envoyer des photos par E-maiI ou pour les afficher sur le web.</seg>
       </tuv>
     </tu>
     <tu>

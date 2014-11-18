@@ -70,6 +70,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>$1 x $2</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141118T154215Z" creationid="Photonoxx" creationdate="20141118T154215Z">
+        <seg>$1 x $2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(LightZone display a progress dialog while converting your photos.)</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141118T144557Z" creationid="Photonoxx" creationdate="20141118T144557Z">
@@ -210,6 +218,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141118T145321Z" creationid="Photonoxx" creationdate="20141118T145321Z">
         <seg>1 de 2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>16</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141118T154208Z" creationid="Photonoxx" creationdate="20141118T154208Z">
+        <seg>16</seg>
       </tuv>
     </tu>
     <tu>
@@ -586,6 +602,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141115T094736Z" creationid="Photonoxx" creationdate="20141115T094526Z">
         <seg>Balance des Blancs comme à la Prise de Vue</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Auto</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141118T154322Z" creationid="Photonoxx" creationdate="20141118T154322Z">
+        <seg>Auto</seg>
       </tuv>
     </tu>
     <tu>
@@ -1286,6 +1310,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Compression</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141118T154211Z" creationid="Photonoxx" creationdate="20141118T154211Z">
+        <seg>Compression</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Continue</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141114T183412Z" creationid="Photonoxx" creationdate="20141114T183412Z">
@@ -1386,6 +1418,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141114T180012Z" creationid="Photonoxx" creationdate="20141114T180012Z">
         <seg>Copier la Pile d'Outils depuis l'image sélectionnée</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Copyright</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141118T154110Z" creationid="Photonoxx" creationdate="20141118T154110Z">
+        <seg>Copyright</seg>
       </tuv>
     </tu>
     <tu>
@@ -2390,6 +2430,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Gain</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141118T154229Z" creationid="Photonoxx" creationdate="20141118T154229Z">
+        <seg>Gain</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Gamma</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141118T154220Z" creationid="Photonoxx" creationdate="20141118T154220Z">
+        <seg>Gamma</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Gaussian Blur</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141115T093819Z" creationid="Photonoxx" creationdate="20141115T093819Z">
@@ -2402,6 +2458,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141115T083025Z" creationid="Photonoxx" creationdate="20141115T083025Z">
         <seg>Général</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Global</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141118T154029Z" creationid="Photonoxx" creationdate="20141118T154029Z">
+        <seg>Global</seg>
       </tuv>
     </tu>
     <tu>
@@ -3246,6 +3310,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Local</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141118T154025Z" creationid="Photonoxx" creationdate="20141118T154025Z">
+        <seg>Local</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Lock</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141115T091932Z" creationid="Photonoxx" creationdate="20141115T091932Z">
@@ -3354,6 +3426,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141117T092732Z" creationid="Photonoxx" creationdate="20141117T092732Z">
         <seg>Mitch Alland, Bruce Ammerman, Jamie Bsales, David Card, Anthony Dias, Jeff Donnelly, Jessica Donnelly, Romain Guy, Hans-Jürgen Hertz-Eichenrode, Jon Hill, Matthew Hollingworth, James Karney, Terry Karney, Walt Marhefka, Carlos Palma, Bud Paulding, Paul Rancuret, David Richard, Uwe Steinmueller, Mark Strathdee, Elizabeth Thrasher, Dean Tucker, Eric Vogel, John Waclo, Lalia Wilson, Ed Wolpov, et Brian Wong.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Modes</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141118T154149Z" creationid="Photonoxx" creationdate="20141118T154149Z">
+        <seg>Modes</seg>
       </tuv>
     </tu>
     <tu>
@@ -3794,6 +3874,22 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141114T180313Z" creationid="Photonoxx" creationdate="20141114T180313Z">
         <seg>Orientation</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Orig</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141118T154155Z" creationid="Photonoxx" creationdate="20141118T154155Z">
+        <seg>Orig</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Original</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141118T154159Z" creationid="Photonoxx" creationdate="20141118T154159Z">
+        <seg>Original</seg>
       </tuv>
     </tu>
     <tu>
@@ -4682,6 +4778,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141115T084844Z" creationid="Photonoxx" creationdate="20141115T084726Z">
         <seg>Pipette</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Saturation</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141118T154233Z" creationid="Photonoxx" creationdate="20141118T154233Z">
+        <seg>Saturation</seg>
       </tuv>
     </tu>
     <tu>
@@ -6582,6 +6686,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Zones</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141118T154135Z" creationid="Photonoxx" creationdate="20141118T154135Z">
+        <seg>Zones</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Zoom</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141118T154145Z" creationid="Photonoxx" creationdate="20141118T154145Z">
+        <seg>Zoom</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Zoom In</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141111T144706Z" creationid="Photonoxx" creationdate="20141111T144706Z">
@@ -6642,6 +6762,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141115T104519Z" creationid="Photonoxx" creationdate="20141115T104519Z">
         <seg>http://en.wikipedia.org/wiki/SSE2#CPU_support</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>pixels</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141118T154205Z" creationid="Photonoxx" creationdate="20141118T154205Z">
+        <seg>pixels</seg>
       </tuv>
     </tu>
     <tu>

@@ -2510,6 +2510,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>How to batch convert your photos to JPEG or TIFF image files.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141118T141134Z" creationid="Photonoxx" creationdate="20141118T141134Z">
+        <seg>Comment convertir par lot vos images en fichiers JPEG ou TIFF.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>However, because the luminosity range is compressed, information from your photo is still lost: the loss is just evenly spread out over the entire luminosity range (and thus less noticeable) rather than being truncated at the black end.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141117T100832Z" creationid="Photonoxx" creationdate="20141117T100832Z">
@@ -3016,8 +3024,8 @@
       <tuv lang="EN-US">
         <seg>LightZone: Batch Converting Images</seg>
       </tuv>
-      <tuv lang="FR" changeid="Photonoxx" changedate="20141118T103136Z" creationid="Photonoxx" creationdate="20141118T103136Z">
-        <seg>LightZone: Traitement par lot d'Images</seg>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141118T141158Z" creationid="Photonoxx" creationdate="20141118T103136Z">
+        <seg>LightZone: Conversion par lot d'Images</seg>
       </tuv>
     </tu>
     <tu>

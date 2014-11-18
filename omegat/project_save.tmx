@@ -5478,6 +5478,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The Batch Name, if provided, is appended to the name of each converted file (but before the extension).</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141118T144156Z" creationid="Photonoxx" creationdate="20141118T144156Z">
+        <seg>Le nom de la tâche, si renseigné, est adjoint au nom de chaque fichier converti (mais avant l'extension).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The LightZone file, "$1" can't locate its image file, "$2", but it found "$3" instead.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141111T100234Z" creationid="Photonoxx" creationdate="20141111T100234Z">

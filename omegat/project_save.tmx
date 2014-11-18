@@ -4974,6 +4974,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Select the &lt;a0&gt;rendering intent&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141118T152611Z" creationid="Photonoxx" creationdate="20141118T152611Z">
+        <seg>Choisissez l'&lt;a0&gt;Intention de rendu&lt;/a0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Select the color profile to include.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141118T150751Z" creationid="Photonoxx" creationdate="20141118T150751Z">

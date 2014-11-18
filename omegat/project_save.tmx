@@ -4942,6 +4942,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Select a destination folder for the converted image.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141118T150447Z" creationid="Photonoxx" creationdate="20141118T150447Z">
+        <seg>Choisissez le dossier de destination pour l'image convertie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Select a neutral color in the photo</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141115T095310Z" creationid="Photonoxx" creationdate="20141115T095310Z">

@@ -3070,6 +3070,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Mid+Hilights</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141118T094923Z" creationid="Photonoxx" creationdate="20141118T094923Z">
+        <seg>Tons Clairs et Moyens</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Midpoint</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141115T090923Z" creationid="Photonoxx" creationdate="20141115T090923Z">
@@ -4824,8 +4832,8 @@
       <tuv lang="EN-US">
         <seg>Shadows</seg>
       </tuv>
-      <tuv lang="FR" changeid="Photonoxx" changedate="20141115T090956Z" creationid="Photonoxx" creationdate="20141115T090956Z">
-        <seg>Ombres</seg>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141118T094935Z" creationid="Photonoxx" creationdate="20141115T090956Z">
+        <seg>Tons Foncés</seg>
       </tuv>
     </tu>
     <tu>

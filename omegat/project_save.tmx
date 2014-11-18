@@ -1014,6 +1014,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Click Convert.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141118T153608Z" creationid="Photonoxx" creationdate="20141118T153608Z">
+        <seg>Cliquer sur Convertir.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Click Done.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141118T144614Z" creationid="Photonoxx" creationdate="20141118T144614Z">
@@ -3742,10 +3750,18 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Optionally, enter a different resolution and select a unit.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141118T153548Z" creationid="Photonoxx" creationdate="20141118T153548Z">
+        <seg>Éventuellement, entrer une résolution différente et sélectionner une unité.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Optionally, enter a width and height in pixels in the Resize To text fields to scale down your photo.</seg>
       </tuv>
-      <tuv lang="FR" changeid="Photonoxx" changedate="20141118T153241Z" creationid="Photonoxx" creationdate="20141118T153241Z">
-        <seg>Éventuellement, définissez la largeur et la hauteur en pixel width and height in pixels in the Resize To text fields to scale down your photo.</seg>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141118T153457Z" creationid="Photonoxx" creationdate="20141118T153241Z">
+        <seg>Éventuellement, définissez la largeur et la hauteur en pixels dans les champs "Redimensionner en" pour réduire votre photo.</seg>
       </tuv>
     </tu>
     <tu>

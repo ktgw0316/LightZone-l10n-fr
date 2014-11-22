@@ -6126,6 +6126,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The ZoneFinder shows a miniature version of your photo that has been segmented into 16 grayscale zones each differing by 50% brightness or half an f-stop from the next.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141122T102501Z" creationid="Photonoxx" creationdate="20141122T102501Z">
+        <seg>Le ZoneFinder affiche une version réduite de votre photo qui a été convertie en 16 zones de gris, chacune différant de la suivante de 50% de luminosité ou d'une demie valeur d'un f-stop.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The ZoneMapper is based on the &lt;a0&gt;Zone System&lt;/a0&gt; invented by Ansel Adams and Fred Archer.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141122T101839Z" creationid="Photonoxx" creationdate="20141122T101839Z">

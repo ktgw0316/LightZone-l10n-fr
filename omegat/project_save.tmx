@@ -6830,6 +6830,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Using regions to create masks, you can restrict a tool's effect to just specific areas of your photo.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141122T103203Z" creationid="Photonoxx" creationdate="20141122T103203Z">
+        <seg>En utilisant des régions pour créer des masques, you can restrict a tool's effect to just specific areas of your photo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Using the Photo Browser, select two or more thumbnails of the photos that you want to convert.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141118T143228Z" creationid="Photonoxx" creationdate="20141118T143228Z">

@@ -6398,6 +6398,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The histogram in the lower right shows the same photo after both &lt;a0&gt;exposure&lt;/a0&gt; and &lt;a1&gt;black point&lt;/a1&gt; adjustments have been made using the &lt;a2&gt;ZoneMapper&lt;/a2&gt; tool.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141122T163254Z" creationid="Photonoxx" creationdate="20141122T163254Z">
+        <seg>L'histogramme en bas à droite montre la même photo après l'ajustement de &lt;a0&gt;l'exposition&lt;/a0&gt; et &lt;a1&gt;du point noir&lt;/a1&gt; à l'aide de l'outil &lt;a2&gt;ZoneMapper&lt;/a2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The raw files from some cameras, however, always need a default "tone curve" applied to them to look correctly.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141122T090739Z" creationid="Photonoxx" creationdate="20141122T085322Z">

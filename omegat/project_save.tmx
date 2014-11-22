@@ -390,6 +390,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Additionally, LightZone can open DNG files.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141122T121730Z" creationid="Photonoxx" creationdate="20141122T121730Z">
+        <seg>De plus, LightZone peut ouvrir les fichiers DNG.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Additionally, color/luminosity selections have adjustable feathering thus eliminating sharp edges between where a selection is and isn't.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141117T152814Z" creationid="Photonoxx" creationdate="20141117T152814Z">
@@ -3302,6 +3310,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>LightZone can open and edit raw files as easily as TIFF or JPEG.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141122T121531Z" creationid="Photonoxx" creationdate="20141122T121531Z">
+        <seg>LightZone peut ouvrir et éditer les fichiers bruts (raw) aussi facilement que les TIFF ou les JPEG.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>LightZone can work with raw image files taken directly from the leading digital cameras as easily as with TIFF or JPEG images.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141122T090714Z" creationid="Photonoxx" creationdate="20141122T085001Z">
@@ -4530,6 +4546,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141111T143953Z" creationid="Photonoxx" creationdate="20141111T143953Z">
         <seg>Notation</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Raw files from Canon, Fuji, Kodak, Leaf Valeo, Leica, Minolta, Nikon, Olympus, Panasonic, Pentax, and Sony cameras are supported.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141122T121608Z" creationid="Photonoxx" creationdate="20141122T121608Z">
+        <seg>Les fichiers Bruts (Raw) de Canon, Fuji, Kodak, Leaf Valeo, Leica, Minolta, Nikon, Olympus, Panasonic, Pentax, and Sony cameras sont supportés.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6330,6 +6354,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141111T103319Z" creationid="Photonoxx" creationdate="20141111T103244Z">
         <seg>Il y a eu un problème lors de la recherche d'une mise à jour.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Therefore, there is no need for an intermediate "raw conversion" step.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141122T121711Z" creationid="Photonoxx" creationdate="20141122T121711Z">
+        <seg>Par conséquent, il n'est pas besoin de passer par une étape de "conversion raw" au préalable.</seg>
       </tuv>
     </tu>
     <tu>

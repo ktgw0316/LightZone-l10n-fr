@@ -6734,6 +6734,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Unlike other applications, LightZone allows you to &lt;e0&gt;draw&lt;/e0&gt; (rather than &lt;e1&gt;paint&lt;/e1&gt;) regions.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141122T103451Z" creationid="Photonoxx" creationdate="20141122T103451Z">
+        <seg>Contrairement à d'autres applications, LightZone vous permet de &lt;e0&gt;tracer&lt;/e0&gt; (plutôt que de &lt;e1&gt;peindre&lt;/e1&gt;) les régions.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Unlock</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141115T091944Z" creationid="Photonoxx" creationdate="20141115T091944Z">
@@ -6832,8 +6840,8 @@
       <tuv lang="EN-US">
         <seg>Using regions to create masks, you can restrict a tool's effect to just specific areas of your photo.</seg>
       </tuv>
-      <tuv lang="FR" changeid="Photonoxx" changedate="20141122T103203Z" creationid="Photonoxx" creationdate="20141122T103203Z">
-        <seg>En utilisant des régions pour créer des masques, you can restrict a tool's effect to just specific areas of your photo.</seg>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141122T103327Z" creationid="Photonoxx" creationdate="20141122T103203Z">
+        <seg>En utilisant des régions pour créer des masques, vous pouvez restreindre l'action d'un Outil à une partie spécifique de votre photo.</seg>
       </tuv>
     </tu>
     <tu>

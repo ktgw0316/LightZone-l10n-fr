@@ -438,6 +438,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Additionally, you can select any edit within the history to go back to that point in time.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141122T164101Z" creationid="Photonoxx" creationdate="20141122T164101Z">
+        <seg>En complèment, vous pouvez sélectionner n'importe étape de l'historique pour revenir à celle-ci.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Adjust the color range</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141115T091517Z" creationid="Photonoxx" creationdate="20141115T091517Z">

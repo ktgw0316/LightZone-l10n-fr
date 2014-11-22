@@ -3958,6 +3958,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Metadata is data about a photo, such as its dimensions and file size, as well as the digital camera used to take the photo, such as the make and model, lens, ISO setting, and shutter speed.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141122T171159Z" creationid="Photonoxx" creationdate="20141122T171159Z">
+        <seg>Les Métadonnées sont des données à propos d'une photo, comme ses dimensions et la taille de fichier, aussi bien que l'appareil photo numérique utilisé pour prendre la photo, comme le fabricant et le modèle, l'objectif, le réglage ISO et le temps d'exposition.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Mid+Hilights</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141118T094923Z" creationid="Photonoxx" creationdate="20141118T094923Z">

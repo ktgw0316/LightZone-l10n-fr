@@ -3262,6 +3262,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>LightZone comes bundled with many ready-made styles that in many cases enable you to improve the appeal of your photos dramatically with a single click.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141122T093721Z" creationid="Photonoxx" creationdate="20141122T093721Z">
+        <seg>LightZone est fourni avec de nombreux styles prêts à l'emploi qui dans de nombreux cas vous permettent améliorer considérablement l'attractivité de vos photos d'un simple clic.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>LightZone copied $1 to $2, but could not delete the old image from $3.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141111T105456Z" creationid="Photonoxx" creationdate="20141111T105456Z">

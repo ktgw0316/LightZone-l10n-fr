@@ -3286,6 +3286,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>LightZone has a number of key features that set it apart from other photo editing applications.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141122T093258Z" creationid="Photonoxx" creationdate="20141122T093258Z">
+        <seg>LightZone a un certain nombre de fonctions clés qui le distinguent des applications d'édition de photos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>LightZone has encountered an internal error.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141111T100444Z" creationid="Photonoxx" creationdate="20141111T100444Z">

@@ -1752,16 +1752,16 @@
       <tuv lang="EN-US">
         <seg>Default tone curve</seg>
       </tuv>
-      <tuv lang="FR" changeid="Photonoxx" changedate="20141122T084708Z" creationid="Photonoxx" creationdate="20141122T084708Z">
-        <seg>La Courbe de Tonalité par défault.</seg>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141122T090645Z" creationid="Photonoxx" creationdate="20141122T084708Z">
+        <seg>La Courbe de Tonalités par défault.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Default tone curve tools.</seg>
       </tuv>
-      <tuv lang="FR" changeid="Photonoxx" changedate="20141122T084725Z" creationid="Photonoxx" creationdate="20141122T084636Z">
-        <seg>La Courbe de Tonalité par défault.</seg>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141122T090648Z" creationid="Photonoxx" creationdate="20141122T084636Z">
+        <seg>La Courbe de Tonalités par défault.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2488,8 +2488,8 @@
       <tuv lang="EN-US">
         <seg>For such raw files, LightZone automatically adds a &lt;a0&gt;ZoneMapper&lt;/a0&gt; containing the default tone curve to the &lt;a1&gt;tool stack&lt;/a1&gt;.</seg>
       </tuv>
-      <tuv lang="FR" changeid="Photonoxx" changedate="20141122T090044Z" creationid="Photonoxx" creationdate="20141122T090044Z">
-        <seg>Pour ces fichiers Bruts (RAW), LightZone ajoute automatiquement un &lt;a0&gt;ZoneMapper&lt;/a0&gt; contenant la courbe de tonalité par défaut à la &lt;a1&gt;chaîne de développement&lt;/a1&gt;.</seg>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141122T090751Z" creationid="Photonoxx" creationdate="20141122T090044Z">
+        <seg>Pour ces fichiers Bruts (RAW), LightZone ajoute automatiquement un &lt;a0&gt;ZoneMapper&lt;/a0&gt; contenant la courbe de tonalités par défaut à la &lt;a1&gt;chaîne de développement&lt;/a1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3232,8 +3232,8 @@
       <tuv lang="EN-US">
         <seg>LightZone can work with raw image files taken directly from the leading digital cameras as easily as with TIFF or JPEG images.</seg>
       </tuv>
-      <tuv lang="FR" changeid="Photonoxx" changedate="20141122T085335Z" creationid="Photonoxx" creationdate="20141122T085001Z">
-        <seg>LightZone peut travailler avec les fichiers Bruts (RAW) pris directement par les principaux appareils photo numérique aussi facilement qu'avec les fichiers TIFF ou JPEG.</seg>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141122T090714Z" creationid="Photonoxx" creationdate="20141122T085001Z">
+        <seg>LightZone peut travailler avec les fichiers Bruts (RAW) pris directement par les principaux appareils photo numériques aussi facilement qu'avec les fichiers TIFF ou JPEG.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3376,8 +3376,8 @@
       <tuv lang="EN-US">
         <seg>LightZone: Default Tone Curve</seg>
       </tuv>
-      <tuv lang="FR" changeid="Photonoxx" changedate="20141122T084622Z" creationid="Photonoxx" creationdate="20141122T084622Z">
-        <seg>LightZone: La Courbe de Tonalité par défault</seg>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141122T090709Z" creationid="Photonoxx" creationdate="20141122T084622Z">
+        <seg>LightZone: La Courbe de Tonalités par défault</seg>
       </tuv>
     </tu>
     <tu>
@@ -6040,8 +6040,16 @@
       <tuv lang="EN-US">
         <seg>The raw files from some cameras, however, always need a default "tone curve" applied to them to look correctly.</seg>
       </tuv>
-      <tuv lang="FR" changeid="Photonoxx" changedate="20141122T085838Z" creationid="Photonoxx" creationdate="20141122T085322Z">
-        <seg>Les images Brutes (RAW) de certains appareils, toutefois, ont toujours besoin qu'une "courbe de tonalité" leurs soit appliquée par défaut pour sembler correctes.</seg>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141122T090739Z" creationid="Photonoxx" creationdate="20141122T085322Z">
+        <seg>Les images Brutes (RAW) de certains appareils, toutefois, ont toujours besoin qu'une "courbe de tonalités" leurs soit appliquée par défaut pour sembler correctes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The raw files from the following cameras will have a default tone curve:</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141122T090920Z" creationid="Photonoxx" creationdate="20141122T090641Z">
+        <seg>Les fichiers bruts (RAW) des appareils ci-dessous auront une courbe de tonalités par défaut :</seg>
       </tuv>
     </tu>
     <tu>

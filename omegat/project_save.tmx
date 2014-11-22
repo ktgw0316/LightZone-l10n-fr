@@ -6086,6 +6086,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The Relight tool allows you to "relight" all or parts of your photo as if the lighting were different when you took it.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141122T095707Z" creationid="Photonoxx" creationdate="20141122T095707Z">
+        <seg>L'Outil Relight (Ré-éclairage) vous permet de "ré-éclairer" tout ou partie de votre photo comme si l'éclairage était différent du moment où la photo avait été prise.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The Settings include things like:</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141111T101934Z" creationid="Photonoxx" creationdate="20141111T101934Z">

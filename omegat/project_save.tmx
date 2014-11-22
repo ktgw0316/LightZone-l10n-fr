@@ -1214,6 +1214,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Click in any metadata that has a dark gray background and type the new data.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141122T172215Z" creationid="Photonoxx" creationdate="20141122T172215Z">
+        <seg>Cliquez n'importe quelle métadonnée sur fond gris foncé et saisissez les nouvelles données.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Click on the image where you would like to create one or more regions.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141106T102626Z" creationid="Photonoxx" creationdate="20141106T102626Z">
@@ -4414,6 +4422,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>On the right side of the browser window is the Metadata Inspector that shows the selected photo's metadata.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141122T171926Z" creationid="Photonoxx" creationdate="20141122T171926Z">
+        <seg>Sur la droite du Navigateur se trouve le Contrôleur de Métadonnées qui affiche les métadonnées de la photo sélectionnée.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Online Help</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141111T145006Z" creationid="Photonoxx" creationdate="20141111T145006Z">
@@ -5894,6 +5910,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Select the thumbnail of the photo.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141122T172101Z" creationid="Photonoxx" creationdate="20141122T172101Z">
+        <seg>Sélectionnez la vignette de la photo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Select the tool that you want to make a color/luminosity selection for by clicking its title bar.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141117T153053Z" creationid="Photonoxx" creationdate="20141117T153053Z">
@@ -7126,6 +7150,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>To display the metadata for a photo:</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141122T172039Z" creationid="Photonoxx" creationdate="20141122T172039Z">
+        <seg>Pour afficher les métadonnées d'une photo :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To edit the metadata for a photo:</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141122T172128Z" creationid="Photonoxx" creationdate="20141122T172128Z">
+        <seg>Pour éditer les métadonnées d'une photo :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>To go back into history:</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141122T164406Z" creationid="Photonoxx" creationdate="20141122T164406Z">
@@ -7714,6 +7754,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141118T145608Z" creationid="Photonoxx" creationdate="20141118T145608Z">
         <seg>Vous pouvez convertir vos photos vers les formats JPEG ou TIFF et ce dans différentes tailles en fonction de vos besoins.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can edit metadata that has a dark gray background.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141122T172020Z" creationid="Photonoxx" creationdate="20141122T172020Z">
+        <seg>Vous pouvez éditer les métadonnées qui se trouvent sur fond gris foncé.</seg>
       </tuv>
     </tu>
     <tu>

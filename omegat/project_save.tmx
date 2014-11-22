@@ -2958,6 +2958,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>How to inspect or edit the metadata of a photo.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141122T170751Z" creationid="Photonoxx" creationdate="20141122T170751Z">
+        <seg>Comment contrôler ou éditer les métadonnées d'une photo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>However, because the luminosity range is compressed, information from your photo is still lost: the loss is just evenly spread out over the entire luminosity range (and thus less noticeable) rather than being truncated at the black end.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141117T100832Z" creationid="Photonoxx" creationdate="20141117T100832Z">
@@ -3778,6 +3786,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141122T170521Z" creationid="Photonoxx" creationdate="20141122T170521Z">
         <seg>LightZone: Mentions Légales</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>LightZone: Metadata</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141122T170727Z" creationid="Photonoxx" creationdate="20141122T170727Z">
+        <seg>LightZone: Les Métadonnées</seg>
       </tuv>
     </tu>
     <tu>

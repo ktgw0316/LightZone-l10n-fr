@@ -1934,6 +1934,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Direct raw file support</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141122T121444Z" creationid="Photonoxx" creationdate="20141122T121444Z">
+        <seg>Support direct des fichiers Bruts (RAW)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Disable</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141115T091900Z" creationid="Photonoxx" creationdate="20141115T091900Z">
@@ -6770,6 +6778,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141106T105727Z" creationid="Photonoxx" creationdate="20141106T105727Z">
         <seg>Erreur inconnue lors du traitement de ce fichier</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Unlike a non-linear gamma-corrected color space, a linear color space doesn't introduce errors (such as increasing noise, edge distortion, and hue shifts) during enhancement operations such as sharpening, blurring, or saturation adjustments.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141122T121404Z" creationid="Photonoxx" creationdate="20141122T121404Z">
+        <seg>Contrairement à l'espace non linéaire avec une correction gamma, un espace couleur linéaire n'introduit pas d'erreurs (comme augmenter le bruit, déformer les arrêtes et décaler les teintes) durant les opérations d'amélioration comme la netteté, le flou ou l'ajustement de la saturation.</seg>
       </tuv>
     </tu>
     <tu>

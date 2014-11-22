@@ -6838,6 +6838,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Unlike other applications' layers, &lt;e0&gt;every&lt;/e0&gt; tool becomes a layer in the tool stack.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141122T122241Z" creationid="Photonoxx" creationdate="20141122T122241Z">
+        <seg>Contrairement aux calques des autres applications, &lt;e0&gt;tous&lt;/e0&gt; les outils deviennent des calques dans la chaîne de développement.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Unlike other applications, LightZone allows you to &lt;e0&gt;draw&lt;/e0&gt; (rather than &lt;e1&gt;paint&lt;/e1&gt;) regions.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141122T103451Z" creationid="Photonoxx" creationdate="20141122T103451Z">

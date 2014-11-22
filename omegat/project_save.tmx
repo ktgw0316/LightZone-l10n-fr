@@ -3638,6 +3638,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>More on Styles...</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141122T094738Z" creationid="Photonoxx" creationdate="20141122T094738Z">
+        <seg>En savoir plus sur les Styles...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Most tools can have a &lt;e0&gt;blending mode&lt;/e0&gt; specified for them.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141117T101134Z" creationid="Photonoxx" creationdate="20141117T101134Z">

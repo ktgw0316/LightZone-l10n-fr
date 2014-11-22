@@ -1182,6 +1182,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Click the Histogram tab.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141122T163547Z" creationid="Photonoxx" creationdate="20141122T163547Z">
+        <seg>Cliquer sur l'onglet Histogramme.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Click the eyedropper button.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141117T153231Z" creationid="Photonoxx" creationdate="20141117T153231Z">
@@ -3590,6 +3598,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>LightZone: History</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141122T163620Z" creationid="Photonoxx" creationdate="20141122T163620Z">
+        <seg>LightZone: L'Historique</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>LightZone: Photo Buttons Overview</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141117T151253Z" creationid="Photonoxx" creationdate="20141117T151218Z">
@@ -4082,6 +4098,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141106T105450Z" creationid="Photonoxx" creationdate="20141106T105450Z">
         <seg>Mémoire insuffisante</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Notice how the color channels now extend all the way from the darkest zone to the lightest.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141122T163502Z" creationid="Photonoxx" creationdate="20141122T163502Z">
+        <seg>Remarquez de quelle manière les canaux de couleurs s'étendent désormais tout du long, des zones les plus sombres à celles les plus claires.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6826,6 +6850,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141118T102519Z" creationid="Photonoxx" creationdate="20141118T102203Z">
         <seg>Pour afficher le Visionneur de Sélection Couleur :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To show the histogram:</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141122T163524Z" creationid="Photonoxx" creationdate="20141122T163524Z">
+        <seg>Pour afficher l'histogramme :</seg>
       </tuv>
     </tu>
     <tu>

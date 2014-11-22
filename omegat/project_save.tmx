@@ -2222,6 +2222,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Editing history.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141122T163710Z" creationid="Photonoxx" creationdate="20141122T163710Z">
+        <seg>Manipuler l'historique.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Editor Layout</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141111T144924Z" creationid="Photonoxx" creationdate="20141111T144924Z">
@@ -6290,6 +6298,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141118T144156Z" creationid="Photonoxx" creationdate="20141118T144156Z">
         <seg>Le nom de la tâche, si renseigné, est adjoint au nom de chaque fichier converti (mais avant l'extension).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The History tab shows you the complete history of all the edits you have made to your photo since opening it for the current editing session.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141122T163915Z" creationid="Photonoxx" creationdate="20141122T163915Z">
+        <seg>L'onglet Historique affiche l'historique complet de toutes les éditions que vous avez appliquées à votre photo depuis que vous l'avez ouverte lors de la session d'édition actuelle.</seg>
       </tuv>
     </tu>
     <tu>

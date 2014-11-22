@@ -5918,6 +5918,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Simple (and small) workflow</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141122T122707Z" creationid="Photonoxx" creationdate="20141122T122707Z">
+        <seg>Un flux de travail Simple (et concis)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Slide right to increase thumbnail size</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141114T175646Z" creationid="Photonoxx" creationdate="20141114T175646Z">

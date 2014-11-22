@@ -3894,6 +3894,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>New features</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141122T123326Z" creationid="Photonoxx" creationdate="20141122T123326Z">
+        <seg>Nouvelles fonctionnalités</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Newer Java required</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141115T104606Z" creationid="Photonoxx" creationdate="20141115T104606Z">
@@ -4194,6 +4202,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141118T153457Z" creationid="Photonoxx" creationdate="20141118T153241Z">
         <seg>Éventuellement, définissez la largeur et la hauteur en pixels dans les champs "Redimensionner en" pour réduire votre photo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Optionally, you can also convert your edited photos to TIFF files (for use in other applications).</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141122T123313Z" creationid="Photonoxx" creationdate="20141122T123313Z">
+        <seg>Optionnellement, vous pouvez aussi convertir vos photos éditées vers des fichiers TIFF (pour le partage avec d'autres applications).</seg>
       </tuv>
     </tu>
     <tu>
@@ -6138,6 +6154,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141118T154348Z" creationid="Photonoxx" creationdate="20141118T154348Z">
         <seg>TIFF</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Table of Contents</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141122T123337Z" creationid="Photonoxx" creationdate="20141122T123337Z">
+        <seg>Table des Matières</seg>
       </tuv>
     </tu>
     <tu>

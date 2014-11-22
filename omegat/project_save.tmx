@@ -1054,6 +1054,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Check out great new features.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141122T164802Z" creationid="Photonoxx" creationdate="20141122T164802Z">
+        <seg>Découvrez les nouvelles fonctionnalitées.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Checking for update...</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141111T103301Z" creationid="Photonoxx" creationdate="20141111T103227Z">
@@ -7226,6 +7234,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141111T100503Z" creationid="Photonoxx" creationdate="20141111T100503Z">
         <seg>Que voulez-vous faire ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>What's New in LightZone?</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141122T164604Z" creationid="Photonoxx" creationdate="20141122T164604Z">
+        <seg>Qu'est-ce qu'il y a de nouveau dans LightZone?</seg>
       </tuv>
     </tu>
     <tu>

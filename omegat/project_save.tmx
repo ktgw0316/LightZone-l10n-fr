@@ -3310,6 +3310,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>LightZone is designed for photographers and differs in many fundamental ways from pixel painting programs that force you to think in terms of pixels or use complex mathematical concepts like histograms and curves.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141122T092123Z" creationid="Photonoxx" creationdate="20141122T092123Z">
+        <seg>LightZone est conçu pour les photographes et diffère de bien des manières des logiciels de dessins et retouches qui vous forcent à penser en termes de pixels ou utilise des concepts mathématiques complexes comme les histogrammes et les courbes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>LightZone must know the correct color profile for your display in order to show colors correctly.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141111T151452Z" creationid="Photonoxx" creationdate="20141111T151452Z">

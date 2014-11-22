@@ -3430,6 +3430,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>LightZone organizes the tools used to edit your photo into a stack similarly to "layers" in other applications.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141122T122031Z" creationid="Photonoxx" creationdate="20141122T122031Z">
+        <seg>LightZone organise les outils utilisés pour éditer votre photo dans une chaîne de développement un peu de la même façon que des "Calques" dans d'autres applications.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>LightZone uses a model based on the physics of light and methods derived from the experience of photographers through the decades -- in the field, behind the camera, and in the darkroom.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141122T092815Z" creationid="Photonoxx" creationdate="20141122T092815Z">
@@ -3970,6 +3978,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141115T094152Z" creationid="Photonoxx" creationdate="20141115T094152Z">
         <seg>Réduction de Bruit</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Non-destructive editing for all tools</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141122T121801Z" creationid="Photonoxx" creationdate="20141122T121801Z">
+        <seg>Édition Non-destructive pour tous les outils</seg>
       </tuv>
     </tu>
     <tu>

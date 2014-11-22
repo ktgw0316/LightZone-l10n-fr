@@ -246,6 +246,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;a0&gt; More on the ZoneFinder...&lt;/a0&gt;</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141122T102704Z" creationid="Photonoxx" creationdate="20141122T102704Z">
+        <seg>&lt;a0&gt; En savoir plus sur le ZoneFinder...&lt;/a0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;a1&gt;More on styles...&lt;/a1&gt;</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141117T151929Z" creationid="Photonoxx" creationdate="20141117T151929Z">
@@ -6126,6 +6134,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The ZoneFinder allows you to see where the highlights, midtones, and shadows in your photo are in order to make adjustments using the ZoneMapper.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141122T102652Z" creationid="Photonoxx" creationdate="20141122T102652Z">
+        <seg>Le ZoneFinder vous permet de voir où se trouvent les tons clairs, moyens et foncés dans votre photo de façon à faire des ajustements en utilisant le ZoneMapper.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The ZoneFinder shows a miniature version of your photo that has been segmented into 16 grayscale zones each differing by 50% brightness or half an f-stop from the next.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141122T102501Z" creationid="Photonoxx" creationdate="20141122T102501Z">
@@ -6818,6 +6834,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141118T143228Z" creationid="Photonoxx" creationdate="20141118T143228Z">
         <seg>Avec le Navigateur photo, sélectionnez deux vignettes ou plus des photos que vous voulez convertir.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Vector-based regions and masks</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141122T102754Z" creationid="Photonoxx" creationdate="20141122T102754Z">
+        <seg>Régions et Masques Vectoriels</seg>
       </tuv>
     </tu>
     <tu>

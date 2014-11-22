@@ -3216,8 +3216,8 @@
       <tuv lang="EN-US">
         <seg>LightZone can work with raw image files taken directly from the leading digital cameras as easily as with TIFF or JPEG images.</seg>
       </tuv>
-      <tuv lang="FR" changeid="Photonoxx" changedate="20141122T085001Z" creationid="Photonoxx" creationdate="20141122T085001Z">
-        <seg>LightZone peut travailler avec les fichiers RAW pris directement par les principaux appareils photo numérique aussi facilement qu'avec les fichiers TIFF ou JPEG.</seg>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141122T085335Z" creationid="Photonoxx" creationdate="20141122T085001Z">
+        <seg>LightZone peut travailler avec les fichiers Bruts (RAW) pris directement par les principaux appareils photo numérique aussi facilement qu'avec les fichiers TIFF ou JPEG.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6018,6 +6018,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141117T144446Z" creationid="Photonoxx" creationdate="20141117T144446Z">
         <seg>Le résultat est similaire à braquer une lampe avec un diffuseur sur l'image.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The raw files from some cameras, however, always need a default "tone curve" applied to them to look correctly.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141122T085322Z" creationid="Photonoxx" creationdate="20141122T085322Z">
+        <seg>Les fichiers Bruts (RAW) The raw files from some cameras, however, always need a default "tone curve" applied to them to look correctly.</seg>
       </tuv>
     </tu>
     <tu>

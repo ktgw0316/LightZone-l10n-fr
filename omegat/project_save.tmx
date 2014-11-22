@@ -3654,6 +3654,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>More on the ZoneMapper...</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141122T101902Z" creationid="Photonoxx" creationdate="20141122T101902Z">
+        <seg>En savoir plus sur le ZoneMapper...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Most tools can have a &lt;e0&gt;blending mode&lt;/e0&gt; specified for them.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141117T101134Z" creationid="Photonoxx" creationdate="20141117T101134Z">
@@ -6118,10 +6126,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The ZoneMapper is based on the &lt;a0&gt;Zone System&lt;/a0&gt; invented by Ansel Adams and Fred Archer.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141122T101839Z" creationid="Photonoxx" creationdate="20141122T101839Z">
+        <seg>Le ZoneMapper est basé sur le &lt;a0&gt;Système de Zones&lt;/a0&gt; inventé par Ansel Adams et Fred Archer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The ZoneMapper tool allows you to adjust the brightness and contrast of your photo for any combination of the highlights, midtones, or shadows in a way that is far more intuitive than using either "levels" or "curves" tools found in other applications.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141122T101253Z" creationid="Photonoxx" creationdate="20141122T101253Z">
         <seg>L'Outil ZoneMapper vous permet d'ajuster la luminosité et le contraste de votre photo pour n'importe quelle combinaisons des tons clairs, moyens ou foncés d'une manière bien plus intuitive qu'avec les outils "Niveaux" ou "Courbes" que l'on trouve dans d'autres applications.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The ZoneMapper tool shows 16 grayscale zones each differing by 50% brightness or half an f-stop from the next.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141122T101737Z" creationid="Photonoxx" creationdate="20141122T101737Z">
+        <seg>L'outil ZoneMapper affiche 16 zones de l'échelle de gris, chacune différant de la suivante de 50% de luminosité ou également une demie valeur d'un f-stop.</seg>
       </tuv>
     </tu>
     <tu>

@@ -3646,6 +3646,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>More on the Relight tool...</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141122T100206Z" creationid="Photonoxx" creationdate="20141122T100206Z">
+        <seg>En savoir plus sur l'Outil Relight...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Most tools can have a &lt;e0&gt;blending mode&lt;/e0&gt; specified for them.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141117T101134Z" creationid="Photonoxx" creationdate="20141117T101134Z">
@@ -6094,6 +6102,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The Relight tool does this by reducing the large scale contrast and, at the same time, increasing the local contrast.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141122T095951Z" creationid="Photonoxx" creationdate="20141122T095951Z">
+        <seg>L'Outil Relight accomplit cela en réduisant le contraste global tout en augmentant le contraste local.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The Settings include things like:</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141111T101934Z" creationid="Photonoxx" creationdate="20141111T101934Z">
@@ -6394,6 +6410,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141117T111915Z" creationid="Photonoxx" creationdate="20141117T111915Z">
         <seg>Il est utile pour ajouter des hautes lumières ou des ombres à une image.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This mimics the behavior of the human visual system and makes your photo more appealing and easier to work with.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141122T100134Z" creationid="Photonoxx" creationdate="20141122T100134Z">
+        <seg>Cela imite le comportement de l'oeil humain et rend vos photos plus attractives et faciles à travailler.</seg>
       </tuv>
     </tu>
     <tu>

@@ -2798,6 +2798,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Help.css</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141122T170205Z" creationid="Photonoxx" creationdate="20141122T170205Z">
+        <seg>Help.css</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Hence, the darkest black of your photo becomes the darkest black that the device can render.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141117T100358Z" creationid="Photonoxx" creationdate="20141117T100358Z">
@@ -3138,6 +3146,38 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141106T110821Z" creationid="Photonoxx" creationdate="20141106T110821Z">
         <seg>Mémoire insuffisante pour ouvrir ce fichier</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Integration-Aperture.html</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141122T170322Z" creationid="Photonoxx" creationdate="20141122T170322Z">
+        <seg>Integration-Aperture.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Integration-Lightroom.html</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141122T170130Z" creationid="Photonoxx" creationdate="20141122T170130Z">
+        <seg>Integration-Lightroom.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Integration-iPhoto.html</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141122T170125Z" creationid="Photonoxx" creationdate="20141122T170125Z">
+        <seg>Integration-iPhoto.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Integration-iView_MediaPro.html</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141122T170127Z" creationid="Photonoxx" creationdate="20141122T170127Z">
+        <seg>Integration-iView_MediaPro.html</seg>
       </tuv>
     </tu>
     <tu>
@@ -3718,6 +3758,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>LightZone: Workflow Integration: iPhoto</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141122T170248Z" creationid="Photonoxx" creationdate="20141122T170248Z">
+        <seg>LightZone: Intégration à un flux de travail : iPhoto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>LightZone: Workflow Integration: iView MediaPro</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141122T170348Z" creationid="Photonoxx" creationdate="20141122T170348Z">
+        <seg>LightZone: Intégration à un flux de travail : iView MediaPro</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Lighten</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141117T112524Z" creationid="Photonoxx" creationdate="20141117T112524Z">
@@ -4010,6 +4066,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141122T165951Z" creationid="Photonoxx" creationdate="20141122T165951Z">
         <seg>Images TIFF Multipages</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Multipage_TIFF.html</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141122T170119Z" creationid="Photonoxx" creationdate="20141122T170119Z">
+        <seg>Multipage_TIFF.html</seg>
       </tuv>
     </tu>
     <tu>
@@ -4582,6 +4646,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Platform.css</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141122T170208Z" creationid="Photonoxx" creationdate="20141122T170208Z">
+        <seg>Platform.css</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Please connect, then try again.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141111T103551Z" creationid="Photonoxx" creationdate="20141111T103551Z">
@@ -4618,6 +4690,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141111T143728Z" creationid="Photonoxx" creationdate="20141111T143728Z">
         <seg>Préférences...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Preferences.html#Preferences-Direct_Save</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141122T170217Z" creationid="Photonoxx" creationdate="20141122T170217Z">
+        <seg>Preferences.html#Preferences-Direct_Save</seg>
       </tuv>
     </tu>
     <tu>
@@ -7246,6 +7326,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Using LightZone with iPhoto.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141122T170311Z" creationid="Photonoxx" creationdate="20141122T170311Z">
+        <seg>Utilisez LightZone avec iPhoto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Using LightZone with iView MediaPro.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141122T170400Z" creationid="Photonoxx" creationdate="20141122T170400Z">
+        <seg>Utilisez LightZone avec iView MediaPro.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Using a color/luminosity selection, you can restrict a tool's effect to just a selected hue or luminosity range.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141117T152542Z" creationid="Photonoxx" creationdate="20141117T152542Z">
@@ -7424,7 +7520,7 @@
       <tuv lang="EN-US">
         <seg>Workflow integration: Lightroom</seg>
       </tuv>
-      <tuv lang="FR" changeid="Photonoxx" changedate="20141122T165802Z" creationid="Photonoxx" creationdate="20141122T165802Z">
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141122T170157Z" creationid="Photonoxx" creationdate="20141122T165802Z">
         <seg>Intégration à un flux de travail : Lightroom</seg>
       </tuv>
     </tu>
@@ -7674,6 +7770,30 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141118T154425Z" creationid="Photonoxx" creationdate="20141118T154425Z">
         <seg>http://lightzoneproject.org/node/35/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>images/app_icon-32.png</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141122T170215Z" creationid="Photonoxx" creationdate="20141122T170215Z">
+        <seg>images/app_icon-32.png</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>index.html</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141122T170210Z" creationid="Photonoxx" creationdate="20141122T170210Z">
+        <seg>index.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>index/index.html</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141122T170212Z" creationid="Photonoxx" creationdate="20141122T170212Z">
+        <seg>index/index.html</seg>
       </tuv>
     </tu>
     <tu>

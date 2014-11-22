@@ -158,6 +158,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(Such metadata is known as IPTC metadata.)</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141122T171450Z" creationid="Photonoxx" creationdate="20141122T171450Z">
+        <seg>(Ce type de métadonnées sont connues comme les métadonnées IPTC.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(The color/luminosity selections as well as the &lt;a0&gt;Color Selection Viewer&lt;/a0&gt; will update to reflect the selected color/luminosity.)</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141118T100034Z" creationid="Photonoxx" creationdate="20141117T154043Z">
@@ -450,6 +458,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141122T104236Z" creationid="Photonoxx" creationdate="20141122T104236Z">
         <seg>De plus, chaque région possède une &lt;e2&gt;zone de transition&lt;/e2&gt; qui mèle progressivement la région avec les parties environnantes évitant les transitions brutales.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Additionally, metadata can also include information about the content of a photo such as its title, caption, copyright, creator, and location.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141122T171356Z" creationid="Photonoxx" creationdate="20141122T171342Z">
+        <seg>Additionnellement, les métadonnées peuvent aussi contenir des informations à propos du contenu de la photograpgraphie, comme son titre, une légende, un copyright, un créateur, et une localisation.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3650,6 +3666,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141122T122031Z" creationid="Photonoxx" creationdate="20141122T122031Z">
         <seg>LightZone organise les outils utilisés pour éditer votre photo dans une chaîne de développement un peu de la même façon que des "Calques" dans d'autres applications.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>LightZone reads all the metadata for a photo from its image file automatically.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141122T171554Z" creationid="Photonoxx" creationdate="20141122T171506Z">
+        <seg>LightZone lit toutes les métadonnées d'une photo depuis son fichier image automatiquement.</seg>
       </tuv>
     </tu>
     <tu>

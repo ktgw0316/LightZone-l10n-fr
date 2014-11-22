@@ -510,6 +510,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>All rights reserved.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141122T170613Z" creationid="Photonoxx" creationdate="20141122T170613Z">
+        <seg>Tout Droit réservé.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>All the Time</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141115T081602Z" creationid="Photonoxx" creationdate="20141115T081602Z">
@@ -3318,6 +3326,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Legal notices</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141122T170546Z" creationid="Photonoxx" creationdate="20141122T170546Z">
+        <seg>Mentions Légales</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Legal notices.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141122T170529Z" creationid="Photonoxx" creationdate="20141122T170529Z">
+        <seg>Mentions Légales.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Lens</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141114T181252Z" creationid="Photonoxx" creationdate="20141114T181252Z">
@@ -3346,6 +3370,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141117T092723Z" creationid="Photonoxx" creationdate="20141117T092723Z">
         <seg>Light Crafts souhaite remercier les personnes suivantes pour avoir contribué à LightZone:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Light Crafts, LightZone, ZoneFinder, ZoneMapper, ToneMapper, and RegionMapper are trademarks of Light Crafts, Inc.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141122T170647Z" creationid="Photonoxx" creationdate="20141122T170647Z">
+        <seg>Light Crafts, LightZone, ZoneFinder, ZoneMapper, ToneMapper, et RegionMapper sont des marques de Light Crafts, Inc.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3742,6 +3774,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>LightZone: Legal Notices</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141122T170521Z" creationid="Photonoxx" creationdate="20141122T170521Z">
+        <seg>LightZone: Mentions Légales</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>LightZone: Photo Buttons Overview</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141117T151253Z" creationid="Photonoxx" creationdate="20141117T151218Z">
@@ -3754,6 +3794,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141122T165119Z" creationid="Photonoxx" creationdate="20141122T165119Z">
         <seg>LightZone: Intégration à un flux de travail : Aperture</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>LightZone: Workflow Integration: Lightroom</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141122T170425Z" creationid="Photonoxx" creationdate="20141122T170425Z">
+        <seg>LightZone: Intégration à un flux de travail : Lightroom</seg>
       </tuv>
     </tu>
     <tu>
@@ -7322,6 +7370,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141122T165132Z" creationid="Photonoxx" creationdate="20141122T165132Z">
         <seg>Utilisez LightZone avec Aperture.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Using LightZone with Lightroom.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141122T170442Z" creationid="Photonoxx" creationdate="20141122T170442Z">
+        <seg>Utilisez LightZone avec Lightroom.</seg>
       </tuv>
     </tu>
     <tu>

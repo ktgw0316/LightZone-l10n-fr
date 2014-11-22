@@ -398,6 +398,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>After selecting a style, you are free to manipulate the settings of the individual tools ever further.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141122T094341Z" creationid="Photonoxx" creationdate="20141122T094210Z">
+        <seg>Après avoir choisi un style, vous êtes libre de modifier les réglages de chacun des outils davantage.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>After the reset, LightZone must quit.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141115T095920Z" creationid="Photonoxx" creationdate="20141115T095920Z">
@@ -5938,6 +5946,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141118T154329Z" creationid="Photonoxx" creationdate="20141118T154329Z">
         <seg>Styles</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Styles are intelligent combinations of LightZone's &lt;a0&gt;tools&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141122T094149Z" creationid="Photonoxx" creationdate="20141122T094149Z">
+        <seg>Les Styles sont des combinaisons intelligentes des&lt;a0&gt;outils&lt;/a0&gt; de LightZone.</seg>
       </tuv>
     </tu>
     <tu>

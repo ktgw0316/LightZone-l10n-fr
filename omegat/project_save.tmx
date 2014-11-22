@@ -2478,6 +2478,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For such raw files, LightZone automatically adds a &lt;a0&gt;ZoneMapper&lt;/a0&gt; containing the default tone curve to the &lt;a1&gt;tool stack&lt;/a1&gt;.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141122T090044Z" creationid="Photonoxx" creationdate="20141122T090044Z">
+        <seg>Pour ces fichiers Bruts (RAW), LightZone ajoute automatiquement un &lt;a0&gt;ZoneMapper&lt;/a0&gt; contenant la courbe de tonalité par défaut à la &lt;a1&gt;chaîne de développement&lt;/a1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>GPS</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141118T154354Z" creationid="Photonoxx" creationdate="20141118T154354Z">

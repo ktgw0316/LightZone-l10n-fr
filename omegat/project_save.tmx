@@ -3078,6 +3078,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Key Features</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141122T092841Z" creationid="Photonoxx" creationdate="20141122T092841Z">
+        <seg>Fonctions Clés</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Learning Center</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141111T145049Z" creationid="Photonoxx" creationdate="20141111T145049Z">
@@ -3338,6 +3346,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141115T104137Z" creationid="Photonoxx" creationdate="20141115T104137Z">
         <seg>LightZone sous Linux requière Un processeur supportant le jeu d'instruction SSE2.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>LightZone uses a model based on the physics of light and methods derived from the experience of photographers through the decades -- in the field, behind the camera, and in the darkroom.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141122T092815Z" creationid="Photonoxx" creationdate="20141122T092815Z">
+        <seg>LightZone utilise un modèle basé sur les propriétés de la lumière et des méthodes dérivées de l'expérience de photographes à travers les décennies -- sur le terrain, derrière l'appareil, et dans la chambre noire.</seg>
       </tuv>
     </tu>
     <tu>

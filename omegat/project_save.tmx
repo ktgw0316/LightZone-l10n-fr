@@ -6118,6 +6118,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The ZoneMapper tool allows you to adjust the brightness and contrast of your photo for any combination of the highlights, midtones, or shadows in a way that is far more intuitive than using either "levels" or "curves" tools found in other applications.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141122T101253Z" creationid="Photonoxx" creationdate="20141122T101253Z">
+        <seg>L'Outil ZoneMapper vous permet d'ajuster la luminosité et le contraste de votre photo pour n'importe quelle combinaisons des tons clairs, moyens ou foncés d'une manière bien plus intuitive qu'avec les outils "Niveaux" ou "Courbes" que l'on trouve dans d'autres applications.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The amount of memory LightZone should use</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141111T102053Z" creationid="Photonoxx" creationdate="20141111T102053Z">

@@ -1198,10 +1198,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Click the History tab.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141122T164333Z" creationid="Photonoxx" creationdate="20141122T164333Z">
+        <seg>Cliquez sur l'onglet Historique.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Click the eyedropper button.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141117T153231Z" creationid="Photonoxx" creationdate="20141117T153231Z">
         <seg>Cliquez sur le bouton de la pipette.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Click the name of an edit in the History.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141122T164434Z" creationid="Photonoxx" creationdate="20141122T164434Z">
+        <seg>Cliquez le nom d'une étape d'édition dans l'Historique.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3454,6 +3470,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>LightZone icon</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141122T164544Z" creationid="Photonoxx" creationdate="20141122T164544Z">
+        <seg>Icône de LightZone</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>LightZone is a breakthrough in photo editing software that makes it easier to edit digital photos and quickly achieve professional quality results.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141122T091600Z" creationid="Photonoxx" creationdate="20141122T091600Z">
@@ -3498,6 +3522,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141122T122031Z" creationid="Photonoxx" creationdate="20141122T122031Z">
         <seg>LightZone organise les outils utilisés pour éditer votre photo dans une chaîne de développement un peu de la même façon que des "Calques" dans d'autres applications.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>LightZone screenshot</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141122T164501Z" creationid="Photonoxx" creationdate="20141122T164501Z">
+        <seg>Captures d'écran de LightZone</seg>
       </tuv>
     </tu>
     <tu>
@@ -6710,6 +6742,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This is the same as selecting Edit &gt; Undo multiple times.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141122T164300Z" creationid="Photonoxx" creationdate="20141122T164300Z">
+        <seg>Ceci revient en un clic à choisir Édition &gt; Annuler plusieurs fois.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This is the same as the Normal blending mode but at 50% opacity.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141117T105823Z" creationid="Photonoxx" creationdate="20141117T105823Z">
@@ -6830,6 +6870,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>To go back into history:</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141122T164406Z" creationid="Photonoxx" creationdate="20141122T164406Z">
+        <seg>Pour revenir à une étape de l'Historique :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>To learn more about SSE2 and the CPUs that support it, see</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141115T104510Z" creationid="Photonoxx" creationdate="20141115T104510Z">
@@ -6882,6 +6930,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141122T163524Z" creationid="Photonoxx" creationdate="20141122T163524Z">
         <seg>Pour afficher l'histogramme :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To view the History:</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141122T164317Z" creationid="Photonoxx" creationdate="20141122T164317Z">
+        <seg>Pour afficher l'Historique :</seg>
       </tuv>
     </tu>
     <tu>

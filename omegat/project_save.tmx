@@ -1942,6 +1942,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Discover LightZone</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141122T091208Z" creationid="Photonoxx" creationdate="20141122T091208Z">
+        <seg>Découvrir LightZone</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Display Color Profile</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141111T151251Z" creationid="Photonoxx" creationdate="20141111T151251Z">
@@ -2982,6 +2990,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Introduction to the breakthrough features of LightZone.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141122T091157Z" creationid="Photonoxx" creationdate="20141122T091157Z">
+        <seg>Présentation des principales fonctionnalités de LightZone.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Invalid image file</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141106T105412Z" creationid="Photonoxx" creationdate="20141106T105412Z">
@@ -3378,6 +3394,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141122T090709Z" creationid="Photonoxx" creationdate="20141122T084622Z">
         <seg>LightZone: La Courbe de Tonalités par défault</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>LightZone: Discover</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141122T091057Z" creationid="Photonoxx" creationdate="20141122T091057Z">
+        <seg>LightZone: Découvrir</seg>
       </tuv>
     </tu>
     <tu>
@@ -6474,6 +6498,22 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141115T091758Z" creationid="Photonoxx" creationdate="20141115T091758Z">
         <seg>Réglages Outils</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Tool anatomy</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141122T091033Z" creationid="Photonoxx" creationdate="20141122T091033Z">
+        <seg>Présentation des Outils</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Tool stack</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141122T091049Z" creationid="Photonoxx" creationdate="20141122T091049Z">
+        <seg>La Chaîne de développement</seg>
       </tuv>
     </tu>
     <tu>

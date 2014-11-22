@@ -3302,6 +3302,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>LightZone is a breakthrough in photo editing software that makes it easier to edit digital photos and quickly achieve professional quality results.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141122T091600Z" creationid="Photonoxx" creationdate="20141122T091600Z">
+        <seg>LightZone est un logiciel d'édition de photos très performant qui rend plus simple l'édition de photos numériques et permet d'atteindre rapidement un résultat professionel.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>LightZone must know the correct color profile for your display in order to show colors correctly.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141111T151452Z" creationid="Photonoxx" creationdate="20141111T151452Z">

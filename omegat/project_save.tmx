@@ -3086,6 +3086,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If you have set your &lt;a0&gt;copyright preferences&lt;/a0&gt;, you can click the small arrow on the right of either the Copyright or Creator metadata and the data will be filled in automatically.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141122T172532Z" creationid="Photonoxx" creationdate="20141122T172532Z">
+        <seg>Si vous avez défini vos &lt;a0&gt;paramètres de copyright&lt;/a0&gt;, vous pouvez cliquer sur la petite flèche qui se trouve sur la droite des champs Copyright ou Créateur et les données seront automatiquement renseignées.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If you open an new image while you are still editing another image, LightZone can automatically save your work, or it can ask you what to do.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141111T145903Z" creationid="Photonoxx" creationdate="20141111T145903Z">
@@ -4818,6 +4826,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141122T170217Z" creationid="Photonoxx" creationdate="20141122T170217Z">
         <seg>Preferences.html#Preferences-Direct_Save</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Preferences: Copyright</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141122T172542Z" creationid="Photonoxx" creationdate="20141122T172542Z">
+        <seg>Préférences : Copyright</seg>
       </tuv>
     </tu>
     <tu>

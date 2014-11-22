@@ -4622,6 +4622,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Regions are therefore always editable.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141122T103619Z" creationid="Photonoxx" creationdate="20141122T103619Z">
+        <seg>Les Régions sont par conséquent toujours éditables.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Remember Preset</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141115T092226Z" creationid="Photonoxx" creationdate="20141115T092226Z">

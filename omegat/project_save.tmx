@@ -582,6 +582,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Aperture (from Apple) allows you to select another application as an "external editor" for editing your photos.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141122T165246Z" creationid="Photonoxx" creationdate="20141122T165246Z">
+        <seg>Aperture (d'Apple) vous permet de choisir une autre application comme "éditeur externer" pour éditer vos photos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Application Managed Colors</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141115T100537Z" creationid="Photonoxx" creationdate="20141115T100502Z">
@@ -7434,6 +7442,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141122T094701Z" creationid="Photonoxx" creationdate="20141122T094701Z">
         <seg>Vous pouvez également créer vos propres styles que ce soit pour votre propre usage ou pour les partager avec d'autres.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can configure LightZone to be such an editor.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141122T165344Z" creationid="Photonoxx" creationdate="20141122T165344Z">
+        <seg>Vous pouvez configurer LightZone pour être seulement un éditeur.</seg>
       </tuv>
     </tu>
     <tu>

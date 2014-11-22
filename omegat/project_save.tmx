@@ -4006,6 +4006,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Multipage TIFF images</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141122T165951Z" creationid="Photonoxx" creationdate="20141122T165951Z">
+        <seg>Images TIFF Multipages</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Multiplies or screens the colors depending on the base color.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141117T140609Z" creationid="Photonoxx" creationdate="20141117T140609Z">
@@ -7410,6 +7418,30 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141122T165147Z" creationid="Photonoxx" creationdate="20141122T165147Z">
         <seg>Intégration à un flux de travail : Aperture</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Workflow integration: Lightroom</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141122T165802Z" creationid="Photonoxx" creationdate="20141122T165802Z">
+        <seg>Intégration à un flux de travail : Lightroom</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Workflow integration: iPhoto</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141122T165928Z" creationid="Photonoxx" creationdate="20141122T165928Z">
+        <seg>Intégration à un flux de travail : iPhoto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Workflow integration: iView MediaPro</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141122T170056Z" creationid="Photonoxx" creationdate="20141122T165858Z">
+        <seg>Intégration à un flux de travail : iView MediaPro</seg>
       </tuv>
     </tu>
     <tu>

@@ -2230,6 +2230,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Edit photographs using powerful and intuitive tools designed with the photographer in mind.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141122T164933Z" creationid="Photonoxx" creationdate="20141122T164933Z">
+        <seg>Éditer vos photographies en utilisant des outils puissants et intuitifs conçus pour les photographes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Edit size</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141115T090157Z" creationid="Photonoxx" creationdate="20141115T090157Z">
@@ -3222,6 +3230,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Learn to use LightZone from start to finish.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141122T165001Z" creationid="Photonoxx" creationdate="20141122T165001Z">
+        <seg>Apprendre à utiliser LightZone de A à Z.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Learning Center</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141111T145049Z" creationid="Photonoxx" creationdate="20141111T145049Z">
@@ -3670,6 +3686,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>LightZone: Workflow Integration: Aperture</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141122T165119Z" creationid="Photonoxx" creationdate="20141122T165119Z">
+        <seg>LightZone: Intégration à un flux de travail : Aperture</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Lighten</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141117T112524Z" creationid="Photonoxx" creationdate="20141117T112524Z">
@@ -3714,6 +3738,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141115T091932Z" creationid="Photonoxx" creationdate="20141115T091932Z">
         <seg>Protéger</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Look up topics easily.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141122T165048Z" creationid="Photonoxx" creationdate="20141122T165048Z">
+        <seg>Parcourez les sujets facilement.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7174,6 +7206,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Using LightZone with Aperture.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141122T165132Z" creationid="Photonoxx" creationdate="20141122T165132Z">
+        <seg>Utilisez LightZone avec Aperture.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Using a color/luminosity selection, you can restrict a tool's effect to just a selected hue or luminosity range.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141117T152542Z" creationid="Photonoxx" creationdate="20141117T152542Z">
@@ -7338,6 +7378,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141111T102308Z" creationid="Photonoxx" creationdate="20141111T102135Z">
         <seg>La Position et taille de la fenêtre</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Workflow integration: Aperture</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141122T165147Z" creationid="Photonoxx" creationdate="20141122T165147Z">
+        <seg>Intégration à un flux de travail : Aperture</seg>
       </tuv>
     </tu>
     <tu>

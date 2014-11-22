@@ -6910,6 +6910,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You can also create your own styles for not only yourself, but share them with others.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141122T094701Z" creationid="Photonoxx" creationdate="20141122T094701Z">
+        <seg>Vous pouvez également créer vos propres styles que ce soit pour votre propre usage ou pour les partager avec d'autres.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You can convert your photos to either JPEG or TIFF images and in various sizes suitable for different purposes.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141118T145608Z" creationid="Photonoxx" creationdate="20141118T145608Z">

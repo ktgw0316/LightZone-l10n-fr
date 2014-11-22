@@ -3286,6 +3286,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>LightZone always works in a 16-bit linear color space.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141122T120931Z" creationid="Photonoxx" creationdate="20141122T120931Z">
+        <seg>LightZone travaille toujours dans un espace couleur linéaire de 16-bit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>LightZone can work with raw image files taken directly from the leading digital cameras as easily as with TIFF or JPEG images.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141122T090714Z" creationid="Photonoxx" creationdate="20141122T085001Z">

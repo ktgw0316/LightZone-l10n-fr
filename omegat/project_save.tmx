@@ -262,6 +262,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;a3&gt;More on regions...&lt;/a3&gt;</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141122T104256Z" creationid="Photonoxx" creationdate="20141122T104256Z">
+        <seg>&lt;a3&gt;En savoir plus sur les Régions...&lt;/a3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;html&gt;Continue  (The program may now be unstable)&lt;/html&gt;</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141111T100806Z" creationid="Photonoxx" creationdate="20141111T100806Z">
@@ -386,6 +394,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141117T152814Z" creationid="Photonoxx" creationdate="20141117T152814Z">
         <seg>De plus, les Sélections de Couleur/Luminosité ont un adoucissement ajustable, éliminant ainsi les transitions brutales entre les zones sélectionnées ou non.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Additionally, every region has a &lt;e2&gt;feathering area&lt;/e2&gt; that smoothly blends the region into the surrounding area preventing sharp edges.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141122T104236Z" creationid="Photonoxx" creationdate="20141122T104236Z">
+        <seg>De plus, chaque région possède une &lt;e2&gt;zone de transition&lt;/e2&gt; qui mèle progressivement la région avec les parties environnantes évitant les transitions brutales.</seg>
       </tuv>
     </tu>
     <tu>

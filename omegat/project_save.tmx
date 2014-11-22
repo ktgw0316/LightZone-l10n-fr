@@ -3462,6 +3462,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>LightZone's workflow consists of an original image file (be it JPEG, TIFF, or raw) obtained from a digital camera or scanner and an associated "LightZone JPEG" file that contains the &lt;a0&gt;tool stack&lt;/a0&gt; you create.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141122T123013Z" creationid="Photonoxx" creationdate="20141122T123013Z">
+        <seg>Le flux de travail de LightZone consiste en un fichier image original (que ce soit en JPEG, TIFF, ou un fichier brut Raw) obtenu depuis un appareil photo numérique ou un scanner et un fichier "LightZone JPEG" associé qui contient la &lt;a0&gt;Chaîne de développement&lt;/a0&gt; que vous avez créée.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>LightZone: Acknowledgments</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141117T092551Z" creationid="Photonoxx" creationdate="20141117T092551Z">
@@ -6406,6 +6414,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>These two files are all you need to create beautiful photos.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141122T123046Z" creationid="Photonoxx" creationdate="20141122T123046Z">
+        <seg>Ces deux fichiers sont tout ce dont vous avez besoin pour créer de magnifques photos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This Style has no version number</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141114T184843Z" creationid="Photonoxx" creationdate="20141114T184843Z">
@@ -7186,6 +7202,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141106T111134Z" creationid="Photonoxx" creationdate="20141106T111134Z">
         <seg>Vous pouvez continuer et ouvrir ce fichier, ou essayer de l'importer comme un Style LightZone.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can make stunning prints of your photos directly from LightZone.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141122T123140Z" creationid="Photonoxx" creationdate="20141122T123140Z">
+        <seg>Vous pouvez faire d'étonnante impressions de vos photos directement depuis LightZone.</seg>
       </tuv>
     </tu>
     <tu>

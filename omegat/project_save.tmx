@@ -78,6 +78,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(For example, you create a sharpen tool &lt;e1&gt;as a layer&lt;/e1&gt; rather than sharpening an existing layer.) This means that every tool is non-destructive and therefore can be modified or deleted at any time.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141122T122524Z" creationid="Photonoxx" creationdate="20141122T122524Z">
+        <seg>(Par exemple, vous créez un outil Netteté &lt;e1&gt;comme un calque&lt;/e1&gt; plutôt d'augmenter la netteté d'un calque existant.) Cela signifie que tous les outils sont non-destructifs et par conséquent peuvent être modifiés ou supprimés à tout moment.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(LightZone display a progress dialog while converting your photos.)</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141118T144557Z" creationid="Photonoxx" creationdate="20141118T144557Z">
@@ -258,6 +266,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141117T151929Z" creationid="Photonoxx" creationdate="20141117T151929Z">
         <seg>&lt;a1&gt;En savoir plus sur les Styles...&lt;/a1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;a2&gt;More on the tool stack...&lt;/a2&gt;</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141122T122605Z" creationid="Photonoxx" creationdate="20141122T122605Z">
+        <seg>&lt;a2&gt;En savoir plus sur la Chaîne de développement...&lt;/a2&gt;</seg>
       </tuv>
     </tu>
     <tu>

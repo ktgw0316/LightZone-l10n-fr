@@ -6024,8 +6024,8 @@
       <tuv lang="EN-US">
         <seg>The raw files from some cameras, however, always need a default "tone curve" applied to them to look correctly.</seg>
       </tuv>
-      <tuv lang="FR" changeid="Photonoxx" changedate="20141122T085322Z" creationid="Photonoxx" creationdate="20141122T085322Z">
-        <seg>Les fichiers Bruts (RAW) The raw files from some cameras, however, always need a default "tone curve" applied to them to look correctly.</seg>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141122T085838Z" creationid="Photonoxx" creationdate="20141122T085322Z">
+        <seg>Les images Brutes (RAW) de certains appareils, toutefois, ont toujours besoin qu'une "courbe de tonalité" leurs soit appliquée par défaut pour sembler correctes.</seg>
       </tuv>
     </tu>
     <tu>

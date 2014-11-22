@@ -3510,6 +3510,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Linear color space</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141122T120838Z" creationid="Photonoxx" creationdate="20141122T120838Z">
+        <seg>Espace couleur Linéaire</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Loading Classes</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141111T100002Z" creationid="Photonoxx" creationdate="20141111T100002Z">

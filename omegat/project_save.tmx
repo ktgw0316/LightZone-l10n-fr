@@ -246,6 +246,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>3 of 4</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141122T162250Z" creationid="Photonoxx" creationdate="20141122T162250Z">
+        <seg>3 de 4</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>8 Bits/Channel</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141115T085926Z" creationid="Photonoxx" creationdate="20141115T085926Z">
@@ -1902,6 +1910,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Description of the histogram.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141122T162242Z" creationid="Photonoxx" creationdate="20141122T162242Z">
+        <seg>Description de l'histogramme.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Description of the parts of the browser window.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141117T092957Z" creationid="Photonoxx" creationdate="20141117T092957Z">
@@ -2554,6 +2570,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141118T101737Z" creationid="Photonoxx" creationdate="20141118T101737Z">
         <seg>Par exemple, comparons ce qui est affiché ci dessous.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For example, the histogram in the upper right shows that the photo has little contrast (because none of the color channels extend into the darker zones) and is also slightly underexposed (because none of the color channels extend into the lightest zone).</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141122T162708Z" creationid="Photonoxx" creationdate="20141122T162708Z">
+        <seg>Par example, l'Histogramme en haut à droite montre que cette photo in the upper right shows that the photo has little contrast (because none of the color channels extend into the darker zones) and is also slightly underexposed (because none of the color channels extend into the lightest zone).</seg>
       </tuv>
     </tu>
     <tu>
@@ -3554,6 +3578,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141117T093600Z" creationid="Photonoxx" creationdate="20141117T093600Z">
         <seg>LightZone: Présentation de l'Éditeur</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>LightZone: Histogram</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141122T162209Z" creationid="Photonoxx" creationdate="20141122T162209Z">
+        <seg>LightZone: L'Histogramme</seg>
       </tuv>
     </tu>
     <tu>
@@ -5674,6 +5706,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141118T094935Z" creationid="Photonoxx" creationdate="20141115T090956Z">
         <seg>Tons Foncés</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Sharing space with the &lt;a0&gt;ZoneFinder&lt;/a0&gt;, &lt;a1&gt;Color Selection Viewer&lt;/a1&gt;, and &lt;a2&gt;Sampler&lt;/a2&gt; in the upper-right corner of the LightZone window is also the histogram that shows the distribution of intensity for each of the red, green, and blue color channels.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141122T162548Z" creationid="Photonoxx" creationdate="20141122T162548Z">
+        <seg>Partageant l'espace avec le &lt;a0&gt;ZoneFinder&lt;/a0&gt;, le &lt;a1&gt;visionneur de la Sélection Couleur&lt;/a1&gt;, et &lt;a2&gt;La Pipette&lt;/a2&gt; dans le coin en haut à droite de la fenêtre de LightZone se trouve aussi l'histogramme qui affiche la répartition de l'intensité de chacun des canaux rouge, vert et bleu.</seg>
       </tuv>
     </tu>
     <tu>

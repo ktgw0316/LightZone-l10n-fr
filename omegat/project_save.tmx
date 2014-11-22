@@ -294,6 +294,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;b0&gt;Note:&lt;/b0&gt; The information provided here is accurate as of Aperture version 1.5.3 but may need to change for future versions.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141122T165724Z" creationid="Photonoxx" creationdate="20141122T165724Z">
+        <seg>&lt;b0&gt;Note:&lt;/b0&gt; Les informations fournies ici correspondent à la version 1.5.3 d'Aperture mais peuvent avoir changé depuis.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;html&gt;Continue  (The program may now be unstable)&lt;/html&gt;</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141111T100806Z" creationid="Photonoxx" creationdate="20141111T100806Z">
@@ -418,6 +426,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141122T121730Z" creationid="Photonoxx" creationdate="20141122T121730Z">
         <seg>De plus, LightZone peut ouvrir les fichiers DNG.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Additionally, LightZone integrates seamlessly with Aperture via the &lt;a0&gt;Direct Save&lt;/a0&gt; preference.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141122T165604Z" creationid="Photonoxx" creationdate="20141122T165604Z">
+        <seg>En complèment, LightZone s'intègre de façon transparente avec Aperture via le réglage de &lt;a0&gt;Enregistrement Direct&lt;/a0&gt; dans les préférences.</seg>
       </tuv>
     </tu>
     <tu>

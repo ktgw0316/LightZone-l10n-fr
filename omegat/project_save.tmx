@@ -2246,6 +2246,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Even though the ZoneMapper is added collapsed and &lt;a2&gt;locked&lt;/a2&gt;, you can expand it (by double-clicking it in its title bar) to inspect the curve.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141122T090357Z" creationid="Photonoxx" creationdate="20141122T090357Z">
+        <seg>Bien que le ZoneMapper soit ajouté replié et &lt;a2&gt;verrouillé&lt;/a2&gt;, vous pouvez le déplier (en double cliquant sur sa barre de titre) pour inspecter la courbe.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Exclusion</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141118T154531Z" creationid="Photonoxx" creationdate="20141118T154531Z">
@@ -6778,6 +6786,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141111T145418Z" creationid="Photonoxx" creationdate="20141111T145418Z">
         <seg>Jaunes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You are also free to unlock and edit or delete it.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141122T090502Z" creationid="Photonoxx" creationdate="20141122T090502Z">
+        <seg>Vous êtes également libre de la déverrouiller et l'éditer ou de la supprimer.</seg>
       </tuv>
     </tu>
     <tu>

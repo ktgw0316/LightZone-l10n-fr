@@ -6678,6 +6678,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The &lt;b0&gt;Back/Forward&lt;/b0&gt; buttons can be used to navigate either back or forward to the folder you were previously in.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141124T120012Z" creationid="Photonoxx" creationdate="20141124T120012Z">
+        <seg>Le bouton &lt;b0&gt;Précédent/Suivant&lt;/b0&gt; peut être utilisé pour naviguer dans l'historique des dossiers que vous avez consultés précédemment.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The &lt;b0&gt;Convert&lt;/b0&gt; button is equivalent to File &gt; &lt;a1&gt;Convert&lt;/a1&gt;.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141117T152039Z" creationid="Photonoxx" creationdate="20141117T152039Z">
@@ -6698,6 +6706,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141117T151711Z" creationid="Photonoxx" creationdate="20141117T151711Z">
         <seg>Le bouton &lt;b0&gt;Ouvrir&lt;/b0&gt; est équivalent à Fichier &gt; &lt;a1&gt;Ouvrir&lt;/a1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The &lt;b0&gt;Path&lt;/b0&gt; button can be used to navigate up the folder tree quickly.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141124T120130Z" creationid="Photonoxx" creationdate="20141124T120130Z">
+        <seg>Le Bouton &lt;b0&gt;Chemin&lt;/b0&gt; peut être utilisé can be used to navigate up the folder tree quickly.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7384,8 +7400,8 @@
       <tuv lang="EN-US">
         <seg>To navigate to a folder:</seg>
       </tuv>
-      <tuv lang="FR" changeid="Photonoxx" changedate="20141124T115434Z" creationid="Photonoxx" creationdate="20141124T115424Z">
-        <seg>Pour accéder à un dossiers:</seg>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141124T120135Z" creationid="Photonoxx" creationdate="20141124T115424Z">
+        <seg>Pour accéder à vos dossiers:</seg>
       </tuv>
     </tu>
     <tu>

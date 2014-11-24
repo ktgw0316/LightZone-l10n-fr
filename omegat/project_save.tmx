@@ -3214,6 +3214,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Instead, thumbnails for the photos in the selected folder are displayed in the &lt;a0&gt;thumbnails&lt;/a0&gt; section of the window.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141124T115131Z" creationid="Photonoxx" creationdate="20141124T115131Z">
+        <seg>À la place, les vignettes des photos du dossier sélectionnée sont affichées dans la partie &lt;a0&gt;Vignettes&lt;/a0&gt; de la fenêtre.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Insufficient memory to open this file</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141106T110821Z" creationid="Photonoxx" creationdate="20141106T110821Z">
@@ -6866,6 +6874,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141122T163254Z" creationid="Photonoxx" creationdate="20141122T163254Z">
         <seg>L'histogramme en bas à droite montre la même photo après l'ajustement de &lt;a0&gt;l'exposition&lt;/a0&gt; et &lt;a1&gt;du point noir&lt;/a1&gt; à l'aide de l'outil &lt;a2&gt;ZoneMapper&lt;/a2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The major difference, however, is that only folders and disks are shown -- files are not.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141124T115000Z" creationid="Photonoxx" creationdate="20141124T115000Z">
+        <seg>La différence majeure, toutefois, est que seuls les dossiers et les disques sont affichés -- les fichiers ne l'étant pas.</seg>
       </tuv>
     </tu>
     <tu>

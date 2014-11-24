@@ -6702,6 +6702,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The Folder Navigator looks and works much like a &lt;s0&gt;Finder&lt;/s0&gt; &lt;s1&gt;Windows Explorer&lt;/s1&gt; window in list view mode.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141124T114837Z" creationid="Photonoxx" creationdate="20141124T114837Z">
+        <seg>Le Navigateur de Dossiers ressemble et fonctionne comme un &lt;s0&gt;Finder&lt;/s0&gt; &lt;s1&gt;Explorateur Windows&lt;/s1&gt; en mode d'affichage liste.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The History tab shows you the complete history of all the edits you have made to your photo since opening it for the current editing session.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141122T163915Z" creationid="Photonoxx" creationdate="20141122T163915Z">

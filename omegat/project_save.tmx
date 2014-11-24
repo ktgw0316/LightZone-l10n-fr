@@ -486,6 +486,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Additionally, the navigator tool buttons can be used to navigate.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141124T115756Z" creationid="Photonoxx" creationdate="20141124T115756Z">
+        <seg>De plus, les boutons de navigation peuvent être utilisé.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Additionally, you can select any edit within the history to go back to that point in time.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141122T164101Z" creationid="Photonoxx" creationdate="20141122T164101Z">
@@ -1250,6 +1258,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141117T153202Z" creationid="Photonoxx" creationdate="20141117T153202Z">
         <seg>Cliquez sur &lt;a0&gt;l'onglet Sélection Couleur&lt;/a0&gt; pour afficher les contrôles de Sélection de Couleur/Luminosité.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Click the &lt;s0&gt;triangles&lt;/s0&gt; &lt;s1&gt;plus signs '+'&lt;/s1&gt; to expand the folders.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141124T115621Z" creationid="Photonoxx" creationdate="20141124T115621Z">
+        <seg>Cliquez sur les &lt;s0&gt;triangles&lt;/s0&gt; &lt;s1&gt;signes plus  '+'&lt;/s1&gt; pour déplier les dossiers.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5978,6 +5994,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141118T150751Z" creationid="Photonoxx" creationdate="20141118T150751Z">
         <seg>Choisissez le profil couleur à inclure.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Select the desired folder.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141124T115642Z" creationid="Photonoxx" creationdate="20141124T115642Z">
+        <seg>Choisissez le dossiers désiré.</seg>
       </tuv>
     </tu>
     <tu>

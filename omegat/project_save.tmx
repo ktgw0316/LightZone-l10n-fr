@@ -350,6 +350,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A disadvantage of two-page TIFF files is that they are, of course, twice as big.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141124T113818Z" creationid="Photonoxx" creationdate="20141124T113818Z">
+        <seg>Un inconvénient d'un fichier TIFF double page demeure, bien sûr, dans le fait qu'il sera deux fois plus gros.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A file named "$1" already exists in $2.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141111T105344Z" creationid="Photonoxx" creationdate="20141111T105344Z">
@@ -7698,6 +7706,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141115T080723Z" creationid="Photonoxx" creationdate="20141115T080723Z">
         <seg>À l'enregistrement de votre photo la première fois, le sélecteur de fichier peut afficher automatiquement le dossier de la photo d'origine, ou afficher le dernier dossier où LightZone a enregistré quelque chose.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When the two-page TIFF file is reopened with LightZone, however, the tool stack is re-applied to your original photo on the second page and you can resume editing where you left off.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141124T113705Z" creationid="Photonoxx" creationdate="20141124T113705Z">
+        <seg>Quand un TIFF double page est réouvert dans LightZone, cependant, la chaîne de développement est réappliquée à votre photo originale de la seconde page et vous pouvez reprendre l'édition là où vous l'aviez laissée.</seg>
       </tuv>
     </tu>
     <tu>

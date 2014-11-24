@@ -6710,6 +6710,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The Folder Navigator allows you to navigate to, select, and view the thumbnails and &lt;a0&gt;metadata&lt;/a0&gt; for photos in folders on your computer.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141124T115407Z" creationid="Photonoxx" creationdate="20141124T115407Z">
+        <seg>Le Navigateur de Dossiers vous permet d'accéder à, sélectionner et voir les vignettes et les &lt;a0&gt;métadonnées&lt;/a0&gt; des photos dans les dossiers de votre ordinateur.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The Folder Navigator looks and works much like a &lt;s0&gt;Finder&lt;/s0&gt; &lt;s1&gt;Windows Explorer&lt;/s1&gt; window in list view mode.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141124T114837Z" creationid="Photonoxx" creationdate="20141124T114837Z">
@@ -7346,6 +7354,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141117T152834Z" creationid="Photonoxx" creationdate="20141117T152834Z">
         <seg>Pour définir une Sélection de Couleur/Luminosité :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To navigate to a folder:</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141124T115434Z" creationid="Photonoxx" creationdate="20141124T115424Z">
+        <seg>Pour accéder à un dossiers:</seg>
       </tuv>
     </tu>
     <tu>

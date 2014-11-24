@@ -4638,6 +4638,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Other applications that display multipage TIFF images show the first page by default.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141124T104241Z" creationid="Photonoxx" creationdate="20141124T104241Z">
+        <seg>Les autres applications qui affiche les Images TIFF Multipages montre la première page par défaut.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Output Size:</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141106T110552Z" creationid="Photonoxx" creationdate="20141106T110552Z">
@@ -6798,6 +6806,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The first page is your edited photo along with the LightZone &lt;a0&gt;tool stack&lt;/a0&gt; you created.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141124T104112Z" creationid="Photonoxx" creationdate="20141124T103931Z">
+        <seg>La première page est votre photo éditée accompagnée de &lt;a0&gt;la Chaîne de développement&lt;/a0&gt; que vous avez créée avec LightZone</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The histogram in the lower right shows the same photo after both &lt;a0&gt;exposure&lt;/a0&gt; and &lt;a1&gt;black point&lt;/a1&gt; adjustments have been made using the &lt;a2&gt;ZoneMapper&lt;/a2&gt; tool.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141122T163254Z" creationid="Photonoxx" creationdate="20141122T163254Z">
@@ -6850,6 +6866,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141117T112553Z" creationid="Photonoxx" creationdate="20141117T112553Z">
         <seg>La couleur finale sera soit la couleur de base soit la couleur de fusion, choisissant la plus claire des deux.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The second page is your original, unedited photo to which the tool stack is applied.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141124T104133Z" creationid="Photonoxx" creationdate="20141124T104105Z">
+        <seg>La seconde page est votre photo originale et non éditée à laquelle sera appliqué la chaîne de développement.</seg>
       </tuv>
     </tu>
     <tu>

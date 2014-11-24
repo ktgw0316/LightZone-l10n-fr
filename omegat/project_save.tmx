@@ -4470,6 +4470,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>On the left side of the LightZone window is the Folder Navigator that shows the folders on your computer.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141124T114622Z" creationid="Photonoxx" creationdate="20141124T114554Z">
+        <seg>Sur le côté gauche de LightZone se trouve Navigateur de Dossiers qui affiche les dossiers sur votre ordinateur.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>On the other hand, if black point compensation is done, the luminosity range of your photo is compressed to fit into the luminosity range of the device.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141117T100222Z" creationid="Photonoxx" creationdate="20141117T100222Z">

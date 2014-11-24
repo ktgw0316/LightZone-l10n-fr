@@ -7078,6 +7078,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This is typically used to store digitized pages of a multipage document such as a fax.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141124T103558Z" creationid="Photonoxx" creationdate="20141124T103558Z">
+        <seg>Ceci est d'habitude utilisé pour stocker les pages numérisées d'un document multipage comme un fax.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This is useful for adding highlights or shadows to an image.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141117T111915Z" creationid="Photonoxx" creationdate="20141117T111915Z">
@@ -7210,6 +7218,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141122T164406Z" creationid="Photonoxx" creationdate="20141122T164406Z">
         <seg>Pour revenir à une étape de l'Historique :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To integrate with some other applications, LightZone can save your edited photos as a two-page TIFF file:</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141124T103714Z" creationid="Photonoxx" creationdate="20141124T103714Z">
+        <seg>Pour s'intégrer avec d'autres applications, LightZone peut enregistrer vos photos éditées comme un fichier TIFF à deux pages:</seg>
       </tuv>
     </tu>
     <tu>

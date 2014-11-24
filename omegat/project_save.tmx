@@ -6902,6 +6902,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Therefore, the first page is like a full-sized preview of your edited photo.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141124T113233Z" creationid="Photonoxx" creationdate="20141124T113233Z">
+        <seg>Il en résulte que la première page est comme un aperçu pleine résolution de votre photo éditée.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Therefore, there is no need for an intermediate "raw conversion" step.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141122T121711Z" creationid="Photonoxx" creationdate="20141122T121711Z">

@@ -3846,6 +3846,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>LightZone: Multipage TIFF Images</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141124T103147Z" creationid="Photonoxx" creationdate="20141124T103147Z">
+        <seg>LightZone: Images TIFF Multipages</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>LightZone: Photo Buttons Overview</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141117T151253Z" creationid="Photonoxx" creationdate="20141117T151218Z">
@@ -4186,6 +4194,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141122T165951Z" creationid="Photonoxx" creationdate="20141122T165951Z">
         <seg>Images TIFF Multipages</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Multipage TIFF images.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141124T103204Z" creationid="Photonoxx" creationdate="20141124T103204Z">
+        <seg>Images TIFF Multipages.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6690,6 +6706,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141111T101934Z" creationid="Photonoxx" creationdate="20141111T101934Z">
         <seg>Les Paramètres incluent des choses telles que:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The TIFF image format allows multiple images to be stored in the same TIFF file.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141124T103336Z" creationid="Photonoxx" creationdate="20141124T103336Z">
+        <seg>Le format d'image TIFF offre la possibilité d'enregistrer plusieurs images dans le même fichier TIFF.</seg>
       </tuv>
     </tu>
     <tu>

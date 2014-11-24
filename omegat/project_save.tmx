@@ -3006,6 +3006,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>How to navigate the folders and browse photos.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141124T114136Z" creationid="Photonoxx" creationdate="20141124T114136Z">
+        <seg>Comment parcourir les dossiers et consulter vos photos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>However, because the luminosity range is compressed, information from your photo is still lost: the loss is just evenly spread out over the entire luminosity range (and thus less noticeable) rather than being truncated at the black end.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141117T100832Z" creationid="Photonoxx" creationdate="20141117T100832Z">
@@ -3862,6 +3870,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>LightZone: Navigating Folders</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141124T114027Z" creationid="Photonoxx" creationdate="20141124T114027Z">
+        <seg>LightZone: Parcourir les dossiers</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>LightZone: Photo Buttons Overview</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141117T151253Z" creationid="Photonoxx" creationdate="20141117T151218Z">
@@ -4250,6 +4266,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141111T100948Z" creationid="Photonoxx" creationdate="20141111T100948Z">
         <seg>Nom</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Navigating folders</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141124T114154Z" creationid="Photonoxx" creationdate="20141124T114154Z">
+        <seg>Parcourir les dossiers</seg>
       </tuv>
     </tu>
     <tu>
@@ -6922,6 +6946,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141122T121711Z" creationid="Photonoxx" creationdate="20141122T121711Z">
         <seg>Par conséquent, il n'est pas besoin de passer par une étape de "conversion raw" au préalable.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Therefore, they are recommended only when integrating with &lt;s0&gt;either &lt;a1&gt;Aperture&lt;/a1&gt; or&lt;/s0&gt; &lt;a2&gt;Lightroom&lt;/a2&gt;.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141124T113954Z" creationid="Photonoxx" creationdate="20141124T113954Z">
+        <seg>C'est pour cela qu'il n'est recommandé qu'en cas d'intégration &lt;s0&gt;avec &lt;a1&gt;Aperture&lt;/a1&gt; ou&lt;/s0&gt; &lt;a2&gt;Lightroom&lt;/a2&gt;.</seg>
       </tuv>
     </tu>
     <tu>

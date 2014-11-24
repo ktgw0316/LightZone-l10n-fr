@@ -2270,6 +2270,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Dragging &amp; dropping photos</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141124T120406Z" creationid="Photonoxx" creationdate="20141124T120406Z">
+        <seg>Glisser et Déposer des photos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Draw Bezier Regions</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141114T184701Z" creationid="Photonoxx" creationdate="20141114T184701Z">
@@ -6712,8 +6720,8 @@
       <tuv lang="EN-US">
         <seg>The &lt;b0&gt;Path&lt;/b0&gt; button can be used to navigate up the folder tree quickly.</seg>
       </tuv>
-      <tuv lang="FR" changeid="Photonoxx" changedate="20141124T120130Z" creationid="Photonoxx" creationdate="20141124T120130Z">
-        <seg>Le Bouton &lt;b0&gt;Chemin&lt;/b0&gt; peut être utilisé can be used to navigate up the folder tree quickly.</seg>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141124T120351Z" creationid="Photonoxx" creationdate="20141124T120130Z">
+        <seg>Le Bouton &lt;b0&gt;Chemin&lt;/b0&gt; peut être utilisé pour remonter rapidement dans l'arborescence des dossiers.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7400,8 +7408,8 @@
       <tuv lang="EN-US">
         <seg>To navigate to a folder:</seg>
       </tuv>
-      <tuv lang="FR" changeid="Photonoxx" changedate="20141124T120135Z" creationid="Photonoxx" creationdate="20141124T115424Z">
-        <seg>Pour accéder à vos dossiers:</seg>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141124T120146Z" creationid="Photonoxx" creationdate="20141124T115424Z">
+        <seg>Pour accéder à vos dossiers :</seg>
       </tuv>
     </tu>
     <tu>

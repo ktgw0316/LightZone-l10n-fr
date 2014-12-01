@@ -1270,6 +1270,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Click anywhere in the photo's preview.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141201T095358Z" creationid="Photonoxx" creationdate="20141201T095358Z">
+        <seg>Cliquez n'importe où sur l'aperçu de la photo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Click in any metadata that has a dark gray background and type the new data.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141122T172215Z" creationid="Photonoxx" creationdate="20141122T172215Z">
@@ -2406,6 +2414,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Editing a photo</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141201T095418Z" creationid="Photonoxx" creationdate="20141201T095418Z">
+        <seg>Éditer une photo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Editing history.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141122T163710Z" creationid="Photonoxx" creationdate="20141122T163710Z">
@@ -3058,6 +3074,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141111T103759Z" creationid="Photonoxx" creationdate="20141111T103759Z">
         <seg>Historique</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Hold the Shift key to select multiple, contiguous thumbnails or the &lt;s0&gt;Command&lt;/s0&gt; &lt;s1&gt;Control&lt;/s1&gt; key to select multiple, non-contiguous thumbnails.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141201T095238Z" creationid="Photonoxx" creationdate="20141201T095238Z">
+        <seg>Maintenez la touche Maj pour sélectionner plusieurs vignettes consécutives ou la touche &lt;s0&gt;Commande&lt;/s0&gt; &lt;s1&gt;Contrôle&lt;/s1&gt; pour sélectionner plusieurs vignettes non contigues.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7762,6 +7786,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141122T172039Z" creationid="Photonoxx" creationdate="20141122T172039Z">
         <seg>Pour afficher les métadonnées d'une photo :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To edit one of the photos:</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141201T095327Z" creationid="Photonoxx" creationdate="20141201T095327Z">
+        <seg>Pour éditer une des ces photos :</seg>
       </tuv>
     </tu>
     <tu>

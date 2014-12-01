@@ -4270,6 +4270,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>LightZone: Rating Photos</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141201T104922Z" creationid="Photonoxx" creationdate="20141201T104922Z">
+        <seg>LightZone: Notez les Photos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>LightZone: Workflow Integration: Aperture</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141122T165119Z" creationid="Photonoxx" creationdate="20141122T165119Z">

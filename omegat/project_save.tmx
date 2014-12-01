@@ -2896,8 +2896,8 @@
       <tuv lang="EN-US">
         <seg>Hide Crop Tool</seg>
       </tuv>
-      <tuv lang="FR" changeid="Photonoxx" changedate="20141114T184332Z" creationid="Photonoxx" creationdate="20141114T184332Z">
-        <seg>Masquer l'ouitl de Recadrage</seg>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141201T085821Z" creationid="Photonoxx" creationdate="20141114T184332Z">
+        <seg>Masquer l'outil de Recadrage</seg>
       </tuv>
     </tu>
     <tu>
@@ -2976,8 +2976,8 @@
       <tuv lang="EN-US">
         <seg>Hide the Crop Tool</seg>
       </tuv>
-      <tuv lang="FR" changeid="Photonoxx" changedate="20141114T184442Z" creationid="Photonoxx" creationdate="20141114T184442Z">
-        <seg>Masquer l'ouitl de Recadrage</seg>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141201T085827Z" creationid="Photonoxx" creationdate="20141114T184442Z">
+        <seg>Masquer l'outil de Recadrage</seg>
       </tuv>
     </tu>
     <tu>
@@ -6842,6 +6842,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141115T091219Z" creationid="Photonoxx" creationdate="20141115T091219Z">
         <seg>Température</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The &lt;a0&gt;Raw Adjustments&lt;/a0&gt; tool now automatically removes "hot pixels" from your raw photos.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141201T085710Z" creationid="Photonoxx" creationdate="20141201T085710Z">
+        <seg>L'outil &lt;a0&gt;Ajustements RAW&lt;/a0&gt; enlève désormais automatiquement les "pixels chauds" de vos photos brutes (raw).</seg>
       </tuv>
     </tu>
     <tu>

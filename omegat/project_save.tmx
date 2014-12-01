@@ -3270,6 +3270,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In the center of the Browser window is Photo Viewer that shows one to five large previews of the selected thumbnails in the selected folder in the &lt;a0&gt;Folder Navigator&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141201T094916Z" creationid="Photonoxx" creationdate="20141201T094916Z">
+        <seg>Au centre de la fenêtre du Navigateur se trouve la Visionneuse Photo qui affiche un grand aperçu de une à cinq vignettes sélectionnées du dossier sélectionné dans le &lt;a0&gt;Navigateur de Dossiers&lt;/a0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Index</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141118T154441Z" creationid="Photonoxx" creationdate="20141118T154441Z">
@@ -7862,10 +7870,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>To view a large preview of a photo:</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141201T094942Z" creationid="Photonoxx" creationdate="20141201T094942Z">
+        <seg>Pour voir un grand aperçu d'une photo :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>To view the History:</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141122T164317Z" creationid="Photonoxx" creationdate="20141122T164317Z">
         <seg>Pour afficher l'Historique :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To view up to five a large previews of photos:</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141201T095102Z" creationid="Photonoxx" creationdate="20141201T095102Z">
+        <seg>Pour voir un grand aperçu de plusieurs photos (jusqu'à cinq) :</seg>
       </tuv>
     </tu>
     <tu>

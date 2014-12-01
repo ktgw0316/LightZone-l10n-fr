@@ -3814,6 +3814,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>LightZone now has distinct &lt;a0&gt;browse&lt;/a0&gt; and &lt;a1&gt;edit&lt;/a1&gt; modes.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141201T090405Z" creationid="Photonoxx" creationdate="20141201T090405Z">
+        <seg>LightZone a désormais deux modes distincts &lt;a0&gt;Navigation&lt;/a0&gt; et &lt;a1&gt;Édition&lt;/a1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>LightZone on Linux requires a CPU supporting the SSE2 instruction set.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141115T104137Z" creationid="Photonoxx" creationdate="20141115T104137Z">
@@ -4922,6 +4930,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141117T140915Z" creationid="Photonoxx" creationdate="20141117T140915Z">
         <seg>Les motifs ou couleurs recouvre les pixels existants tandis que sont préservées les hautes et basses lumières des couleurs de base.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Photo Browser</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141201T090459Z" creationid="Photonoxx" creationdate="20141201T090459Z">
+        <seg>Navigateur Photo</seg>
       </tuv>
     </tu>
     <tu>
@@ -7210,6 +7226,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141117T105411Z" creationid="Photonoxx" creationdate="20141117T105411Z">
         <seg>Il existe de nombreux modes de fusions disponibles.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>There is now context-sensitive help throughout LightZone.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141201T090449Z" creationid="Photonoxx" creationdate="20141201T090449Z">
+        <seg>Il y a désormais une aide contextuelle à travers tout LightZone.</seg>
       </tuv>
     </tu>
     <tu>

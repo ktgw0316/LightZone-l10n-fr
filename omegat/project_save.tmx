@@ -5438,6 +5438,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Related photos can now be &lt;a0&gt;stacked&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141201T090939Z" creationid="Photonoxx" creationdate="20141201T090939Z">
+        <seg>Les photos liées peuvent désormais être &lt;a0&gt;repliées en pile&lt;/a0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Remember Preset</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141115T092226Z" creationid="Photonoxx" creationdate="20141115T092226Z">

@@ -2758,6 +2758,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Fuzz</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141201T092437Z" creationid="Photonoxx" creationdate="20141201T092437Z">
+        <seg>Arrêtes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>GPS</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141118T154354Z" creationid="Photonoxx" creationdate="20141118T154354Z">
@@ -6912,8 +6920,8 @@
       <tuv lang="EN-US">
         <seg>The &lt;a0&gt;Relight tool&lt;/a0&gt; (an improved ToneMapper tool) has new Depth and Fuzz sliders.</seg>
       </tuv>
-      <tuv lang="FR" changeid="Photonoxx" changedate="20141201T092112Z" creationid="Photonoxx" creationdate="20141201T092112Z">
-        <seg>&lt;a0&gt;L'outil Relight&lt;/a0&gt; (un outil ToneMapper amélioré) a de nouveaux contrôles Profondeur et Fuzz sliders.</seg>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141201T092650Z" creationid="Photonoxx" creationdate="20141201T092112Z">
+        <seg>&lt;a0&gt;L'outil Relight&lt;/a0&gt; (un outil ToneMapper amélioré) a de nouveaux contrôles Profondeur et Arrêtes.</seg>
       </tuv>
     </tu>
     <tu>

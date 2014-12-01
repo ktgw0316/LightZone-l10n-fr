@@ -8766,6 +8766,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>a folder window or the desktop</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141201T101015Z" creationid="Photonoxx" creationdate="20141201T101015Z">
+        <seg>une fenêtre d'un dossier ou le bureau</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>a window of a text editor or terminal emulator</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141201T101143Z" creationid="Photonoxx" creationdate="20141201T101143Z">
+        <seg>une fenêtre d'un éditeur de texte ou un terminal</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>en-US</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141106T102255Z">
@@ -8848,8 +8864,16 @@
       <tuv lang="EN-US">
         <seg>the icon of an application that can open image files</seg>
       </tuv>
-      <tuv lang="FR" changeid="Photonoxx" changedate="20141201T100822Z" creationid="Photonoxx" creationdate="20141201T100822Z">
-        <seg>L'incône d'une application qui peut ouvrir des fichiers images</seg>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141201T100938Z" creationid="Photonoxx" creationdate="20141201T100822Z">
+        <seg>L'icône d'une application qui peut ouvrir des fichiers images</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>the image files to be copied there</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141201T101038Z" creationid="Photonoxx" creationdate="20141201T101038Z">
+        <seg>La copie des fichiers images dans cet emplacement</seg>
       </tuv>
     </tu>
     <tu>

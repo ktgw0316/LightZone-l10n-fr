@@ -6910,6 +6910,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The &lt;a0&gt;Relight tool&lt;/a0&gt; (an improved ToneMapper tool) has new Depth and Fuzz sliders.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141201T092112Z" creationid="Photonoxx" creationdate="20141201T092112Z">
+        <seg>&lt;a0&gt;L'outil Relight&lt;/a0&gt; (un outil ToneMapper amélioré) a de nouveaux contrôles Profondeur et Fuzz sliders.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The &lt;b0&gt;Back/Forward&lt;/b0&gt; buttons can be used to navigate either back or forward to the folder you were previously in.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141124T120012Z" creationid="Photonoxx" creationdate="20141124T120012Z">

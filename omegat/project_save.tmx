@@ -1254,6 +1254,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Click Move to &lt;s0&gt;Trash&lt;/s0&gt; &lt;s1&gt;Recycle Bin&lt;/s1&gt; (or press Return).</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141201T100051Z" creationid="Photonoxx" creationdate="20141201T100051Z">
+        <seg>Cliquez Déplacer vers &lt;s0&gt;La Poubelle&lt;/s0&gt; &lt;s1&gt;La Corbeille&lt;/s1&gt; (ou appuyez sur Entrée.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Click Open.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141201T094203Z" creationid="Photonoxx" creationdate="20141201T094203Z">
@@ -3118,6 +3126,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>How to drag &amp; drop photos from the Photo Browser.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141201T100203Z" creationid="Photonoxx" creationdate="20141201T100203Z">
+        <seg>Comment glisser et déposer des photos depuis le Navigateur Photo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>How to inspect or edit the metadata of a photo.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141122T170751Z" creationid="Photonoxx" creationdate="20141122T170751Z">
@@ -4066,6 +4082,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141122T091057Z" creationid="Photonoxx" creationdate="20141122T091057Z">
         <seg>LightZone: Découvrir</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>LightZone: Dragging &amp; Dropping Photos</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141201T100129Z" creationid="Photonoxx" creationdate="20141201T100129Z">
+        <seg>LightZone: Glisser et Déposer des Photos</seg>
       </tuv>
     </tu>
     <tu>

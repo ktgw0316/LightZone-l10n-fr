@@ -3486,6 +3486,30 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>LightZone 3.2</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141201T085026Z" creationid="Photonoxx" creationdate="20141201T085026Z">
+        <seg>LightZone 3.2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>LightZone 3.3</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141201T084909Z" creationid="Photonoxx" creationdate="20141201T084909Z">
+        <seg>LightZone 3.3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>LightZone 3.4</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141201T084737Z" creationid="Photonoxx" creationdate="20141201T084737Z">
+        <seg>LightZone 3.4</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>LightZone 3.5</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141201T084409Z" creationid="Photonoxx" creationdate="20141201T084409Z">
@@ -4010,6 +4034,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141122T120838Z" creationid="Photonoxx" creationdate="20141122T120838Z">
         <seg>Espace couleur Linéaire</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Linux is now supported.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141201T085025Z" creationid="Photonoxx" creationdate="20141201T085025Z">
+        <seg>Linux est désormais pris en charge.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4670,6 +4702,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Operating System Support</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141201T085012Z" creationid="Photonoxx" creationdate="20141201T085012Z">
+        <seg>Prise en charge de Système d'Exploitation</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Optionally enter a new name for the converted image.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141118T150317Z" creationid="Photonoxx" creationdate="20141118T150317Z">
@@ -4850,6 +4890,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141117T140915Z" creationid="Photonoxx" creationdate="20141117T140915Z">
         <seg>Les motifs ou couleurs recouvre les pixels existants tandis que sont préservées les hautes et basses lumières des couleurs de base.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Photo Editor</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141201T084756Z" creationid="Photonoxx" creationdate="20141201T084756Z">
+        <seg>Éditeur Photo</seg>
       </tuv>
     </tu>
     <tu>
@@ -5154,6 +5202,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141122T121608Z" creationid="Photonoxx" creationdate="20141122T121608Z">
         <seg>Les fichiers Bruts (Raw) de Canon, Fuji, Kodak, Leaf Valeo, Leica, Minolta, Nikon, Olympus, Panasonic, Pentax, and Sony cameras sont supportés.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Raw files from the following cameras are now supported: Canon EOS 1Ds Mark III, Panasonic DMC-L10.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141201T084736Z" creationid="Photonoxx" creationdate="20141201T084736Z">
+        <seg>Les fichiers bruts (Raw) des appareils suivant sont désormais supportés : Canon EOS 1Ds Mark III, Panasonic DMC-L10.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8130,6 +8186,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141122T123140Z" creationid="Photonoxx" creationdate="20141122T123140Z">
         <seg>Vous pouvez faire d'étonnante impressions de vos photos directement depuis LightZone.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can now preview &lt;a0&gt;styles&lt;/a0&gt; by moving the mouse over style names.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141201T084907Z" creationid="Photonoxx" creationdate="20141201T084907Z">
+        <seg>Vous pouvez désormais prévisualiser &lt;a0&gt;les styles&lt;/a0&gt; en passant la souris au-dessus du nom des styles.</seg>
       </tuv>
     </tu>
     <tu>

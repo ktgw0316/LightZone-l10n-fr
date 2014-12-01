@@ -190,6 +190,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(The table above is illustrative and not exhaustive because what happens when an image file is dropped onto an application's icon or window depends entirely on the application.)</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141201T101751Z" creationid="Photonoxx" creationdate="20141201T101751Z">
+        <seg>(Le Tableau ci-dessus n'est aucunement exhaustif l'effet produit lorsque l'on dépose un fichier image sur l'icône d'une application dépend entièrement de l'application elle-même.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(Use the Shift key to select multiple, contiguous thumbnails or the &lt;s0&gt;Command&lt;/s0&gt; &lt;s1&gt;Control&lt;/s1&gt; key to select multiple, non-contiguous thumbnails.)</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141118T143452Z" creationid="Photonoxx" creationdate="20141118T143452Z">

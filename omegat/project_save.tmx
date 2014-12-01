@@ -6910,6 +6910,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The &lt;a0&gt;Raw Adjustments tool&lt;/a0&gt; has a new As Shot button.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141201T093025Z" creationid="Photonoxx" creationdate="20141201T093025Z">
+        <seg>&lt;a0&gt;L'Outils d'Ajustements RAW&lt;/a0&gt; a un nouveau bouton "Comme la Photo".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The &lt;a0&gt;Raw Adjustments&lt;/a0&gt; tool now automatically removes "hot pixels" from your raw photos.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141201T085710Z" creationid="Photonoxx" creationdate="20141201T085710Z">

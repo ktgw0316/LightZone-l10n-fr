@@ -8286,6 +8286,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You can now &lt;a0&gt;edit IPTC metadata&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141201T091424Z" creationid="Photonoxx" creationdate="20141201T091424Z">
+        <seg>Vous pouvez désormais &lt;a0&gt;éditer les métadonnées IPTC&lt;/a0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can now move photos via drag &amp; drop to folders in the &lt;a0&gt;Folder Navigator&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141201T091201Z" creationid="Photonoxx" creationdate="20141201T091201Z">
+        <seg>Vous pouvez désormais déplacer vos photos par glisser/déposer dans les dossiers du &lt;a0&gt;Navigateur de Dossiers&lt;/a0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You can now preview &lt;a0&gt;styles&lt;/a0&gt; by moving the mouse over style names.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141201T084907Z" creationid="Photonoxx" creationdate="20141201T084907Z">
@@ -8298,6 +8314,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141201T085359Z" creationid="Photonoxx" creationdate="20141201T085359Z">
         <seg>Vous pouvez désormais restreindre tous les outils à une &lt;a0&gt;gamme de couleur ou de luminosité&lt;/a0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can now select only the most recent versions of your photos in a given folder.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141201T091355Z" creationid="Photonoxx" creationdate="20141201T091355Z">
+        <seg>Vous pouvez désormais sélectionner la version la plus récente de vos photos dans un répértoire donné.</seg>
       </tuv>
     </tu>
     <tu>

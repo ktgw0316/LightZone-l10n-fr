@@ -2350,6 +2350,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Dragging thumbnails to:</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141201T100607Z" creationid="Photonoxx" creationdate="20141201T100607Z">
+        <seg>Glisser des vignettes vers :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Draw Bezier Regions</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141114T184701Z" creationid="Photonoxx" creationdate="20141114T184701Z">
@@ -8430,6 +8438,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Will cause:</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141201T100624Z" creationid="Photonoxx" creationdate="20141201T100624Z">
+        <seg>Provoquera :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Window</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141111T144033Z" creationid="Photonoxx" creationdate="20141111T144033Z">
@@ -8546,6 +8562,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141201T095551Z" creationid="Photonoxx" creationdate="20141201T095551Z">
         <seg>Vous pouvez supprimer des photos directement dans LightZone en utilisant &lt;a0&gt;Navigateur Photo&lt;/a0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can drag &amp; drop the thumbnails for photos from the &lt;a0&gt;thumbnails&lt;/a0&gt; section of the &lt;a1&gt;Photo Browser&lt;/a1&gt; window to either the &lt;a2&gt;Folder Navigator&lt;/a2&gt; or to other applications.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141201T100502Z" creationid="Photonoxx" creationdate="20141201T100502Z">
+        <seg>Vous pouvez glisser et déposer les vignettes des photos depuis la partie &lt;a0&gt;vignettes&lt;/a0&gt; du &lt;a1&gt;Navigateur Photo&lt;/a1&gt; vers &lt;a2&gt;le Navigateur de Dossiers&lt;/a2&gt; ou bien vers d'autres applications.</seg>
       </tuv>
     </tu>
     <tu>

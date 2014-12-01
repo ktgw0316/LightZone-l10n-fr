@@ -6430,6 +6430,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Select File &gt; Open... and use the file-chooser dialog to navigate to and select the photo you want to edit.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141201T103635Z" creationid="Photonoxx" creationdate="20141201T103635Z">
+        <seg>Aller dans Fichier &gt; Ouvrir... et utilisez le sélecteur de fichiers pour naviguer vers et choisir la photo que vous voulez éditer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Select Recent</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141114T183635Z" creationid="Photonoxx" creationdate="20141114T183635Z">

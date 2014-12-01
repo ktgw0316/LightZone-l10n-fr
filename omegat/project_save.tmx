@@ -2102,6 +2102,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Description of the photo viewing area of the LightZone window.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141201T094549Z" creationid="Photonoxx" creationdate="20141201T094549Z">
+        <seg>Description de la zone de visualisation des photos de LightZone.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Description of the various blending modes.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141117T100915Z" creationid="Photonoxx" creationdate="20141117T100915Z">
@@ -5034,6 +5042,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141201T084756Z" creationid="Photonoxx" creationdate="20141201T084756Z">
         <seg>Éditeur Photo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Photo Viewer</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141201T094603Z" creationid="Photonoxx" creationdate="20141201T094603Z">
+        <seg>La Visionneuse Photo</seg>
       </tuv>
     </tu>
     <tu>

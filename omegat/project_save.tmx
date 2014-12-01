@@ -4878,6 +4878,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Once you have found a photo you want to edit using the &lt;a0&gt;Photo Browser&lt;/a0&gt;, you can edit it (or simply view it at full size).</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141201T102604Z" creationid="Photonoxx" creationdate="20141201T102604Z">
+        <seg>Quand vous avez trouvé une photo que vous voulez éditer à l'aide &lt;a0&gt;de Navigateur Photo&lt;/a0&gt;, vous pouvez l'éditer (ou seulement la voir en pleine résolution).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Online Help</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141111T145006Z" creationid="Photonoxx" creationdate="20141111T145006Z">
@@ -7930,6 +7938,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141201T101850Z" creationid="Photonoxx" creationdate="20141201T101850Z">
         <seg>Pour Glisser et Déposer des photos :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To edit a photo, do one of the following:</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141201T102729Z" creationid="Photonoxx" creationdate="20141201T102729Z">
+        <seg>Pour éditer une photo, procédez comme suit :</seg>
       </tuv>
     </tu>
     <tu>

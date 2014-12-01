@@ -3486,6 +3486,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>LightZone 3.1</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141201T085136Z" creationid="Photonoxx" creationdate="20141201T085136Z">
+        <seg>LightZone 3.1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>LightZone 3.2</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141201T085026Z" creationid="Photonoxx" creationdate="20141201T085026Z">
@@ -4090,6 +4098,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141115T091051Z" creationid="Photonoxx" creationdate="20141115T091051Z">
         <seg>Luminosité</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Mac OS X 10.5 Leopard is now supported.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141201T085102Z" creationid="Photonoxx" creationdate="20141201T085102Z">
+        <seg>Mac OS X 10.5 Leopard est désormais pris en charge.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5210,6 +5226,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141201T084736Z" creationid="Photonoxx" creationdate="20141201T084736Z">
         <seg>Les fichiers bruts (Raw) des appareils suivant sont désormais supportés : Canon EOS 1Ds Mark III, Panasonic DMC-L10.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Raw files from the following cameras are now supported: Canon Powershot G9, Leica V-Lux 1, Nikon D3, Nikon D300, Olympus E-3, Panasonic DMC-FZ18, Sony Alpha DSLR-A700.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141201T085135Z" creationid="Photonoxx" creationdate="20141201T085135Z">
+        <seg>Les fichiers bruts (Raw) des appareils suivant sont désormais supportés : Canon Powershot G9, Leica V-Lux 1, Nikon D3, Nikon D300, Olympus E-3, Panasonic DMC-FZ18, Sony Alpha DSLR-A700.</seg>
       </tuv>
     </tu>
     <tu>

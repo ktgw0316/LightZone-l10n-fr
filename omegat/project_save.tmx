@@ -3814,6 +3814,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>LightZone now comes bundled with many ready-made &lt;a0&gt;Styles&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141201T091556Z" creationid="Photonoxx" creationdate="20141201T091556Z">
+        <seg>LightZone est désormais fourni avec de nombreux &lt;a0&gt;Styles&lt;/a0&gt;prêts à l'emploi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>LightZone now has distinct &lt;a0&gt;browse&lt;/a0&gt; and &lt;a1&gt;edit&lt;/a1&gt; modes.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141201T090405Z" creationid="Photonoxx" creationdate="20141201T090405Z">

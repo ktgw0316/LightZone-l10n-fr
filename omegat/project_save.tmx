@@ -2062,6 +2062,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Deleting photos</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141201T095507Z" creationid="Photonoxx" creationdate="20141201T095507Z">
+        <seg>Supprimer des Photos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Depth</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141115T091002Z" creationid="Photonoxx" creationdate="20141115T091002Z">
@@ -3102,6 +3110,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>How to delete photos directly in LightZone.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141201T095454Z" creationid="Photonoxx" creationdate="20141201T095454Z">
+        <seg>Comment supprimer des photos directement depuis LightZone.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>How to inspect or edit the metadata of a photo.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141122T170751Z" creationid="Photonoxx" creationdate="20141122T170751Z">
@@ -4034,6 +4050,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141122T090709Z" creationid="Photonoxx" creationdate="20141122T084622Z">
         <seg>LightZone: La Courbe de Tonalités par défault</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>LightZone: Deleting Photos</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141201T095435Z" creationid="Photonoxx" creationdate="20141201T095435Z">
+        <seg>LightZone: Supprimer des Photos</seg>
       </tuv>
     </tu>
     <tu>
@@ -6334,6 +6358,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Select one or more thumbnails of the photos in the browser that you want to delete.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141201T095654Z" creationid="Photonoxx" creationdate="20141201T095654Z">
+        <seg>Sélectionnez une ou plusieurs vignettes des photos que vous voulez supprimer dans le navigateur.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Select only most recent version from each stack</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141114T180303Z" creationid="Photonoxx" creationdate="20141114T180303Z">
@@ -7782,6 +7814,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>To delete photos:</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141201T095603Z" creationid="Photonoxx" creationdate="20141201T095603Z">
+        <seg>Pour supprimer des photos :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>To display the metadata for a photo:</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141122T172039Z" creationid="Photonoxx" creationdate="20141122T172039Z">
@@ -8466,6 +8506,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141118T145608Z" creationid="Photonoxx" creationdate="20141118T145608Z">
         <seg>Vous pouvez convertir vos photos vers les formats JPEG ou TIFF et ce dans différentes tailles en fonction de vos besoins.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can delete the image files of your photos directly in LightZone using the &lt;a0&gt;Photo Browser&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141201T095551Z" creationid="Photonoxx" creationdate="20141201T095551Z">
+        <seg>Vous pouvez supprimer des photos directement dans LightZone en utilisant &lt;a0&gt;Navigateur Photo&lt;/a0&gt;.</seg>
       </tuv>
     </tu>
     <tu>

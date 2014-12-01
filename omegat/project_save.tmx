@@ -7262,6 +7262,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>There is now a &lt;a0&gt;History&lt;/a0&gt; tab that shows you all the edits you have make to your photo since opening it for the current editing session.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141201T092848Z" creationid="Photonoxx" creationdate="20141201T092808Z">
+        <seg>Il y a désormais un onglet &lt;a0&gt;Historique&lt;/a0&gt; qui liste toutes les éditions faites sur votre photo depuis que vous l'avez ouverte pour l'édition en cours.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>There is now context-sensitive help throughout LightZone.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141201T090449Z" creationid="Photonoxx" creationdate="20141201T090449Z">

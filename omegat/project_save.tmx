@@ -8862,6 +8862,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>the full paths to those files to be pasted</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141201T101248Z" creationid="Photonoxx" creationdate="20141201T101248Z">
+        <seg>l'insertion du chemin complet de ces fichiers</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>the icon of an application that can open image files</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141201T100938Z" creationid="Photonoxx" creationdate="20141201T100822Z">

@@ -3910,6 +3910,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>LightZone: New Features</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141201T083626Z" creationid="Photonoxx" creationdate="20141201T083626Z">
+        <seg>LightZone: Nouvelles fonctionnalités</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>LightZone: Photo Buttons Overview</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141117T151253Z" creationid="Photonoxx" creationdate="20141117T151218Z">
@@ -6942,6 +6950,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The new features in LightZone.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141201T083644Z" creationid="Photonoxx" creationdate="20141201T083644Z">
+        <seg>Les Nouvelles fonctionnalités dans LightZone.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The raw files from some cameras, however, always need a default "tone curve" applied to them to look correctly.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141122T090739Z" creationid="Photonoxx" creationdate="20141122T085322Z">
@@ -7786,6 +7802,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141122T164604Z" creationid="Photonoxx" creationdate="20141122T164604Z">
         <seg>Qu'est-ce qu'il y a de nouveau dans LightZone?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>What's new in LightZone?</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141201T083700Z" creationid="Photonoxx" creationdate="20141201T083700Z">
+        <seg>Quoi de neuf dans LightZone?</seg>
       </tuv>
     </tu>
     <tu>

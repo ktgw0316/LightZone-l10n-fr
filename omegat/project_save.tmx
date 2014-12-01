@@ -1246,6 +1246,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Click Open.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141201T094203Z" creationid="Photonoxx" creationdate="20141201T094203Z">
+        <seg>Cliquez Ouvrir.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Click Start.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141118T144454Z" creationid="Photonoxx" creationdate="20141118T144454Z">
@@ -4470,6 +4478,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Navigate to the folder containing the photo you want to open.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141201T094145Z" creationid="Photonoxx" creationdate="20141201T094145Z">
+        <seg>Allez dans le dossier contenant la photo que vous voulez ouvrir.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Navigating folders</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141124T114154Z" creationid="Photonoxx" creationdate="20141124T114154Z">
@@ -6198,6 +6214,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Select File &gt; Open...</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141201T094112Z" creationid="Photonoxx" creationdate="20141201T094112Z">
+        <seg>Aller dans Fichier &gt; Ouvrir...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Select Recent</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141114T183635Z" creationid="Photonoxx" creationdate="20141114T183635Z">
@@ -6290,6 +6314,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141115T093418Z" creationid="Photonoxx" creationdate="20141115T093418Z">
         <seg>Choisir la Gamme de luminosité</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Select the photo.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141201T094155Z" creationid="Photonoxx" creationdate="20141201T094155Z">
+        <seg>Choisissez la photo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7750,6 +7782,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>To open a photo to edit:</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141201T094043Z" creationid="Photonoxx" creationdate="20141201T094043Z">
+        <seg>Pour ouvrir une photo à éditer :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>To save work, the browser saves previews in a special cache folder.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141111T150308Z" creationid="Photonoxx" creationdate="20141111T150308Z">
@@ -8402,6 +8442,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141201T091355Z" creationid="Photonoxx" creationdate="20141201T091355Z">
         <seg>Vous pouvez désormais sélectionner la version la plus récente de vos photos dans un répértoire donné.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can open a photo from within the &lt;a0&gt;Photo Browser&lt;/a0&gt; or, if you are currently in the Photo Editor, directly from within the Photo Editor.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141201T094022Z" creationid="Photonoxx" creationdate="20141201T094022Z">
+        <seg>Vous pouvez ouvrir une photo depuis le &lt;a0&gt;Navigateur Photo&lt;/a0&gt; ou, si vous êtes actuellement dans l'Éditeur Photo, directement depuis l'Éditeur Photo.</seg>
       </tuv>
     </tu>
     <tu>

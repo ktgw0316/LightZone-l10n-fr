@@ -654,6 +654,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Anatomy-Browser.html</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141201T102413Z" creationid="Photonoxx" creationdate="20141201T102413Z">
+        <seg>Anatomy-Browser.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Any</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141114T183800Z" creationid="Photonoxx" creationdate="20141114T183704Z">
@@ -1378,6 +1386,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141122T164434Z" creationid="Photonoxx" creationdate="20141122T164434Z">
         <seg>Cliquez le nom d'une étape d'édition dans l'Historique.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Click then drag the selected thumbnails to another application's window and drop them there by releasing the mouse button.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141201T102241Z" creationid="Photonoxx" creationdate="20141201T102241Z">
+        <seg>Cliquez et maintenez alors pour Glisser les vignettes sélectionnées vers la fenêtre d'une autre application et déposez les ici en relachant le bouton de la souris.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2806,6 +2822,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Folder Navigator</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141201T102258Z" creationid="Photonoxx" creationdate="20141201T102258Z">
+        <seg>Le Navigateur de Dossiers</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Folders</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141111T103739Z" creationid="Photonoxx" creationdate="20141111T103739Z">
@@ -3170,6 +3194,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141201T093523Z" creationid="Photonoxx" creationdate="20141201T093523Z">
         <seg>Comment ouvrir une photo pour l'éditer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>How to select a photo to edit from the Photo Browser.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141201T102407Z" creationid="Photonoxx" creationdate="20141201T102407Z">
+        <seg>Comment sélectionner une photo pour l'éditer depuis le Navigateur Photo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4106,6 +4138,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141201T100129Z" creationid="Photonoxx" creationdate="20141201T100129Z">
         <seg>LightZone: Glisser et Déposer des Photos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>LightZone: Editing a Photo</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141201T102315Z" creationid="Photonoxx" creationdate="20141201T102315Z">
+        <seg>LightZone: Éditer une Photo</seg>
       </tuv>
     </tu>
     <tu>

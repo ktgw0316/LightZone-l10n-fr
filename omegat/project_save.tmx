@@ -7110,6 +7110,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>There's a new Help menu item that takes you to the &lt;a0&gt;Learning Center&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141201T084719Z" creationid="Photonoxx" creationdate="20141201T084719Z">
+        <seg>Il y a un nouveau menu d'aide qui vous conduit vers le &lt;a0&gt;Centre d'Apprentissage&lt;/a0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Therefore, the first page is like a full-sized preview of your edited photo.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141124T113233Z" creationid="Photonoxx" creationdate="20141124T113233Z">

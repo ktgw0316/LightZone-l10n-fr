@@ -1014,6 +1014,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Camera Support</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141201T084228Z" creationid="Photonoxx" creationdate="20141201T084228Z">
+        <seg>Support d'Appareils photo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Can't Launch LightZone</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141115T104054Z" creationid="Photonoxx" creationdate="20141115T104054Z">
@@ -3478,6 +3486,38 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>LightZone 3.5</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141201T084409Z" creationid="Photonoxx" creationdate="20141201T084409Z">
+        <seg>LightZone 3.5</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>LightZone 3.6</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141201T084354Z" creationid="Photonoxx" creationdate="20141201T084354Z">
+        <seg>LightZone 3.6</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>LightZone 3.7</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141201T084319Z" creationid="Photonoxx" creationdate="20141201T084319Z">
+        <seg>LightZone 3.7</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>LightZone 3.8</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141201T084324Z" creationid="Photonoxx" creationdate="20141201T084324Z">
+        <seg>LightZone 3.8</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>LightZone Batch Processing</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141106T105313Z" creationid="Photonoxx" creationdate="20141106T105313Z">
@@ -4326,6 +4366,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>New Features</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141201T084422Z" creationid="Photonoxx" creationdate="20141201T084422Z">
+        <seg>Nouvelles fonctionnalités</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>New Window</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141111T142549Z" creationid="Photonoxx" creationdate="20141111T142549Z">
@@ -5106,6 +5154,30 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141122T121608Z" creationid="Photonoxx" creationdate="20141122T121608Z">
         <seg>Les fichiers Bruts (Raw) de Canon, Fuji, Kodak, Leaf Valeo, Leica, Minolta, Nikon, Olympus, Panasonic, Pentax, and Sony cameras sont supportés.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Raw files from the following cameras are now supported: Canon EOS 450D, Canon EOS 1000D, Fuji Finepix S100FS, Nikon D60, Nikon D700, Olympus E-420, Olympus E-520, Pentax K20D, Pentax K200D, Samsung GX20 Sony A200, Sony A350.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141201T084407Z" creationid="Photonoxx" creationdate="20141201T084407Z">
+        <seg>Les fichiers bruts (Raw) des appareils suivant sont désormais supportés : Canon EOS 450D, Canon EOS 1000D, Fuji Finepix S100FS, Nikon D60, Nikon D700, Olympus E-420, Olympus E-520, Pentax K20D, Pentax K200D, Samsung GX20 Sony A200, Sony A350.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Raw files from the following cameras are now supported: Canon EOS 5D Mark II, Canon EOS 50D, Canon Powershot G10, Nikon D3X, Nikon D90, Nikon D700, Olympus E-30, Olympus E-620, Panasonic DMC-LX3, Panasonic DMC-FZ28, Panasonic DMC-G1, Pentax K2000, Sony A300, Sony A900</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141201T084353Z" creationid="Photonoxx" creationdate="20141201T084353Z">
+        <seg>Les fichiers bruts (Raw) des appareils suivant sont désormais supportés : Canon EOS 5D Mark II, Canon EOS 50D, Canon Powershot G10, Nikon D3X, Nikon D90, Nikon D700, Olympus E-30, Olympus E-620, Panasonic DMC-LX3, Panasonic DMC-FZ28, Panasonic DMC-G1, Pentax K2000, Sony A300, Sony A900</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Raw files from the following cameras are now supported: Olympus E-P1</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141201T084314Z" creationid="Photonoxx" creationdate="20141201T084314Z">
+        <seg>Les fichiers bruts (Raw) des appareils suivant sont désormais supportés : Olympus E-P1</seg>
       </tuv>
     </tu>
     <tu>

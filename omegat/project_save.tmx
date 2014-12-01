@@ -6414,6 +6414,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Select one or more thumbnails of the photos that you want to drag &amp; drop.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141201T101934Z" creationid="Photonoxx" creationdate="20141201T101934Z">
+        <seg>Séletionner une ou plusieurs vignettes des photos que vous voulez Glisser et Déposer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Select only most recent version from each stack</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141114T180303Z" creationid="Photonoxx" creationdate="20141114T180303Z">
@@ -7874,6 +7882,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141122T172039Z" creationid="Photonoxx" creationdate="20141122T172039Z">
         <seg>Pour afficher les métadonnées d'une photo :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To drag &amp; drop photos:</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141201T101850Z" creationid="Photonoxx" creationdate="20141201T101850Z">
+        <seg>Pour Glisser et Déposer des photos :</seg>
       </tuv>
     </tu>
     <tu>

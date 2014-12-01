@@ -582,6 +582,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Alternatively, if you have edited a photo recently, select File &gt; Open Recent... and the name of the photo from the menu.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141201T094420Z" creationid="Photonoxx" creationdate="20141201T094420Z">
+        <seg>Autrement, si vous avez édité une photo récemment, aller dans Fichier &gt; Ouvrir Fichiers Récents... et choisissez le nom de la photo dans le menu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Always apply this Style</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141111T101050Z" creationid="Photonoxx" creationdate="20141111T101050Z">
@@ -4074,6 +4082,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141117T151253Z" creationid="Photonoxx" creationdate="20141117T151218Z">
         <seg>LightZone: Vue d'ensemble des boutons d'Actions Photo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>LightZone: Photo Viewer</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141201T094444Z" creationid="Photonoxx" creationdate="20141201T094444Z">
+        <seg>LightZone: La Visionneuse Photo</seg>
       </tuv>
     </tu>
     <tu>

@@ -7278,6 +7278,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This page lists only the new features in LightZone.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141201T083939Z" creationid="Photonoxx" creationdate="20141201T083939Z">
+        <seg>Cette page répertorie uniquement les nouvelles fonctionnalités dans LightZone.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This program has run out of memory and will now shut down.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141115T103707Z" creationid="Photonoxx" creationdate="20141115T103707Z">
@@ -7402,6 +7410,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141124T103714Z" creationid="Photonoxx" creationdate="20141124T103714Z">
         <seg>Pour s'intégrer avec d'autres applications, LightZone peut enregistrer vos photos éditées comme un fichier TIFF à deux pages:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To learn about the key features, see the &lt;a0&gt;Discover LightZone&lt;/a0&gt; page.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141201T084037Z" creationid="Photonoxx" creationdate="20141201T084037Z">
+        <seg>Pour en savoir plus sur les fonctions clés, consultez la page &lt;a0&gt;Découvrir LightZone&lt;/a0&gt;.</seg>
       </tuv>
     </tu>
     <tu>

@@ -1086,6 +1086,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Canon EOS 1D Mark III raw files are now supported.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141201T093430Z" creationid="Photonoxx" creationdate="20141201T093430Z">
+        <seg>Les fichiers bruts (Raw) des appareils suivant sont désormais supportés : Canon EOS 1D Mark III.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Capture Time</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141114T181212Z" creationid="Photonoxx" creationdate="20141114T181212Z">
@@ -3062,6 +3070,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>How to open a photo to edit.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141201T093523Z" creationid="Photonoxx" creationdate="20141201T093523Z">
+        <seg>Comment ouvrir une photo pour l'éditer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>However, because the luminosity range is compressed, information from your photo is still lost: the loss is just evenly spread out over the entire luminosity range (and thus less noticeable) rather than being truncated at the black end.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141117T100832Z" creationid="Photonoxx" creationdate="20141117T100832Z">
@@ -3822,6 +3838,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>LightZone no longer uses LZN files and now always &lt;a0&gt;saves your work&lt;/a0&gt; as either JPEG or TIFF files for maximum interoperability with other applications.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141201T093356Z" creationid="Photonoxx" creationdate="20141201T093356Z">
+        <seg>LightZone n'utilise plus des fichiers LZN et désormais &lt;a0&gt;enregistre votre travail&lt;/a0&gt; toujours comme des fichiers JPEG ou TIFF pour une interopérabilité avec les autres applications.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>LightZone now comes bundled with many ready-made &lt;a0&gt;Styles&lt;/a0&gt;.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141201T091556Z" creationid="Photonoxx" creationdate="20141201T091556Z">
@@ -4026,6 +4050,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141201T083626Z" creationid="Photonoxx" creationdate="20141201T083626Z">
         <seg>LightZone: Nouvelles fonctionnalités</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>LightZone: Opening a Photo to Edit</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141201T093506Z" creationid="Photonoxx" creationdate="20141201T093506Z">
+        <seg>LightZone: Ouvrir une Photo pour l'Éditer</seg>
       </tuv>
     </tu>
     <tu>
@@ -4746,6 +4778,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141111T142553Z" creationid="Photonoxx" creationdate="20141111T142553Z">
         <seg>Ouvrir...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Opening a photo to edit</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141201T093531Z" creationid="Photonoxx" creationdate="20141201T093531Z">
+        <seg>Ouvrir une Photo pour l'Éditer</seg>
       </tuv>
     </tu>
     <tu>

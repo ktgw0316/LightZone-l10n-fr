@@ -8758,6 +8758,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>a folder in the &lt;a0&gt;Folder Navigator&lt;/a0&gt;</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141201T100712Z" creationid="Photonoxx" creationdate="20141201T100712Z">
+        <seg>un dossier dans le &lt;a0&gt;Navigateur de Dossiers&lt;/a0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>en-US</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141106T102255Z">
@@ -8834,6 +8842,30 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141111T095505Z" creationid="Photonoxx" creationdate="20141106T105328Z">
         <seg>Enregistré sous $1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>the icon of an application that can open image files</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141201T100822Z" creationid="Photonoxx" creationdate="20141201T100822Z">
+        <seg>L'incône d'une application qui peut ouvrir des fichiers images</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>the image files to be moved there</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141201T100932Z" creationid="Photonoxx" creationdate="20141201T100749Z">
+        <seg>Le déplacement des fichiers images vers cet emplacement</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>the image files to be opened</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141201T100904Z" creationid="Photonoxx" creationdate="20141201T100904Z">
+        <seg>l'ouverture des fichiers images</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->

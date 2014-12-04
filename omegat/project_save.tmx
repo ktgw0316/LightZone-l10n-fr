@@ -1318,6 +1318,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Click Rename (or press Return).</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141204T181422Z" creationid="Photonoxx" creationdate="20141204T181422Z">
+        <seg>Cliquez Renommer (ou appuyez sur Entrée).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Click Start.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141118T144454Z" creationid="Photonoxx" creationdate="20141118T144454Z">
@@ -4334,6 +4342,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>LightZone: Table of Contents</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141204T181515Z" creationid="Photonoxx" creationdate="20141204T181515Z">
+        <seg>LightZone: Table des Matières</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>LightZone: Table of contents.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141204T181537Z" creationid="Photonoxx" creationdate="20141204T181537Z">
+        <seg>LightZone: Table des Matières.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>LightZone: Workflow Integration: Aperture</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141122T165119Z" creationid="Photonoxx" creationdate="20141122T165119Z">
@@ -4362,6 +4386,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141122T170348Z" creationid="Photonoxx" creationdate="20141122T170348Z">
         <seg>LightZone: Intégration à un flux de travail : iView MediaPro</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>LightZone_Help/images/app_icon-16.png</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141204T181539Z" creationid="Photonoxx" creationdate="20141204T181539Z">
+        <seg>LightZone_Help/images/app_icon-16.png</seg>
       </tuv>
     </tu>
     <tu>
@@ -6542,6 +6574,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Select Browser &gt; Rename...</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141204T181344Z" creationid="Photonoxx" creationdate="20141204T181344Z">
+        <seg>Aller dans Navigateur &gt; Renommer...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Select File &gt; Convert...</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141118T150944Z" creationid="Photonoxx" creationdate="20141118T150151Z">
@@ -6690,6 +6730,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141201T094155Z" creationid="Photonoxx" creationdate="20141201T094155Z">
         <seg>Choisissez la photo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Select the thumbnail of the photo in the browser that you want to rename.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141204T181322Z" creationid="Photonoxx" creationdate="20141204T181322Z">
+        <seg>Sélectionner la vignette de la photo que vous souhaitez renommer dans le navigateur.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8338,6 +8386,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141115T100744Z" creationid="Photonoxx" creationdate="20141115T100744Z">
         <seg>Haut</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Type the new name.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141204T181358Z" creationid="Photonoxx" creationdate="20141204T181358Z">
+        <seg>Tapez le nouveau nom.</seg>
       </tuv>
     </tu>
     <tu>

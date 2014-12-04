@@ -3262,6 +3262,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>How to rename photos directly in LightZone.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141204T181036Z" creationid="Photonoxx" creationdate="20141204T181036Z">
+        <seg>Comment renommer des photos directement dans LightZone.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>How to select a photo to edit from the Photo Browser.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141201T102407Z" creationid="Photonoxx" creationdate="20141201T102407Z">
@@ -4312,8 +4320,16 @@
       <tuv lang="EN-US">
         <seg>LightZone: Rating Photos</seg>
       </tuv>
-      <tuv lang="FR" changeid="Photonoxx" changedate="20141201T104922Z" creationid="Photonoxx" creationdate="20141201T104922Z">
-        <seg>LightZone: Notez les Photos</seg>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141204T181117Z" creationid="Photonoxx" creationdate="20141201T104922Z">
+        <seg>LightZone: Notez des Photos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>LightZone: Renaming Photos</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141204T181100Z" creationid="Photonoxx" creationdate="20141204T181004Z">
+        <seg>LightZone: Renommer des Photos</seg>
       </tuv>
     </tu>
     <tu>
@@ -5582,10 +5598,18 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Rating JPEG files modifies only the rating metadata: the image data is not modified.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141204T180949Z" creationid="Photonoxx" creationdate="20141204T180949Z">
+        <seg>Attribuer une note à un fichier JPEG  modifie seulement les métadonnées de notation, les données de l'image ne sont pas modifiées.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Rating photos</seg>
       </tuv>
-      <tuv lang="FR" changeid="Photonoxx" changedate="20141204T175759Z" creationid="Photonoxx" creationdate="20141204T175759Z">
-        <seg>Notez les photos</seg>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141204T181120Z" creationid="Photonoxx" creationdate="20141204T175759Z">
+        <seg>Notez des photos</seg>
       </tuv>
     </tu>
     <tu>
@@ -5874,6 +5898,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141114T182045Z" creationid="Photonoxx" creationdate="20141114T182045Z">
         <seg>Renommer...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Renaming photos</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141204T181053Z" creationid="Photonoxx" creationdate="20141204T181053Z">
+        <seg>Renommer des Photos</seg>
       </tuv>
     </tu>
     <tu>
@@ -8166,6 +8198,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>To rename a photo:</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141204T181240Z" creationid="Photonoxx" creationdate="20141204T181240Z">
+        <seg>Pour renommer une photo :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>To save work, the browser saves previews in a special cache folder.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141111T150308Z" creationid="Photonoxx" creationdate="20141111T150308Z">
@@ -8882,6 +8922,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141204T180004Z" creationid="Photonoxx" creationdate="20141204T180004Z">
         <seg>Vous pouvez attribuer à vos photos de 1 à 5 étoiles.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can rename the image files of your photos directly in LightZone using the &lt;a0&gt;Photo Browser&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141204T181228Z" creationid="Photonoxx" creationdate="20141204T181228Z">
+        <seg>Vous pouvez renommer les fichiers images de vos photos directement dans LightZone en utilisant le &lt;a0&gt;Navigateur Photo&lt;/a0&gt;.</seg>
       </tuv>
     </tu>
     <tu>

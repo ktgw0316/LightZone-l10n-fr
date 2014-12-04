@@ -2286,6 +2286,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Do one of the following:</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141204T180153Z" creationid="Photonoxx" creationdate="20141204T180153Z">
+        <seg>Faites une des choses suivantes :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Do you want to replace it?</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141111T145514Z" creationid="Photonoxx" creationdate="20141111T145514Z">
@@ -6454,6 +6462,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Select Browser &gt; Rating &gt; and the rating your want to give.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141204T180255Z" creationid="Photonoxx" creationdate="20141204T180255Z">
+        <seg>Aller dans Navigateur &gt; Notation &gt; et la note que vous souhaitez donner.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Select File &gt; Convert...</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141118T150944Z" creationid="Photonoxx" creationdate="20141118T150151Z">
@@ -6538,6 +6554,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141201T101934Z" creationid="Photonoxx" creationdate="20141201T101934Z">
         <seg>Séletionner une ou plusieurs vignettes des photos que vous voulez Glisser et Déposer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Select one or more thumbnails of the photos that you want to rate.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141204T180130Z" creationid="Photonoxx" creationdate="20141204T180130Z">
+        <seg>Sélectionnez une ou plusieurs vignettes des photos auxquelles vous souhaitez attribuer une note.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8090,6 +8114,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141201T094043Z" creationid="Photonoxx" creationdate="20141201T094043Z">
         <seg>Pour ouvrir une photo à éditer :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To rate photos:</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141204T180034Z" creationid="Photonoxx" creationdate="20141204T180034Z">
+        <seg>Pour noter vos photos:</seg>
       </tuv>
     </tu>
     <tu>

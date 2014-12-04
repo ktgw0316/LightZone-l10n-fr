@@ -5534,6 +5534,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Rating photos</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141204T175759Z" creationid="Photonoxx" creationdate="20141204T175759Z">
+        <seg>Notez les photos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Rating your photos is a way to sort and select the ones to edit and find later.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141204T175929Z" creationid="Photonoxx" creationdate="20141204T175929Z">
+        <seg>L'attribution de note à vos photos est une façon de les trier et sélectionner celles à éditer et les trouver plus tard.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Raw files from Canon, Fuji, Kodak, Leaf Valeo, Leica, Minolta, Nikon, Olympus, Panasonic, Pentax, and Sony cameras are supported.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141122T121608Z" creationid="Photonoxx" creationdate="20141122T121608Z">
@@ -8786,6 +8802,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141201T094022Z" creationid="Photonoxx" creationdate="20141201T094022Z">
         <seg>Vous pouvez ouvrir une photo depuis le &lt;a0&gt;Navigateur Photo&lt;/a0&gt; ou, si vous êtes actuellement dans l'Éditeur Photo, directement depuis l'Éditeur Photo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can rate photos 1 to 5 stars.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141204T180004Z" creationid="Photonoxx" creationdate="20141204T180004Z">
+        <seg>Vous pouvez attribuer à vos photos de 1 à 5 étoiles.</seg>
       </tuv>
     </tu>
     <tu>

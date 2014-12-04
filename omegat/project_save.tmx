@@ -326,6 +326,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;b0&gt;Note:&lt;/b0&gt; Rating either raw or TIFF files does not modify them in any way; instead, the rating information is stored in sidecar XMP files.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141204T180829Z" creationid="Photonoxx" creationdate="20141204T180829Z">
+        <seg>&lt;b0&gt;Note:&lt;/b0&gt; Attribuer une note à des fichiers bruts (raw) ou TIFF ne les modifie pas d'aucune manière, à la place l'information de notation est stocké dans un fichier XMP sidecar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;b0&gt;Note:&lt;/b0&gt; The information provided here is accurate as of Aperture version 1.5.3 but may need to change for future versions.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141122T165724Z" creationid="Photonoxx" creationdate="20141122T165724Z">
@@ -2906,6 +2914,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141122T090751Z" creationid="Photonoxx" creationdate="20141122T090044Z">
         <seg>Pour ces fichiers Bruts (RAW), LightZone ajoute automatiquement un &lt;a0&gt;ZoneMapper&lt;/a0&gt; contenant la courbe de tonalités par défaut à la &lt;a1&gt;chaîne de développement&lt;/a1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>From the &lt;a0&gt;Metadata Inspector&lt;/a0&gt;, select the rating your want from the pop-up menu.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141204T180646Z" creationid="Photonoxx" creationdate="20141204T180646Z">
+        <seg>Depuis le &lt;a0&gt;Controleur de Métadonnées&lt;/a0&gt;, choisissez la note que vous souhaitez dans le menu déroulant.</seg>
       </tuv>
     </tu>
     <tu>

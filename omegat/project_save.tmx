@@ -454,6 +454,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Acknowledgments.html</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141204T181942Z" creationid="Photonoxx" creationdate="20141204T181942Z">
+        <seg>Acknowledgments.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Actual Pixels</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141111T144850Z" creationid="Photonoxx" creationdate="20141111T144850Z">
@@ -3774,6 +3782,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Legal.html</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141204T181948Z" creationid="Photonoxx" creationdate="20141204T181948Z">
+        <seg>Legal.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Lens</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141114T181252Z" creationid="Photonoxx" creationdate="20141114T181252Z">
@@ -7086,14 +7102,6 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Sharpen</seg>
-      </tuv>
-      <tuv lang="FR" changeid="Photonoxx" changedate="20141204T181845Z" creationid="Photonoxx" creationdate="20141115T093752Z">
-        <seg>Sharpen</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
         <seg>Show Browser</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141111T144012Z" creationid="Photonoxx" creationdate="20141111T144012Z">
@@ -8674,6 +8682,30 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141204T181844Z" creationid="Photonoxx" creationdate="20141204T181844Z">
         <seg>Tool-Sharpen.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Tool-Spot.html</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141204T181933Z" creationid="Photonoxx" creationdate="20141204T181933Z">
+        <seg>Tool-Spot.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Tool-White_Balance.html</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141204T181938Z" creationid="Photonoxx" creationdate="20141204T181938Z">
+        <seg>Tool-White_Balance.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Tool-ZoneMapper.html</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141204T181940Z" creationid="Photonoxx" creationdate="20141204T181940Z">
+        <seg>Tool-ZoneMapper.html</seg>
       </tuv>
     </tu>
     <tu>

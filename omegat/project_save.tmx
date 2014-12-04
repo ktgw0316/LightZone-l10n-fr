@@ -358,6 +358,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;s0&gt;Control-click&lt;/s0&gt; &lt;s1&gt;Right-click&lt;/s1&gt; on one of the thumbnails to pop-up the menu and select the rating your want to give.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141204T180513Z" creationid="Photonoxx" creationdate="20141204T180513Z">
+        <seg>&lt;s0&gt;Control-clic&lt;/s0&gt; &lt;s1&gt;clic-droit&lt;/s1&gt; sur une des vignettes pour faire apparaître le menu contextuel et choisissez la note que vous souhaitez donner.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;s0&gt;Control-click&lt;/s0&gt; &lt;s1&gt;Right-click&lt;/s1&gt; on the thumbnail so the pop-up menu pops up and select Edit.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141201T103137Z" creationid="Photonoxx" creationdate="20141201T103137Z">
@@ -1402,6 +1410,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141122T164434Z" creationid="Photonoxx" creationdate="20141122T164434Z">
         <seg>Cliquez le nom d'une étape d'édition dans l'Historique.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Click the rating button and select the rating your want to give.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141204T180351Z" creationid="Photonoxx" creationdate="20141204T180351Z">
+        <seg>Cliquez sur le bouton Notation et choisissez la note que vous souhaitez donner.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4462,6 +4478,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Metadata.html</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141204T180522Z" creationid="Photonoxx" creationdate="20141204T180522Z">
+        <seg>Metadata.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Mid+Hilights</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141118T094923Z" creationid="Photonoxx" creationdate="20141118T094923Z">
@@ -6464,8 +6488,8 @@
       <tuv lang="EN-US">
         <seg>Select Browser &gt; Rating &gt; and the rating your want to give.</seg>
       </tuv>
-      <tuv lang="FR" changeid="Photonoxx" changedate="20141204T180255Z" creationid="Photonoxx" creationdate="20141204T180255Z">
-        <seg>Aller dans Navigateur &gt; Notation &gt; et la note que vous souhaitez donner.</seg>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141204T180405Z" creationid="Photonoxx" creationdate="20141204T180255Z">
+        <seg>Aller dans Navigateur &gt; Notation &gt; et choisissez la note que vous souhaitez donner.</seg>
       </tuv>
     </tu>
     <tu>

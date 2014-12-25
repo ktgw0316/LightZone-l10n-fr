@@ -8904,8 +8904,8 @@
       <tuv lang="EN-US">
         <seg>Undo Redo</seg>
       </tuv>
-      <tuv lang="FR" changeid="Photonoxx" changedate="20141111T105527Z" creationid="Photonoxx" creationdate="20141111T105527Z">
-        <seg>Annuler Rétablir</seg>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141225T091405Z" creationid="Photonoxx" creationdate="20141111T105527Z">
+        <seg>Annul/Rétab</seg>
       </tuv>
     </tu>
     <tu>
@@ -9130,6 +9130,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141115T090129Z" creationid="Photonoxx" creationdate="20141115T090129Z">
         <seg>Taille de la Version</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Versions</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141225T091416Z" creationid="Photonoxx" creationdate="20141225T091416Z">
+        <seg>Versions</seg>
       </tuv>
     </tu>
     <tu>

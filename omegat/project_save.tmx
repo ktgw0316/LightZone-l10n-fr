@@ -390,6 +390,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;b0&gt;Note&lt;/b0&gt;: Some preferences are effective only after LightZone is relaunched.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141225T161515Z" creationid="Photonoxx" creationdate="20141225T161515Z">
+        <seg>&lt;b0&gt;Note&lt;/b0&gt;: Certaines préférences ne seront prises en compte qu'après le redémarrage de LightZone.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;b0&gt;When Regions are Done:&lt;/b0&gt; Your photo will not be updated until you are done adjusting a region (by clicking outside the region, or by pressing either the &lt;b1&gt;return&lt;/b1&gt; or &lt;b2&gt;esc&lt;/b2&gt; (escape) key).</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141225T121428Z" creationid="Photonoxx" creationdate="20141225T121351Z">
@@ -498,6 +506,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141111T145038Z" creationid="Photonoxx" creationdate="20141111T145038Z">
         <seg>À propos de LightZone</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>About color conversion and print quality.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141225T161625Z" creationid="Photonoxx" creationdate="20141225T161625Z">
+        <seg>À propos de la conversion de couleur et la qualité d'Impression.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4622,6 +4638,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>LightZone: Print Quality</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141225T161537Z" creationid="Photonoxx" creationdate="20141225T161537Z">
+        <seg>LightZone: Qualité d'Impression</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>LightZone: Rating Photos</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141204T181117Z" creationid="Photonoxx" creationdate="20141201T104922Z">
@@ -5898,6 +5922,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141106T113118Z" creationid="Photonoxx" creationdate="20141106T111750Z">
         <seg>Imprimer</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Print quality</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141225T161640Z" creationid="Photonoxx" creationdate="20141225T161640Z">
+        <seg>Qualité d'Impression</seg>
       </tuv>
     </tu>
     <tu>

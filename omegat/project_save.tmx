@@ -1406,6 +1406,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Click OK.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141225T161428Z" creationid="Photonoxx" creationdate="20141225T161428Z">
+        <seg>Cliquez sur D'accord.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Click Open.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141201T094203Z" creationid="Photonoxx" creationdate="20141201T094203Z">
@@ -2706,6 +2714,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141115T103204Z" creationid="Photonoxx" creationdate="20141115T103204Z">
         <seg>Éditer la liste de Styles</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Edit the preferences as you like.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141225T161356Z" creationid="Photonoxx" creationdate="20141225T161356Z">
+        <seg>Éditez les préférences comme vous le souhaitez.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7026,6 +7042,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141115T092128Z" creationid="Photonoxx" creationdate="20141115T092128Z">
         <seg>Sélectionne $1 Préréglage</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Select &lt;s0&gt;LightZone&lt;/s0&gt; &lt;s1&gt;Edit&lt;/s1&gt; &gt; Preferences... (the Preferences dialog will appear).</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141225T161253Z" creationid="Photonoxx" creationdate="20141225T161253Z">
+        <seg>Choisir &lt;s0&gt;LightZone&lt;/s0&gt; &lt;s1&gt;Éditer&lt;/s1&gt; &gt; Préférences... (Le dialogue de Préférences apparaîtra).</seg>
       </tuv>
     </tu>
     <tu>

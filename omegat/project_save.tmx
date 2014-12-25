@@ -9574,6 +9574,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You can send copies of selected photos to other folders using the &lt;a0&gt;Photo Browser&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141225T112231Z" creationid="Photonoxx" creationdate="20141225T112231Z">
+        <seg>Vous pouvez envoyer des copies de photos sélectionnées vers d'autres dossiers en utilisant le &lt;a0&gt;Navigateur Photo&lt;/a0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You can turn it off in the LightZone Preferences.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141106T135700Z" creationid="Photonoxx" creationdate="20141106T135700Z">

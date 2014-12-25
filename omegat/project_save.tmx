@@ -3950,6 +3950,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It is important to note that, for most printers, there isn't one setting that will always give the best results.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141225T164159Z" creationid="Photonoxx" creationdate="20141225T164159Z">
+        <seg>Il est important de noter que, pour la plupart des imprimantes, il n'existe pas d'unique réglage qui assurera toujours le meilleur résultat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It's often used to send photos by e-mail or display photos on the web.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141118T145804Z" creationid="Photonoxx" creationdate="20141118T145804Z">
@@ -8994,6 +9002,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141225T163550Z" creationid="Photonoxx" creationdate="20141225T163550Z">
         <seg>Pour laisser LightZone procéder à la conversion de Couleur, définissez les réglages du le profil d'impression, de &lt;a0&gt;L'intention de rendu&lt;/a0&gt;, et de &lt;a1&gt;la compensation du Point noir&lt;/a1&gt; dans le dialogue d'aperçu avant impression.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To let the printer driver do the color conversion, select "Color Managed by Printer Driver" in LightZone, then set the appropriate color settings in the printer preferences dialog.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141225T164024Z" creationid="Photonoxx" creationdate="20141225T164024Z">
+        <seg>Pour laisser le pilote d'impression se charger de la conversion de couleur, choisissez "Couleur gérée par l'imprimante" dans LightZone, puis choisissez le réglage couleur approprié dans le dialogue des préférences de l'imprimante.</seg>
       </tuv>
     </tu>
     <tu>

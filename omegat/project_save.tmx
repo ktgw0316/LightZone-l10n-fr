@@ -7766,6 +7766,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Select the tool in the &lt;a0&gt;tool stack&lt;/a0&gt; where you want to paste the region.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141225T174713Z" creationid="Photonoxx" creationdate="20141225T174713Z">
+        <seg>Choisissez dans la &lt;a0&gt;chaîne de développement&lt;/a0&gt; l'outil où vous souhaitez coller la région.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Select the tool that you want to make a color/luminosity selection for by clicking its title bar.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141117T153053Z" creationid="Photonoxx" creationdate="20141117T153053Z">

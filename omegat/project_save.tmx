@@ -2326,6 +2326,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Description of the various user preferences.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141225T113856Z" creationid="Photonoxx" creationdate="20141225T113856Z">
+        <seg>Description des différentes préférences utilisateurs.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Despite that, this is usually the best format to use for import into other applications.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141118T150056Z" creationid="Photonoxx" creationdate="20141118T150056Z">
@@ -4174,6 +4182,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>LightZone has a handful of user preferences that affect how it operates.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141225T114001Z" creationid="Photonoxx" creationdate="20141225T114001Z">
+        <seg>LightZone a un certains nombre de préférences utilisateur qui affecte sa façon d'opérer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>LightZone has a number of key features that set it apart from other photo editing applications.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141122T093258Z" creationid="Photonoxx" creationdate="20141122T093258Z">
@@ -4506,6 +4522,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141201T094444Z" creationid="Photonoxx" creationdate="20141201T094444Z">
         <seg>LightZone: La Visionneuse Photo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>LightZone: Preferences</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141225T113747Z" creationid="Photonoxx" creationdate="20141225T113747Z">
+        <seg>LightZone: Préférences</seg>
       </tuv>
     </tu>
     <tu>
@@ -8218,6 +8242,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141122T123046Z" creationid="Photonoxx" creationdate="20141122T123046Z">
         <seg>Ces deux fichiers sont tout ce dont vous avez besoin pour créer de magnifques photos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>They are described below.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141225T114020Z" creationid="Photonoxx" creationdate="20141225T114020Z">
+        <seg>Elles sont décrites ci-dessous.</seg>
       </tuv>
     </tu>
     <tu>

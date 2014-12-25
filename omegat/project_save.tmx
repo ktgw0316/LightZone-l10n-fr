@@ -3630,6 +3630,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If the printer driver has a setting for no color conversion (typically labeled "Color Managed by Application" or "No Color Adjustments") then you have a choice of either letting LightZone or the printer driver do the conversion.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141225T162910Z" creationid="Photonoxx" creationdate="20141225T162910Z">
+        <seg>Si le pilote d'impression offre un réglage pour ne pas faire de conversion de couleur the printer driver has a setting for no color conversion (typically labeled "Color Managed by Application" or "No Color Adjustments") then you have a choice of either letting LightZone or the printer driver do the conversion.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If you are satisfied with the color/luminosity selection, click the eyedropper button again to complete the selection.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141117T155149Z" creationid="Photonoxx" creationdate="20141117T155149Z">
@@ -4328,8 +4336,8 @@
       <tuv lang="EN-US">
         <seg>LightZone has high quality color management built-in; however, print quality depends largely on the printer, the printer driver software, and any color management in use.</seg>
       </tuv>
-      <tuv lang="FR" changeid="Photonoxx" changedate="20141225T162220Z" creationid="Photonoxx" creationdate="20141225T162220Z">
-        <seg>LightZone inclut une gestion des couleurs de haute qualité; cependant, la qualité d'impression dépend largement de l'imprimante, du papier, du pilote d'impression, et de toute gestion des couleurs en fonction.</seg>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141225T162937Z" creationid="Photonoxx" creationdate="20141225T162220Z">
+        <seg>LightZone inclut une gestion des couleurs de haute qualité ; cependant, la qualité d'impression dépend largement de l'imprimante, du papier, du pilote d'impression, et de toute gestion des couleurs en fonction.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5706,6 +5714,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141117T140915Z" creationid="Photonoxx" creationdate="20141117T140915Z">
         <seg>Les motifs ou couleurs recouvre les pixels existants tandis que sont préservées les hautes et basses lumières des couleurs de base.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Pay extra attention to the choice of letting LightZone or the printer driver do the color conversion.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141225T162924Z" creationid="Photonoxx" creationdate="20141225T162728Z">
+        <seg>Portez une attention particulière pour le choix de laisser LightZone ou le pilote d'impression procéder à la conversion de couleur.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8840,8 +8856,8 @@
       <tuv lang="EN-US">
         <seg>To achieve the best print quality, make sure that you understand and properly use the settings in the printer driver.</seg>
       </tuv>
-      <tuv lang="FR" changeid="Photonoxx" changedate="20141225T162420Z" creationid="Photonoxx" creationdate="20141225T162420Z">
-        <seg>Pour obtenir la meilleure qualité d'impression, assurez-vous de bien comprendre et utiliser les options du pilote d'imprimante.</seg>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141225T162736Z" creationid="Photonoxx" creationdate="20141225T162420Z">
+        <seg>Pour obtenir la meilleure qualité d'impression, assurez-vous de bien comprendre et utiliser les options du pilote d'impression.</seg>
       </tuv>
     </tu>
     <tu>

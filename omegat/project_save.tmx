@@ -344,8 +344,8 @@
       <tuv lang="EN-US">
         <seg>&lt;b0&gt;Note:&lt;/b0&gt; Rotating either raw or TIFF files does not modify them in any way; instead, the rotation information is stored in sidecar XMP files.</seg>
       </tuv>
-      <tuv lang="FR" changeid="Photonoxx" changedate="20141225T092943Z" creationid="Photonoxx" creationdate="20141225T092943Z">
-        <seg>&lt;b0&gt;Note:&lt;/b0&gt; TournerRotating either raw or TIFF files does not modify them in any way; instead, the rotation information is stored in sidecar XMP files.</seg>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141225T093222Z" creationid="Photonoxx" creationdate="20141225T092943Z">
+        <seg>&lt;b0&gt;Note:&lt;/b0&gt; Tourner que ce soit des fichiers Bruts (RAW) ou TIFF ne les modifieras pas; à la place, l'information d'orientation est stockéedans un fichier XMP sidecar.</seg>
       </tuv>
     </tu>
     <tu>

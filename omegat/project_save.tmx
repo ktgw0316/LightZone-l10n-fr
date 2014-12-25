@@ -358,6 +358,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;b0&gt;Application Managed:&lt;/b0&gt; LightZone will do color conversion.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141225T170050Z" creationid="Photonoxx" creationdate="20141225T170050Z">
+        <seg>&lt;b0&gt;Couleurs gérées par l'Application :&lt;/b0&gt; LightZone fera la conversion de couleur.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;b0&gt;Between Region Changes:&lt;/b0&gt; Your photo will not be updated until you release the mouse.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141225T121047Z" creationid="Photonoxx" creationdate="20141225T121047Z">
@@ -3738,6 +3746,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141111T145903Z" creationid="Photonoxx" creationdate="20141111T145903Z">
         <seg>Si vous ouvrez une nouvelle Image durant l'édition d'une autre, LightZone peut enregistrer automatiquement votre travail, ou il peut vous demander quoi faire.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If you selected Application Managed for Color Handling, select the &lt;a0&gt;rendering intent&lt;/a0&gt; from the Rendering Intent pop-up menu.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141225T170323Z" creationid="Photonoxx" creationdate="20141225T170323Z">
+        <seg>Si vous avez choisi Couleurs gérées par l'Application pour le Traitement des couleurs, choisissez l'&lt;a0&gt;Intention de rendu&lt;/a0&gt; dans le menu déroulant pour l'Intention de rendu.</seg>
       </tuv>
     </tu>
     <tu>

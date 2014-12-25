@@ -646,6 +646,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Alternatively, you can select Browser &gt; Rotate Left or Rotate Right.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141225T092754Z" creationid="Photonoxx" creationdate="20141225T092754Z">
+        <seg>D'un autre façon, vous pouvez choisir Navigateur &gt; Tourner vers la Gauche ou Tourner vers la Droite.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Always apply this Style</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141111T101050Z" creationid="Photonoxx" creationdate="20141111T101050Z">
@@ -9656,8 +9664,8 @@
       <tuv lang="EN-US">
         <seg>en-US</seg>
       </tuv>
-      <tuv lang="FR" changeid="Photonoxx" changedate="20141106T102255Z">
-        <seg>fr-FR</seg>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141225T092640Z">
+        <seg>fr-FRE</seg>
       </tuv>
     </tu>
     <tu>

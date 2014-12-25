@@ -294,6 +294,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>6 of 10</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141225T171053Z" creationid="Photonoxx" creationdate="20141225T171053Z">
+        <seg>6 de 10</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>8 Bits/Channel</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141115T085926Z" creationid="Photonoxx" creationdate="20141115T085926Z">
@@ -1466,6 +1474,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141201T094203Z" creationid="Photonoxx" creationdate="20141201T094203Z">
         <seg>Cliquez Ouvrir.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Click Print...</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141225T170944Z" creationid="Photonoxx" creationdate="20141225T170944Z">
+        <seg>Cliquez sur Imprimer...</seg>
       </tuv>
     </tu>
     <tu>
@@ -3494,6 +3510,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>How to add control points to a region.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141225T171034Z" creationid="Photonoxx" creationdate="20141225T171034Z">
+        <seg>Comment ajouter des points de contrôle à une région.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>How to batch convert your photos to JPEG or TIFF image files.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141118T141134Z" creationid="Photonoxx" creationdate="20141118T141134Z">
@@ -4770,6 +4794,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141204T181117Z" creationid="Photonoxx" creationdate="20141201T104922Z">
         <seg>LightZone: Notez des Photos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>LightZone: Regions: Adding Control Points</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141225T171014Z" creationid="Photonoxx" creationdate="20141225T171014Z">
+        <seg>LightZone: Régions: Ajouter des points de contrôle</seg>
       </tuv>
     </tu>
     <tu>
@@ -6494,10 +6526,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Regions-Deleting_Point.html</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141225T171048Z" creationid="Photonoxx" creationdate="20141225T171048Z">
+        <seg>Regions-Deleting_Point.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Regions.html</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141204T181759Z" creationid="Photonoxx" creationdate="20141204T181759Z">
         <seg>Regions.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Regions: Adding control points</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141225T171046Z" creationid="Photonoxx" creationdate="20141225T171046Z">
+        <seg>Régions: Ajouter des points de contrôle</seg>
       </tuv>
     </tu>
     <tu>
@@ -8542,6 +8590,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The shape of regions in LightZone can be adjusted at any time.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141225T171135Z" creationid="Photonoxx" creationdate="20141225T171135Z">
+        <seg>La forme d'une région dans Lightzone peut être ajustée à tout moment.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Then select an image in the browser, and click the button next to the copyright field in the browser's metadata area to write this copyright text to an image file.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141115T083539Z" creationid="Photonoxx" creationdate="20141115T083539Z">
@@ -8810,6 +8866,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141111T150450Z" creationid="Photonoxx" creationdate="20141111T150450Z">
         <seg>Ce dossier peut être créé à la même place que son Image ("Local"), ou dans un Emplacement Centralisé ("Global").</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This includes adding control points to fine-tune their shape.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141225T171244Z" creationid="Photonoxx" creationdate="20141225T171244Z">
+        <seg>Ceci comprend l'ajout de points de contrôle pour affiner leur forme.</seg>
       </tuv>
     </tu>
     <tu>

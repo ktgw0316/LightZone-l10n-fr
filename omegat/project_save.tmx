@@ -350,6 +350,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;b0&gt;Between Region Changes:&lt;/b0&gt; Your photo will not be updated until you release the mouse.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141225T121047Z" creationid="Photonoxx" creationdate="20141225T121047Z">
+        <seg>&lt;b0&gt;À chaque changement des Régions :&lt;/b0&gt; Votre photo ne sera rafraîchie qu'après avoir relaché le bouton de la souris.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;b0&gt;Note:&lt;/b0&gt; If you have a multi-button mouse, you can alternatively right-click to pop-up the menu rather than control-click.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141201T104850Z" creationid="Photonoxx" creationdate="20141201T104850Z">

@@ -3350,10 +3350,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>How to rate photos directly in the Photo Browser.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141225T084912Z" creationid="Photonoxx" creationdate="20141225T084912Z">
+        <seg>Comment noter des photos directement dans le Navigateur Photo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>How to rename photos directly in LightZone.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141204T181036Z" creationid="Photonoxx" creationdate="20141204T181036Z">
         <seg>Comment renommer des photos directement dans LightZone.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>How to rotate photos directly in the Photo Browser.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141225T085021Z" creationid="Photonoxx" creationdate="20141225T085021Z">
+        <seg>Comment faire tourner des photos directement dans le Navigateur Photo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4426,6 +4442,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141204T181100Z" creationid="Photonoxx" creationdate="20141204T181004Z">
         <seg>LightZone: Renommer des Photos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>LightZone: Rotating Photos in the Browser</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141225T084954Z" creationid="Photonoxx" creationdate="20141225T084954Z">
+        <seg>LightZone: Rotation des Photos dans le Navigateur</seg>
       </tuv>
     </tu>
     <tu>
@@ -6426,6 +6450,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141115T103023Z" creationid="Photonoxx" creationdate="20141115T103023Z">
         <seg>Tourner l'image de 90 degrés Anti-Horaire</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Rotating photos in the browser</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141225T085041Z" creationid="Photonoxx" creationdate="20141225T085041Z">
+        <seg>Rotation des Photos dans le Navigateur</seg>
       </tuv>
     </tu>
     <tu>

@@ -1054,6 +1054,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Black_Point_Compensation.html</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141225T163307Z" creationid="Photonoxx" creationdate="20141225T163307Z">
+        <seg>Black_Point_Compensation.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Blend</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141115T091322Z" creationid="Photonoxx" creationdate="20141115T091322Z">
@@ -3632,8 +3640,8 @@
       <tuv lang="EN-US">
         <seg>If the printer driver has a setting for no color conversion (typically labeled "Color Managed by Application" or "No Color Adjustments") then you have a choice of either letting LightZone or the printer driver do the conversion.</seg>
       </tuv>
-      <tuv lang="FR" changeid="Photonoxx" changedate="20141225T162910Z" creationid="Photonoxx" creationdate="20141225T162910Z">
-        <seg>Si le pilote d'impression offre un réglage pour ne pas faire de conversion de couleur the printer driver has a setting for no color conversion (typically labeled "Color Managed by Application" or "No Color Adjustments") then you have a choice of either letting LightZone or the printer driver do the conversion.</seg>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141225T163300Z" creationid="Photonoxx" creationdate="20141225T162910Z">
+        <seg>Si le pilote d'impression offre un réglage pour ne pas faire de conversion de couleur (habituellement appelé "Couleur gérée par l'application" ou "Pas d'ajustements de Couleur") alors, vous avez le choix de laisser LightZone ou le pilote d'impression de procéder à cette conversion.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6474,6 +6482,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141115T085142Z" creationid="Photonoxx" creationdate="20141115T085142Z">
         <seg>Intention de rendu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Rendering_Intent.html</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141225T163302Z" creationid="Photonoxx" creationdate="20141225T163302Z">
+        <seg>Rendering_Intent.html</seg>
       </tuv>
     </tu>
     <tu>

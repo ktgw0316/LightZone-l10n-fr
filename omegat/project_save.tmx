@@ -3758,6 +3758,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Incorrect settings can and most likely will result in lower print quality.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141225T162544Z" creationid="Photonoxx" creationdate="20141225T162544Z">
+        <seg>Des réglages impropres peuvent et la plupart du temps résulteront en une plus faible qualité d'impression.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Index</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141118T154441Z" creationid="Photonoxx" creationdate="20141118T154441Z">
@@ -8826,6 +8834,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141106T110534Z" creationid="Photonoxx" creationdate="20141106T110534Z">
         <seg>Vers le dossier :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To achieve the best print quality, make sure that you understand and properly use the settings in the printer driver.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141225T162420Z" creationid="Photonoxx" creationdate="20141225T162420Z">
+        <seg>Pour obtenir la meilleure qualité d'impression, assurez-vous de bien comprendre et utiliser les options du pilote d'imprimante.</seg>
       </tuv>
     </tu>
     <tu>

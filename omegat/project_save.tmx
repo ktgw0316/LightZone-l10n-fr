@@ -6790,6 +6790,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Save LightZone files as</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141225T160704Z" creationid="Photonoxx" creationdate="20141225T160704Z">
+        <seg>Enregistrer les fichiers LightZone comme</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Save LightZone files as:</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141115T082912Z" creationid="Photonoxx" creationdate="20141115T082912Z">
@@ -8518,6 +8526,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This controls the folder to which your photos are saved whenever File &gt; Save is selected the first time for a photo.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141225T160640Z" creationid="Photonoxx" creationdate="20141225T160640Z">
+        <seg>Ceci gère le dossier dans lequel sont enregistrées vos photos lorsque Fichier &gt; Enregistrer est utilisé pour la première fois pour une photo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This controls the format of the image file used when you &lt;a0&gt;save your work&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141225T160829Z" creationid="Photonoxx" creationdate="20141225T160829Z">
+        <seg>Ceci définit le format de fichier utilisé quand vous &lt;a0&gt;Enregistrez votre travail&lt;/a0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This controls when your photo is updated while you &lt;a0&gt;create&lt;/a0&gt; or &lt;a1&gt;adjust&lt;/a1&gt; a &lt;a2&gt;region&lt;/a2&gt;.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141225T120601Z" creationid="Photonoxx" creationdate="20141225T120601Z">
@@ -8794,6 +8818,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141201T095327Z" creationid="Photonoxx" creationdate="20141201T095327Z">
         <seg>Pour éditer une des ces photos :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To edit preferences:</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141225T160841Z" creationid="Photonoxx" creationdate="20141225T160841Z">
+        <seg>Pour éditer les préférences:</seg>
       </tuv>
     </tu>
     <tu>

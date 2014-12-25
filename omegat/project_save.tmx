@@ -94,6 +94,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(Its contour will change from a solid line to a dashed line.)</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141225T174152Z" creationid="Photonoxx" creationdate="20141225T174152Z">
+        <seg>(Son contour changera d'une ligne continue à une ligne pointillée.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(LightZone display a progress dialog while converting your photos.)</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141118T144557Z" creationid="Photonoxx" creationdate="20141118T144557Z">
@@ -3754,6 +3762,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141118T154345Z" creationid="Photonoxx" creationdate="20141118T154345Z">
         <seg>IPTC</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If a linked region is moved or edited, all the regions it is linked to are likewise moved or edited.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141225T174012Z" creationid="Photonoxx" creationdate="20141225T174012Z">
+        <seg>Si une région liée est déplacée ou éditée, toutes les régions qui y sont liées seront déplacées et éditées à l'identique.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7718,6 +7734,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Select the region you want to copy by clicking it.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141225T174058Z" creationid="Photonoxx" creationdate="20141225T174058Z">
+        <seg>Choisir la région que vous voulez copier en cliquant dessus.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Select the thumbnail of the photo in the browser that you want to rename.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141204T181322Z" creationid="Photonoxx" creationdate="20141204T181322Z">
@@ -9298,6 +9322,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141118T150130Z" creationid="Photonoxx" creationdate="20141118T150130Z">
         <seg>Pour Convertir votre photo:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To copy and paste a region:</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141225T174030Z" creationid="Photonoxx" creationdate="20141225T174030Z">
+        <seg>Pour copier et coller une région :</seg>
       </tuv>
     </tu>
     <tu>

@@ -7438,6 +7438,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Some digital cameras have an orientation sensor so that photos shot in portrait mode are automatically rotated right-side-up when you look at them.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141225T090226Z" creationid="Photonoxx" creationdate="20141225T090226Z">
+        <seg>Certains appareils photo numériques possèdent un capteur d'orientation et de ce fait, les photos prises au format portrait sont automatiquement tournée avec la bonne orientation quand vous les regardez.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Sort</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141114T180827Z" creationid="Photonoxx" creationdate="20141114T180804Z">

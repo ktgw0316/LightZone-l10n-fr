@@ -7190,6 +7190,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Selecting this option will save your work automatically.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141225T114631Z" creationid="Photonoxx" creationdate="20141225T114631Z">
+        <seg>Activer cette option enregistrera votre travail automatiquement.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Selection</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141115T093701Z" creationid="Photonoxx" creationdate="20141115T093701Z">

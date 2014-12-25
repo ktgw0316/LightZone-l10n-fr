@@ -3134,6 +3134,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For black-and-white printing, most inkjet printers manufactured before 2005 have been inferior in terms of linearity, neutrality and metamerism failure.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141225T164954Z" creationid="Photonoxx" creationdate="20141225T164954Z">
+        <seg>Pour l'impression Noir et Blanc, la plupart des imprimantes fabriquées avant 2005 ont été inférieures en termes de problème de linéarité, de neutralité et de métamérisme.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For example, compare what is shown below.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141118T101737Z" creationid="Photonoxx" creationdate="20141118T101737Z">

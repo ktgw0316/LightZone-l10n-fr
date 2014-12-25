@@ -4302,6 +4302,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>LightZone allows you to print your photos directly to a color printer and get professional results.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141225T165451Z" creationid="Photonoxx" creationdate="20141225T165451Z">
+        <seg>LightZone vous permet d'imprimer vos photos directement sur une imprimante couleur et d'obtenir un résultat professionnel.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>LightZone always works in a 16-bit linear color space.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141122T120931Z" creationid="Photonoxx" creationdate="20141122T120931Z">
@@ -6054,6 +6062,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Print_Quality.html</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141225T165453Z" creationid="Photonoxx" creationdate="20141225T165453Z">
+        <seg>Print_Quality.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Printer Managed Colors</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141115T100546Z" creationid="Photonoxx" creationdate="20141115T100519Z">
@@ -6098,6 +6114,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141115T085109Z" creationid="Photonoxx" creationdate="20141115T085109Z">
         <seg>Épreuvage</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Proof tool</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141225T165525Z" creationid="Photonoxx" creationdate="20141225T165525Z">
+        <seg>L'Outil d'Épreuvage</seg>
       </tuv>
     </tu>
     <tu>
@@ -9098,6 +9122,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141225T114757Z" creationid="Photonoxx" creationdate="20141225T114757Z">
         <seg>Pour fonctionner rapidement, LightZone met en cache les vignettes de vos photos dans un dossier caché de votre ordinateur.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To print your photo:</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141225T165538Z" creationid="Photonoxx" creationdate="20141225T165538Z">
+        <seg>Pour imprimez votre photo:</seg>
       </tuv>
     </tu>
     <tu>

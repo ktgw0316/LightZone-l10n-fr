@@ -10478,6 +10478,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You want to apply a single tool to multiple areas of your photo that have the same shape, for example to blur similarly sized blemishes.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141225T173322Z" creationid="Photonoxx" creationdate="20141225T173322Z">
+        <seg>Vous souhaitez appliquer un outil à différentes parties de votre photo qui ont la même forme, par exemple pour flouter des imperfections de tailles similaires.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Your computer needs to be connected to the internet to check for an update.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141111T103451Z" creationid="Photonoxx" creationdate="20141111T103451Z">

@@ -86,6 +86,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(If there is no internet connection, the check is skipped.)</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141225T115343Z" creationid="Photonoxx" creationdate="20141225T115343Z">
+        <seg>(Si il n'y a pas de connexion internet, la vérification sera annulée.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(LightZone display a progress dialog while converting your photos.)</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141118T144557Z" creationid="Photonoxx" creationdate="20141118T144557Z">
@@ -1866,6 +1874,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141118T154110Z" creationid="Photonoxx" creationdate="20141118T154110Z">
         <seg>Copyright</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Copyright Preferences</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141225T115404Z" creationid="Photonoxx" creationdate="20141225T115404Z">
+        <seg>Préférences de Copyright</seg>
       </tuv>
     </tu>
     <tu>
@@ -5226,6 +5242,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141106T105450Z" creationid="Photonoxx" creationdate="20141106T105450Z">
         <seg>Mémoire insuffisante</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Note that your computer must have a connection to the internet when LightZone is launched in order to check.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141225T115303Z" creationid="Photonoxx" creationdate="20141225T115303Z">
+        <seg>Notez que votre ordinateur doit posséder une connexion à internet quand LightZone est lancé pour cette vérification.</seg>
       </tuv>
     </tu>
     <tu>

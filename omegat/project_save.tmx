@@ -3710,6 +3710,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If your photo does not print well using a custom ICC profile for your printer, try using the standard or vivid settings in your printer driver instead.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141225T164716Z" creationid="Photonoxx" creationdate="20141225T164716Z">
+        <seg>Si votre photo ne s'imprime pas bien en utilisant un profil ICC personnalisé pour votre imprimante, essayez d'utiliser les réglages standard ou Couleurs vives de votre pilote d'impression à la place.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Image Info</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141115T103936Z" creationid="Photonoxx" creationdate="20141115T103936Z">

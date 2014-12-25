@@ -3622,6 +3622,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If that is the case, try different settings altogether.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141225T164443Z" creationid="Photonoxx" creationdate="20141225T164443Z">
+        <seg>Dans ce cas, essayez d'autres combinaisons de réglages.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If the blend color is lighter than 50% gray, the color is lightened (screened); if the blend color is darker than 50% gray, the color is darkened (multiplied).</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141117T111827Z" creationid="Photonoxx" creationdate="20141117T111827Z">
@@ -10050,6 +10058,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141111T151027Z" creationid="Photonoxx" creationdate="20141111T151027Z">
         <seg>Il se pourrait que vous deviez redéfinir manuellement l'orientation en utilisant le bouton Tourner du Navigateur.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You might encounter some color photos that print very well on your printer using certain settings or a certain color profile, and others that just won't print well.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141225T164409Z" creationid="Photonoxx" creationdate="20141225T164409Z">
+        <seg>Vous pourriez avoir des photos qui s'impriment très bien sur votre imprimante avec certains réglages et certains profils, et d'autres qui ne s'imprimeront pas correctement.</seg>
       </tuv>
     </tu>
     <tu>

@@ -286,6 +286,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;a0&gt;Acknowledgments&lt;/a0&gt;, &lt;a1&gt;Legal notices&lt;/a1&gt;</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141225T091220Z" creationid="Photonoxx" creationdate="20141225T091220Z">
+        <seg>&lt;a0&gt;Remerciements&lt;/a0&gt;, &lt;a1&gt;Mentions Légales&lt;/a1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;a0&gt;Crop&lt;/a0&gt; and &lt;a1&gt;rotate&lt;/a1&gt; have been improved.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141201T090021Z" creationid="Photonoxx" creationdate="20141201T090021Z">
@@ -5358,6 +5366,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Other</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141225T091125Z" creationid="Photonoxx" creationdate="20141225T091125Z">
+        <seg>Autres</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Other applications that display multipage TIFF images show the first page by default.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141124T104241Z" creationid="Photonoxx" creationdate="20141124T104241Z">
@@ -5854,6 +5870,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Raw Adjustments</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141225T090959Z" creationid="Photonoxx" creationdate="20141225T090959Z">
+        <seg>Ajustements RAW</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Raw files from Canon, Fuji, Kodak, Leaf Valeo, Leica, Minolta, Nikon, Olympus, Panasonic, Pentax, and Sony cameras are supported.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141122T121608Z" creationid="Photonoxx" creationdate="20141122T121608Z">
@@ -5970,6 +5994,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141115T094249Z" creationid="Photonoxx" creationdate="20141115T094249Z">
         <seg>Yeux Rouges</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Red-Eye</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141225T091015Z" creationid="Photonoxx" creationdate="20141225T091015Z">
+        <seg>Yeux-Rouges</seg>
       </tuv>
     </tu>
     <tu>
@@ -7146,6 +7178,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141118T102957Z" creationid="Photonoxx" creationdate="20141118T101124Z">
         <seg>ÉchantillonneurPartageant l'espace avec le &lt;a0&gt;ZoneFinder&lt;/a0&gt;, &lt;a1&gt;l'Histogramme&lt;/a1&gt;, et &lt;a2&gt;La Pipette&lt;/a2&gt;, dans le coin en haut à droite de la fenêtre de LightZone se trouve aussi le visionneur de Sélection Couleur qui affiche les parties de votre photo correspondant à la &lt;a3&gt;Sélection couleur/luminosité&lt;/a3&gt; de l'outil sélectionné.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Sharpen</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141225T091108Z" creationid="Photonoxx" creationdate="20141225T091108Z">
+        <seg>Netteté</seg>
       </tuv>
     </tu>
     <tu>

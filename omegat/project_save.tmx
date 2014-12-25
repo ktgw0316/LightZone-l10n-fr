@@ -5422,6 +5422,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Ordinarily when you are editing a photo, if you try to edit another photo, LightZone will present you with a Save alert asking you whether you want to &lt;a0&gt;save your work&lt;/a0&gt; before viewing the preview image for the other photo.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141225T114328Z" creationid="Photonoxx" creationdate="20141225T114328Z">
+        <seg>D'ordinaire quand vous éditez une photo, si vous essayer d'éditer une autre photo, LightZone vous affichera un dialogue d'enregistrement vous demandant si vous souhaitez &lt;a0&gt;Enregistrer votre travail&lt;/a0&gt; avant de voir l'aperçu de l'autre photo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Ordinarily, a tool affects your entire photo.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141117T152334Z" creationid="Photonoxx" creationdate="20141117T152334Z">

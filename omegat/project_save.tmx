@@ -8982,6 +8982,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>To let LightZone do the color conversion, select the printer profile, &lt;a0&gt;rendering intent&lt;/a0&gt;, and &lt;a1&gt;black point compensation&lt;/a1&gt; settings in the Print Preview dialog.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141225T163550Z" creationid="Photonoxx" creationdate="20141225T163550Z">
+        <seg>Pour laisser LightZone procéder à la conversion de Couleur, définissez les réglages du le profil d'impression, de &lt;a0&gt;L'intention de rendu&lt;/a0&gt;, et de &lt;a1&gt;la compensation du Point noir&lt;/a1&gt; dans le dialogue d'aperçu avant impression.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>To make a color/luminosity selection:</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141117T152834Z" creationid="Photonoxx" creationdate="20141117T152834Z">

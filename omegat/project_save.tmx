@@ -392,8 +392,8 @@
       <tuv lang="EN-US">
         <seg>&lt;b0&gt;When Regions are Done:&lt;/b0&gt; Your photo will not be updated until you are done adjusting a region (by clicking outside the region, or by pressing either the &lt;b1&gt;return&lt;/b1&gt; or &lt;b2&gt;esc&lt;/b2&gt; (escape) key).</seg>
       </tuv>
-      <tuv lang="FR" changeid="Photonoxx" changedate="20141225T121351Z" creationid="Photonoxx" creationdate="20141225T121351Z">
-        <seg>&lt;b0&gt;Quand les Régions sont validées :&lt;/b0&gt; Votre photo ne sera rafraîchie qu'après avoir validé une région (en cliquand à l'extérieur de celle-ci, ou en appuyant soit sur la touche &lt;b1&gt;entrée&lt;/b1&gt; ou &lt;b2&gt;Echap&lt;/b2&gt;).</seg>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141225T121428Z" creationid="Photonoxx" creationdate="20141225T121351Z">
+        <seg>&lt;b0&gt;Quand les Régions sont validées :&lt;/b0&gt; Votre photo ne sera rafraîchie qu'après avoir validé une région (en cliquand à l'extérieur de celle-ci (double-clic lors de la création du dernier point), ou en appuyant soit sur la touche &lt;b1&gt;entrée&lt;/b1&gt; ou &lt;b2&gt;Echap&lt;/b2&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -474,6 +474,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141115T080412Z" creationid="Photonoxx" creationdate="20141115T080412Z">
         <seg>Une limite haute permet à LightZone des opérations plus rapides et fluides; Une limite basse laisse plus de mémoire pour les autres applications.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A high limit enables LightZone to operate faster and smoother; a low limit leaves more memory available for other applications.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141225T121712Z" creationid="Photonoxx" creationdate="20141225T121712Z">
+        <seg>Une limite élevée permet à LightZone des opérations plus rapides et fluides; Une limite basse laisse plus de mémoire pour les autres applications.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8626,6 +8634,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141115T095854Z" creationid="Photonoxx" creationdate="20141115T095854Z">
         <seg>Cette Remise à zéro restaure les paramètres d'usine de LightZone.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This sets the upper limit on the amount of memory that LightZone will use.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141225T121533Z" creationid="Photonoxx" creationdate="20141225T121533Z">
+        <seg>Ceci définit la limite maximale de mémoire que LightZone utilisera.</seg>
       </tuv>
     </tu>
     <tu>

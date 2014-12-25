@@ -3502,6 +3502,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If a new version is available, you will be notified by an alert.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141225T115151Z" creationid="Photonoxx" creationdate="20141225T115151Z">
+        <seg>Si une nouvelle version est disponible, vous en serez notifié par une alerte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If checked, LightZone will automatically check to see if a new software version is available when launched.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141225T115111Z" creationid="Photonoxx" creationdate="20141225T115111Z">
+        <seg>Si coché, LightZone recherchera automatiquement au démarrage si une nouvelle version du logiciel est disponible.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If no black point compensation is done, then detail will be lost in the darkest shadow areas of your photo because the dark areas beyond the darkest black the device can render are truncated.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141117T095931Z" creationid="Photonoxx" creationdate="20141117T095931Z">

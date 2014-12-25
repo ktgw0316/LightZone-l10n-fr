@@ -5998,6 +5998,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Position and size your photo on the paper by entering distances and dimensions in the Left, Top, Width, Height, and Scale text fields, or simply click the Center Image checkbox and Scale to Fit button.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141225T170724Z" creationid="Photonoxx" creationdate="20141225T170724Z">
+        <seg>Positionnez et dimensionnez votre photo en entrant les distances et les dimensions dans les champs Gauche, Haut, Largeur, Hauteur, et échelle, ou simplement cochez l'option Centrer l'Image et cliquez sur Adapter à la page.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Preferences</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141204T181630Z" creationid="Photonoxx" creationdate="20141111T145621Z">
@@ -7136,8 +7144,8 @@
       <tuv lang="EN-US">
         <seg>Scale to Fit</seg>
       </tuv>
-      <tuv lang="FR" changeid="Photonoxx" changedate="20141115T102512Z" creationid="Photonoxx" creationdate="20141115T102512Z">
-        <seg>Adapter à l'image</seg>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141225T170738Z" creationid="Photonoxx" creationdate="20141115T102512Z">
+        <seg>Adapter à la page</seg>
       </tuv>
     </tu>
     <tu>
@@ -9018,6 +9026,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141118T141801Z" creationid="Photonoxx" creationdate="20141118T141801Z">
         <seg>Pour convertir vos photos :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To change standard page set-up and paper options, click Page Setup...</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141225T170928Z" creationid="Photonoxx" creationdate="20141225T170928Z">
+        <seg>Pour modifier les réglages standard de mise en page et de papier, cliquez Mise en page...</seg>
       </tuv>
     </tu>
     <tu>

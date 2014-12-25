@@ -6222,6 +6222,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Regions-Adjusting.html</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141225T120337Z" creationid="Photonoxx" creationdate="20141225T120337Z">
+        <seg>Regions-Adjusting.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Regions-Creating.html</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141225T120335Z" creationid="Photonoxx" creationdate="20141225T120335Z">
+        <seg>Regions-Creating.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Regions.html</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141204T181759Z" creationid="Photonoxx" creationdate="20141204T181759Z">
@@ -9432,16 +9448,16 @@
       <tuv lang="EN-US">
         <seg>When checked, using LightZone as the &lt;a0&gt;external editor for another application&lt;/a0&gt; will cause LightZone to save your photo directly back to the other application when you select File &gt; Save.</seg>
       </tuv>
-      <tuv lang="FR" changeid="Photonoxx" changedate="20141225T120112Z" creationid="Photonoxx" creationdate="20141225T120112Z">
-        <seg>Quand il est activé, utiliser LightZone comme l'&lt;a0&gt;éditeur externe pour une autre application&lt;/a0&gt; mène LightZone à enregistrer directement vers l'autre application quand vous sélectionnez Fichier &gt; Enregistrer.</seg>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141225T120307Z" creationid="Photonoxx" creationdate="20141225T120112Z">
+        <seg>Quand il est activé, utiliser LightZone comme l'&lt;a0&gt;éditeur externe pour une autre application&lt;/a0&gt; mène LightZone à enregistrer directement votre photo vers l'autre application quand vous sélectionnez Fichier &gt; Enregistrer.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>When checked, using LightZone as the external editor for another application will cause LightZone to save your photo directly back to the other application when you select File &gt; Save.</seg>
       </tuv>
-      <tuv lang="FR" changeid="Photonoxx" changedate="20141115T082154Z" creationid="Photonoxx" creationdate="20141115T082154Z">
-        <seg>Si coché, utiliser LightZone comme un éditeur externe pour une autre application induira que LightZone sauvera directement vos photos vers l'autre application en sélectionnant Fchier &gt; Enregistrer.</seg>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141225T120322Z" creationid="Photonoxx" creationdate="20141115T082154Z">
+        <seg>Si coché, utiliser LightZone comme un éditeur externe pour une autre application mène LightZone à enregistrer directement votre photo vers l'autre application en sélectionnant Fichier &gt; Enregistrer.</seg>
       </tuv>
     </tu>
     <tu>

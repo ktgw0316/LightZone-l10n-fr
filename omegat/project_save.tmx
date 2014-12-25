@@ -8390,6 +8390,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This is useful if you want to bundle a set of photos into a single folder for subsequent e-mailing or uploading to a web site as a batch.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141225T112806Z" creationid="Photonoxx" creationdate="20141225T112806Z">
+        <seg>C'est utile si vous souhaitez regrouper en un traitement un lot de photos dans un seul dossier pour d'éventuels e-mailing ou pour l'envoi vers un site web.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This mimics the behavior of the human visual system and makes your photo more appealing and easier to work with.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141122T100134Z" creationid="Photonoxx" creationdate="20141122T100134Z">

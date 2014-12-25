@@ -334,6 +334,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>9 of 10</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141225T172941Z" creationid="Photonoxx" creationdate="20141225T172941Z">
+        <seg>9 de 10</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;a0&gt; More on the ZoneFinder...&lt;/a0&gt;</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141122T102704Z" creationid="Photonoxx" creationdate="20141122T102704Z">
@@ -2734,6 +2742,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Drag a control point until it's in the desired location.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141225T172812Z" creationid="Photonoxx" creationdate="20141225T172812Z">
+        <seg>Déplacez un point de contrôle jusqu'à la position désirée.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Drag a rectangle on the image to crop it.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141106T102908Z" creationid="Photonoxx" creationdate="20141106T102908Z">
@@ -3594,6 +3610,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141118T144937Z" creationid="Photonoxx" creationdate="20141118T144937Z">
         <seg>Comment convertir vos images en fichiers JPEG ou TIFF.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>How to copy and paste regions.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141225T172919Z" creationid="Photonoxx" creationdate="20141225T172919Z">
+        <seg>Comment copier et coller des régions.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4878,6 +4902,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>LightZone: Regions: Copying Regions</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141225T172855Z" creationid="Photonoxx" creationdate="20141225T172855Z">
+        <seg>LightZone: Régions: Copier des Regions</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>LightZone: Renaming Photos</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141204T181100Z" creationid="Photonoxx" creationdate="20141204T181004Z">
@@ -5602,6 +5634,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141122T171926Z" creationid="Photonoxx" creationdate="20141122T171926Z">
         <seg>Sur la droite du Navigateur se trouve le Contrôleur de Métadonnées qui affiche les métadonnées de la photo sélectionnée.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Once created, a region can be copied.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141225T173006Z" creationid="Photonoxx" creationdate="20141225T173006Z">
+        <seg>Une fois créée, une région peut être copiée.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6598,6 +6638,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Regions-Deleting.html</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141225T172938Z" creationid="Photonoxx" creationdate="20141225T172938Z">
+        <seg>Regions-Deleting.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Regions-Deleting_Point.html</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141225T171048Z" creationid="Photonoxx" creationdate="20141225T171048Z">
@@ -6634,6 +6682,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141225T172248Z" creationid="Photonoxx" creationdate="20141225T172248Z">
         <seg>Régions : Ajustement des Régions</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Regions: Copying regions</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141225T172935Z" creationid="Photonoxx" creationdate="20141225T172935Z">
+        <seg>Régions: Copier des Regions</seg>
       </tuv>
     </tu>
     <tu>
@@ -6754,6 +6810,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141225T172036Z" creationid="Photonoxx" creationdate="20141225T172036Z">
         <seg>Répérez depuis l'étape 3 pour chaque point de contrôle que vous souhaitez ajouter.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Repeat from step 3 for every control point you want to adjust.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141225T172835Z" creationid="Photonoxx" creationdate="20141225T172835Z">
+        <seg>Répérez depuis l'étape 3 pour chaque point de contrôle que vous souhaitez ajuster.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9050,6 +9114,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141225T112806Z" creationid="Photonoxx" creationdate="20141225T112806Z">
         <seg>C'est utile si vous souhaitez regrouper en un traitement un lot de photos dans un seul dossier pour d'éventuels e-mailing ou pour l'envoi vers un site web.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This is very useful in a couple of situations:</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141225T173033Z" creationid="Photonoxx" creationdate="20141225T173033Z">
+        <seg>C'est très utile dans certaines situations :</seg>
       </tuv>
     </tu>
     <tu>

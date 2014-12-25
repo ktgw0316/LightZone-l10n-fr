@@ -2694,6 +2694,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Double-click the region whose shape you want to adjust.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141225T172731Z" creationid="Photonoxx" creationdate="20141225T172731Z">
+        <seg>Double-cliquez sur la région dont vous souhaitez ajuster la forme.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Double-click the thumbnail of the photo.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141201T102757Z" creationid="Photonoxx" creationdate="20141201T102757Z">
@@ -9182,6 +9190,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>To adjust the shape of a region:</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141225T172649Z" creationid="Photonoxx" creationdate="20141225T172649Z">
+        <seg>Pour ajuster la forme d'une région :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>To batch convert your photos:</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141118T141801Z" creationid="Photonoxx" creationdate="20141118T141801Z">
@@ -10046,6 +10062,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>When initially creating regions, you can do a "rough approximation"; then, if needed, you can go back and adjust them.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141225T172634Z" creationid="Photonoxx" creationdate="20141225T172634Z">
+        <seg>Quand, à la création initiale des régions, vous pouvez en faire une "approximation grossière" ; alors, si besoin, vous pouvez y retourner et l'ajuster.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>When launched, LightZone can automatically check if a newer version is available for download.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141111T151224Z" creationid="Photonoxx" creationdate="20141111T151224Z">
@@ -10578,6 +10602,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141225T171620Z" creationid="Photonoxx" creationdate="20141225T171620Z">
         <seg>images/Region-Add_Point.png</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>images/Region-Edit.png</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141225T172653Z" creationid="Photonoxx" creationdate="20141225T172653Z">
+        <seg>images/Region-Edit.png</seg>
       </tuv>
     </tu>
     <tu>

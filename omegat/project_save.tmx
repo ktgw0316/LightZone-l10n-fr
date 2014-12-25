@@ -110,6 +110,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(Metamerism refers to the situation where two color samples appear to match under one condition but not under another.) However, the latest generation from all the major inkjet printer manufacturers looks promising.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141225T165238Z" creationid="Photonoxx" creationdate="20141225T165238Z">
+        <seg>(Le Métamérisme se réfère au cas où deux échantillons de couleur semblent correspondre dans une condition mais pas dans une autre.) Cependant, les dernières générations de tous les constructeurs semblent prometteuses.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(Opposite of Color Burn.)</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141117T165801Z" creationid="Photonoxx" creationdate="20141117T110353Z">
@@ -3526,6 +3534,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>How to print your photos directly from within LightZone.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141225T165322Z" creationid="Photonoxx" creationdate="20141225T165322Z">
+        <seg>Comment imprimer vos photos directement depuis LightZone.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>How to rate photos directly in the Photo Browser.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141225T084912Z" creationid="Photonoxx" creationdate="20141225T084912Z">
@@ -4706,6 +4722,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141225T161537Z" creationid="Photonoxx" creationdate="20141225T161537Z">
         <seg>LightZone: Qualité d'Impression</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>LightZone: Printing</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141225T165258Z" creationid="Photonoxx" creationdate="20141225T165258Z">
+        <seg>LightZone: Impressions</seg>
       </tuv>
     </tu>
     <tu>
@@ -6042,6 +6066,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141115T085123Z" creationid="Photonoxx" creationdate="20141115T085123Z">
         <seg>Profil d'Imprimante</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Printing</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141225T165330Z" creationid="Photonoxx" creationdate="20141225T165330Z">
+        <seg>Impressions</seg>
       </tuv>
     </tu>
     <tu>
@@ -10266,6 +10298,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141225T090630Z" creationid="Photonoxx" creationdate="20141225T090630Z">
         <seg>images/Buttons-Rotate.png</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>images/Print_Dialog-en.png</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141225T165331Z" creationid="Photonoxx" creationdate="20141225T165331Z">
+        <seg>images/Print_Dialog-en.png</seg>
       </tuv>
     </tu>
     <tu>

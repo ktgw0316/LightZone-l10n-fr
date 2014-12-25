@@ -7534,6 +7534,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Select Edit &gt; Copy Region.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141225T174458Z" creationid="Photonoxx" creationdate="20141225T174458Z">
+        <seg>Choisissez Éditer &gt; Copier la Région.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Select File &gt; Convert...</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141118T150944Z" creationid="Photonoxx" creationdate="20141118T150151Z">

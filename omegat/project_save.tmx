@@ -4318,6 +4318,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>LightZone has high quality color management built-in; however, print quality depends largely on the printer, the printer driver software, and any color management in use.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141225T162220Z" creationid="Photonoxx" creationdate="20141225T162220Z">
+        <seg>LightZone inclut une gestion des couleurs de haute qualité; cependant, la qualité d'impression dépend largement de l'imprimante, du papier, du pilote d'impression, et de toute gestion des couleurs en fonction.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>LightZone has run out of memory and will now shut down.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141111T100638Z" creationid="Photonoxx" creationdate="20141111T100638Z">

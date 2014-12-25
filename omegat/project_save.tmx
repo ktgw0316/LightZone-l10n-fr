@@ -1558,6 +1558,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Clicking the Reset button will reset LightZone to have its original factory settings.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141225T155715Z" creationid="Photonoxx" creationdate="20141225T155715Z">
+        <seg>Cliquer le bouton de Remise à zéro restaurera les paramètres par défaut de LightZone.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Clone</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141115T094200Z" creationid="Photonoxx" creationdate="20141115T094200Z">
@@ -8490,6 +8498,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141111T102707Z" creationid="Photonoxx" creationdate="20141111T102707Z">
         <seg>Cela peut régler certains problèmes, mais perd vos personnalisations et ralentit un peu les choses pour un court moment.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This can sometimes resolve some problems you may experience.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141225T155834Z" creationid="Photonoxx" creationdate="20141225T155834Z">
+        <seg>Cela peut parfois résoudre des problèmes que vous pourriez rencontrer.</seg>
       </tuv>
     </tu>
     <tu>

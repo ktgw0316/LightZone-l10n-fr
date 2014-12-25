@@ -1790,6 +1790,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Converting-Batch.html</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141225T093538Z" creationid="Photonoxx" creationdate="20141225T093538Z">
+        <seg>Converting-Batch.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Converting...</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141106T111825Z" creationid="Photonoxx" creationdate="20141106T111825Z">
@@ -3422,6 +3430,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>How to send photos to other folders.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141225T093526Z" creationid="Photonoxx" creationdate="20141225T093526Z">
+        <seg>Comment envoyer des photos vers d'autres dossiers.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>However, because the luminosity range is compressed, information from your photo is still lost: the loss is just evenly spread out over the entire luminosity range (and thus less noticeable) rather than being truncated at the black end.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141117T100832Z" creationid="Photonoxx" creationdate="20141117T100832Z">
@@ -4498,6 +4514,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141225T084954Z" creationid="Photonoxx" creationdate="20141225T084954Z">
         <seg>LightZone: Rotation des Photos dans le Navigateur</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>LightZone: Sending Photos</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141225T093445Z" creationid="Photonoxx" creationdate="20141225T093445Z">
+        <seg>LightZone: Envoyer des Photos</seg>
       </tuv>
     </tu>
     <tu>
@@ -6522,6 +6546,22 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141115T103023Z" creationid="Photonoxx" creationdate="20141115T103023Z">
         <seg>Tourner l'image de 90 degrés Anti-Horaire</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Rotate tool</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141225T093435Z" creationid="Photonoxx" creationdate="20141225T093435Z">
+        <seg>L'Outil de Rotation</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Rotating JPEG files modifies only the rotation metadata: the image data is not modified.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141225T093411Z" creationid="Photonoxx" creationdate="20141225T093411Z">
+        <seg>Tourner des fichiers JPEG modifie seulement les métadonnés d'Orientation: les données de l'image ne sont pas modifiées.</seg>
       </tuv>
     </tu>
     <tu>

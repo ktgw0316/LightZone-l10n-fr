@@ -5286,6 +5286,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Note that after a reset is performed, LightZone must quit.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141225T160028Z" creationid="Photonoxx" creationdate="20141225T160028Z">
+        <seg>Notez qu'après la remise à zéro, LightZone doit quitter.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Note that your computer must have a connection to the internet when LightZone is launched in order to check.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141225T115303Z" creationid="Photonoxx" creationdate="20141225T115303Z">
@@ -9506,6 +9514,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141115T081652Z" creationid="Photonoxx" creationdate="20141115T081652Z">
         <seg>Quand les Régions sont validées</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When checked, the user interface shows titles for the buttons; when unchecked, only the buttons themselves are shown.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141225T160235Z" creationid="Photonoxx" creationdate="20141225T160235Z">
+        <seg>Si coché, l'interface utilisateur affiche les titres des boutons ; décoché, seuls les boutons eux-mêmes sont affichés.</seg>
       </tuv>
     </tu>
     <tu>

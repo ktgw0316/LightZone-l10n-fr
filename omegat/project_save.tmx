@@ -3390,6 +3390,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>However, since some digital cameras do not have such a sensor, photos shot in portrait mode appear sideways in the &lt;a0&gt;Photo Browser&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141225T090525Z" creationid="Photonoxx" creationdate="20141225T090525Z">
+        <seg>Cependant, comme certains appareils n'ont pas de tel capteur ou que dans certains cas celui-ci n'est pas efficace, certaines photos n'apparaissent pas avec la bonne orientation dans le &lt;a0&gt;Navigateur Photo&lt;/a0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Hue</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141115T091045Z" creationid="Photonoxx" creationdate="20141115T091045Z">
@@ -6902,6 +6910,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Select one or more thumbnails of the photos that you want to rotate.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141225T090624Z" creationid="Photonoxx" creationdate="20141225T090624Z">
+        <seg>Sélectionnez une ou plusieurs vignettes des photos que vous voulez tourner.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Select only most recent version from each stack</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141114T180303Z" creationid="Photonoxx" creationdate="20141114T180303Z">
@@ -8150,6 +8166,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This can be corrected by rotating them.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141225T090546Z" creationid="Photonoxx" creationdate="20141225T090546Z">
+        <seg>Ceci peut être corrigé en les tournant.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This can fix lots of problems, but loses your customizations.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141115T080015Z" creationid="Photonoxx" creationdate="20141115T080015Z">
@@ -8498,6 +8522,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141204T181240Z" creationid="Photonoxx" creationdate="20141204T181240Z">
         <seg>Pour renommer une photo :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To rotate photos:</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141225T090555Z" creationid="Photonoxx" creationdate="20141225T090555Z">
+        <seg>Pour tourner des photos:</seg>
       </tuv>
     </tu>
     <tu>
@@ -9602,6 +9634,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141118T154425Z" creationid="Photonoxx" creationdate="20141118T154425Z">
         <seg>http://lightzoneproject.org/node/35/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>images/Buttons-Rotate.png</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141225T090630Z" creationid="Photonoxx" creationdate="20141225T090630Z">
+        <seg>images/Buttons-Rotate.png</seg>
       </tuv>
     </tu>
     <tu>

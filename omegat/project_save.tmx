@@ -6702,6 +6702,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Repeat from step 3 for every control point you want to add.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141225T172036Z" creationid="Photonoxx" creationdate="20141225T172036Z">
+        <seg>Répérez depuis l'étape 3 pour chaque point de contrôle que vous souhaitez ajouter.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Replace</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141106T111349Z" creationid="Photonoxx" creationdate="20141106T111349Z">
@@ -9974,6 +9982,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>When done, you can either click anywhere outside the region, or press either the &lt;b0&gt;return&lt;/b0&gt; or &lt;b1&gt;esc&lt;/b1&gt; (escape) key.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141225T172152Z" creationid="Photonoxx" creationdate="20141225T172152Z">
+        <seg>Quand vous avez fini, vous pouvez soit cliquer n'importe où en dehors de la région, ou appuyer la touche &lt;b0&gt;Entrée&lt;/b0&gt; ou &lt;b1&gt;Échap&lt;/b1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>When drawing regions, LightZone can update the photo in real time, it can update only between changes, or it can wait until regions are done.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141115T081547Z" creationid="Photonoxx" creationdate="20141115T081547Z">
@@ -10290,6 +10306,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141225T112231Z" creationid="Photonoxx" creationdate="20141225T112231Z">
         <seg>Vous pouvez envoyer des copies de photos sélectionnées vers d'autres dossiers en utilisant le &lt;a0&gt;Navigateur Photo&lt;/a0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can then drag the new control point until it's in the desired location.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141225T171952Z" creationid="Photonoxx" creationdate="20141225T171952Z">
+        <seg>Vous pouvez alors déplacer le nouveau point de contrôle jusqu'à la position voulue.</seg>
       </tuv>
     </tu>
     <tu>

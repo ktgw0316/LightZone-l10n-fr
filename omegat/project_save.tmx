@@ -10486,6 +10486,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You want to apply multiple tools to the same area of your photo, for example to increase both the contrast and sharpness of a person's eyes.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141225T173530Z" creationid="Photonoxx" creationdate="20141225T173530Z">
+        <seg>Vous souhaitez appliquer plusieurs outils à la même partie de votre photo, par exemple pour augmenter aussi bien le contraste que la netteté des yeux d'un sujet.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Your computer needs to be connected to the internet to check for an update.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141111T103451Z" creationid="Photonoxx" creationdate="20141111T103451Z">

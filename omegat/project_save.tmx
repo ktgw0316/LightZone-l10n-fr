@@ -206,6 +206,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(Use the Shift key to select multiple, contiguous thumbnails or the &lt;s0&gt;Command&lt;/s0&gt; &lt;s1&gt;Control&lt;/s1&gt; key to select multiple, non-contiguous thumbnails; or use the Select Recent button.)</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141225T113509Z" creationid="Photonoxx" creationdate="20141225T113509Z">
+        <seg>(Utilisez la touche Maj pour sélectionner plusieurs vignettes consécutives ou la touche &lt;s0&gt;Commande&lt;/s0&gt; &lt;s1&gt;Contrôle&lt;/s1&gt; pour sélectionner plusieurs vignettes non contigues; ou utilisez les boutons Sélectionner Récent.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(a) no color selected</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141118T101754Z" creationid="Photonoxx" creationdate="20141118T101754Z">
@@ -1370,6 +1378,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141204T181422Z" creationid="Photonoxx" creationdate="20141204T181422Z">
         <seg>Cliquez Renommer (ou appuyez sur Entrée).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Click Send (or press Return).</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141225T113735Z" creationid="Photonoxx" creationdate="20141225T113735Z">
+        <seg>Cliquez Envoyer (ou appuyer sur Entrée).</seg>
       </tuv>
     </tu>
     <tu>
@@ -6942,6 +6958,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Select File &gt; Send...</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141225T113539Z" creationid="Photonoxx" creationdate="20141225T113539Z">
+        <seg>Choisissez Fichier &gt; Envoyer...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Select Recent</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141114T183635Z" creationid="Photonoxx" creationdate="20141114T183635Z">
@@ -7074,6 +7098,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141115T093418Z" creationid="Photonoxx" creationdate="20141115T093418Z">
         <seg>Choisir la Gamme de luminosité</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Select the output size for the copied photos.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141225T113711Z" creationid="Photonoxx" creationdate="20141225T113711Z">
+        <seg>Choisissez la taille de sortie pour les photos copiées.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9122,6 +9154,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141111T100341Z" creationid="Photonoxx" creationdate="20141111T100341Z">
         <seg>Utiliser celui-ci</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Use the Choose button to select the destination folder.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141225T113631Z" creationid="Photonoxx" creationdate="20141225T113631Z">
+        <seg>Utilisez le bouton Choisir pour choisir le dossier de destination.</seg>
       </tuv>
     </tu>
     <tu>

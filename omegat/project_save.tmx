@@ -8102,6 +8102,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The hidden folders can either go in the same folders as your photos ("local") or all together in one location ("global").</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141225T114920Z" creationid="Photonoxx" creationdate="20141225T114920Z">
+        <seg>Ce dossier caché peut-être situé soit dans le même dossier que vos photos ("local") soit dans un emplacement centralisé ("global").</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The histogram in the lower right shows the same photo after both &lt;a0&gt;exposure&lt;/a0&gt; and &lt;a1&gt;black point&lt;/a1&gt; adjustments have been made using the &lt;a2&gt;ZoneMapper&lt;/a2&gt; tool.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141122T163254Z" creationid="Photonoxx" creationdate="20141122T163254Z">
@@ -8714,6 +8722,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141201T094043Z" creationid="Photonoxx" creationdate="20141201T094043Z">
         <seg>Pour ouvrir une photo à éditer :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To operate quickly, LightZone caches thumbnail images of your photos in hidden folders on your computer.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141225T114757Z" creationid="Photonoxx" creationdate="20141225T114757Z">
+        <seg>Pour fonctionner rapidement, LightZone met en cache les vignettes de vos photos dans un dossier caché de votre ordinateur.</seg>
       </tuv>
     </tu>
     <tu>

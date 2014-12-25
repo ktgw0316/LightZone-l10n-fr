@@ -1598,6 +1598,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Click the Regions button in the &lt;a0&gt;tool bar&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141225T171431Z" creationid="Photonoxx" creationdate="20141225T171431Z">
+        <seg>Cliquez sur le bouton Régions de la &lt;a0&gt;barre d'outils&lt;/a0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Click the eyedropper button.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141117T153231Z" creationid="Photonoxx" creationdate="20141117T153231Z">
@@ -9082,6 +9090,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141225T162736Z" creationid="Photonoxx" creationdate="20141225T162420Z">
         <seg>Pour obtenir la meilleure qualité d'impression, assurez-vous de bien comprendre et utiliser les options du pilote d'impression.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To add a control point to a region:</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141225T171312Z" creationid="Photonoxx" creationdate="20141225T171312Z">
+        <seg>Pour ajouter un point de contrôle à une région :</seg>
       </tuv>
     </tu>
     <tu>

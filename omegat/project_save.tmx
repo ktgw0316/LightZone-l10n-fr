@@ -8302,6 +8302,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>These preferences allow you to set default values for the name of the artist/photographer and the copyright notice when &lt;a0&gt;editing the metadata&lt;/a0&gt; of your photos.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141225T115825Z" creationid="Photonoxx" creationdate="20141225T115825Z">
+        <seg>Ces préférences vous permettent de définir des valeurs par défaut pour les noms de l'artiste/photographe et pour la notice de copyright lors de l'&lt;a0&gt;édition des métadonnées&lt;/a0&gt; de vos photos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>These two files are all you need to create beautiful photos.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141122T123046Z" creationid="Photonoxx" creationdate="20141122T123046Z">

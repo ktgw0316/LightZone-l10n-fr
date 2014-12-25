@@ -342,6 +342,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;b0&gt;Note:&lt;/b0&gt; Rotating either raw or TIFF files does not modify them in any way; instead, the rotation information is stored in sidecar XMP files.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141225T092943Z" creationid="Photonoxx" creationdate="20141225T092943Z">
+        <seg>&lt;b0&gt;Note:&lt;/b0&gt; TournerRotating either raw or TIFF files does not modify them in any way; instead, the rotation information is stored in sidecar XMP files.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;b0&gt;Note:&lt;/b0&gt; The information provided here is accurate as of Aperture version 1.5.3 but may need to change for future versions.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141122T165724Z" creationid="Photonoxx" creationdate="20141122T165724Z">
@@ -626,6 +634,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141115T081602Z" creationid="Photonoxx" creationdate="20141115T081602Z">
         <seg>En temps réel</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>All the selected thumbnails will rotate 90 degrees in the direction you selected.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141225T092914Z" creationid="Photonoxx" creationdate="20141225T092914Z">
+        <seg>Toutes les vignettes sélectionnées tourneront de 90 degrés dans la direction que vous avez choisie.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1392,8 +1408,8 @@
       <tuv lang="EN-US">
         <seg>Click one of rotate arrow buttons above the thumbnails.</seg>
       </tuv>
-      <tuv lang="FR" changeid="Photonoxx" changedate="20141225T092240Z" creationid="Photonoxx" creationdate="20141225T092240Z">
-        <seg>Cliquez un des boutons de Rotation (Tourne) au-dessus des vignettes.</seg>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141225T092948Z" creationid="Photonoxx" creationdate="20141225T092240Z">
+        <seg>Cliquez un des boutons de Rotation au-dessus des vignettes.</seg>
       </tuv>
     </tu>
     <tu>

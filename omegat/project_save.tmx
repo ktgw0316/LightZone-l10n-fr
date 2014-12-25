@@ -310,6 +310,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>4 of 10</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141225T172253Z" creationid="Photonoxx" creationdate="20141225T172253Z">
+        <seg>4 de 10</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>6 of 10</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141225T171053Z" creationid="Photonoxx" creationdate="20141225T171053Z">
@@ -3558,6 +3566,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>How to adjust the shape of regions.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141225T172236Z" creationid="Photonoxx" creationdate="20141225T172236Z">
+        <seg>Comment ajuster la forme des régions.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>How to batch convert your photos to JPEG or TIFF image files.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141118T141134Z" creationid="Photonoxx" creationdate="20141118T141134Z">
@@ -4842,6 +4858,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141225T171014Z" creationid="Photonoxx" creationdate="20141225T171014Z">
         <seg>LightZone: Régions: Ajouter des points de contrôle</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>LightZone: Regions: Adjusting Regions</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141225T172214Z" creationid="Photonoxx" creationdate="20141225T172214Z">
+        <seg>LightZone: Régions : Ajustement des Régions</seg>
       </tuv>
     </tu>
     <tu>
@@ -6574,6 +6598,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Regions-Feathering.html</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141225T172250Z" creationid="Photonoxx" creationdate="20141225T172250Z">
+        <seg>Regions-Feathering.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Regions.html</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141204T181759Z" creationid="Photonoxx" creationdate="20141204T181759Z">
@@ -6586,6 +6618,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141225T171046Z" creationid="Photonoxx" creationdate="20141225T171046Z">
         <seg>Régions: Ajouter des points de contrôle</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Regions: Adjusting regions</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141225T172248Z" creationid="Photonoxx" creationdate="20141225T172248Z">
+        <seg>Régions : Ajustement des Régions</seg>
       </tuv>
     </tu>
     <tu>

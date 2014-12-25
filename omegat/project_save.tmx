@@ -390,6 +390,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;b0&gt;When Regions are Done:&lt;/b0&gt; Your photo will not be updated until you are done adjusting a region (by clicking outside the region, or by pressing either the &lt;b1&gt;return&lt;/b1&gt; or &lt;b2&gt;esc&lt;/b2&gt; (escape) key).</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141225T121351Z" creationid="Photonoxx" creationdate="20141225T121351Z">
+        <seg>&lt;b0&gt;Quand les Régions sont validées :&lt;/b0&gt; Votre photo ne sera rafraîchie qu'après avoir validé une région (en cliquand à l'extérieur de celle-ci, ou en appuyant soit sur la touche &lt;b1&gt;entrée&lt;/b1&gt; ou &lt;b2&gt;Echap&lt;/b2&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;html&gt;Continue  (The program may now be unstable)&lt;/html&gt;</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141111T100806Z" creationid="Photonoxx" creationdate="20141111T100806Z">

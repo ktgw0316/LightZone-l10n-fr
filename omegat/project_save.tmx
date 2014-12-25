@@ -342,6 +342,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;b0&gt;All the time:&lt;/b0&gt; Your photo will be updated continuously.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141225T120710Z" creationid="Photonoxx" creationdate="20141225T120710Z">
+        <seg>&lt;b0&gt;En temps réel :&lt;/b0&gt; Votre photo sera rafraîchie en continu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;b0&gt;Note:&lt;/b0&gt; If you have a multi-button mouse, you can alternatively right-click to pop-up the menu rather than control-click.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141201T104850Z" creationid="Photonoxx" creationdate="20141201T104850Z">
@@ -8458,6 +8466,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141111T102707Z" creationid="Photonoxx" creationdate="20141111T102707Z">
         <seg>Cela peut régler certains problèmes, mais perd vos personnalisations et ralentit un peu les choses pour un court moment.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This controls when your photo is updated while you &lt;a0&gt;create&lt;/a0&gt; or &lt;a1&gt;adjust&lt;/a1&gt; a &lt;a2&gt;region&lt;/a2&gt;.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141225T120601Z" creationid="Photonoxx" creationdate="20141225T120601Z">
+        <seg>Ceci gère la façon dont votre photo est mise à jour lorsque vous &lt;a0&gt;créez&lt;/a0&gt; ou &lt;a1&gt;adjustez&lt;/a1&gt; une &lt;a2&gt;région&lt;/a2&gt;.</seg>
       </tuv>
     </tu>
     <tu>

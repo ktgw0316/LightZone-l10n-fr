@@ -9773,5 +9773,25 @@
       </tuv>
     </tu>
 <!-- Alternative translations -->
+    <tu>
+      <prop type="file">lightcrafts/locale/com/lightcrafts/ui/editor/Locale.properties</prop>
+      <prop type="id">RotateBorderTitle</prop>
+      <tuv lang="EN-US">
+        <seg>Rotate</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141225T091746Z" creationid="Photonoxx" creationdate="20141225T091746Z">
+        <seg>Tourne</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">lightcrafts/locale/com/lightcrafts/ui/editor/Locale.properties</prop>
+      <prop type="id">RotateToolTitle</prop>
+      <tuv lang="EN-US">
+        <seg>Rotate</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141225T091723Z" creationid="Photonoxx" creationdate="20141225T091723Z">
+        <seg>Tourne</seg>
+      </tuv>
+    </tu>
   </body>
 </tmx>

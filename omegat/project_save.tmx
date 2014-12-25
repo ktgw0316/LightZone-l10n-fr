@@ -694,6 +694,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Additionally, when you paste a region into one tool that has been copied from another, you can paste it &lt;e0&gt;linked&lt;/e0&gt;.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141225T173845Z" creationid="Photonoxx" creationdate="20141225T173845Z">
+        <seg>De plus, quand vous collez dans un outil une région qui a été copiée depuis un autre outil, vous pouvez la coller &lt;e0&gt;et la lier&lt;/e0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Additionally, you can select any edit within the history to go back to that point in time.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141122T164101Z" creationid="Photonoxx" creationdate="20141122T164101Z">

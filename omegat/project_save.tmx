@@ -406,6 +406,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;b0&gt;Printer Managed:&lt;/b0&gt; the printer will do color conversion.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141225T170020Z" creationid="Photonoxx" creationdate="20141225T170020Z">
+        <seg>&lt;b0&gt;Couleurs gérées par l'Imprimante :&lt;/b0&gt; l'imprimante fera la conversion de couleur.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;b0&gt;When Regions are Done:&lt;/b0&gt; Your photo will not be updated until you are done adjusting a region (by clicking outside the region, or by pressing either the &lt;b1&gt;return&lt;/b1&gt; or &lt;b2&gt;esc&lt;/b2&gt; (escape) key).</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141225T121428Z" creationid="Photonoxx" creationdate="20141225T121351Z">
@@ -7294,6 +7302,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Select File &gt; Print... to print the photo currently being edited, or Browser &gt; Print... to print the photo for the selected thumbnail in the &lt;a0&gt;Photo Browser&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141225T165737Z" creationid="Photonoxx" creationdate="20141225T165737Z">
+        <seg>Choisissez Fichier &gt; Imprimer... pour imprimer la photo en cours d'édition, ou Navigateur &gt; Imprimer... pour imprimer la photo de la vignette sélectionnée dans le &lt;a0&gt;Navigateur Photo&lt;/a0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Select File &gt; Send...</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141225T113539Z" creationid="Photonoxx" creationdate="20141225T113539Z">
@@ -7346,6 +7362,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141106T135309Z" creationid="Photonoxx" creationdate="20141106T135309Z">
         <seg>Sélectionner une image</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Select how colors will be handled from the Color Handling pop-up menu:</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141225T165927Z" creationid="Photonoxx" creationdate="20141225T165927Z">
+        <seg>Choisissez de quelle façon les couleurs seront prises en charge dans le menu déroulant pour le Traitement des couleurs :</seg>
       </tuv>
     </tu>
     <tu>

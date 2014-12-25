@@ -6998,6 +6998,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Select one or more thumbnails of the photos in the browser that you want to send.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141225T112947Z" creationid="Photonoxx" creationdate="20141225T112947Z">
+        <seg>Sélectionnez une ou plusieurs vignettes des photos que vous voulez envoyer dans le navigateur.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Select one or more thumbnails of the photos that you want to drag &amp; drop.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141201T101934Z" creationid="Photonoxx" creationdate="20141201T101934Z">
@@ -8678,6 +8686,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>To send the selected photos:</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141225T112856Z" creationid="Photonoxx" creationdate="20141225T112856Z">
+        <seg>Pour envoyer les photos sélectionnées :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>To show the Color Selection Preview:</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141118T102519Z" creationid="Photonoxx" creationdate="20141118T102203Z">
@@ -9770,6 +9786,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141118T154425Z" creationid="Photonoxx" creationdate="20141118T154425Z">
         <seg>http://lightzoneproject.org/node/35/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>images/Button-Select_Recent.png</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141225T112859Z" creationid="Photonoxx" creationdate="20141225T112859Z">
+        <seg>images/Button-Select_Recent.png</seg>
       </tuv>
     </tu>
     <tu>

@@ -190,6 +190,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(The control points will become visible.)</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141225T171729Z" creationid="Photonoxx" creationdate="20141225T171729Z">
+        <seg>(Les points de contrôle deviendront visibles.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(The mouse will change to an eyedropper.)</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141117T153307Z" creationid="Photonoxx" creationdate="20141117T153307Z">
@@ -202,6 +210,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141111T150859Z" creationid="Photonoxx" creationdate="20141111T150859Z">
         <seg>(Les Aperçus seront regénérés automatiquement.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>(The region kind buttons will appear to the right of the tool bar and the regions for the tool will become visible on your photo.)</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141225T171619Z" creationid="Photonoxx" creationdate="20141225T171619Z">
+        <seg>(Les boutons de type de région apparaîtront à la droite de la barre d'outils et les régions de l'outil en cours deviendront visibles sur votre photo.)</seg>
       </tuv>
     </tu>
     <tu>
@@ -1526,6 +1542,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Click on the contour of the region where you want to add a control point: a new control point will be added.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141225T171846Z" creationid="Photonoxx" creationdate="20141225T171846Z">
+        <seg>Cliquez sur le contour extérieur de la région là ou vous souhaitez ajouter un point de contrôle : un nouveau point de contrôle sera ajouté.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Click on the image where you would like to create one or more regions.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141106T102626Z" creationid="Photonoxx" creationdate="20141106T102626Z">
@@ -2650,6 +2674,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141106T105733Z" creationid="Photonoxx" creationdate="20141106T105733Z">
         <seg>Fait</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Double-click the region that you want to add a control point to.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141225T171706Z" creationid="Photonoxx" creationdate="20141225T171706Z">
+        <seg>Double-cliquez sur la région à laquelle vous souhaitez ajouter un point de contrôle.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10474,6 +10506,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141225T165331Z" creationid="Photonoxx" creationdate="20141225T165331Z">
         <seg>images/Print_Dialog-en.png</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>images/Region-Add_Point.png</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141225T171620Z" creationid="Photonoxx" creationdate="20141225T171620Z">
+        <seg>images/Region-Add_Point.png</seg>
       </tuv>
     </tu>
     <tu>

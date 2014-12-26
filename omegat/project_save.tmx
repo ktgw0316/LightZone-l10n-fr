@@ -1262,6 +1262,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Being an ordinary JPEG file, it can be opened by any application that works with JPEG files, be e-mailed, or displayed on the web.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141226T155103Z" creationid="Photonoxx" creationdate="20141226T155103Z">
+        <seg>Étant un fichier JPEG classique, il peut être ouvert par d'autres applications qui gèrent les fichiers JPEG, être envoyer par e-mail ou affiché sur le Web.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Between Region Changes</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141115T081700Z" creationid="Photonoxx" creationdate="20141115T081634Z">

@@ -198,6 +198,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(The control points and the inner line will become visible.)</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141226T120839Z" creationid="Photonoxx" creationdate="20141226T120839Z">
+        <seg>(Les points de contrôle et le tracé intérieur deviendront visibles.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(The control points will become visible.)</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141225T171729Z" creationid="Photonoxx" creationdate="20141225T171729Z">
@@ -2786,6 +2794,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141226T114459Z" creationid="Photonoxx" creationdate="20141226T114459Z">
         <seg>Double-cliquez sur la région dans laquelle vous souhaitez supprimer un point de contrôle.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Double-click the region whose feathering area you want to adjust.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141226T120803Z" creationid="Photonoxx" creationdate="20141226T120803Z">
+        <seg>Double-cliquez sur la région dont vous souhaitez ajuster la zone d'adoucissement.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9638,6 +9654,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>To adjust the size of the feathering area of a region:</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141226T120627Z" creationid="Photonoxx" creationdate="20141226T120627Z">
+        <seg>Pour ajuster la taille de la zone d'adoucissement d'une région :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>To batch convert your photos:</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141118T141801Z" creationid="Photonoxx" creationdate="20141118T141801Z">
@@ -11178,6 +11202,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141225T172653Z" creationid="Photonoxx" creationdate="20141225T172653Z">
         <seg>images/Region-Edit.png</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>images/Region-Feather.png</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141226T120635Z" creationid="Photonoxx" creationdate="20141226T120635Z">
+        <seg>images/Region-Feather.png</seg>
       </tuv>
     </tu>
     <tu>

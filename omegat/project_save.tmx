@@ -2078,6 +2078,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Compares the extreme highlight of the source color space to that of the destination color space and shifts all colors accordingly.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141226T152702Z" creationid="Photonoxx" creationdate="20141226T152702Z">
+        <seg>Ce mode compare les tons clairs les plus intenses de l’espace colorimétrique source à ceux de l’espace colorimétrique cible et décale toutes les couleurs en conséquence.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Compression</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141118T154211Z" creationid="Photonoxx" creationdate="20141118T154211Z">
@@ -6378,6 +6386,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141226T151222Z" creationid="Photonoxx" creationdate="20141226T150355Z">
         <seg>Les couleurs hors gamut sont écrêtées.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Out-of-gamut colors are shifted to the closest reproducible color in the destination color space.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141226T152740Z" creationid="Photonoxx" creationdate="20141226T152740Z">
+        <seg>Les couleurs hors gamut sont décalées vers la couleur reproductible la plus proche dans l’espace colorimétrique de destination.</seg>
       </tuv>
     </tu>
     <tu>

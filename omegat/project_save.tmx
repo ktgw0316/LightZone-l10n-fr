@@ -6094,6 +6094,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Ordinarily, a mask constrains its tool's effect to be inside all of its &lt;a0&gt;regions&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141226T121307Z" creationid="Photonoxx" creationdate="20141226T121307Z">
+        <seg>Habituellement, un masque restreint l'effet de son outil à l'intérieur de toutes ses &lt;a0&gt;régions&lt;/a0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Ordinarily, a tool affects your entire photo.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141117T152334Z" creationid="Photonoxx" creationdate="20141117T152334Z">

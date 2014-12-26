@@ -4454,6 +4454,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If the photo is a raw image file, there will be a checkbox that, if checked, will cause this style to be applied to all raw images from the specified camera when opened.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141226T164541Z" creationid="Photonoxx" creationdate="20141226T164541Z">
+        <seg>Si la photo est un fichier brut (raw), alors il y aura une case à cocher qui, si elle est cochée, fera que ce style sera appliqué à l'ouverture de toutes les images brutes (raw) prises avec l'appareil spécifiés.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If the printer driver has a setting for no color conversion (typically labeled "Color Managed by Application" or "No Color Adjustments") then you have a choice of either letting LightZone or the printer driver do the conversion.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141225T163300Z" creationid="Photonoxx" creationdate="20141225T162910Z">
@@ -10594,6 +10602,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141111T150820Z" creationid="Photonoxx" creationdate="20141111T150820Z">
         <seg>Cela purgera les Aperçus et les orientations enregistrés par le Navigateur LightZone.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This will replace the &lt;a0&gt;default tone curve&lt;/a0&gt; for that camera.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141226T164630Z" creationid="Photonoxx" creationdate="20141226T164630Z">
+        <seg>Ceci remplacera la &lt;a0&gt;Courbe de Tonalité par défaut&lt;/a0&gt; pour cet appareil.</seg>
       </tuv>
     </tu>
     <tu>

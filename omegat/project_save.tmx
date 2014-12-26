@@ -270,6 +270,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(The tools are shown in the same order as they are in the tool stack.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141226T165011Z" creationid="Photonoxx" creationdate="20141226T165011Z">
+        <seg>(Les Outils sont affichés dans le même ordre que dans la chaîne de développement.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(The tools from the style will then be added to the top of the &lt;a0&gt;tool stack&lt;/a0&gt; for all the selected photos.)</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141226T163305Z" creationid="Photonoxx" creationdate="20141226T163305Z">
@@ -8842,6 +8850,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141114T180303Z" creationid="Photonoxx" creationdate="20141114T180303Z">
         <seg>Choisir uniquement la version la plus récente de chaque Ensemble</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Select only those &lt;a0&gt;editing tools&lt;/a0&gt; from the tool stack that you want saved as part of the style.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141226T164840Z" creationid="Photonoxx" creationdate="20141226T164840Z">
+        <seg>Choisissez seulement les &lt;a0&gt;Outils d'édition&lt;/a0&gt; de la chaîne de développement que vous souhaitez pour constituer votre style.</seg>
       </tuv>
     </tu>
     <tu>

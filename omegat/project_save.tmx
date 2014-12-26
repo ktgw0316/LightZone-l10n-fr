@@ -638,6 +638,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A LightZone JPEG still refers to your original photo (whether it's a raw, TIFF, or another JPEG).</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141226T155615Z" creationid="Photonoxx" creationdate="20141226T155615Z">
+        <seg>Un JPEG LightZone se réfère toujours à votre fichier photo original (que ce soit un fichier brut (raw), TIFF, ou un autre JPEG).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A Style named "$1" already exists.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141106T111323Z" creationid="Photonoxx" creationdate="20141106T111323Z">
@@ -1762,6 +1770,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141204T181422Z" creationid="Photonoxx" creationdate="20141204T181422Z">
         <seg>Cliquez Renommer (ou appuyez sur Entrée).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Click Save.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141226T155832Z" creationid="Photonoxx" creationdate="20141226T155832Z">
+        <seg>Cliquez Enregistrer.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3354,6 +3370,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141114T184124Z" creationid="Photonoxx" creationdate="20141114T184048Z">
         <seg>Forcer les Contraintes de Proportions</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Enter a name for the file.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141226T155800Z" creationid="Photonoxx" creationdate="20141226T155800Z">
+        <seg>Entrez un nom pour le fichier.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6966,6 +6990,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Preferences.html#Preferences-Save</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141226T155834Z" creationid="Photonoxx" creationdate="20141226T155834Z">
+        <seg>Preferences.html#Preferences-Save</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Preferences: Copyright</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141122T172542Z" creationid="Photonoxx" creationdate="20141122T172542Z">
@@ -8494,6 +8526,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Select File &gt; Save... or Save As...</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141226T155743Z" creationid="Photonoxx" creationdate="20141226T155743Z">
+        <seg>Choisissez Fichier &gt; Enregistrer... ou Enregistrer sous...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Select File &gt; Send...</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141225T113539Z" creationid="Photonoxx" creationdate="20141225T113539Z">
@@ -8530,6 +8570,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141118T150447Z" creationid="Photonoxx" creationdate="20141118T150447Z">
         <seg>Choisissez le dossier de destination pour l'image convertie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Select a destination folder for the file.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141226T155822Z" creationid="Photonoxx" creationdate="20141226T155822Z">
+        <seg>Choisissez un dossier de destination pour le fichier.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9918,6 +9966,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Therefore, you should never delete your original photo.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141226T155701Z" creationid="Photonoxx" creationdate="20141226T155701Z">
+        <seg>C'est pourquoi vous ne devez jamais effacer le fichier original de votre photo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>These preferences allow you to set default values for the name of the artist/photographer and the copyright notice when &lt;a0&gt;editing the metadata&lt;/a0&gt; of your photos.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141225T115825Z" creationid="Photonoxx" creationdate="20141225T115825Z">
@@ -10650,6 +10706,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141111T150308Z" creationid="Photonoxx" creationdate="20141111T150308Z">
         <seg>Pour économiser du travail, le Navigateur enregistre des Aperçus dans un dossier de cache spécial.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To save your work:</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141226T155715Z" creationid="Photonoxx" creationdate="20141226T155715Z">
+        <seg>Pour enregistrer votre travail :</seg>
       </tuv>
     </tu>
     <tu>

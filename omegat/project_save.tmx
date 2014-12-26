@@ -358,6 +358,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>2 of 6</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141226T160200Z" creationid="Photonoxx" creationdate="20141226T160200Z">
+        <seg>2 de 6</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>3 of 10</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141226T111612Z" creationid="Photonoxx" creationdate="20141226T111612Z">
@@ -1162,6 +1170,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141114T180039Z" creationid="Photonoxx" creationdate="20141114T180039Z">
         <seg>Appliquer la Pile d'Outils à l'image sélectionnée</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Applying a style adds the tools it contains to the top of the &lt;a0&gt;tool stack&lt;/a0&gt; for either the photo being edited or one or more photos selected in the &lt;a1&gt;Photo Browser&lt;/a1&gt;.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141226T160527Z" creationid="Photonoxx" creationdate="20141226T160527Z">
+        <seg>Appliquer un style ajoute les outils qu'il contient en haut de la &lt;a0&gt;chaîne de développement&lt;/a0&gt; que ce soit pour une photo en cours d'édition ou pour une ou plusieurs photos sélectionnées dans le &lt;a1&gt;Navigateur photo&lt;/a1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7038,6 +7054,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Preview a style by moving the mouse over its name.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141226T160724Z" creationid="Photonoxx" creationdate="20141226T160724Z">
+        <seg>Prévisualisez un style en passant la souris au-dessus de son nom.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Previewing...</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141106T131400Z" creationid="Photonoxx" creationdate="20141106T131400Z">
@@ -8690,6 +8714,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141118T152611Z" creationid="Photonoxx" creationdate="20141118T152611Z">
         <seg>Choisissez l'&lt;a0&gt;Intention de rendu&lt;/a0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Select the Styles tab.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141226T160648Z" creationid="Photonoxx" creationdate="20141226T160648Z">
+        <seg>Choisissez l'onglet Styles.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10510,6 +10542,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>To apply a style to the photo being edited:</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141226T160558Z" creationid="Photonoxx" creationdate="20141226T160558Z">
+        <seg>Pour appliquer un style à la photo en cours d'édition :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>To batch convert your photos:</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141118T141801Z" creationid="Photonoxx" creationdate="20141118T141801Z">
@@ -12266,6 +12306,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141226T153710Z" creationid="Photonoxx" creationdate="20141226T153710Z">
         <seg>images/Styles-Discover-en.png</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>images/Styles-Preview-en.png</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141226T160528Z" creationid="Photonoxx" creationdate="20141226T160528Z">
+        <seg>images/Styles-Preview-en.png</seg>
       </tuv>
     </tu>
     <tu>

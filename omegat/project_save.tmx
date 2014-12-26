@@ -1326,6 +1326,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Applying styles</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141226T173412Z" creationid="Photonoxx" creationdate="20141226T173412Z">
+        <seg>Appliquer des styles</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Are you sure you want to clear the global browser cache?</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141111T150658Z" creationid="Photonoxx" creationdate="20141111T150658Z">
@@ -2790,6 +2798,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Creating styles</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141226T173421Z" creationid="Photonoxx" creationdate="20141226T173421Z">
+        <seg>Créer des styles</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Creator</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141115T083621Z" creationid="Photonoxx" creationdate="20141115T083621Z">
@@ -3014,6 +3030,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Deleting styles</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141226T173457Z" creationid="Photonoxx" creationdate="20141226T173457Z">
+        <seg>Supprimer des styles</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Depth</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141115T091002Z" creationid="Photonoxx" creationdate="20141115T091002Z">
@@ -3098,6 +3122,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141201T094549Z" creationid="Photonoxx" creationdate="20141201T094549Z">
         <seg>Description de la zone de visualisation des photos de LightZone.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Description of the thumbnails area of the LightZone browser.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141226T173540Z" creationid="Photonoxx" creationdate="20141226T173540Z">
+        <seg>Description de la partie Vignettes du Navigateur LightZone.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3762,6 +3794,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141115T103303Z" creationid="Photonoxx" creationdate="20141115T103303Z">
         <seg>Exporter...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Exporting styles</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141226T173428Z" creationid="Photonoxx" creationdate="20141226T173428Z">
+        <seg>Exporter des styles</seg>
       </tuv>
     </tu>
     <tu>
@@ -4730,6 +4770,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141115T103244Z" creationid="Photonoxx" creationdate="20141115T103244Z">
         <seg>Importer...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Importing styles</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141226T173438Z" creationid="Photonoxx" creationdate="20141226T173438Z">
+        <seg>Importer des styles</seg>
       </tuv>
     </tu>
     <tu>
@@ -5978,6 +6026,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141204T181537Z" creationid="Photonoxx" creationdate="20141204T181537Z">
         <seg>LightZone: Table des Matières.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>LightZone: Thumbnails</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141226T173507Z" creationid="Photonoxx" creationdate="20141226T173507Z">
+        <seg>LightZone : Vignettes</seg>
       </tuv>
     </tu>
     <tu>
@@ -11230,6 +11286,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>To learn more about working with styles, click a link below.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141226T173352Z" creationid="Photonoxx" creationdate="20141226T173352Z">
+        <seg>Pour en savoir plus sur le travail avec les styles, cliquez un lien ci-dessous.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>To let LightZone do the color conversion, select the printer profile, &lt;a0&gt;rendering intent&lt;/a0&gt;, and &lt;a1&gt;black point compensation&lt;/a1&gt; settings in the Print Preview dialog.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141225T163550Z" creationid="Photonoxx" creationdate="20141225T163550Z">
@@ -12850,6 +12914,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141226T160528Z" creationid="Photonoxx" creationdate="20141226T160528Z">
         <seg>images/Styles-Preview-en.png</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>images/Thumbnails-unstacked.jpg</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141226T173542Z" creationid="Photonoxx" creationdate="20141226T173542Z">
+        <seg>images/Thumbnails-unstacked.jpg</seg>
       </tuv>
     </tu>
     <tu>

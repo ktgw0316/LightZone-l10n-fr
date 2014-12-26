@@ -2198,6 +2198,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Copying regions</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141226T125816Z" creationid="Photonoxx" creationdate="20141226T125816Z">
+        <seg>Copier des régions</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Copyright</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141118T154110Z" creationid="Photonoxx" creationdate="20141118T154110Z">
@@ -2622,6 +2630,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Deleting regions</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141226T125901Z" creationid="Photonoxx" creationdate="20141226T125901Z">
+        <seg>Supprimer des régions</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Depth</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141115T091002Z" creationid="Photonoxx" creationdate="20141115T091002Z">
@@ -2642,6 +2658,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141226T123643Z" creationid="Photonoxx" creationdate="20141226T123643Z">
         <seg>Description des régions et sujets connexes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Description of rendering intents.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141226T125943Z" creationid="Photonoxx" creationdate="20141226T125943Z">
+        <seg>Description des Intentions de rendu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5302,6 +5326,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>LightZone: Rendering Intent</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141226T125923Z" creationid="Photonoxx" creationdate="20141226T125923Z">
+        <seg>LightZone : Intention de Rendu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>LightZone: Rotating Photos in the Browser</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141225T084954Z" creationid="Photonoxx" creationdate="20141225T084954Z">
@@ -7176,8 +7208,8 @@
       <tuv lang="EN-US">
         <seg>Regions: Copying regions</seg>
       </tuv>
-      <tuv lang="FR" changeid="Photonoxx" changedate="20141225T172935Z" creationid="Photonoxx" creationdate="20141225T172935Z">
-        <seg>Régions: Copier des Regions</seg>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141226T125825Z" creationid="Photonoxx" creationdate="20141225T172935Z">
+        <seg>Régions: Copier des régions</seg>
       </tuv>
     </tu>
     <tu>

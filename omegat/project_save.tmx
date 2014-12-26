@@ -11374,6 +11374,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>When you save your work, LightZone saves your photo as a "LightZone JPEG" file.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141226T154501Z" creationid="Photonoxx" creationdate="20141226T154501Z">
+        <seg>Quand vous enregistrez votre travail, LightZone enregistre votre photo comme un fichier "JPEG LightZone".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>While descriptions for each are below, it's best to experiment.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141117T105611Z" creationid="Photonoxx" creationdate="20141117T105611Z">
@@ -11994,6 +12002,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141226T115154Z" creationid="Photonoxx" creationdate="20141226T115154Z">
         <seg>images/History-en.png</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>images/JPEG-LZN.jpg</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141226T154345Z" creationid="Photonoxx" creationdate="20141226T154345Z">
+        <seg>images/JPEG-LZN.jpg</seg>
       </tuv>
     </tu>
     <tu>

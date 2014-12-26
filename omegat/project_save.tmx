@@ -1830,6 +1830,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Click Delete.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141226T170013Z" creationid="Photonoxx" creationdate="20141226T170013Z">
+        <seg>Cliquez Supprimer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Click Done.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141118T144614Z" creationid="Photonoxx" creationdate="20141118T144614Z">
@@ -8986,6 +8994,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141226T113333Z" creationid="Photonoxx" creationdate="20141226T113333Z">
         <seg>Choisissez la région que vous souhaitez supprimer en cliquant dessus.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Select the style you want to delete.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141226T165958Z" creationid="Photonoxx" creationdate="20141226T165958Z">
+        <seg>Sélectionner le style que vous souhaitez supprimer.</seg>
       </tuv>
     </tu>
     <tu>

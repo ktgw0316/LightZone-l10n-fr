@@ -9278,6 +9278,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This includes deleting control points that are no longer needed.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141226T114347Z" creationid="Photonoxx" creationdate="20141226T114347Z">
+        <seg>Ceci comprend la suppression des points de contrôle qui ne sont plus nécessaires.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This is illustrated in the figure below.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141117T102713Z" creationid="Photonoxx" creationdate="20141117T102713Z">
@@ -9546,6 +9554,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141226T111643Z" creationid="Photonoxx" creationdate="20141226T111643Z">
         <seg>Pour créer une région :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To delete a control point from a region:</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141226T114409Z" creationid="Photonoxx" creationdate="20141226T114409Z">
+        <seg>Pour supprimer un point de contrôle d'une région :</seg>
       </tuv>
     </tu>
     <tu>
@@ -10962,6 +10978,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141225T171620Z" creationid="Photonoxx" creationdate="20141225T171620Z">
         <seg>images/Region-Add_Point.png</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>images/Region-Delete_Point-en.png</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141226T114414Z" creationid="Photonoxx" creationdate="20141226T114414Z">
+        <seg>images/Region-Delete_Point-en.png</seg>
       </tuv>
     </tu>
     <tu>

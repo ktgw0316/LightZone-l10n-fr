@@ -742,6 +742,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A &lt;i0&gt;style&lt;/i0&gt; is a &lt;a1&gt;tool stack&lt;/a1&gt; that was originally created for one photo that can be applied to other photos.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141226T172456Z" creationid="Photonoxx" creationdate="20141226T172456Z">
+        <seg>Un &lt;i0&gt;style&lt;/i0&gt; est une &lt;a1&gt;chaîne de développement&lt;/a1&gt; initialement créée pour une photo qui peut être appliqué à d'autres photos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A LightZone JPEG still refers to your original photo (whether it's a raw, TIFF, or another JPEG).</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141226T155615Z" creationid="Photonoxx" creationdate="20141226T155615Z">

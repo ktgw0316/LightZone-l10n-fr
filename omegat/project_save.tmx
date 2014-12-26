@@ -510,6 +510,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;b0&gt;Note:&lt;/b0&gt; Alternatively, you can save your work as "LightZone TIFF" files by changing the &lt;a1&gt;save preference&lt;/a1&gt;.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141226T160010Z" creationid="Photonoxx" creationdate="20141226T160010Z">
+        <seg>&lt;b0&gt;Note:&lt;/b0&gt; Autrement, vous pouvez enregistrer votre travail dans un fichier "TIFF LightZone" en modifiant le &lt;a1&gt;Paramètre d'enregistrement&lt;/a1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;b0&gt;Note:&lt;/b0&gt; If you have a multi-button mouse, you can alternatively right-click to pop-up the menu rather than control-click.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141226T114737Z" creationid="Photonoxx" creationdate="20141201T104850Z">
@@ -4070,6 +4078,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>How to apply a style.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141226T160105Z" creationid="Photonoxx" creationdate="20141226T160105Z">
+        <seg>Comment appliquer un style.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>How to batch convert your photos to JPEG or TIFF image files.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141118T141134Z" creationid="Photonoxx" creationdate="20141118T141134Z">
@@ -5606,6 +5622,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>LightZone: Styles: Applying</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141226T160050Z" creationid="Photonoxx" creationdate="20141226T160050Z">
+        <seg>LightZone : Styles : Application</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>LightZone: Table of Contents</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141204T181515Z" creationid="Photonoxx" creationdate="20141204T181515Z">
@@ -7002,6 +7026,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141122T172542Z" creationid="Photonoxx" creationdate="20141122T172542Z">
         <seg>Préférences : Copyright</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Preferences: Save</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141226T160033Z" creationid="Photonoxx" creationdate="20141226T160033Z">
+        <seg>Préférences : Enregistrement</seg>
       </tuv>
     </tu>
     <tu>
@@ -9398,10 +9430,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Styles-Creating.html</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141226T160156Z" creationid="Photonoxx" creationdate="20141226T160156Z">
+        <seg>Styles-Creating.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Styles.html</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141204T181812Z" creationid="Photonoxx" creationdate="20141204T181812Z">
         <seg>Styles.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Styles: Applying</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141226T160155Z" creationid="Photonoxx" creationdate="20141226T160155Z">
+        <seg>LightZone : Styles : Application</seg>
       </tuv>
     </tu>
     <tu>

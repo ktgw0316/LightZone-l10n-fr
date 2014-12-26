@@ -7358,6 +7358,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Rendering intent</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141226T145312Z" creationid="Photonoxx" creationdate="20141226T145312Z">
+        <seg>Intention de rendu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Rendering_Intent.html</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141225T163302Z" creationid="Photonoxx" creationdate="20141225T163302Z">

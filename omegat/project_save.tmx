@@ -448,8 +448,8 @@
       <tuv lang="EN-US">
         <seg>&lt;b0&gt;Note:&lt;/b0&gt; If you have a multi-button mouse, you can alternatively right-click to pop-up the menu rather than control-click.</seg>
       </tuv>
-      <tuv lang="FR" changeid="Photonoxx" changedate="20141201T104850Z" creationid="Photonoxx" creationdate="20141201T104850Z">
-        <seg>&lt;b0&gt;Note:&lt;/b0&gt; Si vous avez une souris avec plusieurs boutons, vous pouvez également faire un clic droit plutôt qu'un Contrôle-clic.</seg>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141226T114737Z" creationid="Photonoxx" creationdate="20141201T104850Z">
+        <seg>&lt;b0&gt;Note :&lt;/b0&gt; Si vous avez une souris avec plusieurs boutons, vous pouvez également faire un clic droit plutôt qu'un Contrôle-clic.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5050,6 +5050,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141226T113918Z" creationid="Photonoxx" creationdate="20141226T113918Z">
         <seg>LightZone : Régions : Supprimer des points de contrôle</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>LightZone: Regions: Feathering</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141226T114800Z" creationid="Photonoxx" creationdate="20141226T114800Z">
+        <seg>LightZone : Régions : Adoucissement</seg>
       </tuv>
     </tu>
     <tu>

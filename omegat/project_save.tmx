@@ -654,6 +654,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A mask is the set of regions for a particular tool.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141226T123935Z" creationid="Photonoxx" creationdate="20141226T123935Z">
+        <seg>Un masque est un ensemble de régions pour un outil donné.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A new version ($1) of $2 is available.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141111T103656Z" creationid="Photonoxx" creationdate="20141111T103656Z">

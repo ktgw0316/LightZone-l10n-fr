@@ -694,6 +694,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Absolute Colorimetric</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141226T150109Z" creationid="Photonoxx" creationdate="20141226T150109Z">
+        <seg>Colorimétrie Absolue</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Acknowledgments</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141117T092612Z" creationid="Photonoxx" creationdate="20141117T092612Z">
@@ -9418,6 +9426,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141122T090920Z" creationid="Photonoxx" creationdate="20141122T090641Z">
         <seg>Les fichiers bruts (RAW) des appareils ci-dessous auront une courbe de tonalités par défaut :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The rending intents you can select are described below.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141226T145855Z" creationid="Photonoxx" creationdate="20141226T145855Z">
+        <seg>Les Intentions de Rendu que vous pouvez choisir sont décrites ci-dessous.</seg>
       </tuv>
     </tu>
     <tu>

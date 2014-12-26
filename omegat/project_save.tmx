@@ -550,6 +550,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;a0&gt;ZoneFinder&lt;/a0&gt;, &lt;a1&gt;Color selection&lt;/a1&gt;, &lt;br2/&gt;</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141226T174215Z" creationid="Photonoxx" creationdate="20141226T174215Z">
+        <seg>&lt;a0&gt;ZoneFinder&lt;/a0&gt;, &lt;a1&gt;Masque de Couleur&lt;/a1&gt;, &lt;br2/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;a1&gt;More on styles...&lt;/a1&gt;</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141117T151929Z" creationid="Photonoxx" creationdate="20141117T151929Z">
@@ -1442,6 +1450,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141117T101633Z" creationid="Photonoxx" creationdate="20141117T101633Z">
         <seg>Couleur de Base</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Basics</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141226T174054Z" creationid="Photonoxx" creationdate="20141226T174054Z">
+        <seg>Bases</seg>
       </tuv>
     </tu>
     <tu>
@@ -8550,6 +8566,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Rotating photos</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141226T174108Z" creationid="Photonoxx" creationdate="20141226T174108Z">
+        <seg>Rotation des photos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Rotating photos in the browser</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141225T085041Z" creationid="Photonoxx" creationdate="20141225T085041Z">
@@ -12750,6 +12774,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>images/Button-Stack.png</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141226T174008Z" creationid="Photonoxx" creationdate="20141226T174008Z">
+        <seg>images/Button-Stack.png</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>images/Buttons-Regions-en.png</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141226T112021Z" creationid="Photonoxx" creationdate="20141226T112021Z">
@@ -12930,6 +12962,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141226T160528Z" creationid="Photonoxx" creationdate="20141226T160528Z">
         <seg>images/Styles-Preview-en.png</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>images/Thumbnails-stacked.jpg</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141226T174014Z" creationid="Photonoxx" creationdate="20141226T174014Z">
+        <seg>images/Thumbnails-stacked.jpg</seg>
       </tuv>
     </tu>
     <tu>

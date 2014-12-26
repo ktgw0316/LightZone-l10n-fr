@@ -4296,8 +4296,8 @@
       <tuv lang="EN-US">
         <seg>Invert Masks</seg>
       </tuv>
-      <tuv lang="FR" changeid="Photonoxx" changedate="20141115T091743Z" creationid="Photonoxx" creationdate="20141115T091743Z">
-        <seg>Inverser Masques</seg>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141226T122000Z" creationid="Photonoxx" creationdate="20141115T091743Z">
+        <seg>Inverser le Masque</seg>
       </tuv>
     </tu>
     <tu>
@@ -5338,6 +5338,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141118T154014Z" creationid="Photonoxx" creationdate="20141118T154014Z">
         <seg>Magentas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Make sure the Tool Settings tab is selected.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141226T121923Z" creationid="Photonoxx" creationdate="20141226T121923Z">
+        <seg>Assurez-vous que l'onglet Réglages Outils est actif.</seg>
       </tuv>
     </tu>
     <tu>

@@ -254,6 +254,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(There is no significance to the order.) There is no limit to the number of control points a region may have.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141226T125326Z" creationid="Photonoxx" creationdate="20141226T125326Z">
+        <seg>(leur ordre n'a pas d'importance) Il n'y a pas de limite au nombre de points de contrôle qu'une région peut avoir.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(Use the Shift key to select multiple, contiguous thumbnails or the &lt;s0&gt;Command&lt;/s0&gt; &lt;s1&gt;Control&lt;/s1&gt; key to select multiple, non-contiguous thumbnails.)</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141118T143452Z" creationid="Photonoxx" creationdate="20141118T143452Z">

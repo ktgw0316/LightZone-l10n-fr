@@ -1014,6 +1014,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Alternatively, if you know exactly which style you want to apply, select File &gt; Apply Style &gt; and the name of the style that you want to apply.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141226T161100Z" creationid="Photonoxx" creationdate="20141226T161100Z">
+        <seg>Autrement, si vous connaissez exactement le style que vous souhaitez appliquer, choisissez Fichier &gt; Appliquer le Style &gt; et le nom du style que vous souhaitez appliquer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Alternatively, you can select Browser &gt; Rotate Left or Rotate Right.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141225T092754Z" creationid="Photonoxx" creationdate="20141225T092754Z">
@@ -1210,6 +1218,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141115T095050Z" creationid="Photonoxx" creationdate="20141115T094602Z">
         <seg>Comme la Photo </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>As you do, the smaller version of your photo above the styles will show what your photo would look like if the style were applied.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141226T160854Z" creationid="Photonoxx" creationdate="20141226T160854Z">
+        <seg>En le faisant, une version réduite de votre photo au-dessus des styles affichera à quoi la photo ressemblera si le style est appliqué.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10546,6 +10562,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141226T160558Z" creationid="Photonoxx" creationdate="20141226T160558Z">
         <seg>Pour appliquer un style à la photo en cours d'édition :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To apply the style to your photo, click the name of the style.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141226T160933Z" creationid="Photonoxx" creationdate="20141226T160933Z">
+        <seg>Pour appliquer le style à la photo, cliquez sur le nom du style.</seg>
       </tuv>
     </tu>
     <tu>

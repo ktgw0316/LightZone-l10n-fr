@@ -382,6 +382,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>8 of 10</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141226T121146Z" creationid="Photonoxx" creationdate="20141226T121146Z">
+        <seg>8 de 10</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>9 of 10</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141225T172941Z" creationid="Photonoxx" creationdate="20141225T172941Z">
@@ -2878,6 +2886,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Drag the inner line out or in to increase or decrease the size of the feathering area.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141226T121055Z" creationid="Photonoxx" creationdate="20141226T121055Z">
+        <seg>Faitez glisser le tracé intérieur pour agrandir ou rétrécir la taille de la zone d'adoucissement.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Dragging &amp; dropping photos</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141124T120406Z" creationid="Photonoxx" creationdate="20141124T120406Z">
@@ -3798,6 +3814,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>How to invert regions.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141226T121131Z" creationid="Photonoxx" creationdate="20141226T121131Z">
+        <seg>Comment inverser des régions.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>How to navigate the folders and browse photos.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141124T114136Z" creationid="Photonoxx" creationdate="20141124T114136Z">
@@ -4282,6 +4306,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141115T093454Z" creationid="Photonoxx" creationdate="20141115T093454Z">
         <seg>Inverser la sélection Couleur</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Inverting masks</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141226T121142Z" creationid="Photonoxx" creationdate="20141226T121142Z">
+        <seg>Inversion des Masques</seg>
       </tuv>
     </tu>
     <tu>
@@ -4970,6 +5002,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141122T163620Z" creationid="Photonoxx" creationdate="20141122T163620Z">
         <seg>LightZone: L'Historique</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>LightZone: Inverting Masks</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141226T121118Z" creationid="Photonoxx" creationdate="20141226T121118Z">
+        <seg>LightZone : Inversion des Masques</seg>
       </tuv>
     </tu>
     <tu>
@@ -6874,6 +6914,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141225T120337Z" creationid="Photonoxx" creationdate="20141225T120337Z">
         <seg>Regions-Adjusting.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Regions-Copying.html</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141226T121143Z" creationid="Photonoxx" creationdate="20141226T121143Z">
+        <seg>Regions-Copying.html</seg>
       </tuv>
     </tu>
     <tu>

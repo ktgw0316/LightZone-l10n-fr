@@ -3462,6 +3462,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For example, the region shown on the right has three control points.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141226T125048Z" creationid="Photonoxx" creationdate="20141226T125048Z">
+        <seg>Par exemple, la région affichée à droite possède trois points de contrôle.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For such raw files, LightZone automatically adds a &lt;a0&gt;ZoneMapper&lt;/a0&gt; containing the default tone curve to the &lt;a1&gt;tool stack&lt;/a1&gt;.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141122T090751Z" creationid="Photonoxx" creationdate="20141122T090044Z">

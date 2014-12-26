@@ -2840,7 +2840,7 @@
       <tuv lang="EN-US">
         <seg>Delete</seg>
       </tuv>
-      <tuv lang="FR" changeid="Photonoxx" changedate="20141114T181004Z" creationid="Photonoxx" creationdate="20141114T181004Z">
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141226T170739Z" creationid="Photonoxx" creationdate="20141114T181004Z">
         <seg>Effacer</seg>
       </tuv>
     </tu>
@@ -11726,6 +11726,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Vibrance</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141226T170625Z" creationid="Photonoxx" creationdate="20141226T170625Z">
+        <seg>Vibrance</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>View</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141111T144603Z" creationid="Photonoxx" creationdate="20141111T144603Z">
@@ -12749,5 +12757,25 @@
       </tuv>
     </tu>
 <!-- Alternative translations -->
+    <tu>
+      <prop type="file">lightcrafts/locale/com/lightcrafts/ui/templates/Locale.properties</prop>
+      <prop type="id">DeleteMenuItem</prop>
+      <tuv lang="EN-US">
+        <seg>Delete</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141226T170757Z" creationid="Photonoxx" creationdate="20141226T170757Z">
+        <seg>Supprimer</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">lightcrafts/locale/com/lightcrafts/ui/templates/Locale.properties</prop>
+      <prop type="id">TemplateDeleteButton</prop>
+      <tuv lang="EN-US">
+        <seg>Delete</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141226T170826Z" creationid="Photonoxx" creationdate="20141226T170826Z">
+        <seg>Supprimer</seg>
+      </tuv>
+    </tu>
   </body>
 </tmx>

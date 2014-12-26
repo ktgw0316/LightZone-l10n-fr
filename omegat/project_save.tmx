@@ -2312,8 +2312,8 @@
       <tuv lang="EN-US">
         <seg>Continue</seg>
       </tuv>
-      <tuv lang="FR" changeid="Photonoxx" changedate="20141114T183412Z" creationid="Photonoxx" creationdate="20141114T183412Z">
-        <seg>ContinueR</seg>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141226T170512Z" creationid="Photonoxx" creationdate="20141114T183412Z">
+        <seg>Continuer</seg>
       </tuv>
     </tu>
     <tu>
@@ -3136,8 +3136,8 @@
       <tuv lang="EN-US">
         <seg>Do you want to replace it?</seg>
       </tuv>
-      <tuv lang="FR" changeid="Photonoxx" changedate="20141111T145514Z" creationid="Photonoxx" creationdate="20141111T145514Z">
-        <seg>Voulez-vous le remplacer?</seg>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141226T170333Z" creationid="Photonoxx" creationdate="20141111T145514Z">
+        <seg>Voulez-vous le remplacer ?</seg>
       </tuv>
     </tu>
     <tu>
@@ -7090,6 +7090,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141106T103105Z" creationid="Photonoxx" creationdate="20141106T103105Z">
         <seg>Choisissez un dossier contenant des images.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Pick a new color profile for this display</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141226T170427Z" creationid="Photonoxx" creationdate="20141226T170427Z">
+        <seg>Choisir un nouveau profil colorimétrique pour cet affichage</seg>
       </tuv>
     </tu>
     <tu>

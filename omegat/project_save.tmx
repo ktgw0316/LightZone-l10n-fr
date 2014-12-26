@@ -4838,6 +4838,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It's best if you &lt;a1&gt;labeled&lt;/a1&gt; the tools so each can be easily identified.)</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141226T165244Z" creationid="Photonoxx" creationdate="20141226T165244Z">
+        <seg>Il est préférable de &lt;a1&gt;nommer&lt;/a1&gt; les outils, ainsi, chaque outil pourra être identifiés simplement.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It's often used to send photos by e-mail or display photos on the web.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141118T145804Z" creationid="Photonoxx" creationdate="20141118T145804Z">

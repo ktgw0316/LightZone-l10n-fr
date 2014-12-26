@@ -582,6 +582,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;b0&gt;Note:&lt;/b0&gt; If you replace the &lt;a1&gt;default tone curve&lt;/a1&gt; for a camera with your own style, you can revert to the original default tone curve for the camera by selecting File &gt; Reset Style... then the name of the style.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141226T165657Z" creationid="Photonoxx" creationdate="20141226T165657Z">
+        <seg>&lt;b0&gt;Note:&lt;/b0&gt; si vous remplacez &lt;a1&gt;Courbe de Tonalité par défault&lt;/a1&gt; d'un appareil avec votre propre style, vous pouvez le rétablir en choisissant Fichier &gt; Remettre à zéro un Style... et à ce moment, le nom du style.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;b0&gt;Note:&lt;/b0&gt; Rating either raw or TIFF files does not modify them in any way; instead, the rating information is stored in sidecar XMP files.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141204T180829Z" creationid="Photonoxx" creationdate="20141204T180829Z">
@@ -978,6 +986,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141115T090019Z" creationid="Photonoxx" creationdate="20141115T090019Z">
         <seg>Options Avancées</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>After &lt;a0&gt;creating&lt;/a0&gt; one or more styles, you may want to delete ones that you no longer use.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141226T165845Z" creationid="Photonoxx" creationdate="20141226T165845Z">
+        <seg>Après la &lt;a0&gt;création&lt;/a0&gt; d'un ou plusieurs styles, vous pourriez vouloir supprimer ceux que vous n'utilisez plus.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4270,6 +4286,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>How to delete your styles.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141226T165726Z" creationid="Photonoxx" creationdate="20141226T165726Z">
+        <seg>Comment supprimer vos styles.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>How to drag &amp; drop photos from the Photo Browser.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141201T100203Z" creationid="Photonoxx" creationdate="20141201T100203Z">
@@ -5770,6 +5794,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141226T163319Z" creationid="Photonoxx" creationdate="20141226T163319Z">
         <seg>LightZone : Styles : Création</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>LightZone: Styles: Deleting</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141226T165711Z" creationid="Photonoxx" creationdate="20141226T165711Z">
+        <seg>LightZone : Styles : Suppression</seg>
       </tuv>
     </tu>
     <tu>
@@ -8694,6 +8726,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Select File &gt; Manage Styles...</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141226T165928Z" creationid="Photonoxx" creationdate="20141226T165928Z">
+        <seg>Choisissez Fichier &gt; Gérer les Styles...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Select File &gt; Open...</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141201T094112Z" creationid="Photonoxx" creationdate="20141201T094112Z">
@@ -9666,6 +9706,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141226T163342Z" creationid="Photonoxx" creationdate="20141226T163336Z">
         <seg>Styles : Création</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Styles: Deleting</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141226T165735Z" creationid="Photonoxx" creationdate="20141226T165735Z">
+        <seg>Styles : Suppression</seg>
       </tuv>
     </tu>
     <tu>
@@ -10818,6 +10866,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141226T113305Z" creationid="Photonoxx" creationdate="20141226T113305Z">
         <seg>Pour supprimer une région :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To delete a style:</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141226T165856Z" creationid="Photonoxx" creationdate="20141226T165856Z">
+        <seg>Pour supprimer un style :</seg>
       </tuv>
     </tu>
     <tu>

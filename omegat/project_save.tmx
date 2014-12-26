@@ -8926,6 +8926,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The &lt;b0&gt;Bézier&lt;/b0&gt; region button creates a region having curved lines connecting the control points.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141226T122644Z" creationid="Photonoxx" creationdate="20141226T122644Z">
+        <seg>Le Bouton de région &lt;b0&gt;Bézier&lt;/b0&gt; crée une région ayant des lignes courbes reliant les points de contrôle.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The &lt;b0&gt;Convert&lt;/b0&gt; button is equivalent to File &gt; &lt;a1&gt;Convert&lt;/a1&gt;.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141117T152039Z" creationid="Photonoxx" creationdate="20141117T152039Z">
@@ -8954,6 +8962,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141124T120351Z" creationid="Photonoxx" creationdate="20141124T120130Z">
         <seg>Le Bouton &lt;b0&gt;Chemin&lt;/b0&gt; peut être utilisé pour remonter rapidement dans l'arborescence des dossiers.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The &lt;b0&gt;Polygon&lt;/b0&gt; region button creates a region having straight lines connecting the control points.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141226T122531Z" creationid="Photonoxx" creationdate="20141226T122531Z">
+        <seg>Le Bouton de région &lt;b0&gt;Polygonale&lt;/b0&gt; crée une région ayant des lignes droites reliant les points de contrôle.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11266,6 +11282,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141226T115108Z" creationid="Photonoxx" creationdate="20141226T115108Z">
         <seg>images/16_bit.png</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>images/Button-Bezier.png</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141226T122532Z" creationid="Photonoxx" creationdate="20141226T122532Z">
+        <seg>images/Button-Bezier.png</seg>
       </tuv>
     </tu>
     <tu>

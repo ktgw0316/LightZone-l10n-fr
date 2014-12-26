@@ -3102,6 +3102,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Every region in LightZone has a &lt;e0&gt;feathering area&lt;/e0&gt; that is marked by an inner line that matches the contour of the region.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141226T115843Z" creationid="Photonoxx" creationdate="20141226T115843Z">
+        <seg>Toutes les régions dans LightZone ont une &lt;e0&gt;zone d'adoucissement&lt;/e0&gt; qui est marquée par une ligne intérieure qui suit le contour de la région.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Exclusion</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141118T154531Z" creationid="Photonoxx" creationdate="20141118T154531Z">

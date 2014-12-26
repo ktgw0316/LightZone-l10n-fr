@@ -750,6 +750,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Adding a control point</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141226T125700Z" creationid="Photonoxx" creationdate="20141226T125700Z">
+        <seg>Ajouter un point de contrôle</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Additionally, LightZone can open DNG files.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141122T121730Z" creationid="Photonoxx" creationdate="20141122T121730Z">
@@ -834,6 +842,22 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141115T091517Z" creationid="Photonoxx" creationdate="20141115T091517Z">
         <seg>Ajuster la Gamme de couleur</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Adjusting a region</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141226T125622Z" creationid="Photonoxx" creationdate="20141226T125622Z">
+        <seg>Ajuster une région</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Adjusting the feathering area</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141226T125648Z" creationid="Photonoxx" creationdate="20141226T125648Z">
+        <seg>Ajuster la zone d'adoucissement</seg>
       </tuv>
     </tu>
     <tu>
@@ -2406,6 +2430,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Creating a region</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141226T125608Z" creationid="Photonoxx" creationdate="20141226T125608Z">
+        <seg>Créer une region</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Creator</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141115T083621Z" creationid="Photonoxx" creationdate="20141115T083621Z">
@@ -2570,6 +2602,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141114T182136Z" creationid="Photonoxx" creationdate="20141114T182136Z">
         <seg>Effacer...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Deleting a control point</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141226T125727Z" creationid="Photonoxx" creationdate="20141226T125727Z">
+        <seg>Supprimer un point de contrôle</seg>
       </tuv>
     </tu>
     <tu>
@@ -7006,6 +7046,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Region kinds</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141226T125545Z" creationid="Photonoxx" creationdate="20141226T125545Z">
+        <seg>Types de Région</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Regions</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141111T144318Z" creationid="Photonoxx" creationdate="20141111T144318Z">
@@ -10066,6 +10114,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141115T104510Z" creationid="Photonoxx" creationdate="20141115T104510Z">
         <seg>Pour en savoir plus sur le SSE2 et les processeur qui le supportent, voir</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To learn more about working with regions, click a link below.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141226T125526Z" creationid="Photonoxx" creationdate="20141226T125526Z">
+        <seg>Pour en savoir plus sur le travail avec les régions, cliquez un lien ci-dessous.</seg>
       </tuv>
     </tu>
     <tu>

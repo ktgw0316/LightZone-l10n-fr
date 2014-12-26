@@ -8702,6 +8702,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Select one or more thumbnails of the photos that you want to apply a style to.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141226T161449Z" creationid="Photonoxx" creationdate="20141226T161449Z">
+        <seg>Sélectionnez une ou plusieurs vignettes des photos auxquelles vous souhaitez appliquer un style.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Select one or more thumbnails of the photos that you want to drag &amp; drop.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141201T101934Z" creationid="Photonoxx" creationdate="20141201T101934Z">

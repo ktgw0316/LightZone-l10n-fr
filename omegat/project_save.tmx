@@ -318,6 +318,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>2 of 10</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141226T122242Z" creationid="Photonoxx" creationdate="20141226T122242Z">
+        <seg>2 de 10</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>2 of 4</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141118T100118Z" creationid="Photonoxx" creationdate="20141118T100118Z">
@@ -1766,6 +1774,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Click the tool's invert-mask box.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141226T122150Z" creationid="Photonoxx" creationdate="20141226T122150Z">
+        <seg>Cochez la case Inverser le Masque de l'outil</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Click then drag the selected thumbnails to another application's window and drop them there by releasing the mouse button.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141201T102241Z" creationid="Photonoxx" creationdate="20141201T102241Z">
@@ -2938,6 +2954,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141118T154340Z" creationid="Photonoxx" creationdate="20141118T154340Z">
         <seg>EXIF</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Each kind is useful in certain situations.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141226T122403Z" creationid="Photonoxx" creationdate="20141226T122403Z">
+        <seg>Chacune a son utilité en fonction des situations.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5166,6 +5190,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>LightZone: Regions: Kinds</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141226T122214Z" creationid="Photonoxx" creationdate="20141226T122214Z">
+        <seg>LightZone : Régions : Types</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>LightZone: Renaming Photos</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141204T181100Z" creationid="Photonoxx" creationdate="20141204T181004Z">
@@ -7050,6 +7082,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141226T115543Z" creationid="Photonoxx" creationdate="20141226T115543Z">
         <seg>Régions : Adoucissement</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Regions: Kinds</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141226T122238Z" creationid="Photonoxx" creationdate="20141226T122238Z">
+        <seg>Régions : Types</seg>
       </tuv>
     </tu>
     <tu>
@@ -9094,6 +9134,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The different kinds of regions.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141226T122229Z" creationid="Photonoxx" creationdate="20141226T122229Z">
+        <seg>Les différents types de régions.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The effect is similar to projecting multiple photographic slides onto the same screen.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141117T135626Z" creationid="Photonoxx" creationdate="20141117T135626Z">
@@ -9234,6 +9282,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141117T105411Z" creationid="Photonoxx" creationdate="20141117T105411Z">
         <seg>Il existe de nombreux modes de fusions disponibles.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>There are three kinds of regions that can be created in LightZone.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141226T122328Z" creationid="Photonoxx" creationdate="20141226T122328Z">
+        <seg>Il y a trois types de régions qui peuvent être créée dans LightZone.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11214,6 +11270,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>images/Button-Polygon.png</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141226T122405Z" creationid="Photonoxx" creationdate="20141226T122405Z">
+        <seg>images/Button-Polygon.png</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>images/Button-Select_Recent.png</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141225T112859Z" creationid="Photonoxx" creationdate="20141225T112859Z">
@@ -11306,6 +11370,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141226T120635Z" creationid="Photonoxx" creationdate="20141226T120635Z">
         <seg>images/Region-Feather.png</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>images/Region-Invert-en.png</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141226T122151Z" creationid="Photonoxx" creationdate="20141226T122151Z">
+        <seg>images/Region-Invert-en.png</seg>
       </tuv>
     </tu>
     <tu>

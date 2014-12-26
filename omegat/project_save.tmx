@@ -2702,6 +2702,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Description of the Sampler.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141226T153349Z" creationid="Photonoxx" creationdate="20141226T153349Z">
+        <seg>Description du panneau Pipette.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Description of the histogram.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141122T162242Z" creationid="Photonoxx" creationdate="20141122T162242Z">
@@ -5370,6 +5378,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141225T084954Z" creationid="Photonoxx" creationdate="20141225T084954Z">
         <seg>LightZone: Rotation des Photos dans le Navigateur</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>LightZone: Sampler</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141226T153334Z" creationid="Photonoxx" creationdate="20141226T153334Z">
+        <seg>LightZone : Pipette</seg>
       </tuv>
     </tu>
     <tu>
@@ -9854,6 +9870,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This intent is suitable for business graphics like graphs or charts where bright saturated colors are more important than the exact relationship between colors.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141226T153223Z" creationid="Photonoxx" creationdate="20141226T153223Z">
+        <seg>Ce mode de rendu convient aux images d’entreprise, telles que des graphiques ou des diagrammes, dans lesquelles l’éclat des couleurs saturées est plus important que la précision des relations visuelles entre les couleurs.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This intent is suitable for photos with lots of out-of-gamut colors.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141226T153115Z" creationid="Photonoxx" creationdate="20141226T153115Z">
@@ -10698,6 +10722,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141226T153049Z" creationid="Photonoxx" creationdate="20141226T153049Z">
         <seg>Ce mode tend à conserver les relations visuelles entre les couleurs, afin qu’elles soient perçues comme naturelles par l’œil humain, même si les valeurs chromatiques peuvent elles-mêmes varier.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Tries to produce vivid colors in a photo at the expense of color accuracy.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141226T153206Z" creationid="Photonoxx" creationdate="20141226T153206Z">
+        <seg>Ce mode privilégie l’éclat des couleurs au détriment de leur précision.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11762,6 +11794,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141226T115103Z" creationid="Photonoxx" creationdate="20141226T115103Z">
         <seg>images/Region.png</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>images/Sampler-en.png</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141226T153354Z" creationid="Photonoxx" creationdate="20141226T153354Z">
+        <seg>images/Sampler-en.png</seg>
       </tuv>
     </tu>
     <tu>

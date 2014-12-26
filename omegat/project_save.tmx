@@ -5614,6 +5614,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Moving a control point may affect the overall shape of the region.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141226T122851Z" creationid="Photonoxx" creationdate="20141226T122851Z">
+        <seg>Modifer un point de contrôle peut affecter la forme globale de la région entière.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Multipage TIFF images</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141122T165951Z" creationid="Photonoxx" creationdate="20141122T165951Z">
@@ -11306,6 +11314,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141225T112859Z" creationid="Photonoxx" creationdate="20141225T112859Z">
         <seg>images/Button-Select_Recent.png</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>images/Button-Spline.png</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141226T122852Z" creationid="Photonoxx" creationdate="20141226T122852Z">
+        <seg>images/Button-Spline.png</seg>
       </tuv>
     </tu>
     <tu>

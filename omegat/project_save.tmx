@@ -9806,6 +9806,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This intent tries to maintain color accuracy at the expense of preserving relationships between colors and is suitable for proofing to simulate the output of a particular device.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141226T152129Z" creationid="Photonoxx" creationdate="20141226T152129Z">
+        <seg>Ce mode tend à préserver la précision des couleurs aux dépens des relations entre les couleurs et est utilisable pour l'épreuvage pour simuler la sortie sur un périphérique particulier.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This is illustrated in the figure below.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141117T102713Z" creationid="Photonoxx" creationdate="20141117T102713Z">

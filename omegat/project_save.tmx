@@ -1126,6 +1126,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Along the bottom of the browser window are the thumbnails for all the supported image file formats in the folder selected in the &lt;a0&gt;Folder Navigator&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141226T173903Z" creationid="Photonoxx" creationdate="20141226T173833Z">
+        <seg>Le long du bas de la fenêtre du navigateur se trouve les vignettes de tous les formats de fichiers images supportés se trouvant dans le dossier sélectionné dans le &lt;a0&gt;Navigateur de Dossiers&lt;/a0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Along the top-left of the LightZone browser window is a toolbar containing the set of photo buttons shown below.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141117T151524Z" creationid="Photonoxx" creationdate="20141117T151524Z">
@@ -7226,6 +7234,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141117T093537Z" creationid="Photonoxx" creationdate="20141117T093537Z">
         <seg>Visionneuse Photo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Photo_Viewer.html</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141226T173904Z" creationid="Photonoxx" creationdate="20141226T173904Z">
+        <seg>Photo_Viewer.html</seg>
       </tuv>
     </tu>
     <tu>

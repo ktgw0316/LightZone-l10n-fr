@@ -454,6 +454,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;a0&gt;Thumbnails&lt;/a0&gt; in the &lt;a1&gt;Photo Browser&lt;/a1&gt; indicate LightZone JPEG files with "JPEG-LZN" as shown above.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141226T155426Z" creationid="Photonoxx" creationdate="20141226T155426Z">
+        <seg>&lt;a0&gt;Les Vignettes&lt;/a0&gt; dans le &lt;a1&gt;Navigateur Photo&lt;/a1&gt; distinguent les fichiers JPEG LightZone avec "JPEG-LZN" comme montré ci-dessus.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;a1&gt;More on styles...&lt;/a1&gt;</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141117T151929Z" creationid="Photonoxx" creationdate="20141117T151929Z">
@@ -11378,6 +11386,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141111T151224Z" creationid="Photonoxx" creationdate="20141111T151224Z">
         <seg>Au Lancement, LightZone peut rechercher automatiquement si une nouvelle version est disponible au téléchargement.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When reopened with LightZone, however, the tool stack is restored and you can resume editing where you left off.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141226T155252Z" creationid="Photonoxx" creationdate="20141226T155252Z">
+        <seg>Lorsqu'il est réouvert avec LightZone, cependant, la chaîne de développement est restaurée et vous pouvez reprendre l'édition là où vous l'aviez arrêtée.</seg>
       </tuv>
     </tu>
     <tu>

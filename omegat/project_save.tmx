@@ -3694,6 +3694,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>How to delete regions.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141226T112935Z" creationid="Photonoxx" creationdate="20141226T112935Z">
+        <seg>Comment supprimer des régions.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>How to drag &amp; drop photos from the Photo Browser.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141201T100203Z" creationid="Photonoxx" creationdate="20141201T100203Z">
@@ -3922,6 +3930,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141122T172532Z" creationid="Photonoxx" creationdate="20141122T172532Z">
         <seg>Si vous avez défini vos &lt;a0&gt;paramètres de copyright&lt;/a0&gt;, vous pouvez cliquer sur la petite flèche qui se trouve sur la droite des champs Copyright ou Créateur et les données seront automatiquement renseignées.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If you no longer want a region, you can delete it.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141226T113036Z" creationid="Photonoxx" creationdate="20141226T113036Z">
+        <seg>Si vous ne souhaitez plus une région, vous pouvez la supprimer.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4986,6 +5002,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141226T111502Z" creationid="Photonoxx" creationdate="20141226T111502Z">
         <seg>LightZone : Régions : Création</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>LightZone: Regions: Deleting</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141226T112951Z" creationid="Photonoxx" creationdate="20141226T112924Z">
+        <seg>LightZone : Régions : Suppression</seg>
       </tuv>
     </tu>
     <tu>
@@ -6786,6 +6810,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141226T111607Z" creationid="Photonoxx" creationdate="20141226T111607Z">
         <seg>Régions : Création de régions</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Regions: Deleting</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141226T113000Z" creationid="Photonoxx" creationdate="20141226T112946Z">
+        <seg>Régions : Suppression</seg>
       </tuv>
     </tu>
     <tu>

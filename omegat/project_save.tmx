@@ -4536,8 +4536,8 @@
       <tuv lang="EN-US">
         <seg>Leaves colors that fall inside the destination gamut unchanged.</seg>
       </tuv>
-      <tuv lang="FR" changeid="Photonoxx" changedate="20141226T150239Z" creationid="Photonoxx" creationdate="20141226T150239Z">
-        <seg>Laisse les couleurs qui sont dans le gamut de destination inchangées.</seg>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141226T151254Z" creationid="Photonoxx" creationdate="20141226T150239Z">
+        <seg>Laisse les couleurs qui entrent dans le gamut de destination inchangées.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5990,6 +5990,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>No scaling of colors to the destination white point is performed.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141226T151218Z" creationid="Photonoxx" creationdate="20141226T151036Z">
+        <seg>Aucune mise à l’échelle des couleurs vers le point blanc de destination n’est effectuée.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>No update is available.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141111T103616Z" creationid="Photonoxx" creationdate="20141111T103616Z">
@@ -6368,8 +6376,8 @@
       <tuv lang="EN-US">
         <seg>Out-of-gamut colors are clipped.</seg>
       </tuv>
-      <tuv lang="FR" changeid="Photonoxx" changedate="20141226T150355Z" creationid="Photonoxx" creationdate="20141226T150355Z">
-        <seg>Les couleurs hors gamut sont tronquées.</seg>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141226T151222Z" creationid="Photonoxx" creationdate="20141226T150355Z">
+        <seg>Les couleurs hors gamut sont écrêtées.</seg>
       </tuv>
     </tu>
     <tu>

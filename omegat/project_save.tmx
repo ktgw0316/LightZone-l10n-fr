@@ -1678,6 +1678,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Click the desired region button (polygon, spline, or Bézier) from the &lt;a0&gt;tool bar&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141226T112318Z" creationid="Photonoxx" creationdate="20141226T112318Z">
+        <seg>Cliquez sur le bouton de la région désirée (polygonale, spline, ou Bézier) dans la &lt;a0&gt;Barre d'outils&lt;/a0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Click the eyedropper button.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141117T153231Z" creationid="Photonoxx" creationdate="20141117T153231Z">
@@ -5314,6 +5322,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141114T182653Z" creationid="Photonoxx" creationdate="20141114T182646Z">
         <seg>Déplacer $1 images sélectionnées vers la Poubelle ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Move the mouse around the photo and click wherever you want a control point.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141226T112556Z" creationid="Photonoxx" creationdate="20141226T112556Z">
+        <seg>Placez le pointeur de la souris sur la photo et cliquez là où vous souhaitez un point de contrôle.</seg>
       </tuv>
     </tu>
     <tu>

@@ -720,8 +720,8 @@
       <tuv lang="EN-US">
         <seg>Additionally, every region has a &lt;e2&gt;feathering area&lt;/e2&gt; that smoothly blends the region into the surrounding area preventing sharp edges.</seg>
       </tuv>
-      <tuv lang="FR" changeid="Photonoxx" changedate="20141122T104236Z" creationid="Photonoxx" creationdate="20141122T104236Z">
-        <seg>De plus, chaque région possède une &lt;e2&gt;zone de transition&lt;/e2&gt; qui mèle progressivement la région avec les parties environnantes évitant les transitions brutales.</seg>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141226T115038Z" creationid="Photonoxx" creationdate="20141122T104236Z">
+        <seg>De plus, chaque région possède une &lt;e2&gt;zone d'adoucissement&lt;/e2&gt; qui mèle progressivement la région avec les parties environnantes évitant les transitions brutales.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6342,6 +6342,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Preferences.html#Preferences-Copyright</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141226T115308Z" creationid="Photonoxx" creationdate="20141226T115308Z">
+        <seg>Preferences.html#Preferences-Copyright</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Preferences.html#Preferences-Direct_Save</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141122T170217Z" creationid="Photonoxx" creationdate="20141122T170217Z">
@@ -8662,6 +8670,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>TOC.html</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141226T115136Z" creationid="Photonoxx" creationdate="20141226T115136Z">
+        <seg>TOC.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Table of Contents</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141122T123337Z" creationid="Photonoxx" creationdate="20141122T123337Z">
@@ -10030,6 +10046,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Tool-ZoneMapper-Black_Point.html</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141226T115146Z" creationid="Photonoxx" creationdate="20141226T115146Z">
+        <seg>Tool-ZoneMapper-Black_Point.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Tool-ZoneMapper-Exposure.html</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141226T115144Z" creationid="Photonoxx" creationdate="20141226T115144Z">
+        <seg>Tool-ZoneMapper-Exposure.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Tool-ZoneMapper.html</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141204T181940Z" creationid="Photonoxx" creationdate="20141204T181940Z">
@@ -10982,6 +11014,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>http://www.lightcrafts.com/learning/</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141226T115330Z" creationid="Photonoxx" creationdate="20141226T115330Z">
+        <seg>http://www.lightcrafts.com/learning/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>images/16_bit.png</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141226T115108Z" creationid="Photonoxx" creationdate="20141226T115108Z">
+        <seg>images/16_bit.png</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>images/Button-Select_Recent.png</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141225T112859Z" creationid="Photonoxx" creationdate="20141225T112859Z">
@@ -11002,6 +11050,38 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141225T090630Z" creationid="Photonoxx" creationdate="20141225T090630Z">
         <seg>images/Buttons-Rotate.png</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>images/Folders-en.png</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141226T115313Z" creationid="Photonoxx" creationdate="20141226T115313Z">
+        <seg>images/Folders-en.png</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>images/Histograms.png</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141226T115140Z" creationid="Photonoxx" creationdate="20141226T115140Z">
+        <seg>images/Histograms.png</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>images/History-en.png</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141226T115154Z" creationid="Photonoxx" creationdate="20141226T115154Z">
+        <seg>images/History-en.png</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>images/Metadata-en.png</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141226T115301Z" creationid="Photonoxx" creationdate="20141226T115301Z">
+        <seg>images/Metadata-en.png</seg>
       </tuv>
     </tu>
     <tu>
@@ -11038,10 +11118,66 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>images/Region.png</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141226T115103Z" creationid="Photonoxx" creationdate="20141226T115103Z">
+        <seg>images/Region.png</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>images/Screenshot-Editor-Cover.jpg</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141226T115200Z" creationid="Photonoxx" creationdate="20141226T115200Z">
+        <seg>images/Screenshot-Editor-Cover.jpg</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>images/Tool_Stack_Illustration-small.png</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141226T115117Z" creationid="Photonoxx" creationdate="20141226T115117Z">
+        <seg>images/Tool_Stack_Illustration-small.png</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>images/Tools-Navigator-en.png</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141226T115316Z" creationid="Photonoxx" creationdate="20141226T115316Z">
+        <seg>images/Tools-Navigator-en.png</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>images/Workflow-en.png</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141226T115126Z" creationid="Photonoxx" creationdate="20141226T115126Z">
+        <seg>images/Workflow-en.png</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>images/ZoneFinder-small.png</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141226T115100Z" creationid="Photonoxx" creationdate="20141226T115100Z">
+        <seg>images/ZoneFinder-small.png</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>images/app_icon-32.png</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141122T170215Z" creationid="Photonoxx" creationdate="20141122T170215Z">
         <seg>images/app_icon-32.png</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>images/raw.png</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141226T115112Z" creationid="Photonoxx" creationdate="20141226T115112Z">
+        <seg>images/raw.png</seg>
       </tuv>
     </tu>
     <tu>
@@ -11058,6 +11194,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141122T170212Z" creationid="Photonoxx" creationdate="20141122T170212Z">
         <seg>index/index.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>lightzoneproject.org</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141226T115205Z" creationid="Photonoxx" creationdate="20141226T115205Z">
+        <seg>lightzoneproject.org</seg>
       </tuv>
     </tu>
     <tu>

@@ -686,6 +686,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>AG M8 Digital, AG R9 Digital Back DMR, D-Lux 2, Digilux 2, Digilux 3, V-Lux 1</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141226T153651Z" creationid="Photonoxx" creationdate="20141226T153651Z">
+        <seg>AG M8 Digital, AG R9 Digital Back DMR, D-Lux 2, Digilux 2, Digilux 3, V-Lux 1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>About LightZone</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141111T145038Z" creationid="Photonoxx" creationdate="20141111T145038Z">
@@ -946,6 +954,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141117T151524Z" creationid="Photonoxx" creationdate="20141117T151524Z">
         <seg>Positionnée en haut à gauche de la fenêtre du Navigateur de LightZone se trouve une barre d'outil contenant l'ensemble des boutons d'Actions photo ci-dessous.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Alpha-7 Digital, Dimage A1, Dimage A2, Dimage A200, Dimage 5, Dimage 7, Dimage 7 HI, Dynax 5D, Dynax 7D, Maxxum 7D</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141226T153652Z" creationid="Photonoxx" creationdate="20141226T153652Z">
+        <seg>Alpha-7 Digital, Dimage A1, Dimage A2, Dimage A200, Dimage 5, Dimage 7, Dimage 7 HI, Dynax 5D, Dynax 7D, Maxxum 7D</seg>
       </tuv>
     </tu>
     <tu>
@@ -1422,6 +1438,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>C-5050Z, C-5060WZ, C-70Z, C-7000Z, C-7070WZ, C-8080WZ, E-1, E-3, E-10, E-20, E-20N, E-20P, E-30, E-300, E-330, E-400, E-410, E-420, E-500, E-510, E-520, E-620, E-P1, SP-350, SP-500UZ, SP-550UZ</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141226T153656Z" creationid="Photonoxx" creationdate="20141226T153656Z">
+        <seg>C-5050Z, C-5060WZ, C-70Z, C-7000Z, C-7070WZ, C-8080WZ, E-1, E-3, E-10, E-20, E-20N, E-20P, E-30, E-300, E-330, E-400, E-410, E-420, E-500, E-510, E-520, E-620, E-P1, SP-350, SP-500UZ, SP-550UZ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>CIFF</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141118T154351Z" creationid="Photonoxx" creationdate="20141118T154351Z">
@@ -1498,6 +1522,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141201T093430Z" creationid="Photonoxx" creationdate="20141201T093430Z">
         <seg>Les fichiers bruts (Raw) des appareils suivant sont désormais supportés : Canon EOS 1D Mark III.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Caplio GX100</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141226T153702Z" creationid="Photonoxx" creationdate="20141226T153702Z">
+        <seg>Caplio GX100</seg>
       </tuv>
     </tu>
     <tu>
@@ -2518,6 +2550,38 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>D1H, D1X, D2H, D2Hs, D2X, D2Xs, D3, D3X, D40, D40X, D50, D60, D70, D70s, D80, D90, D100, D200, D300, D700, E5400, E8400, E8700, E8800</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141226T153654Z" creationid="Photonoxx" creationdate="20141226T153654Z">
+        <seg>D1H, D1X, D2H, D2Hs, D2X, D2Xs, D3, D3X, D40, D40X, D50, D60, D70, D70s, D80, D90, D100, D200, D300, D700, E5400, E8400, E8700, E8800</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>DCS Pro 14N, DCS Pro SLR-C, DCS Pro SLR-N, P712, P850, P880, Pro Back</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141226T153649Z" creationid="Photonoxx" creationdate="20141226T153649Z">
+        <seg>DCS Pro 14N, DCS Pro SLR-C, DCS Pro SLR-N, P712, P850, P880, Pro Back</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>DMC-FZ18, DMC-FZ28, DMC-FZ30, DMC-FZ50, DMC-G1, DMC-L1, DMC-L10, DMC-LC1, DMC-LX1, DMC-LX2, DMC-LX3</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141226T153658Z" creationid="Photonoxx" creationdate="20141226T153658Z">
+        <seg>DMC-FZ18, DMC-FZ28, DMC-FZ30, DMC-FZ50, DMC-G1, DMC-L1, DMC-L10, DMC-LC1, DMC-LX1, DMC-LX2, DMC-LX3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>DSC R1, A100, A200, A300, A350, A700, A900</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141226T153706Z" creationid="Photonoxx" creationdate="20141226T153706Z">
+        <seg>DSC R1, A100, A200, A300, A350, A700, A900</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Darken</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141117T110819Z" creationid="Photonoxx" creationdate="20141117T110819Z">
@@ -3086,6 +3150,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>EOS 1D, EOS 1D Mark II, EOS 1D Mark II N, EOS 1D Mark III, EOS 1Ds, EOS 1Ds Mark II, EOS 1Ds Mark III, EOS 5D, EOS 5D Mark II, EOS 10D, EOS 20D, EOS 30D, EOS 450D, EOS 50D, EOS 1000D, EOS D30, EOS D60, EOS Digital Rebel (300D), EOS Digital Rebel XT (350D), EOS Digital Rebel XTi (400D), EOS Kiss Digital, Powershot G2, Powershot G3, Powershot G5, Powershot G6, Powershot G9, Powershot G10, Powershot S30, Powershot S40, Powershot S50, Powershot S60</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141226T153642Z" creationid="Photonoxx" creationdate="20141226T153642Z">
+        <seg>EOS 1D, EOS 1D Mark II, EOS 1D Mark II N, EOS 1D Mark III, EOS 1Ds, EOS 1Ds Mark II, EOS 1Ds Mark III, EOS 5D, EOS 5D Mark II, EOS 10D, EOS 20D, EOS 30D, EOS 450D, EOS 50D, EOS 1000D, EOS D30, EOS D60, EOS Digital Rebel (300D), EOS Digital Rebel XT (350D), EOS Digital Rebel XTi (400D), EOS Kiss Digital, Powershot G2, Powershot G3, Powershot G5, Powershot G6, Powershot G9, Powershot G10, Powershot S30, Powershot S40, Powershot S50, Powershot S60</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>EXIF</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141118T154340Z" creationid="Photonoxx" creationdate="20141118T154340Z">
@@ -3454,6 +3526,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Finepix E550, Finepix E900, Finepix F700, Finepix F710, Finepix S2 Pro, Finepix S3 Pro, Finepix S5 Pro, Finepix S20 Pro, Finepix S100FS, Finepix S5000, Finepix S5100, Finepix S5200, Finepix S5600, Finepix S7000, Finepix S9000, Finepix S9500</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141226T153646Z" creationid="Photonoxx" creationdate="20141226T153646Z">
+        <seg>Finepix E550, Finepix E900, Finepix F700, Finepix F710, Finepix S2 Pro, Finepix S3 Pro, Finepix S5 Pro, Finepix S20 Pro, Finepix S100FS, Finepix S5000, Finepix S5100, Finepix S5200, Finepix S5600, Finepix S7000, Finepix S9000, Finepix S9500</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Finish editing and return to Browse Mode</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141111T105136Z" creationid="Photonoxx" creationdate="20141111T105136Z">
@@ -3590,6 +3670,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Fuji</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141226T153644Z" creationid="Photonoxx" creationdate="20141226T153644Z">
+        <seg>Fuji</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Fuzz</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141201T092437Z" creationid="Photonoxx" creationdate="20141201T092437Z">
@@ -3602,6 +3690,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141118T154354Z" creationid="Photonoxx" creationdate="20141118T154354Z">
         <seg>GPS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>GX10, GX20</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141226T153704Z" creationid="Photonoxx" creationdate="20141226T153704Z">
+        <seg>GX10, GX20</seg>
       </tuv>
     </tu>
     <tu>
@@ -4534,10 +4630,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>K10D, K20D, K100D, K200D, K2000, *ist D, *ist DL, *ist DS</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141226T153700Z" creationid="Photonoxx" creationdate="20141226T153700Z">
+        <seg>K10D, K20D, K100D, K200D, K2000, *ist D, *ist DL, *ist DS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Key Features</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141122T092841Z" creationid="Photonoxx" creationdate="20141122T092841Z">
         <seg>Fonctions Clés</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Kodak</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141226T153647Z" creationid="Photonoxx" creationdate="20141226T153647Z">
+        <seg>Kodak</seg>
       </tuv>
     </tu>
     <tu>
@@ -4594,6 +4706,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141204T181948Z" creationid="Photonoxx" creationdate="20141204T181948Z">
         <seg>Legal.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Leica</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141226T153650Z" creationid="Photonoxx" creationdate="20141226T153650Z">
+        <seg>Leica</seg>
       </tuv>
     </tu>
     <tu>
@@ -5646,6 +5766,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Minolta</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141226T153651Z" creationid="Photonoxx" creationdate="20141226T153651Z">
+        <seg>Minolta</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Mitch Alland, Bruce Ammerman, Jamie Bsales, David Card, Anthony Dias, Jeff Donnelly, Jessica Donnelly, Romain Guy, Hans-Jürgen Hertz-Eichenrode, Jon Hill, Matthew Hollingworth, James Karney, Terry Karney, Walt Marhefka, Carlos Palma, Bud Paulding, Paul Rancuret, David Richard, Uwe Steinmueller, Mark Strathdee, Elizabeth Thrasher, Dean Tucker, Eric Vogel, John Waclo, Lalia Wilson, Ed Wolpov, and Brian Wong.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141117T092732Z" creationid="Photonoxx" creationdate="20141117T092732Z">
@@ -6134,6 +6262,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Olympus</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141226T153655Z" creationid="Photonoxx" creationdate="20141226T153655Z">
+        <seg>Olympus</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>On the left side of the LightZone window is the Folder Navigator that shows the folders on your computer.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141124T114622Z" creationid="Photonoxx" creationdate="20141124T114554Z">
@@ -6470,6 +6606,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Panasonic</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141226T153657Z" creationid="Photonoxx" creationdate="20141226T153657Z">
+        <seg>Panasonic</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Paste Region</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141111T143423Z" creationid="Photonoxx" creationdate="20141111T143423Z">
@@ -6506,6 +6650,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141225T162924Z" creationid="Photonoxx" creationdate="20141225T162728Z">
         <seg>Portez une attention particulière pour le choix de laisser LightZone ou le pilote d'impression procéder à la conversion de couleur.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Pentax</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141226T153659Z" creationid="Photonoxx" creationdate="20141226T153659Z">
+        <seg>Pentax</seg>
       </tuv>
     </tu>
     <tu>
@@ -6602,6 +6754,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141204T181646Z" creationid="Photonoxx" creationdate="20141204T181646Z">
         <seg>Photos-Rotating.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Photos-Sending.html</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141226T153533Z" creationid="Photonoxx" creationdate="20141226T153533Z">
+        <seg>Photos-Sending.html</seg>
       </tuv>
     </tu>
     <tu>
@@ -7702,6 +7862,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Ricoh</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141226T153701Z" creationid="Photonoxx" creationdate="20141226T153701Z">
+        <seg>Ricoh</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Rotate</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141114T184504Z" creationid="Photonoxx" creationdate="20141114T184504Z">
@@ -7842,6 +8010,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141204T181738Z" creationid="Photonoxx" creationdate="20141204T181738Z">
         <seg>Sampler.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Samsung</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141226T153703Z" creationid="Photonoxx" creationdate="20141226T153703Z">
+        <seg>Samsung</seg>
       </tuv>
     </tu>
     <tu>
@@ -8210,6 +8386,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141226T111447Z" creationid="Photonoxx" creationdate="20141226T111447Z">
         <seg>Choisissez Éditer &gt; Coller la Région ou Coller et lier la Région.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Select File &gt; Convert Image... or Browser &gt; Convert...</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141226T153624Z" creationid="Photonoxx" creationdate="20141226T153624Z">
+        <seg>Choisissez Fichier &gt; Convertir l'Image... ou Navigateur &gt; Convertir...</seg>
       </tuv>
     </tu>
     <tu>
@@ -8632,8 +8816,8 @@
       <tuv lang="EN-US">
         <seg>Sharing space with the &lt;a0&gt;ZoneFinder&lt;/a0&gt;, &lt;a1&gt;Histogram&lt;/a1&gt;, and &lt;a2&gt;Sampler&lt;/a2&gt; in the upper-right corner of the LightZone window is also the Color Selection Viewer that shows the areas of your photo that are in the selected tool's &lt;a3&gt;color/luminosity selection&lt;/a3&gt;.</seg>
       </tuv>
-      <tuv lang="FR" changeid="Photonoxx" changedate="20141118T102957Z" creationid="Photonoxx" creationdate="20141118T101124Z">
-        <seg>ÉchantillonneurPartageant l'espace avec le &lt;a0&gt;ZoneFinder&lt;/a0&gt;, &lt;a1&gt;l'Histogramme&lt;/a1&gt;, et &lt;a2&gt;La Pipette&lt;/a2&gt;, dans le coin en haut à droite de la fenêtre de LightZone se trouve aussi le visionneur de Sélection Couleur qui affiche les parties de votre photo correspondant à la &lt;a3&gt;Sélection couleur/luminosité&lt;/a3&gt; de l'outil sélectionné.</seg>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141226T153515Z" creationid="Photonoxx" creationdate="20141118T101124Z">
+        <seg>Partageant l'espace avec le &lt;a0&gt;ZoneFinder&lt;/a0&gt;, &lt;a1&gt;l'Histogramme&lt;/a1&gt;, et &lt;a2&gt;La Pipette&lt;/a2&gt;, dans le coin en haut à droite de la fenêtre de LightZone se trouve aussi le visionneur de Sélection Couleur qui affiche les parties de votre photo correspondant à la &lt;a3&gt;Sélection couleur/luminosité&lt;/a3&gt; de l'outil sélectionné.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8954,6 +9138,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141225T090226Z" creationid="Photonoxx" creationdate="20141225T090226Z">
         <seg>Certains appareils photo numériques possèdent un capteur d'orientation et de ce fait, les photos prises au format portrait sont automatiquement tournée avec la bonne orientation quand vous les regardez.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Sony</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141226T153705Z" creationid="Photonoxx" creationdate="20141226T153705Z">
+        <seg>Sony</seg>
       </tuv>
     </tu>
     <tu>
@@ -11510,6 +11702,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Zone_System.html</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141226T153731Z" creationid="Photonoxx" creationdate="20141226T153731Z">
+        <seg>Zone_System.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Zones</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141118T154135Z" creationid="Photonoxx" creationdate="20141118T154135Z">
@@ -11702,6 +11902,30 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>images/Color_Selection_Preview-after.jpg</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141226T153526Z" creationid="Photonoxx" creationdate="20141226T153526Z">
+        <seg>images/Color_Selection_Preview-after.jpg</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>images/Color_Selection_Preview-before.jpg</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141226T153524Z" creationid="Photonoxx" creationdate="20141226T153524Z">
+        <seg>images/Color_Selection_Preview-before.jpg</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>images/Default_Tone_Curve-en.png</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141226T153628Z" creationid="Photonoxx" creationdate="20141226T153628Z">
+        <seg>images/Default_Tone_Curve-en.png</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>images/Folders-en.png</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141226T115313Z" creationid="Photonoxx" creationdate="20141226T115313Z">
@@ -11798,6 +12022,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>images/Relight_Icon-big.png</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141226T153716Z" creationid="Photonoxx" creationdate="20141226T153716Z">
+        <seg>images/Relight_Icon-big.png</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>images/Sampler-en.png</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141226T153354Z" creationid="Photonoxx" creationdate="20141226T153354Z">
@@ -11810,6 +12042,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141226T115200Z" creationid="Photonoxx" creationdate="20141226T115200Z">
         <seg>images/Screenshot-Editor-Cover.jpg</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>images/Styles-Discover-en.png</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141226T153710Z" creationid="Photonoxx" creationdate="20141226T153710Z">
+        <seg>images/Styles-Discover-en.png</seg>
       </tuv>
     </tu>
     <tu>
@@ -11842,6 +12082,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141226T115100Z" creationid="Photonoxx" creationdate="20141226T115100Z">
         <seg>images/ZoneFinder-small.png</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>images/ZoneMapper-small-en.png</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141226T153722Z" creationid="Photonoxx" creationdate="20141226T153722Z">
+        <seg>images/ZoneMapper-small-en.png</seg>
       </tuv>
     </tu>
     <tu>

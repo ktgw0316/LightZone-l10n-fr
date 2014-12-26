@@ -262,6 +262,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(The tools from the style will then be added to the top of the &lt;a0&gt;tool stack&lt;/a0&gt; for all the selected photos.)</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141226T163305Z" creationid="Photonoxx" creationdate="20141226T163305Z">
+        <seg>(les outils du style seront alors ajoutés en haut de la &lt;a0&gt;chaîne de développement&lt;/a0&gt; de chacune des photos sélectionnées.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(The tools from the style will then be added to the top of the &lt;a0&gt;tool stack&lt;/a0&gt;.)</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141226T163013Z" creationid="Photonoxx" creationdate="20141226T161222Z">
@@ -386,6 +394,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141122T162250Z" creationid="Photonoxx" creationdate="20141122T162250Z">
         <seg>3 de 4</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>3 of 6</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141226T163347Z" creationid="Photonoxx" creationdate="20141226T163347Z">
+        <seg>3 de 6</seg>
       </tuv>
     </tu>
     <tu>
@@ -4158,6 +4174,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>How to create a style.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141226T163328Z" creationid="Photonoxx" creationdate="20141226T163328Z">
+        <seg>Comment créer un style.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>How to create regions to contrain tools' effects to only parts of your photo.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141226T111545Z" creationid="Photonoxx" creationdate="20141226T111545Z">
@@ -5666,6 +5690,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141226T160050Z" creationid="Photonoxx" creationdate="20141226T160050Z">
         <seg>LightZone : Styles : Application</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>LightZone: Styles: Creating</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141226T163319Z" creationid="Photonoxx" creationdate="20141226T163319Z">
+        <seg>LightZone : Styles : Création</seg>
       </tuv>
     </tu>
     <tu>
@@ -9502,10 +9534,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Styles-Applying.html</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141226T163349Z" creationid="Photonoxx" creationdate="20141226T163349Z">
+        <seg>Styles-Applying.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Styles-Creating.html</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141226T160156Z" creationid="Photonoxx" creationdate="20141226T160156Z">
         <seg>Styles-Creating.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Styles-Exporting.html</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141226T163344Z" creationid="Photonoxx" creationdate="20141226T163344Z">
+        <seg>Styles-Exporting.html</seg>
       </tuv>
     </tu>
     <tu>
@@ -9522,6 +9570,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141226T160155Z" creationid="Photonoxx" creationdate="20141226T160155Z">
         <seg>LightZone : Styles : Application</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Styles: Creating</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141226T163342Z" creationid="Photonoxx" creationdate="20141226T163336Z">
+        <seg>Styles : Création</seg>
       </tuv>
     </tu>
     <tu>

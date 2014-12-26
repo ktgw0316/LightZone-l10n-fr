@@ -920,8 +920,8 @@
       <tuv lang="EN-US">
         <seg>Additionally, you can replace the &lt;a2&gt;default tone curve&lt;/a2&gt; for a camera with a style you create.</seg>
       </tuv>
-      <tuv lang="FR" changeid="Photonoxx" changedate="20141226T163645Z" creationid="Photonoxx" creationdate="20141226T163645Z">
-        <seg>De plus, vous pouvez remplacer la &lt;a2&gt;Courbe de Tonalité par défaut&lt;/a2&gt; for a camera with a style you create.</seg>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141226T163838Z" creationid="Photonoxx" creationdate="20141226T163645Z">
+        <seg>De plus, vous pouvez remplacer la &lt;a2&gt;Courbe de Tonalité par défaut&lt;/a2&gt; d'un appareil avec un style que vous créez.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2622,6 +2622,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Create a &lt;a0&gt;tool stack&lt;/a0&gt; to your liking.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141226T163940Z" creationid="Photonoxx" creationdate="20141226T163940Z">
+        <seg>Créez une &lt;a0&gt;chaîne de développement&lt;/a0&gt; à votre goût.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Creates an effect similar to, but lower in contrast than, the Difference blending mode.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141117T111333Z" creationid="Photonoxx" creationdate="20141117T111333Z">
@@ -3458,6 +3466,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141226T155800Z" creationid="Photonoxx" creationdate="20141226T155800Z">
         <seg>Entrez un nom pour le fichier.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Enter a name for the style.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141226T164036Z" creationid="Photonoxx" creationdate="20141226T164036Z">
+        <seg>Entrez un nom pour le style.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8662,6 +8678,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Select File &gt; Save as Style...</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141226T164012Z" creationid="Photonoxx" creationdate="20141226T164012Z">
+        <seg>Choisissez Fichier &gt; Enregistrer comme un Style...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Select File &gt; Save... or Save As...</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141226T155743Z" creationid="Photonoxx" creationdate="20141226T155743Z">
@@ -10714,6 +10738,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141226T111643Z" creationid="Photonoxx" creationdate="20141226T111643Z">
         <seg>Pour créer une région :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To create a style:</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141226T163902Z" creationid="Photonoxx" creationdate="20141226T163854Z">
+        <seg>Pour créer un style :</seg>
       </tuv>
     </tu>
     <tu>

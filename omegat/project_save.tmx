@@ -542,6 +542,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;s0&gt;Control-click&lt;/s0&gt; &lt;s1&gt;Right-click&lt;/s1&gt; on the control point you want to delete: a menu will pop up.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141226T114631Z" creationid="Photonoxx" creationdate="20141226T114631Z">
+        <seg>&lt;s0&gt;Contrôle-clic&lt;/s0&gt; &lt;s1&gt;clic droit&lt;/s1&gt; sur le point de contrôle que vous souhaitez supprimer : un menu se déroule.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;s0&gt;Control-click&lt;/s0&gt; &lt;s1&gt;Right-click&lt;/s1&gt; on the thumbnail so the pop-up menu pops up and select Edit.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141201T103137Z" creationid="Photonoxx" creationdate="20141201T103137Z">
@@ -2754,6 +2762,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141225T171706Z" creationid="Photonoxx" creationdate="20141225T171706Z">
         <seg>Double-cliquez sur la région à laquelle vous souhaitez ajouter un point de contrôle.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Double-click the region that you want to delete a control point from.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141226T114459Z" creationid="Photonoxx" creationdate="20141226T114459Z">
+        <seg>Double-cliquez sur la région dans laquelle vous souhaitez supprimer un point de contrôle.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7006,6 +7022,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Repeat from step 3 for every control point you want to delete.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141226T114733Z" creationid="Photonoxx" creationdate="20141226T114733Z">
+        <seg>Répérez depuis l'étape 3 pour chaque point de contrôle que vous souhaitez supprimer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Replace</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141106T111349Z" creationid="Photonoxx" creationdate="20141106T111349Z">
@@ -7690,6 +7714,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141204T181344Z" creationid="Photonoxx" creationdate="20141204T181344Z">
         <seg>Aller dans Navigateur &gt; Renommer...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Select Delete Point.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141226T114651Z" creationid="Photonoxx" creationdate="20141226T114651Z">
+        <seg>Choisissez Supprimer le Point.</seg>
       </tuv>
     </tu>
     <tu>

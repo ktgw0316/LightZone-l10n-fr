@@ -774,6 +774,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Additionally, each region has an adjustable area that does feathering thus eliminating sharp edges between where a region is and it isn't.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141226T124252Z" creationid="Photonoxx" creationdate="20141226T124252Z">
+        <seg>De plus, chaque région possède une zone ajustable d'adoucissement qui élimine les transitions nettes entre où une région s'applique et ou elle ne s'applique pas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Additionally, every region has a &lt;e2&gt;feathering area&lt;/e2&gt; that smoothly blends the region into the surrounding area preventing sharp edges.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141226T115038Z" creationid="Photonoxx" creationdate="20141122T104236Z">
@@ -9062,6 +9070,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The &lt;e0&gt;control points&lt;/e0&gt; of a region determine its shape and are used to adjust it.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141226T124422Z" creationid="Photonoxx" creationdate="20141226T124422Z">
+        <seg>Les &lt;e0&gt;points de contrôle&lt;/e0&gt; d'une région déterminent sa forme et permettent de l'ajuster.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The Batch Name, if provided, is appended to the name of each converted file (but before the extension).</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141118T144156Z" creationid="Photonoxx" creationdate="20141118T144156Z">
@@ -9274,6 +9290,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141201T083644Z" creationid="Photonoxx" creationdate="20141201T083644Z">
         <seg>Les Nouvelles fonctionnalités dans LightZone.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The points are marked by small, white circles.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141226T124500Z" creationid="Photonoxx" creationdate="20141226T124500Z">
+        <seg>Les points sont représentés par de petits cercles blancs.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11450,6 +11474,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141225T171620Z" creationid="Photonoxx" creationdate="20141225T171620Z">
         <seg>images/Region-Add_Point.png</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>images/Region-Control_Points.png</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141226T124253Z" creationid="Photonoxx" creationdate="20141226T124253Z">
+        <seg>images/Region-Control_Points.png</seg>
       </tuv>
     </tu>
     <tu>

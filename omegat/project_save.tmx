@@ -310,6 +310,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>3 of 10</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141226T111612Z" creationid="Photonoxx" creationdate="20141226T111612Z">
+        <seg>3 de 10</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>3 of 4</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141122T162250Z" creationid="Photonoxx" creationdate="20141122T162250Z">
@@ -3638,6 +3646,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>How to create regions to contrain tools' effects to only parts of your photo.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141226T111545Z" creationid="Photonoxx" creationdate="20141226T111545Z">
+        <seg>Comment créer des régions pour restreindre l'effets des outils à une partie de votre photo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>How to delete photos directly in LightZone.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141201T095454Z" creationid="Photonoxx" creationdate="20141201T095454Z">
@@ -4930,6 +4946,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141225T172855Z" creationid="Photonoxx" creationdate="20141225T172855Z">
         <seg>LightZone: Régions: Copier des Regions</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>LightZone: Regions: Creating</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141226T111502Z" creationid="Photonoxx" creationdate="20141226T111502Z">
+        <seg>LightZone : Régions : Création</seg>
       </tuv>
     </tu>
     <tu>
@@ -6718,6 +6742,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Regions: Creating regions</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141226T111607Z" creationid="Photonoxx" creationdate="20141226T111607Z">
+        <seg>Régions : Création de régions</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Related photos can now be &lt;a0&gt;stacked&lt;/a0&gt;.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141201T090939Z" creationid="Photonoxx" creationdate="20141201T090939Z">
@@ -7538,6 +7570,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141225T174458Z" creationid="Photonoxx" creationdate="20141225T174458Z">
         <seg>Choisissez Éditer &gt; Copier la Région.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Select Edit &gt; Paste Region or Paste Region Linked.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141226T111447Z" creationid="Photonoxx" creationdate="20141226T111447Z">
+        <seg>Choisissez Éditer &gt; Coller la Région ou Coller et lier la Région.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9346,6 +9386,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141225T174030Z" creationid="Photonoxx" creationdate="20141225T174030Z">
         <seg>Pour copier et coller une région :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To create a region:</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141226T111643Z" creationid="Photonoxx" creationdate="20141226T111643Z">
+        <seg>Pour créer une région :</seg>
       </tuv>
     </tu>
     <tu>

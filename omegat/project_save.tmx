@@ -918,6 +918,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Additionally, you can replace the &lt;a2&gt;default tone curve&lt;/a2&gt; for a camera with a style you create.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141226T163645Z" creationid="Photonoxx" creationdate="20141226T163645Z">
+        <seg>De plus, vous pouvez remplacer la &lt;a2&gt;Courbe de Tonalité par défaut&lt;/a2&gt; for a camera with a style you create.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Additionally, you can select any edit within the history to go back to that point in time.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141122T164101Z" creationid="Photonoxx" creationdate="20141122T164101Z">
@@ -2630,6 +2638,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Creating a style saves a &lt;a0&gt;tool stack&lt;/a0&gt; with a name for later &lt;a1&gt;application&lt;/a1&gt; to other photos.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141226T163540Z" creationid="Photonoxx" creationdate="20141226T163540Z">
+        <seg>Créer un style enregistre une &lt;a0&gt;chaîne de développement&lt;/a0&gt; avec un nom pour une &lt;a1&gt;application&lt;/a1&gt; future à d'autres photos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Creator</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141115T083621Z" creationid="Photonoxx" creationdate="20141115T083621Z">
@@ -2752,16 +2768,16 @@
       <tuv lang="EN-US">
         <seg>Default tone curve</seg>
       </tuv>
-      <tuv lang="FR" changeid="Photonoxx" changedate="20141122T090645Z" creationid="Photonoxx" creationdate="20141122T084708Z">
-        <seg>La Courbe de Tonalités par défault.</seg>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141226T163656Z" creationid="Photonoxx" creationdate="20141122T084708Z">
+        <seg>La Courbe de Tonalités par défaut.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Default tone curve tools.</seg>
       </tuv>
-      <tuv lang="FR" changeid="Photonoxx" changedate="20141122T090648Z" creationid="Photonoxx" creationdate="20141122T084636Z">
-        <seg>La Courbe de Tonalités par défault.</seg>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141226T163652Z" creationid="Photonoxx" creationdate="20141122T084636Z">
+        <seg>La Courbe de Tonalités par défaut.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5400,8 +5416,8 @@
       <tuv lang="EN-US">
         <seg>LightZone: Default Tone Curve</seg>
       </tuv>
-      <tuv lang="FR" changeid="Photonoxx" changedate="20141122T090709Z" creationid="Photonoxx" creationdate="20141122T084622Z">
-        <seg>LightZone: La Courbe de Tonalités par défault</seg>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141226T163708Z" creationid="Photonoxx" creationdate="20141122T084622Z">
+        <seg>LightZone: La Courbe de Tonalités par défaut</seg>
       </tuv>
     </tu>
     <tu>

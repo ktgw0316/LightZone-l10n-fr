@@ -230,6 +230,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(The region kind buttons will appear to the right of the tool bar.)</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141226T112107Z" creationid="Photonoxx" creationdate="20141226T112107Z">
+        <seg>(Les boutons de type de région apparaîtront à la droite de la barre d'outils.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(The table above is illustrative and not exhaustive because what happens when an image file is dropped onto an application's icon or window depends entirely on the application.)</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141201T101751Z" creationid="Photonoxx" creationdate="20141201T101751Z">
@@ -7806,6 +7814,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Select the tool from the &lt;a0&gt;tool stack&lt;/a0&gt; you want the region to apply to, or add a new tool.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141226T112015Z" creationid="Photonoxx" creationdate="20141226T112015Z">
+        <seg>Choisissez dans la &lt;a0&gt;chaîne de développement&lt;/a0&gt;  l'outil auquel vous souhaitez appliquer une région, ou ajouter un nouvel outil.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Select the tool in the &lt;a0&gt;tool stack&lt;/a0&gt; where you want to paste the region.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141225T174713Z" creationid="Photonoxx" creationdate="20141225T174713Z">
@@ -10770,6 +10786,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141225T112859Z" creationid="Photonoxx" creationdate="20141225T112859Z">
         <seg>images/Button-Select_Recent.png</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>images/Buttons-Regions-en.png</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141226T112021Z" creationid="Photonoxx" creationdate="20141226T112021Z">
+        <seg>images/Buttons-Regions-en.png</seg>
       </tuv>
     </tu>
     <tu>

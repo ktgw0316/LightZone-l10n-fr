@@ -430,6 +430,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>4 of 6</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141226T170956Z" creationid="Photonoxx" creationdate="20141226T170956Z">
+        <seg>4 de 6</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>5 of 10</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141226T115551Z" creationid="Photonoxx" creationdate="20141226T115551Z">
@@ -4310,6 +4318,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>How to export your styles.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141226T170925Z" creationid="Photonoxx" creationdate="20141226T170925Z">
+        <seg>Comment exporter vos styles.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>How to inspect or edit the metadata of a photo.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141122T170751Z" creationid="Photonoxx" creationdate="20141122T170751Z">
@@ -5810,6 +5826,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141226T165711Z" creationid="Photonoxx" creationdate="20141226T165711Z">
         <seg>LightZone : Styles : Suppression</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>LightZone: Styles: Exporting</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141226T170909Z" creationid="Photonoxx" creationdate="20141226T170909Z">
+        <seg>LightZone : Styles : Exportation</seg>
       </tuv>
     </tu>
     <tu>
@@ -9710,6 +9734,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Styles-Importing.html</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141226T170950Z" creationid="Photonoxx" creationdate="20141226T170950Z">
+        <seg>Styles-Importing.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Styles.html</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141204T181812Z" creationid="Photonoxx" creationdate="20141204T181812Z">
@@ -9738,6 +9770,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141226T165735Z" creationid="Photonoxx" creationdate="20141226T165735Z">
         <seg>Styles : Suppression</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Styles: Exporting</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141226T170948Z" creationid="Photonoxx" creationdate="20141226T170948Z">
+        <seg>Styles : Exportation</seg>
       </tuv>
     </tu>
     <tu>

@@ -998,6 +998,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>After &lt;a0&gt;creating&lt;/a0&gt; one or more styles, you can export them as LightZone Style files (having an &lt;c1&gt;lzt&lt;/c1&gt; extension) that can be &lt;a2&gt;imported&lt;/a2&gt; into LightZone on other computers.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141226T171256Z" creationid="Photonoxx" creationdate="20141226T171256Z">
+        <seg>Après la &lt;a0&gt;création&lt;/a0&gt; d'un ou plusieurs styles, vous pouvez les exporter comme des fichiers de Styles LightZone (ayant une extension &lt;c1&gt;lzt&lt;/c1&gt;) qui peuvent être &lt;a2&gt;importés&lt;/a2&gt; dans LightZone sur d'autres ordinateurs.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>After &lt;a0&gt;creating&lt;/a0&gt; one or more styles, you may want to delete ones that you no longer use.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141226T165845Z" creationid="Photonoxx" creationdate="20141226T165845Z">
@@ -1850,6 +1858,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141118T144614Z" creationid="Photonoxx" creationdate="20141118T144614Z">
         <seg>Cliquez "Fait".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Click Export...</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141226T171356Z" creationid="Photonoxx" creationdate="20141226T171356Z">
+        <seg>Cliquez sur Exporter...</seg>
       </tuv>
     </tu>
     <tu>
@@ -9038,6 +9054,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Select the style you want to export.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141226T171338Z" creationid="Photonoxx" creationdate="20141226T171338Z">
+        <seg>Choisissez le style que vous souhaitez exporter.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Select the thumbnail of the photo in the browser that you want to rename.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141204T181322Z" creationid="Photonoxx" creationdate="20141204T181322Z">
@@ -10994,6 +11018,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141122T172128Z" creationid="Photonoxx" creationdate="20141122T172128Z">
         <seg>Pour éditer les métadonnées d'une photo :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To export a style:</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141226T171309Z" creationid="Photonoxx" creationdate="20141226T171309Z">
+        <seg>Pour exporter un style :</seg>
       </tuv>
     </tu>
     <tu>

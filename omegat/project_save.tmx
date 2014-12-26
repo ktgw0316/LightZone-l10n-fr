@@ -990,6 +990,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Additionally, you can create your own styles.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141226T173141Z" creationid="Photonoxx" creationdate="20141226T173141Z">
+        <seg>De plus, vous pouvez créer vos propres styles.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Additionally, you can replace the &lt;a2&gt;default tone curve&lt;/a2&gt; for a camera with a style you create.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141226T163838Z" creationid="Photonoxx" creationdate="20141226T163645Z">
@@ -5022,6 +5030,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Lastly, you can replace the &lt;a0&gt;default tone curve&lt;/a0&gt; for a camera with a style you create.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141226T173253Z" creationid="Photonoxx" creationdate="20141226T173253Z">
+        <seg>Pour finir, vous pouvez remplacer la &lt;a0&gt;Courbe de Tonalité par défaut&lt;/a0&gt; pour un appareil avec un style que vous avez créé.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Learn to use LightZone from start to finish.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141122T165001Z" creationid="Photonoxx" creationdate="20141122T165001Z">
@@ -5354,6 +5370,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141122T093721Z" creationid="Photonoxx" creationdate="20141122T093721Z">
         <seg>LightZone est fourni avec de nombreux styles prêts à l'emploi qui dans de nombreux cas vous permettent améliorer considérablement l'attractivité de vos photos d'un simple clic.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>LightZone comes bundled with many ready-made styles that you can use and learn from.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141226T173115Z" creationid="Photonoxx" creationdate="20141226T173115Z">
+        <seg>LightZone est fourni avec de nombreux styles prêts à l'emploi pour les utiliser et apprendre avec.</seg>
       </tuv>
     </tu>
     <tu>

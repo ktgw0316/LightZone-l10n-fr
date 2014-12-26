@@ -262,6 +262,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(The style will be written to a file having an &lt;c0&gt;lzt&lt;/c0&gt; extension.)</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141226T171558Z" creationid="Photonoxx" creationdate="20141226T171558Z">
+        <seg>(Le style sera écrit dans un fichier ayant une extension&lt;c0&gt;lzt&lt;/c0&gt;.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(The table above is illustrative and not exhaustive because what happens when an image file is dropped onto an application's icon or window depends entirely on the application.)</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141201T101751Z" creationid="Photonoxx" creationdate="20141201T101751Z">
@@ -442,6 +450,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141226T115551Z" creationid="Photonoxx" creationdate="20141226T115551Z">
         <seg>5 de 10</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>5 of 6</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141226T171743Z" creationid="Photonoxx" creationdate="20141226T171743Z">
+        <seg>5 de 6</seg>
       </tuv>
     </tu>
     <tu>
@@ -1834,6 +1850,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141111T150459Z" creationid="Photonoxx" creationdate="20141111T150459Z">
         <seg>Effacer...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Click Choose.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141226T171514Z" creationid="Photonoxx" creationdate="20141226T171514Z">
+        <seg>Cliquez sur Choisir.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5854,6 +5878,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>LightZone: Styles: Importing</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141226T171712Z" creationid="Photonoxx" creationdate="20141226T171712Z">
+        <seg>LightZone : Styles : Importation</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>LightZone: Table of Contents</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141204T181515Z" creationid="Photonoxx" creationdate="20141204T181515Z">
@@ -6330,6 +6362,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141201T094145Z" creationid="Photonoxx" creationdate="20141201T094145Z">
         <seg>Allez dans le dossier contenant la photo que vous voulez ouvrir.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Navigate to the folder where you want to export the style file to.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141226T171459Z" creationid="Photonoxx" creationdate="20141226T171459Z">
+        <seg>Naviguez jusqu'au dossier où vous souhaitez exporter le fichier de style.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9750,6 +9790,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Styles-Deleting.html</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141226T171738Z" creationid="Photonoxx" creationdate="20141226T171738Z">
+        <seg>Styles-Deleting.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Styles-Exporting.html</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141226T163344Z" creationid="Photonoxx" creationdate="20141226T163344Z">
@@ -9802,6 +9850,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141226T170948Z" creationid="Photonoxx" creationdate="20141226T170948Z">
         <seg>Styles : Exportation</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Styles: Importing</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141226T171616Z" creationid="Photonoxx" creationdate="20141226T171616Z">
+        <seg>Styles : Importation</seg>
       </tuv>
     </tu>
     <tu>

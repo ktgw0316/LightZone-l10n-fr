@@ -262,6 +262,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(The style will be imported.)</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141226T172230Z" creationid="Photonoxx" creationdate="20141226T172230Z">
+        <seg>(Le style sera importé.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(The style will be written to a file having an &lt;c0&gt;lzt&lt;/c0&gt; extension.)</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141226T171558Z" creationid="Photonoxx" creationdate="20141226T171558Z">
@@ -370,6 +378,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141118T145321Z" creationid="Photonoxx" creationdate="20141118T145321Z">
         <seg>1 de 2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>1 of 6</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141226T172315Z" creationid="Photonoxx" creationdate="20141226T172315Z">
+        <seg>1 de 6</seg>
       </tuv>
     </tu>
     <tu>
@@ -1010,6 +1026,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141115T090019Z" creationid="Photonoxx" creationdate="20141115T090019Z">
         <seg>Options Avancées</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>After &lt;a0&gt;creating&lt;/a0&gt; and &lt;a1&gt;exporting&lt;/a1&gt; one or more styles as LightZone Style files (having an &lt;c2&gt;lzt&lt;/c2&gt; extension), they can be imported into LightZone on other computers.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141226T172122Z" creationid="Photonoxx" creationdate="20141226T172122Z">
+        <seg>Après la &lt;a0&gt;création&lt;/a0&gt; et l'&lt;a1&gt;exportation&lt;/a1&gt; d'un ou plusieurs styles en fichier de Style LightZone (ayant une extension &lt;c2&gt;lzt&lt;/c2&gt;), ils peuvent être importés dans LightZone sur d'autres ordinateurs.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1890,6 +1914,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141226T171356Z" creationid="Photonoxx" creationdate="20141226T171356Z">
         <seg>Cliquez sur Exporter...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Click Import...</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141226T172146Z" creationid="Photonoxx" creationdate="20141226T172146Z">
+        <seg>Cliquez sur Importer...</seg>
       </tuv>
     </tu>
     <tu>
@@ -2994,6 +3026,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141226T125943Z" creationid="Photonoxx" creationdate="20141226T125943Z">
         <seg>Description des Intentions de rendu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Description of styles and hot to use them.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141226T172308Z" creationid="Photonoxx" creationdate="20141226T172308Z">
+        <seg>Description des styles et de leur utilisation.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5846,6 +5886,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>LightZone: Styles</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141226T172244Z" creationid="Photonoxx" creationdate="20141226T172244Z">
+        <seg>LightZone : Les Styles</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>LightZone: Styles: Applying</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141226T160050Z" creationid="Photonoxx" creationdate="20141226T160050Z">
@@ -6370,6 +6418,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141226T171459Z" creationid="Photonoxx" creationdate="20141226T171459Z">
         <seg>Naviguez jusqu'au dossier où vous souhaitez exporter le fichier de style.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Navigate to the style file you want to import.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141226T172212Z" creationid="Photonoxx" creationdate="20141226T172212Z">
+        <seg>Naviguez jusqu'au fichier que vous souhaitez importer.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11090,6 +11146,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141122T164406Z" creationid="Photonoxx" creationdate="20141122T164406Z">
         <seg>Pour revenir à une étape de l'Historique :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To import a style:</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141226T172131Z" creationid="Photonoxx" creationdate="20141226T172131Z">
+        <seg>Pour importer un style:</seg>
       </tuv>
     </tu>
     <tu>

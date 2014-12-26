@@ -5702,6 +5702,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Note that deleting a region does &lt;e0&gt;not&lt;/e0&gt; delete other regions it is linked to, if any.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141226T113251Z" creationid="Photonoxx" creationdate="20141226T113251Z">
+        <seg>Notez que supprimer une région &lt;e0&gt;ne&lt;/e0&gt; supprime pas les autres régions qui peuvent y être liées.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Note that your computer must have a connection to the internet when LightZone is launched in order to check.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141225T115303Z" creationid="Photonoxx" creationdate="20141225T115303Z">
@@ -7870,6 +7878,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Select the region you want to delete by clicking it.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141226T113333Z" creationid="Photonoxx" creationdate="20141226T113333Z">
+        <seg>Choisissez la région que vous souhaitez supprimer en cliquant dessus.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Select the thumbnail of the photo in the browser that you want to rename.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141204T181322Z" creationid="Photonoxx" creationdate="20141204T181322Z">
@@ -9482,6 +9498,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141226T111643Z" creationid="Photonoxx" creationdate="20141226T111643Z">
         <seg>Pour créer une région :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To delete a region:</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141226T113305Z" creationid="Photonoxx" creationdate="20141226T113305Z">
+        <seg>Pour supprimer une région :</seg>
       </tuv>
     </tu>
     <tu>

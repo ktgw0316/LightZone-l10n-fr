@@ -11886,6 +11886,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Using styles is the same as &lt;a2&gt;copying &amp; pasting&lt;/a2&gt; &lt;a3&gt;tool stacks&lt;/a3&gt; except that a style is saved with a name for use at any later time.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141226T172841Z" creationid="Photonoxx" creationdate="20141226T172841Z">
+        <seg>L'utilisation des styles revient à &lt;a2&gt;copier et coller&lt;/a2&gt; une &lt;a3&gt;chaîne de développement&lt;/a3&gt; à l'expection qu'un style est enregistré avec un nom pour l'utiliser à n'importe quel moment futur.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Using the Photo Browser, select two or more thumbnails of the photos that you want to convert.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141118T143228Z" creationid="Photonoxx" creationdate="20141118T143228Z">

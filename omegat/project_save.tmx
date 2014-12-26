@@ -190,6 +190,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(Styles are grouped into folders of your choosing.)</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141226T164203Z" creationid="Photonoxx" creationdate="20141226T164203Z">
+        <seg>(Les Styles sont groupés dans des dossiers de votre choix.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(Such metadata is known as IPTC metadata.)</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141122T171450Z" creationid="Photonoxx" creationdate="20141122T171450Z">
@@ -3498,6 +3506,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141115T083611Z" creationid="Photonoxx" creationdate="20141115T083611Z">
         <seg>Entrez le Créateur ici.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Enter or select a name for the style's folder.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141226T164136Z" creationid="Photonoxx" creationdate="20141226T164136Z">
+        <seg>Entrez ou choisissez un nom pour le dossier du style.</seg>
       </tuv>
     </tu>
     <tu>

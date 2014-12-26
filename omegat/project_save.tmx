@@ -350,6 +350,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>7 of 10</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141226T114114Z" creationid="Photonoxx" creationdate="20141226T114114Z">
+        <seg>7 de 10</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>8 Bits/Channel</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141115T085926Z" creationid="Photonoxx" creationdate="20141115T085926Z">
@@ -3686,6 +3694,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>How to delete control points from a region.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141226T114001Z" creationid="Photonoxx" creationdate="20141226T114001Z">
+        <seg>Comment supprimer des points de contrôle delete control points from a region.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>How to delete photos directly in LightZone.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141201T095454Z" creationid="Photonoxx" creationdate="20141201T095454Z">
@@ -5010,6 +5026,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141226T112951Z" creationid="Photonoxx" creationdate="20141226T112924Z">
         <seg>LightZone : Régions : Suppression</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>LightZone: Regions: Deleting Control Points</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141226T113918Z" creationid="Photonoxx" creationdate="20141226T113918Z">
+        <seg>LightZone : Régions : Supprimer des points de contrôle</seg>
       </tuv>
     </tu>
     <tu>
@@ -6782,6 +6806,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Regions-Inverting.html</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141226T114111Z" creationid="Photonoxx" creationdate="20141226T114111Z">
+        <seg>Regions-Inverting.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Regions.html</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141204T181759Z" creationid="Photonoxx" creationdate="20141204T181759Z">
@@ -6826,6 +6858,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141226T113000Z" creationid="Photonoxx" creationdate="20141226T112946Z">
         <seg>Régions : Suppression</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Regions: Deleting control points</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141226T114109Z" creationid="Photonoxx" creationdate="20141226T114109Z">
+        <seg>Régions : Supprimer des points de contrôle</seg>
       </tuv>
     </tu>
     <tu>
@@ -7658,6 +7698,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141225T174458Z" creationid="Photonoxx" creationdate="20141225T174458Z">
         <seg>Choisissez Éditer &gt; Copier la Région.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Select Edit &gt; Cut Region.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141226T114052Z" creationid="Photonoxx" creationdate="20141226T113851Z">
+        <seg>Choisissez Éditer &gt; Couper la Région. (*Alternativement, vous pouvez également appuyer sur la touche Suppr, ou faire un clic droit sur la région et choisir Supprimer la région*)</seg>
       </tuv>
     </tu>
     <tu>

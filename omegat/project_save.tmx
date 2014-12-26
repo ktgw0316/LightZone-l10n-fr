@@ -262,6 +262,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(The tools from the style will then be added to the top of the &lt;a0&gt;tool stack&lt;/a0&gt;.)</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141226T161222Z" creationid="Photonoxx" creationdate="20141226T161222Z">
+        <seg>( les outils du style seront alors ajoutés en haut de la &lt;a0&gt;chaîne de développement&lt;/a0&gt;.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(There is no significance to the order.) There is no limit to the number of control points a region may have.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141226T125326Z" creationid="Photonoxx" creationdate="20141226T125326Z">
@@ -10554,6 +10562,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141226T120627Z" creationid="Photonoxx" creationdate="20141226T120627Z">
         <seg>Pour ajuster la taille de la zone d'adoucissement d'une région :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To apply a style to the one or more photos in the browser:</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141226T161253Z" creationid="Photonoxx" creationdate="20141226T161253Z">
+        <seg>Pour appliquer le style à une ou plusieurs photos dans le navigateur :</seg>
       </tuv>
     </tu>
     <tu>

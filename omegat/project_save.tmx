@@ -446,6 +446,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;b0&gt;Note:&lt;/b0&gt; If you inadvertently start to create a region, you can press the &lt;b1&gt;esc&lt;/b1&gt; (escape) key to cancel creating the region.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141226T112904Z" creationid="Photonoxx" creationdate="20141226T112904Z">
+        <seg>&lt;b0&gt;Note:&lt;/b0&gt; Si vous avez commencé à créer une région sans le vouloir, vous pouvez appuyer sur la touche &lt;b1&gt;échap&lt;/b1&gt; pour annuler la création de la région.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;b0&gt;Note:&lt;/b0&gt; Rating either raw or TIFF files does not modify them in any way; instead, the rating information is stored in sidecar XMP files.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141204T180829Z" creationid="Photonoxx" creationdate="20141204T180829Z">
@@ -2754,6 +2762,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141201T102757Z" creationid="Photonoxx" creationdate="20141201T102757Z">
         <seg>Double-cliquez sur la vignette de la photo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Double-click to create the last control point.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141226T112711Z" creationid="Photonoxx" creationdate="20141226T112711Z">
+        <seg>Double-cliquez pour créer le dernier point de contrôle.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6882,6 +6898,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141225T163302Z" creationid="Photonoxx" creationdate="20141225T163302Z">
         <seg>Rendering_Intent.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Repeat for every desired control point.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141226T112636Z" creationid="Photonoxx" creationdate="20141226T112636Z">
+        <seg>Répétez l'opération pour chaque point de contrôle voulus.</seg>
       </tuv>
     </tu>
     <tu>

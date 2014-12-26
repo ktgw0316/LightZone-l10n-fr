@@ -550,6 +550,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;a0&gt;Tool anatomy&lt;/a0&gt; &amp; &lt;a1&gt;menu&lt;/a1&gt;</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141226T174342Z" creationid="Photonoxx" creationdate="20141226T174342Z">
+        <seg>&lt;a0&gt;Présentation des Outils&lt;/a0&gt; &amp; &lt;a1&gt;menu&lt;/a1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;a0&gt;ZoneFinder&lt;/a0&gt;, &lt;a1&gt;Color selection&lt;/a1&gt;, &lt;br2/&gt;</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141226T174215Z" creationid="Photonoxx" creationdate="20141226T174215Z">
@@ -570,6 +578,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141122T122605Z" creationid="Photonoxx" creationdate="20141122T122605Z">
         <seg>&lt;a2&gt;En savoir plus sur la Chaîne de développement...&lt;/a2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;a3&gt;Histogram&lt;/a3&gt;, &amp; &lt;a4&gt;Sampler&lt;/a4&gt;</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141226T174231Z" creationid="Photonoxx" creationdate="20141226T174231Z">
+        <seg>&lt;a3&gt;Histogramme&lt;/a3&gt;, &amp; &lt;a4&gt;Pipette&lt;/a4&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -1526,6 +1542,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Black &amp; White</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141226T174505Z" creationid="Photonoxx" creationdate="20141226T174505Z">
+        <seg>Noir et Blanc</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Black and White</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141115T094137Z" creationid="Photonoxx" creationdate="20141115T094137Z">
@@ -1610,6 +1634,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141111T145437Z" creationid="Photonoxx" creationdate="20141111T145437Z">
         <seg>Bleus</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Blur</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141226T174513Z" creationid="Photonoxx" creationdate="20141226T174513Z">
+        <seg>Flou</seg>
       </tuv>
     </tu>
     <tu>
@@ -2454,6 +2486,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Control tools overview</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141226T174318Z" creationid="Photonoxx" creationdate="20141226T174318Z">
+        <seg>Vue d'ensemble des Outils de Contrôle</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Convert</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141111T104537Z" creationid="Photonoxx" creationdate="20141111T104537Z">
@@ -2522,6 +2562,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141204T181804Z" creationid="Photonoxx" creationdate="20141204T181804Z">
         <seg>Converting.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Copy &amp; paste tools</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141226T174437Z" creationid="Photonoxx" creationdate="20141226T174437Z">
+        <seg>Outils Copier &amp; Coller</seg>
       </tuv>
     </tu>
     <tu>
@@ -3582,6 +3630,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Editing Tools</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141226T174453Z" creationid="Photonoxx" creationdate="20141226T174453Z">
+        <seg>Outils d'Édition</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Editing a photo</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141201T095418Z" creationid="Photonoxx" creationdate="20141201T095418Z">
@@ -3594,6 +3650,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141122T163710Z" creationid="Photonoxx" creationdate="20141122T163710Z">
         <seg>Manipuler l'historique.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Editing tools overview</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141226T174303Z" creationid="Photonoxx" creationdate="20141226T174303Z">
+        <seg>Vue d'ensemble des Outils d'Édition</seg>
       </tuv>
     </tu>
     <tu>
@@ -12274,6 +12338,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141201T102915Z" creationid="Photonoxx" creationdate="20141201T102915Z">
         <seg>Avec la photo sélectionnée, appuyer sur &lt;b0&gt;entrée&lt;/b0&gt; ou &lt;b1&gt;return&lt;/b1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Workflow integration</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141226T174406Z" creationid="Photonoxx" creationdate="20141226T174406Z">
+        <seg>Intégration à un flux de travail</seg>
       </tuv>
     </tu>
     <tu>

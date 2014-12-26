@@ -158,6 +158,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(See also &lt;a0&gt;Black point compensation&lt;/a0&gt;.)</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141226T152851Z" creationid="Photonoxx" creationdate="20141226T152851Z">
+        <seg>(Voir aussi &lt;a0&gt;Compensation du Point Noir&lt;/a0&gt;.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(See also: Exclusion.)</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141117T111211Z" creationid="Photonoxx" creationdate="20141117T111211Z">
@@ -6486,6 +6494,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Perceptual</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141226T152858Z" creationid="Photonoxx" creationdate="20141226T152858Z">
+        <seg>Perceptuel</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Photo Browser</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141201T090459Z" creationid="Photonoxx" creationdate="20141201T090459Z">
@@ -9838,6 +9854,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This intent is suitable for photos with lots of out-of-gamut colors.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141226T153115Z" creationid="Photonoxx" creationdate="20141226T153115Z">
+        <seg>Ce mode convient aux photos contenant un grand nombre de couleurs non imprimables.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This intent tries to maintain color accuracy at the expense of preserving relationships between colors and is suitable for proofing to simulate the output of a particular device.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141226T152129Z" creationid="Photonoxx" creationdate="20141226T152129Z">
@@ -9946,6 +9970,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141201T083939Z" creationid="Photonoxx" creationdate="20141201T083939Z">
         <seg>Cette page répertorie uniquement les nouvelles fonctionnalités dans LightZone.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This preserves more of the original colors in a photo than Perceptual.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141226T152832Z" creationid="Photonoxx" creationdate="20141226T152832Z">
+        <seg>Ceci préserve davantage les couleurs originales de la photo que le mode Perception.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10658,6 +10690,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141115T100744Z" creationid="Photonoxx" creationdate="20141115T100744Z">
         <seg>Haut</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Tries to preserve the visual relationship between colors so it is perceived as natural to the human eye even though the color values themselves may change.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141226T153049Z" creationid="Photonoxx" creationdate="20141226T153049Z">
+        <seg>Ce mode tend à conserver les relations visuelles entre les couleurs, afin qu’elles soient perçues comme naturelles par l’œil humain, même si les valeurs chromatiques peuvent elles-mêmes varier.</seg>
       </tuv>
     </tu>
     <tu>

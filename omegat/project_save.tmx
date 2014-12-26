@@ -342,6 +342,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>5 of 10</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141226T115551Z" creationid="Photonoxx" creationdate="20141226T115551Z">
+        <seg>5 de 10</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>6 of 10</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141225T171053Z" creationid="Photonoxx" creationdate="20141225T171053Z">
@@ -3686,6 +3694,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>How to control the feathering of regions.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141226T115530Z" creationid="Photonoxx" creationdate="20141226T115530Z">
+        <seg>Comment contrôler l'adoucissement des régions.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>How to convert your photos to JPEG or TIFF image files.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141118T144937Z" creationid="Photonoxx" creationdate="20141118T144937Z">
@@ -6798,6 +6814,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Regions-Adding_Point.html</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141226T115545Z" creationid="Photonoxx" creationdate="20141226T115545Z">
+        <seg>Regions-Adding_Point.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Regions-Adjusting.html</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141225T120337Z" creationid="Photonoxx" creationdate="20141225T120337Z">
@@ -6898,6 +6922,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141226T114109Z" creationid="Photonoxx" creationdate="20141226T114109Z">
         <seg>Régions : Supprimer des points de contrôle</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Regions: Feathering</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141226T115543Z" creationid="Photonoxx" creationdate="20141226T115543Z">
+        <seg>Régions : Adoucissement</seg>
       </tuv>
     </tu>
     <tu>

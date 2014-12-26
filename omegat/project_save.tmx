@@ -302,6 +302,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>1 of 10</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141226T123700Z" creationid="Photonoxx" creationdate="20141226T123654Z">
+        <seg>1 de 10</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>1 of 2</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141118T145321Z" creationid="Photonoxx" creationdate="20141118T145321Z">
@@ -2562,6 +2570,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141117T094418Z" creationid="Photonoxx" creationdate="20141117T094418Z">
         <seg>Description de la Compensation du Point Noir.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Description of regions and region-related topics.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141226T123643Z" creationid="Photonoxx" creationdate="20141226T123643Z">
+        <seg>Description des régions et sujets connexes.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7046,6 +7062,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Regions-Kinds.html</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141226T123650Z" creationid="Photonoxx" creationdate="20141226T123650Z">
+        <seg>Regions-Kinds.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Regions.html</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141204T181759Z" creationid="Photonoxx" creationdate="20141204T181759Z">
@@ -10626,6 +10650,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141117T152542Z" creationid="Photonoxx" creationdate="20141117T152542Z">
         <seg>En utilisant une Sélection de Couleur/Luminosité, vous pouvez restreindre l'effet de l'outil à une gamme de teinte et/ou de luminosité sélectionnée.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Using regions to create &lt;e0&gt;masks&lt;/e0&gt;, you can restrict a tool's effect to just specific areas of your photo.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141226T123859Z" creationid="Photonoxx" creationdate="20141226T123859Z">
+        <seg>En utilisant des régions pour créer des &lt;e0&gt;masques&lt;/e0&gt;, vous pouvez restreindre l'effets des outils à une partie spécifique de votre photo.</seg>
       </tuv>
     </tu>
     <tu>

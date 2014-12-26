@@ -10942,6 +10942,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>When either &lt;a0&gt;converting&lt;/a0&gt; or &lt;a1&gt;printing&lt;/a1&gt; your photos using application managed colors, you can select the &lt;e2&gt;rendering intent&lt;/e2&gt;.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141226T145811Z" creationid="Photonoxx" creationdate="20141226T145811Z">
+        <seg>Lors de la &lt;a0&gt;conversion&lt;/a0&gt; ou de l'&lt;a1&gt;impression&lt;/a1&gt; de vos photos avec les couleurs gérées par l'application, vous pouvez choisir l'&lt;e2&gt;intention de rendu&lt;/e2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>When initially creating regions, you can do a "rough approximation"; then, if needed, you can go back and adjust them.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141225T172634Z" creationid="Photonoxx" creationdate="20141225T172634Z">

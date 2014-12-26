@@ -4534,6 +4534,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Leaves colors that fall inside the destination gamut unchanged.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141226T150239Z" creationid="Photonoxx" creationdate="20141226T150239Z">
+        <seg>Laisse les couleurs qui sont dans le gamut de destination inchangées.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Left</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141115T100727Z" creationid="Photonoxx" creationdate="20141115T100727Z">
@@ -6354,6 +6362,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141124T104241Z" creationid="Photonoxx" creationdate="20141124T104241Z">
         <seg>Les autres applications qui affiche les Images TIFF Multipages montre la première page par défaut.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Out-of-gamut colors are clipped.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141226T150355Z" creationid="Photonoxx" creationdate="20141226T150355Z">
+        <seg>Les couleurs hors gamut sont tronquées.</seg>
       </tuv>
     </tu>
     <tu>

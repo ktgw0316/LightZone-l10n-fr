@@ -5134,6 +5134,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>LightZone: Regions and Masks</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141226T123610Z" creationid="Photonoxx" creationdate="20141226T123610Z">
+        <seg>LightZone : Régions et Masques</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>LightZone: Regions: Adding Control Points</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141225T171014Z" creationid="Photonoxx" creationdate="20141225T171014Z">
@@ -5618,6 +5626,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141226T122851Z" creationid="Photonoxx" creationdate="20141226T122851Z">
         <seg>Modifer un point de contrôle peut affecter la forme globale de la région entière.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Moving a control point only locally affects the shape of the region.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141226T123544Z" creationid="Photonoxx" creationdate="20141226T123544Z">
+        <seg>Modifer un point de contrôle affecte la forme de la région de façon locale uniquement.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8994,6 +9010,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141117T152000Z" creationid="Photonoxx" creationdate="20141117T152000Z">
         <seg>Le bouton &lt;b0&gt;Envoyer&lt;/b0&gt; est équivalent à Fichier &gt; &lt;a1&gt;Envoyer&lt;/a1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The &lt;b0&gt;Spline&lt;/b0&gt; region button creates a region much like a Bézier, yet the region boundary is defined inside the control points.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141226T123448Z" creationid="Photonoxx" creationdate="20141226T123448Z">
+        <seg>Le Bouton de région &lt;b0&gt;Spline&lt;/b0&gt; crée une région ressemblant à une Bézier, dont la limite de la région se trouve à l'intérieur des points de contrôle.</seg>
       </tuv>
     </tu>
     <tu>

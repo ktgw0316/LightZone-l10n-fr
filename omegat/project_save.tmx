@@ -1166,6 +1166,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>As you move the mouse, the information updates.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141226T154106Z" creationid="Photonoxx" creationdate="20141226T154106Z">
+        <seg>En bougeant la souris, les informations sont mises à jour.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>As-Shot White Balance</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141115T094736Z" creationid="Photonoxx" creationdate="20141115T094526Z">
@@ -1842,6 +1850,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141225T171431Z" creationid="Photonoxx" creationdate="20141225T171431Z">
         <seg>Cliquez sur le bouton Régions de la &lt;a0&gt;barre d'outils&lt;/a0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Click the Sampler tab.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141226T154151Z" creationid="Photonoxx" creationdate="20141226T154151Z">
+        <seg>Cliquez sur l'onglet Pipette.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4134,6 +4150,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>How to save the edits you've made to your photo.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141226T154342Z" creationid="Photonoxx" creationdate="20141226T154342Z">
+        <seg>Comment enregistrer les éditions que vous avez faites à votre photo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>How to select a photo to edit from the Photo Browser.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141201T102407Z" creationid="Photonoxx" creationdate="20141201T102407Z">
@@ -5506,6 +5530,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141226T153334Z" creationid="Photonoxx" creationdate="20141226T153334Z">
         <seg>LightZone : Pipette</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>LightZone: Saving Your Work</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141226T154220Z" creationid="Photonoxx" creationdate="20141226T154220Z">
+        <seg>LightZone : Enregistrez Votre Travail</seg>
       </tuv>
     </tu>
     <tu>
@@ -8806,6 +8838,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Sharing space with the &lt;a0&gt;ZoneFinder&lt;/a0&gt;, &lt;a1&gt;Color Selection Viewer&lt;/a1&gt;, and &lt;a2&gt;Histogram&lt;/a2&gt;, in the upper-right corner of the LightZone window is also the Sampler that shows information about the pixel in your photo that is directly under the mouse.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141226T154042Z" creationid="Photonoxx" creationdate="20141226T154042Z">
+        <seg>Partageant l'espace avec le &lt;a0&gt;ZoneFinder&lt;/a0&gt;, le &lt;a1&gt;visionneur de la Sélection Couleur&lt;/a1&gt;, et &lt;a2&gt;l'Histogramme&lt;/a2&gt; dans le coin en haut à droite de la fenêtre de LightZone se trouve aussi la Pipette qui affiche des informations sur le pixel qui se trouve directement sous le pointeur de la souris.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Sharing space with the &lt;a0&gt;ZoneFinder&lt;/a0&gt;, &lt;a1&gt;Color Selection Viewer&lt;/a1&gt;, and &lt;a2&gt;Sampler&lt;/a2&gt; in the upper-right corner of the LightZone window is also the histogram that shows the distribution of intensity for each of the red, green, and blue color channels.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141122T162548Z" creationid="Photonoxx" creationdate="20141122T162548Z">
@@ -10610,6 +10650,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141118T102519Z" creationid="Photonoxx" creationdate="20141118T102203Z">
         <seg>Pour afficher le Visionneur de Sélection Couleur :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To show the Sampler:</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141226T154125Z" creationid="Photonoxx" creationdate="20141226T154125Z">
+        <seg>Pour afficher la Pipette :</seg>
       </tuv>
     </tu>
     <tu>

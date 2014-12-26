@@ -3104,8 +3104,8 @@
       <tuv lang="EN-US">
         <seg>Every region in LightZone has a &lt;e0&gt;feathering area&lt;/e0&gt; that is marked by an inner line that matches the contour of the region.</seg>
       </tuv>
-      <tuv lang="FR" changeid="Photonoxx" changedate="20141226T115843Z" creationid="Photonoxx" creationdate="20141226T115843Z">
-        <seg>Toutes les régions dans LightZone ont une &lt;e0&gt;zone d'adoucissement&lt;/e0&gt; qui est marquée par une ligne intérieure qui suit le contour de la région.</seg>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141226T120102Z" creationid="Photonoxx" creationdate="20141226T115843Z">
+        <seg>Toutes les régions dans LightZone ont une &lt;e0&gt;zone d'adoucissement&lt;/e0&gt; qui est marquée par une tracé intérieur qui suit le contour de la région.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4122,6 +4122,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141106T114305Z" creationid="Photonoxx" creationdate="20141106T114305Z">
         <seg>Initialisation Engine Utilities</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Inside the inner line, the tool for the region has 100% effect; outside the outer line, the tool has 0% effect.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141226T120233Z" creationid="Photonoxx" creationdate="20141226T120053Z">
+        <seg>Dans ce tracé intérieur, l'effet de l'outil pour cette région est de 100%; En dehors du tracé extérieur de la région, l'effet de l'outil est de 0%.</seg>
       </tuv>
     </tu>
     <tu>

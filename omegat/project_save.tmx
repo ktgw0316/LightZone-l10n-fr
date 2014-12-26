@@ -7294,6 +7294,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Relative Colorimetric</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141226T152520Z" creationid="Photonoxx" creationdate="20141226T152520Z">
+        <seg>Colorimétrie Relative</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Remember Preset</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141115T092226Z" creationid="Photonoxx" creationdate="20141115T092226Z">
@@ -9802,6 +9810,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141226T114347Z" creationid="Photonoxx" creationdate="20141226T114347Z">
         <seg>Ceci comprend la suppression des points de contrôle qui ne sont plus nécessaires.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This intent is particularly useful for previewing how paper color affects printed colors.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141226T152500Z" creationid="Photonoxx" creationdate="20141226T152500Z">
+        <seg>Ce mode est particulièrement utile pour prévisualiser la façon dont la couleur du papier agit sur les couleurs imprimées.</seg>
       </tuv>
     </tu>
     <tu>

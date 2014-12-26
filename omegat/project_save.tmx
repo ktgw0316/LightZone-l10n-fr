@@ -622,6 +622,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A "LightZone JPEG" file is an ordinary JPEG file that is a preview version of your original photo but also contains the &lt;a0&gt;tool stack&lt;/a0&gt; you created while editing your photo.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141226T154759Z" creationid="Photonoxx" creationdate="20141226T154759Z">
+        <seg>Un fichier "JPEG LightZone" est un fichier JPEG classique qui est un aperçu d'une version de votre photo mais qui contient également la &lt;a0&gt; chaîne de développement&lt;/a0&gt; que vous avez créée en éditant votre photo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A Style named "$1" already exists.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141106T111323Z" creationid="Photonoxx" creationdate="20141106T111323Z">
@@ -1442,6 +1450,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141117T093029Z" creationid="Photonoxx" creationdate="20141117T093029Z">
         <seg>Présentation du Navigateur</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>By default, LightZone appends &lt;t1&gt;_lzn&lt;/t1&gt; to the file name to indicate that it's a LightZone JPEG.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141226T154911Z" creationid="Photonoxx" creationdate="20141226T154911Z">
+        <seg>Par défaut, LightZone ajoute &lt;t1&gt;_lzn&lt;/t1&gt; au nom de fichier pour indiquer que c'est un JPEG LightZone.</seg>
       </tuv>
     </tu>
     <tu>

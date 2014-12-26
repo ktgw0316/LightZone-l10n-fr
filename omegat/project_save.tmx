@@ -5886,6 +5886,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Occasionally, it's useful to be able to use a mask to specify an area of your photo to &lt;e1&gt;exclude&lt;/e1&gt; from a tool's effect.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141226T121537Z" creationid="Photonoxx" creationdate="20141226T121537Z">
+        <seg>Cependant, il est très utile de pouvoir utiliser un masque définir les parties de votre photo à &lt;e1&gt;exclure&lt;/e1&gt; de l'effet d'un outil.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>On the left side of the LightZone window is the Folder Navigator that shows the folders on your computer.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141124T114622Z" creationid="Photonoxx" creationdate="20141124T114554Z">
@@ -8158,6 +8166,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Select the tool whose mask you want to invert by clicking its title bar.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141226T121740Z" creationid="Photonoxx" creationdate="20141226T121740Z">
+        <seg>Choisissez l'outil dont vous souhaitez inverser le masque en cliquant sur sa barre de titre.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Select the type of image to convert to: JPEG or TIFF.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141118T144251Z" creationid="Photonoxx" creationdate="20141118T144251Z">
@@ -9846,6 +9862,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>To invert a mask for a tool:</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141226T121655Z" creationid="Photonoxx" creationdate="20141226T121655Z">
+        <seg>Pour inverser le masque d'un outil :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>To learn about the key features, see the &lt;a0&gt;Discover LightZone&lt;/a0&gt; page.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141201T084037Z" creationid="Photonoxx" creationdate="20141201T084037Z">
@@ -10858,6 +10882,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141106T111134Z" creationid="Photonoxx" creationdate="20141106T111134Z">
         <seg>Vous pouvez continuer et ouvrir ce fichier, ou essayer de l'importer comme un Style LightZone.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can invert a mask to do this.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141226T121627Z" creationid="Photonoxx" creationdate="20141226T121627Z">
+        <seg>Vous pouvez inverser un masque pour ce faire.</seg>
       </tuv>
     </tu>
     <tu>

@@ -3574,6 +3574,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Each photo's &lt;a0&gt;rating&lt;/a0&gt; (if any) is shown in the lower-left corner of its thumbnail.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141227T080301Z" creationid="Photonoxx" creationdate="20141227T080301Z">
+        <seg>La &lt;a0&gt;note&lt;/a0&gt; de chaque photo (si elle existe) est affichée en bas à gauche de sa vignette.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Each photo's type is shown in the lower-right corner of its thumbnail.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141227T080338Z" creationid="Photonoxx" creationdate="20141227T080338Z">
+        <seg>Le type de chaque photo est affichée en bas à droite de sa vignette.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Edit</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141111T104054Z" creationid="Photonoxx" creationdate="20141111T104054Z">

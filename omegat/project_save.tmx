@@ -78,6 +78,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(A new black &amp; white tool will appear at the top of the &lt;a1&gt;tool stack&lt;/a1&gt;.)</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141227T142729Z" creationid="Photonoxx" creationdate="20141227T142729Z">
+        <seg>(Un nouvel outil Noir et Blanc apparaîtra en haut de la &lt;a1&gt;chaîne de développement&lt;/a1&gt;.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>(For example, clicking somewhere in the yellow part of the color wheel applies yellow filter.)</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141227T142914Z" creationid="Photonoxx" creationdate="20141227T142914Z">
+        <seg>(Par exemple, cliquer quelque part dans les jaunes de la roue chromatique applique un filtre jaune.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(For example, you create a sharpen tool &lt;e1&gt;as a layer&lt;/e1&gt; rather than sharpening an existing layer.) This means that every tool is non-destructive and therefore can be modified or deleted at any time.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141122T122524Z" creationid="Photonoxx" creationdate="20141122T122524Z">
@@ -11354,6 +11370,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141226T120627Z" creationid="Photonoxx" creationdate="20141226T120627Z">
         <seg>Pour ajuster la taille de la zone d'adoucissement d'une région :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To apply a colored filter, click in the color wheel.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141227T142811Z" creationid="Photonoxx" creationdate="20141227T142811Z">
+        <seg>Pour appliquer un filtre de couleur, cliquez dans la roue des couleurs.</seg>
       </tuv>
     </tu>
     <tu>

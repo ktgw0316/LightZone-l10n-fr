@@ -94,6 +94,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(It does not alter any thumbnails that may be embedded inside the image files.)</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141227T140541Z" creationid="Photonoxx" creationdate="20141227T140541Z">
+        <seg>(Il n'altère pas les vignettes qui peuvent être encapsulée dans les fichiers images.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(Its contour will change from a solid line to a dashed line.)</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141225T174152Z" creationid="Photonoxx" creationdate="20141225T174152Z">
@@ -10330,6 +10338,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141117T151915Z" creationid="Photonoxx" creationdate="20141117T151915Z">
         <seg>Le bouton &lt;b0&gt;Styles&lt;/b0&gt;  vous permet d'appliquer un Style aux photos dont les aperçus sont actuellement sélectionnés.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The &lt;b0&gt;Thumbnail size&lt;/b0&gt; slider controls the size of the thumbnails shown in the browser.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141227T140427Z" creationid="Photonoxx" creationdate="20141227T140427Z">
+        <seg>La jauge &lt;b0&gt;Taille des Vignettes&lt;/b0&gt; contrôle la taille des vignettes affichées dans le navigateur.</seg>
       </tuv>
     </tu>
     <tu>

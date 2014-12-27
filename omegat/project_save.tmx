@@ -102,6 +102,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(Each has its own cross-hair cursor.) The advantage of doing this is that they all share the same &lt;a2&gt;blend mode&lt;/a2&gt;, &lt;a3&gt;opacity&lt;/a3&gt;, and &lt;a4&gt;color &amp; luminosity&lt;/a4&gt; selection.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141227T150609Z" creationid="Photonoxx" creationdate="20141227T150609Z">
+        <seg>(Chacune ayant son propre réticule.) L'avantage de procéder ainsi étant qu'elles partageront toutes les mêmes &lt;a2&gt;mode de fusion&lt;/a2&gt;, &lt;a3&gt;opacité&lt;/a3&gt;, et sélection de &lt;a4&gt;couleur &amp; luminosité&lt;/a4&gt; selection.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(For example, clicking somewhere in the yellow part of the color wheel applies yellow filter.)</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141227T142914Z" creationid="Photonoxx" creationdate="20141227T142914Z">
@@ -10250,6 +10258,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141115T094237Z" creationid="Photonoxx" creationdate="20141115T094237Z">
         <seg>Poussière</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Spot tool</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141227T150626Z" creationid="Photonoxx" creationdate="20141227T150626Z">
+        <seg>Outils Poussière</seg>
       </tuv>
     </tu>
     <tu>

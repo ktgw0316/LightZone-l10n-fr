@@ -1158,6 +1158,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Adjusting color balance</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141227T151234Z" creationid="Photonoxx" creationdate="20141227T151234Z">
+        <seg>Ajuster la Balance de Couleur</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Adjusting the feathering area</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141226T125648Z" creationid="Photonoxx" creationdate="20141226T125648Z">
@@ -4666,6 +4674,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141225T171034Z" creationid="Photonoxx" creationdate="20141225T171034Z">
         <seg>Comment ajouter des points de contrôle à une région.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>How to adjust the color balance of your photo.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141227T151213Z" creationid="Photonoxx" creationdate="20141227T151213Z">
+        <seg>Comment ajuster la balance de couleur de votre photo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13642,6 +13658,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141227T144816Z" creationid="Photonoxx" creationdate="20141227T144816Z">
         <seg>images/Tool-Clone-en.png</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>images/Tool-Color_Balance-en.png</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141227T151236Z" creationid="Photonoxx" creationdate="20141227T151236Z">
+        <seg>images/Tool-Color_Balance-en.png</seg>
       </tuv>
     </tu>
     <tu>

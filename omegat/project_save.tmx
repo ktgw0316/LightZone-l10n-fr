@@ -342,10 +342,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(a) unstacked</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141227T140206Z" creationid="Photonoxx" creationdate="20141227T140206Z">
+        <seg>(a) Déplié</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(b) blues selected</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141118T101807Z" creationid="Photonoxx" creationdate="20141118T101807Z">
         <seg>(b) bleus sélectionnés</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>(b) stacked</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141227T140213Z" creationid="Photonoxx" creationdate="20141227T140213Z">
+        <seg>(b) Replié</seg>
       </tuv>
     </tu>
     <tu>
@@ -1178,6 +1194,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141226T153652Z" creationid="Photonoxx" creationdate="20141226T153652Z">
         <seg>Alpha-7 Digital, Dimage A1, Dimage A2, Dimage A200, Dimage 5, Dimage 7, Dimage 7 HI, Dynax 5D, Dynax 7D, Maxxum 7D</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Alternatively, by clicking the Stack button, thumbnails of your photos can be shown stacked where only the latest edited version of your photo is shown.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141227T140054Z" creationid="Photonoxx" creationdate="20141227T140054Z">
+        <seg>Par ailleurs, en cliquant sur le bouton Empilement, les vignettes des versions d'une même photo peuvent être affichées repliées ne laissant visible que la dernière version éditée.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10538,6 +10562,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141201T083644Z" creationid="Photonoxx" creationdate="20141201T083644Z">
         <seg>Les Nouvelles fonctionnalités dans LightZone.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The number of photos in the stack is indicated by a number in the upper-left corner of the thumbnail.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141227T140159Z" creationid="Photonoxx" creationdate="20141227T140159Z">
+        <seg>Le nombre de photos de l'empilement est indiqué dans ce cas par un nombre en haut à gauche de la vignette.</seg>
       </tuv>
     </tu>
     <tu>

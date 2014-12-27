@@ -758,6 +758,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;b0&gt;Note:&lt;/b0&gt; It is often useful to have multiple instances of the color balance tool in the &lt;a1&gt;tool stack&lt;/a1&gt; to remove color casts from multiple areas of your photo.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141227T153608Z" creationid="Photonoxx" creationdate="20141227T153608Z">
+        <seg>&lt;b0&gt;Note:&lt;/b0&gt; Il est souvent utile d'avoir plusieurs instances de l'outil Balance de Couleur dans la &lt;a1&gt;chaîne de développement&lt;/a1&gt; pour enlever les teintes dominantes de plusieurs parties de votre photo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;b0&gt;Note:&lt;/b0&gt; Rating either raw or TIFF files does not modify them in any way; instead, the rating information is stored in sidecar XMP files.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141204T180829Z" creationid="Photonoxx" creationdate="20141204T180829Z">
@@ -8206,6 +8214,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Raw Adjustments tool</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141227T153626Z" creationid="Photonoxx" creationdate="20141227T153626Z">
+        <seg>Outil d'Ajustements RAW</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Raw files from Canon, Fuji, Kodak, Leaf Valeo, Leica, Minolta, Nikon, Olympus, Panasonic, Pentax, and Sony cameras are supported.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141122T121608Z" creationid="Photonoxx" creationdate="20141122T121608Z">
@@ -12954,6 +12970,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141115T094105Z" creationid="Photonoxx" creationdate="20141115T094105Z">
         <seg>Balance des Blancs</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>White Balance tool</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141227T153641Z" creationid="Photonoxx" creationdate="20141227T153641Z">
+        <seg>Outil de Balance des Blancs</seg>
       </tuv>
     </tu>
     <tu>

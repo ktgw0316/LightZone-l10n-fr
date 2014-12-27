@@ -12094,6 +12094,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Using thumbnails, you can select a photo to &lt;a0&gt;view it larger&lt;/a0&gt;, &lt;a1&gt;inspect its metadata&lt;/a1&gt;, &lt;a2&gt;rotate it&lt;/a2&gt;, &lt;a3&gt;rate it&lt;/a3&gt;, &lt;a4&gt;edit it&lt;/a4&gt;, &lt;a5&gt;convert it&lt;/a5&gt;, &lt;a6&gt;send it&lt;/a6&gt;, &lt;a7&gt;print it&lt;/a7&gt;, &lt;a8&gt;copy &amp; paste its tools&lt;/a8&gt;, &lt;a9&gt;apply a style to it&lt;/a9&gt;, &lt;a10&gt;drag &amp; drop it&lt;/a10&gt;, or &lt;a11&gt;rename&lt;/a11&gt; or &lt;a12&gt;delete&lt;/a12&gt; the image file.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141227T074751Z" creationid="Photonoxx" creationdate="20141227T074751Z">
+        <seg>En utilisant les vignettes, vous pouvez choisir une photo pour &lt;a0&gt;la voir en plus grand&lt;/a0&gt;, &lt;a1&gt;consulter ses métadonnées&lt;/a1&gt;, &lt;a2&gt;la tourner&lt;/a2&gt;, &lt;a3&gt;la noter&lt;/a3&gt;, &lt;a4&gt;l'éditer&lt;/a4&gt;, &lt;a5&gt;la convertir&lt;/a5&gt;, &lt;a6&gt;l'envoyer&lt;/a6&gt;, &lt;a7&gt;l'imprimer&lt;/a7&gt;, &lt;a8&gt;copier et coller ses outils&lt;/a8&gt;, &lt;a9&gt;lui appliquer un style&lt;/a9&gt;, &lt;a10&gt;la glisser et la déposer&lt;/a10&gt;, ou pour &lt;a11&gt;renommer&lt;/a11&gt; ou &lt;a12&gt;supprimer&lt;/a12&gt; le fichier image.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Vector-based regions and masks</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141122T102754Z" creationid="Photonoxx" creationdate="20141122T102754Z">

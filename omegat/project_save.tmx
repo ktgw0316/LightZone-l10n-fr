@@ -4854,6 +4854,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>However, the regions can not be &lt;a1&gt;inverted&lt;/a1&gt;.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141227T145345Z" creationid="Photonoxx" creationdate="20141227T145345Z">
+        <seg>Cependant, les régions ne peuvent être &lt;a1&gt;inversées&lt;/a1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Hue</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141115T091045Z" creationid="Photonoxx" creationdate="20141115T091045Z">
@@ -10766,6 +10774,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The clone tool is a more general version of the &lt;a0&gt;Spot tool&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141227T145159Z" creationid="Photonoxx" creationdate="20141227T145159Z">
+        <seg>L'outil Cloner est une version plus générale de l'&lt;a0&gt;outil Poussières&lt;/a0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The different kinds of regions.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141226T122229Z" creationid="Photonoxx" creationdate="20141226T122229Z">
@@ -11590,6 +11606,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>To clone an area of your photo:</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141227T145410Z" creationid="Photonoxx" creationdate="20141227T145410Z">
+        <seg>Pour cloner une partie de votre photo :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>To convert a color photo to black-and-white:</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141227T142555Z" creationid="Photonoxx" creationdate="20141227T142555Z">
@@ -12306,6 +12330,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141122T103451Z" creationid="Photonoxx" creationdate="20141122T103451Z">
         <seg>Contrairement à d'autres applications, LightZone vous permet de &lt;e0&gt;tracer&lt;/e0&gt; (plutôt que de &lt;e1&gt;peindre&lt;/e1&gt;) les régions.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Unlike other tools, the clone tool is special in that it needs at least one &lt;a0&gt;region&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141227T145309Z" creationid="Photonoxx" creationdate="20141227T145309Z">
+        <seg>Contrairement aux autres outils, l'Outil Cloner est spécial en cela qu'il a besoin d'au moins une &lt;a0&gt;région&lt;/a0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13266,6 +13298,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141227T144043Z" creationid="Photonoxx" creationdate="20141227T144043Z">
         <seg>images/Button-Blur.png</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>images/Button-Clone.png</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141227T145411Z" creationid="Photonoxx" creationdate="20141227T145411Z">
+        <seg>images/Button-Clone.png</seg>
       </tuv>
     </tu>
     <tu>

@@ -10422,6 +10422,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The &lt;b0&gt;Blur&lt;/b0&gt; tool allows you to blur all or parts of your photo by a specified radius.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141227T143842Z" creationid="Photonoxx" creationdate="20141227T143842Z">
+        <seg>L'outil &lt;b0&gt;Flou&lt;/b0&gt; vous permet de rendre flou, par un rayon donné, tout ou partie de votre photo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The &lt;b0&gt;Bézier&lt;/b0&gt; region button creates a region having curved lines connecting the control points.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141226T122644Z" creationid="Photonoxx" creationdate="20141226T122644Z">

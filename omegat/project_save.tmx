@@ -10326,6 +10326,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The &lt;b0&gt;Sort criteria&lt;/b0&gt; pop-up menu allows you to change the order by which the thumbnails for your photos are displayed.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141227T141145Z" creationid="Photonoxx" creationdate="20141227T141145Z">
+        <seg>Le menu déroulant des &lt;b0&gt;Critère de Tri&lt;/b0&gt; vous permet de choisir l'information selon laquelle vos vignettes seront triées.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The &lt;b0&gt;Sort order&lt;/b0&gt; button controls whether your photos are sorted either in ascending or descending order for the current sort criteria.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141227T140944Z" creationid="Photonoxx" creationdate="20141227T140944Z">
+        <seg>Le bouton &lt;b0&gt;Ordre de tri&lt;/b0&gt; définit si vos photos sont triées par ordre croissant ou décroissantpour le critère de tri actuellement en cours.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The &lt;b0&gt;Spline&lt;/b0&gt; region button creates a region much like a Bézier, yet the region boundary is defined inside the control points.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141226T123448Z" creationid="Photonoxx" creationdate="20141226T123448Z">

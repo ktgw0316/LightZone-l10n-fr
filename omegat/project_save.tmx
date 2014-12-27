@@ -1438,6 +1438,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Anatomy-Tool_Stack.html</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141227T153411Z" creationid="Photonoxx" creationdate="20141227T153411Z">
+        <seg>Anatomy-Tool_Stack.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Any</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141114T183800Z" creationid="Photonoxx" creationdate="20141114T183704Z">
@@ -5090,6 +5098,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141225T163300Z" creationid="Photonoxx" creationdate="20141225T162910Z">
         <seg>Si le pilote d'impression offre un réglage pour ne pas faire de conversion de couleur (habituellement appelé "Couleur gérée par l'application" ou "Pas d'ajustements de Couleur") alors, vous avez le choix de laisser LightZone ou le pilote d'impression de procéder à cette conversion.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If you are satisfied with the color cast reduction, click the eyedropper button again to complete the reduction; otherwise repeat step (b) until you are satisfied.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141227T153407Z" creationid="Photonoxx" creationdate="20141227T153407Z">
+        <seg>Si vous êtes satisfait avec la réduction de la teinte, cliquez une fois de plus sur la pipette pour valider la réduction ; autrement, répétez l'étape (b) jusqu'à satisfaction.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10946,6 +10962,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141227T145159Z" creationid="Photonoxx" creationdate="20141227T145159Z">
         <seg>L'outil Cloner est une version plus générale de l'&lt;a0&gt;outil Poussières&lt;/a0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The color swatch and the Red, Green, and Blue values in the tool will also update.)</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141227T153238Z" creationid="Photonoxx" creationdate="20141227T153238Z">
+        <seg>La roue chromatique ainsi que les valeurs Rouge, Vert, et Bleu de l'outil seront aussi mis à jour.)</seg>
       </tuv>
     </tu>
     <tu>

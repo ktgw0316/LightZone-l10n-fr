@@ -2472,8 +2472,8 @@
       <tuv lang="EN-US">
         <seg>Color Balance</seg>
       </tuv>
-      <tuv lang="FR" changeid="Photonoxx" changedate="20141115T093904Z" creationid="Photonoxx" creationdate="20141115T093854Z">
-        <seg>Balance Couleur</seg>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141227T150911Z" creationid="Photonoxx" creationdate="20141115T093854Z">
+        <seg>Balance de Couleur</seg>
       </tuv>
     </tu>
     <tu>
@@ -5978,6 +5978,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141117T092551Z" creationid="Photonoxx" creationdate="20141117T092551Z">
         <seg>LightZone: Remerciements</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>LightZone: Adjusting Color Balance</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141227T150937Z" creationid="Photonoxx" creationdate="20141227T150857Z">
+        <seg>LightZone : Ajuster la Balance de Couleur</seg>
       </tuv>
     </tu>
     <tu>

@@ -1750,6 +1750,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Blurring a photo</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141227T143606Z" creationid="Photonoxx" creationdate="20141227T143606Z">
+        <seg>Flouter une Photo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Brightens the base color to reflect the blend color by decreasing contrast.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141117T150135Z" creationid="Photonoxx" creationdate="20141117T110332Z">
@@ -4606,6 +4614,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>How to blur all or parts of your photo.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141227T143553Z" creationid="Photonoxx" creationdate="20141227T143553Z">
+        <seg>Comment rendre floue tout ou partie de votre photo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>How to control the feathering of regions.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141226T115530Z" creationid="Photonoxx" creationdate="20141226T115530Z">
@@ -5902,6 +5918,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>LightZone: Blurring a Photo</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141227T143529Z" creationid="Photonoxx" creationdate="20141227T143529Z">
+        <seg>LightZone : Flouter une Photo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>LightZone: Browser Anatomy</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141117T092829Z" creationid="Photonoxx" creationdate="20141117T092829Z">
@@ -6426,6 +6450,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141118T154014Z" creationid="Photonoxx" creationdate="20141118T154014Z">
         <seg>Magentas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Make a &lt;a0&gt;color/luminosity&lt;/a0&gt; selection.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141227T143409Z" creationid="Photonoxx" creationdate="20141227T143409Z">
+        <seg>Définissez une sélection de &lt;a0&gt;couleur/luminosité&lt;/a0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10488,8 +10520,8 @@
       <tuv lang="EN-US">
         <seg>The &lt;b0&gt;Thumbnail size&lt;/b0&gt; slider controls the size of the thumbnails shown in the browser.</seg>
       </tuv>
-      <tuv lang="FR" changeid="Photonoxx" changedate="20141227T140427Z" creationid="Photonoxx" creationdate="20141227T140427Z">
-        <seg>La jauge &lt;b0&gt;Taille des Vignettes&lt;/b0&gt; contrôle la taille des vignettes affichées dans le navigateur.</seg>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141227T143509Z" creationid="Photonoxx" creationdate="20141227T140427Z">
+        <seg>Le contrôle &lt;b0&gt;Taille des Vignettes&lt;/b0&gt; contrôle la taille des vignettes affichées dans le navigateur.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13370,6 +13402,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141227T141510Z" creationid="Photonoxx" creationdate="20141227T141510Z">
         <seg>images/Tool-Black_and_White-en.png</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>images/Tool-Blur-en.png</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141227T143607Z" creationid="Photonoxx" creationdate="20141227T143607Z">
+        <seg>images/Tool-Blur-en.png</seg>
       </tuv>
     </tu>
     <tu>

@@ -102,6 +102,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(A new color balance tool will appear at the top of the &lt;a1&gt;tool stack&lt;/a1&gt;.)</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141227T152433Z" creationid="Photonoxx" creationdate="20141227T152433Z">
+        <seg>(Un nouvel outil Balance de Couleur apparaîtra en haut de la &lt;a1&gt;chaîne de développement&lt;/a1&gt;.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(Each has its own cross-hair cursor.) The advantage of doing this is that they all share the same &lt;a2&gt;blend mode&lt;/a2&gt;, &lt;a3&gt;opacity&lt;/a3&gt;, and &lt;a4&gt;color &amp; luminosity&lt;/a4&gt; selection.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141227T150609Z" creationid="Photonoxx" creationdate="20141227T150609Z">
@@ -1080,8 +1088,8 @@
       <tuv lang="EN-US">
         <seg>Additionally, the &lt;b0&gt;Color Balance&lt;/b0&gt; tool also allows you to reduce color casts by selecting &lt;e1&gt;neutral gray points&lt;/e1&gt;, that is points that you want to be neutral gray in your photo.</seg>
       </tuv>
-      <tuv lang="FR" changeid="Photonoxx" changedate="20141227T151902Z" creationid="Photonoxx" creationdate="20141227T151902Z">
-        <seg>De plus, l'outil &lt;b0&gt;Balance de Couleur&lt;/b0&gt; vous permet de réduire dominante de couleur en sélectionnant &lt;e1&gt;des points gris neutres&lt;/e1&gt;, qui sont des points que vous voulez rendre gris neutres dans votre photo.</seg>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141227T152251Z" creationid="Photonoxx" creationdate="20141227T151902Z">
+        <seg>De plus, l'outil &lt;b0&gt;Balance de Couleur&lt;/b0&gt; vous permet de réduire des teintes en sélectionnant &lt;e1&gt;des points gris neutres&lt;/e1&gt;, qui sont des points que vous voulez rendre gris neutres dans votre photo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2378,6 +2386,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141227T145449Z" creationid="Photonoxx" creationdate="20141227T145449Z">
         <seg>Cliquez le bouton de l'outil Cloner dans la &lt;a0&gt;barre d'outil&lt;/a0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Click the color balance tool button in the &lt;a0&gt;tool bar&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141227T152411Z" creationid="Photonoxx" creationdate="20141227T152411Z">
+        <seg>Cliquez le bouton de l'outil Balance de Couleur dans la &lt;a0&gt;barre d'outil&lt;/a0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8288,8 +8304,8 @@
       <tuv lang="EN-US">
         <seg>Reducing color casts is most easily done for photos that were taken under mixed lighting conditions and have easily identifiable neutral grays.</seg>
       </tuv>
-      <tuv lang="FR" changeid="Photonoxx" changedate="20141227T152147Z" creationid="Photonoxx" creationdate="20141227T152147Z">
-        <seg>Réduire les dominantes de couleur est plus facile pour des photos qio ont étés prises avec des conditions d'éclairage mixte et qui ont des gris neutres identifables.</seg>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141227T152300Z" creationid="Photonoxx" creationdate="20141227T152147Z">
+        <seg>Réduire des teintes est plus facile pour des photos qio ont étés prises avec des conditions d'éclairage mixte et qui ont des gris neutres identifables.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11648,8 +11664,16 @@
       <tuv lang="EN-US">
         <seg>To adjust the color balance or cast of your photo:</seg>
       </tuv>
-      <tuv lang="FR" changeid="Photonoxx" changedate="20141227T152210Z" creationid="Photonoxx" creationdate="20141227T152210Z">
-        <seg>Pour ajuster  color balance or cast of your photo:</seg>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141227T152344Z" creationid="Photonoxx" creationdate="20141227T152210Z">
+        <seg>Pour ajuster la balance de couleur ou la teinte de votre photo :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To adjust the color balance:</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141227T152505Z" creationid="Photonoxx" creationdate="20141227T152505Z">
+        <seg>Pour ajuster la balance de couleur :</seg>
       </tuv>
     </tu>
     <tu>
@@ -13426,6 +13450,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141227T145411Z" creationid="Photonoxx" creationdate="20141227T145411Z">
         <seg>images/Button-Clone.png</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>images/Button-Color_Balance.png</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141227T152346Z" creationid="Photonoxx" creationdate="20141227T152346Z">
+        <seg>images/Button-Color_Balance.png</seg>
       </tuv>
     </tu>
     <tu>

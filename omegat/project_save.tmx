@@ -10582,6 +10582,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The &lt;b0&gt;Color Balance&lt;/b0&gt; tool allows you to adjust the color balance of your photo around a specified point of the tonal range.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141227T151451Z" creationid="Photonoxx" creationdate="20141227T151451Z">
+        <seg>L'outil &lt;b0&gt;Balance de Couleur&lt;/b0&gt; vous permet d'ajuster la balance de couleur de votre photo autour d'un point spécifié de la gamme des tons.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The &lt;b0&gt;Convert&lt;/b0&gt; button is equivalent to File &gt; &lt;a1&gt;Convert&lt;/a1&gt;.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141117T152039Z" creationid="Photonoxx" creationdate="20141117T152039Z">

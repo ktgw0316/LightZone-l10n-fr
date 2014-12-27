@@ -4158,6 +4158,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For example, a yellow filter filters out blue light (because blue is directly across from yellow).</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141227T142309Z" creationid="Photonoxx" creationdate="20141227T142309Z">
+        <seg>Par exempe, un filtre jaune exclura les tons bleus (car le bleu est diamètralement à l'opposé du jaune).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For example, compare what is shown below.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141118T101737Z" creationid="Photonoxx" creationdate="20141118T101737Z">

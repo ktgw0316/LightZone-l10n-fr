@@ -10478,6 +10478,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The &lt;b0&gt;Clone&lt;/b0&gt; tool allows you to copy an area of your photo to another area.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141227T144956Z" creationid="Photonoxx" creationdate="20141227T144956Z">
+        <seg>L'outil &lt;b0&gt;Cloner&lt;/b0&gt; vous permet de copier une partie de votre photo vers une autre partie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The &lt;b0&gt;Convert&lt;/b0&gt; button is equivalent to File &gt; &lt;a1&gt;Convert&lt;/a1&gt;.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141117T152039Z" creationid="Photonoxx" creationdate="20141117T152039Z">
@@ -11138,6 +11146,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141225T090546Z" creationid="Photonoxx" creationdate="20141225T090546Z">
         <seg>Ceci peut être corrigé en les tournant.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This can be used to remove unwanted items from your photo.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141227T145043Z" creationid="Photonoxx" creationdate="20141227T145043Z">
+        <seg>Cela peut être utilisé pour enlever des objets non désirés de votre photo.</seg>
       </tuv>
     </tu>
     <tu>

@@ -10278,6 +10278,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The &lt;b0&gt;selected thumbnail&lt;/b0&gt; is shown with a white border and a large preview is shown in the &lt;a1&gt;Photo Viewer&lt;/a1&gt;.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141227T075007Z" creationid="Photonoxx" creationdate="20141227T075007Z">
+        <seg>La &lt;b0&gt;vignette sélectionnée&lt;/b0&gt; est affichée avec une bordure blanche et un grand aperçu en est affiché dans la &lt;a1&gt;Visionneuse Photo&lt;/a1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The &lt;e0&gt;control points&lt;/e0&gt; of a region determine its shape and are used to adjust it.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141226T124422Z" creationid="Photonoxx" creationdate="20141226T124422Z">
@@ -12442,6 +12450,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141122T094701Z" creationid="Photonoxx" creationdate="20141122T094701Z">
         <seg>Vous pouvez également créer vos propres styles que ce soit pour votre propre usage ou pour les partager avec d'autres.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can change the selection by clicking a different thumbnail or by using the &lt;b2&gt;arrow keys&lt;/b2&gt;.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141227T075145Z" creationid="Photonoxx" creationdate="20141227T075145Z">
+        <seg>Vous pouvez changer la sélection en cliquant sur une autre vignette ou en utilisant les &lt;b2&gt;touches fléchés&lt;/b2&gt;.</seg>
       </tuv>
     </tu>
     <tu>

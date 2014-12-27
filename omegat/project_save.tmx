@@ -8286,6 +8286,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Reducing color casts is most easily done for photos that were taken under mixed lighting conditions and have easily identifiable neutral grays.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141227T152147Z" creationid="Photonoxx" creationdate="20141227T152147Z">
+        <seg>Réduire les dominantes de couleur est plus facile pour des photos qio ont étés prises avec des conditions d'éclairage mixte et qui ont des gris neutres identifables.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Refresh</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141114T182023Z" creationid="Photonoxx" creationdate="20141114T182023Z">
@@ -11634,6 +11642,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141225T171312Z" creationid="Photonoxx" creationdate="20141225T171312Z">
         <seg>Pour ajouter un point de contrôle à une région :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To adjust the color balance or cast of your photo:</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141227T152210Z" creationid="Photonoxx" creationdate="20141227T152210Z">
+        <seg>Pour ajuster  color balance or cast of your photo:</seg>
       </tuv>
     </tu>
     <tu>

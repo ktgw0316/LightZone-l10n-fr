@@ -1094,6 +1094,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Adjust the &lt;a0&gt;Opacity slider&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141227T143252Z" creationid="Photonoxx" creationdate="20141227T143252Z">
+        <seg>Ajustez le &lt;a0&gt;contrôle de l'Opacité&lt;/a0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Adjust the Strength slider to increase or decrease the strength (and thus effect) of the tool.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141227T143315Z" creationid="Photonoxx" creationdate="20141227T143045Z">
+        <seg>Ajustez le contrôle de la Force pour augmenter ou réduire la force (et donc l'effet) du filtre.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Adjust the color range</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141115T091517Z" creationid="Photonoxx" creationdate="20141115T091517Z">
@@ -1682,6 +1698,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141117T102306Z" creationid="Photonoxx" creationdate="20141117T102306Z">
         <seg>Couleur de Fusion</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Blend_Modes.html</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141227T143130Z" creationid="Photonoxx" creationdate="20141227T143130Z">
+        <seg>Blend_Modes.html</seg>
       </tuv>
     </tu>
     <tu>
@@ -2930,6 +2954,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141226T163940Z" creationid="Photonoxx" creationdate="20141226T163940Z">
         <seg>Créez une &lt;a0&gt;chaîne de développement&lt;/a0&gt; à votre goût.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Create a mask using &lt;a0&gt;regions&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141227T143129Z" creationid="Photonoxx" creationdate="20141227T143129Z">
+        <seg>Créer un masque en utilisant les &lt;a0&gt;régions&lt;/a0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7214,6 +7246,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Optionally:</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141227T143102Z" creationid="Photonoxx" creationdate="20141227T143102Z">
+        <seg>Optionnellement :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Ordinarily when you are editing a photo, if you try to edit another photo, LightZone will present you with a Save alert asking you whether you want to &lt;a0&gt;save your work&lt;/a0&gt; before viewing the preview image for the other photo.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141225T114328Z" creationid="Photonoxx" creationdate="20141225T114328Z">
@@ -9298,6 +9338,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141226T155822Z" creationid="Photonoxx" creationdate="20141226T155822Z">
         <seg>Choisissez un dossier de destination pour le fichier.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Select a different &lt;a0&gt;blend mode&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141227T143157Z" creationid="Photonoxx" creationdate="20141227T143157Z">
+        <seg>Changez de &lt;a0&gt;mode de fusion&lt;/a0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11994,6 +12042,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141204T181748Z" creationid="Photonoxx" creationdate="20141204T181748Z">
         <seg>Tool_Anatomy.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Tool_Anatomy.html#Opacity</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141227T143159Z" creationid="Photonoxx" creationdate="20141227T143159Z">
+        <seg>Tool_Anatomy.html#Opacity</seg>
       </tuv>
     </tu>
     <tu>

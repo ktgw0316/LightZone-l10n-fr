@@ -4798,6 +4798,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If you hold the &lt;b3&gt;shift&lt;/b3&gt; key while clicking, at most 5 previews are shown side-by-side.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141227T075608Z" creationid="Photonoxx" creationdate="20141227T075608Z">
+        <seg>Si vous maintenant la touche &lt;b3&gt;maj(?)&lt;/b3&gt; en cliquant, jusqu'à 5 aperçus peuvent etre affichés côte-à-côte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If you no longer want a region, you can delete it.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141226T113036Z" creationid="Photonoxx" creationdate="20141226T113036Z">

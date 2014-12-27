@@ -5782,6 +5782,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>LightZone: Black &amp; White</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141227T141359Z" creationid="Photonoxx" creationdate="20141227T141359Z">
+        <seg>LightZone : Noir et Blanc</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>LightZone: Black Point Compensation</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141117T094403Z" creationid="Photonoxx" creationdate="20141117T094403Z">
@@ -10530,6 +10538,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141117T144209Z" creationid="Photonoxx" creationdate="20141117T144209Z">
         <seg>Les couleurs de base sont légèrement assombries avec  des couleurs de fusions très claires.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The choices for sort criteria are: file name, file type, image size, capture time, modification time, &lt;a1&gt;rating&lt;/a1&gt;, aperture, focal length, lens, and shutter speed.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141227T141338Z" creationid="Photonoxx" creationdate="20141227T141338Z">
+        <seg>Les choix pour les critères de tri sont : Nom de fichier, Type de fichier, Taille de l'image, date de prise de vue, date de modification, &lt;a1&gt;Note&lt;/a1&gt;, Ouverture, Longueur focale, Objectif, et vitesse d'obturation.</seg>
       </tuv>
     </tu>
     <tu>

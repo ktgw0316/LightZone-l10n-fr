@@ -2246,6 +2246,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Click the black &amp; white tool button in the &lt;a0&gt;tool bar&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141227T142642Z" creationid="Photonoxx" creationdate="20141227T142622Z">
+        <seg>Cliquez sur le bouton de l'Outil Noir et Blanc dans la &lt;a0&gt;barre d'outils&lt;/a0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Click the desired region button (polygon, spline, or Bézier) from the &lt;a0&gt;tool bar&lt;/a0&gt;.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141226T112318Z" creationid="Photonoxx" creationdate="20141226T112318Z">
@@ -10838,6 +10846,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Therefore, you can usually increase contrast in the sky by using a yellow filter because it filters out the blue of the sky thus making the sky darker compared to clouds.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141227T142528Z" creationid="Photonoxx" creationdate="20141227T142528Z">
+        <seg>De ce fait, vous pouvez généralement augmenter le contraste du ciel en utilisant un filtre jaune car, excluant les valeurs bleues du ciel, cela le rendra plus sombre pa rapport aux nuages.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Therefore, you should never delete your original photo.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141226T155701Z" creationid="Photonoxx" creationdate="20141226T155701Z">
@@ -11378,6 +11394,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141225T170928Z" creationid="Photonoxx" creationdate="20141225T170928Z">
         <seg>Pour modifier les réglages standard de mise en page et de papier, cliquez Mise en page...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To convert a color photo to black-and-white:</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141227T142555Z" creationid="Photonoxx" creationdate="20141227T142555Z">
+        <seg>Pour convertir une photo couleur en Noir et Blanc :</seg>
       </tuv>
     </tu>
     <tu>
@@ -13018,6 +13042,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141226T122532Z" creationid="Photonoxx" creationdate="20141226T122532Z">
         <seg>images/Button-Bezier.png</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>images/Button-Black_and_White.png</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141227T142557Z" creationid="Photonoxx" creationdate="20141227T142557Z">
+        <seg>images/Button-Black_and_White.png</seg>
       </tuv>
     </tu>
     <tu>

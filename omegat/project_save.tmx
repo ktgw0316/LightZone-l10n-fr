@@ -1110,6 +1110,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>After you &lt;a0&gt;save your edited photos&lt;/a0&gt;, thumbnails of both your original and edited photos are shown grouped together.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141227T080545Z" creationid="Photonoxx" creationdate="20141227T080545Z">
+        <seg>Après avoir &lt;a0&gt;enregistré votre photo éditée&lt;/a0&gt;, les vignettes de votre original et de la version éditée sont affichées groupées ensemble.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>All</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141111T103134Z" creationid="Photonoxx" creationdate="20141111T103134Z">

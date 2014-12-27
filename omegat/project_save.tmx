@@ -12598,6 +12598,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You can scroll the thumbnails by using the scroll bar or the &lt;b0&gt;page-up/down&lt;/b0&gt;, &lt;b1&gt;home&lt;/b1&gt;, or &lt;b2&gt;end&lt;/b2&gt; keys.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141227T080052Z" creationid="Photonoxx" creationdate="20141227T080052Z">
+        <seg>Vous pouvez faire défiler les vignettes en utilisant la barre de défilement ou les touches &lt;b0&gt;page-up/down&lt;/b0&gt;, &lt;b1&gt;début&lt;/b1&gt;, ou &lt;b2&gt;fin&lt;/b2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can select only the most recent versions of your photos by clicking the &lt;b0&gt;select recent&lt;/b0&gt; button.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141227T075929Z" creationid="Photonoxx" creationdate="20141227T075929Z">
+        <seg>Vous pouvez sélectionner la version la plus récente de vos photos en cliquant le bouton &lt;b0&gt;Sélectionner Récent&lt;/b0&gt; button.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You can send copies of selected photos to other folders using the &lt;a0&gt;Photo Browser&lt;/a0&gt;.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141225T112231Z" creationid="Photonoxx" creationdate="20141225T112231Z">

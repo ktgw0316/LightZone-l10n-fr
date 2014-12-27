@@ -646,6 +646,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;b0&gt;Note:&lt;/b0&gt; A filter of a certain color actually filters out its &lt;e1&gt;complementary&lt;/e1&gt; color (the color directly across from it in the color wheel).</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141227T142046Z" creationid="Photonoxx" creationdate="20141227T142046Z">
+        <seg>&lt;b0&gt;Note:&lt;/b0&gt; Un filtre d'une certaine couleur en fait exclura sa couleur &lt;e1&gt;complémentaire&lt;/e1&gt; (la couleur directement opposée dans la roue des couleurs).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;b0&gt;Note:&lt;/b0&gt; Alternatively, you can save your work as "LightZone TIFF" files by changing the &lt;a1&gt;save preference&lt;/a1&gt;.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141226T160010Z" creationid="Photonoxx" creationdate="20141226T160010Z">
@@ -1034,6 +1042,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141225T173845Z" creationid="Photonoxx" creationdate="20141225T173845Z">
         <seg>De plus, quand vous collez dans un outil une région qui a été copiée depuis un autre outil, vous pouvez la coller &lt;e0&gt;et la lier&lt;/e0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Additionally, you can control the conversion as if a colored filter were placed in front of the lens when the photo was taken.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141227T141811Z" creationid="Photonoxx" creationdate="20141227T141811Z">
+        <seg>De plus, vous pouvez procéder à la conversion comme si un filtre coloré se trouvait devant l'objectif au moment de la prise de vue.</seg>
       </tuv>
     </tu>
     <tu>

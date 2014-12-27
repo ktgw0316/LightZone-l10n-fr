@@ -1590,6 +1590,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Black &amp; white conversion</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141227T141508Z" creationid="Photonoxx" creationdate="20141227T141508Z">
+        <seg>Conversion Noir et Blanc</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Black and White</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141115T094137Z" creationid="Photonoxx" creationdate="20141115T094137Z">
@@ -4522,6 +4530,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141226T115530Z" creationid="Photonoxx" creationdate="20141226T115530Z">
         <seg>Comment contrôler l'adoucissement des régions.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>How to convert your color photo to black-and-white.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141227T141452Z" creationid="Photonoxx" creationdate="20141227T141452Z">
+        <seg>Comment convertir une photo couleur en Noir et Blanc</seg>
       </tuv>
     </tu>
     <tu>
@@ -10270,6 +10286,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The &lt;b0&gt;Black &amp; White&lt;/b0&gt; tool allows you to convert a color photo into a black-and-white photo.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141227T141610Z" creationid="Photonoxx" creationdate="20141227T141610Z">
+        <seg>L'outil &lt;b0&gt;Noir et Blanc&lt;/b0&gt; vous permet de convertir une photo couleur en une photo Noir et Blanc.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The &lt;b0&gt;Bézier&lt;/b0&gt; region button creates a region having curved lines connecting the control points.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141226T122644Z" creationid="Photonoxx" creationdate="20141226T122644Z">
@@ -13202,6 +13226,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141226T173542Z" creationid="Photonoxx" creationdate="20141226T173542Z">
         <seg>images/Thumbnails-unstacked.jpg</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>images/Tool-Black_and_White-en.png</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141227T141510Z" creationid="Photonoxx" creationdate="20141227T141510Z">
+        <seg>images/Tool-Black_and_White-en.png</seg>
       </tuv>
     </tu>
     <tu>

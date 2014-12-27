@@ -686,6 +686,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;b0&gt;Note:&lt;/b0&gt; A single Clone tool can have multiple &lt;a1&gt;regions&lt;/a1&gt;.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141227T150348Z" creationid="Photonoxx" creationdate="20141227T150348Z">
+        <seg>&lt;b0&gt;Note:&lt;/b0&gt; un unique Outil Cloner peut avoir plusieurs &lt;a1&gt;régions&lt;/a1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;b0&gt;Note:&lt;/b0&gt; Alternatively, you can save your work as "LightZone TIFF" files by changing the &lt;a1&gt;save preference&lt;/a1&gt;.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141226T160010Z" creationid="Photonoxx" creationdate="20141226T160010Z">
@@ -1322,6 +1330,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141115T091205Z" creationid="Photonoxx" creationdate="20141115T091205Z">
         <seg>Quantité</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>An area that is the same size and shape as the region you created will be copied from around the cross-hair cursor to the region you created.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141227T150310Z" creationid="Photonoxx" creationdate="20141227T150310Z">
+        <seg>Une partie de même taille et forme que la région que vous avez créée sera copiée depuis les environs du réticulevers la région que vous avez créée.</seg>
       </tuv>
     </tu>
     <tu>

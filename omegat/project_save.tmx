@@ -94,6 +94,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(A new clone tool will appear at the top of the &lt;a1&gt;tool stack&lt;/a1&gt;.)</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141227T145507Z" creationid="Photonoxx" creationdate="20141227T145507Z">
+        <seg>(Un nouvel outil Cloner apparaîtra en haut de la &lt;a1&gt;chaîne de développement&lt;/a1&gt;.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(For example, clicking somewhere in the yellow part of the color wheel applies yellow filter.)</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141227T142914Z" creationid="Photonoxx" creationdate="20141227T142914Z">
@@ -2318,6 +2326,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Click the clone tool button in the &lt;a0&gt;tool bar&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141227T145449Z" creationid="Photonoxx" creationdate="20141227T145449Z">
+        <seg>Cliquez le bouton de l'outil Cloner dans la &lt;a0&gt;barre d'outil&lt;/a0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Click the desired region button (polygon, spline, or Bézier) from the &lt;a0&gt;tool bar&lt;/a0&gt;.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141226T112318Z" creationid="Photonoxx" creationdate="20141226T112318Z">
@@ -2978,6 +2994,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141115T103832Z" creationid="Photonoxx" creationdate="20141115T103832Z">
         <seg>Les Rapports de plantage envoyés à Light Crafts sont anonymes à l'exception de l'adresse IP de l'expéditeur.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Create a &lt;a0&gt;region&lt;/a0&gt; around the area that is to be copied over.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141227T145606Z" creationid="Photonoxx" creationdate="20141227T145606Z">
+        <seg>Créez une &lt;a0&gt;région&lt;/a0&gt; autour de la partie qui doit être remplacée.</seg>
       </tuv>
     </tu>
     <tu>

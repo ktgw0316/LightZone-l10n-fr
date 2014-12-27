@@ -2382,6 +2382,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Cloning areas</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141227T144815Z" creationid="Photonoxx" creationdate="20141227T144815Z">
+        <seg>Cloner des parties</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Close Image</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141111T143030Z" creationid="Photonoxx" creationdate="20141111T143030Z">
@@ -4734,6 +4742,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>How to fix problem areas of your photo using cloning.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141227T144757Z" creationid="Photonoxx" creationdate="20141227T144640Z">
+        <seg>Comment améliorer des parties à problème de votre photo en utilisant le clonage.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>How to inspect or edit the metadata of a photo.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141122T170751Z" creationid="Photonoxx" creationdate="20141122T170751Z">
@@ -5946,6 +5962,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141117T092829Z" creationid="Photonoxx" creationdate="20141117T092829Z">
         <seg>LightZone: Présentation du Navigateur</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>LightZone: Cloning Areas</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141227T144646Z" creationid="Photonoxx" creationdate="20141227T144624Z">
+        <seg>LightZone : Cloner des parties</seg>
       </tuv>
     </tu>
     <tu>
@@ -10622,6 +10646,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The Radius slider controls how widely the blurring effect is done around each pixel.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141227T144605Z" creationid="Photonoxx" creationdate="20141227T144605Z">
+        <seg>Le contrôle de Rayon définit avec quelle ampleur est calculé l'effet de flou autour de chaque pixel.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The Relight tool allows you to "relight" all or parts of your photo as if the lighting were different when you took it.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141122T095707Z" creationid="Photonoxx" creationdate="20141122T095707Z">
@@ -13466,6 +13498,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141227T143607Z" creationid="Photonoxx" creationdate="20141227T143607Z">
         <seg>images/Tool-Blur-en.png</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>images/Tool-Clone-en.png</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141227T144816Z" creationid="Photonoxx" creationdate="20141227T144816Z">
+        <seg>images/Tool-Clone-en.png</seg>
       </tuv>
     </tu>
     <tu>

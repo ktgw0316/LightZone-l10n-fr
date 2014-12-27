@@ -398,6 +398,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(Your photo's colors will shift accordingly.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141227T153110Z" creationid="Photonoxx" creationdate="20141227T153110Z">
+        <seg>(Les couleurs de votre photo seront modifiées en conséquence.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(a) no color selected</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141118T101754Z" creationid="Photonoxx" creationdate="20141118T101754Z">
@@ -2318,6 +2326,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Click somewhere on your photo that you want to be a neutral gray.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141227T153028Z" creationid="Photonoxx" creationdate="20141227T153028Z">
+        <seg>Cliquez un point de votre photo que vous voulez rendre gris neutre.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Click the &lt;a0&gt;Color Selection tab&lt;/a0&gt; to reveal the color/luminosity selection controls.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141117T153202Z" creationid="Photonoxx" creationdate="20141117T153202Z">
@@ -2418,6 +2434,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141226T112318Z" creationid="Photonoxx" creationdate="20141226T112318Z">
         <seg>Cliquez sur le bouton de la région désirée (polygonale, spline, ou Bézier) dans la &lt;a0&gt;Barre d'outils&lt;/a0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Click the eyedropper button inside the tool.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141227T152934Z" creationid="Photonoxx" creationdate="20141227T152934Z">
+        <seg>Cliquez sur le bouton de la pipette dans l'outils.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12030,6 +12054,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>To reduce the color cast:</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141227T152903Z" creationid="Photonoxx" creationdate="20141227T152903Z">
+        <seg>Pour réduire une Teinte :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>To rename a photo:</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141204T181240Z" creationid="Photonoxx" creationdate="20141204T181240Z">
@@ -12586,6 +12618,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141118T143907Z" creationid="Photonoxx" creationdate="20141118T143907Z">
         <seg>Utilisez le bouton Choisir... pour définir le dossier de destination des images converties.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Use the Midpoint slider to set the midpoint of the tonal range of the adjustment.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141227T152849Z" creationid="Photonoxx" creationdate="20141227T152849Z">
+        <seg>Utilisez Le contrôle Médiane pour définir le point médian dans la gamme des tons pour l'ajustement.</seg>
       </tuv>
     </tu>
     <tu>

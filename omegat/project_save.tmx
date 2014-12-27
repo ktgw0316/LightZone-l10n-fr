@@ -2198,6 +2198,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Click and drag the cross-hair cursor to the center of the area to copy from.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141227T145901Z" creationid="Photonoxx" creationdate="20141227T145901Z">
+        <seg>Cliquez et déplacez le réticule au centre de la partie à copier sur l'autre.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Click anywhere in the photo's preview.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141201T095358Z" creationid="Photonoxx" creationdate="20141201T095358Z">
@@ -13378,6 +13386,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141225T090630Z" creationid="Photonoxx" creationdate="20141225T090630Z">
         <seg>images/Buttons-Rotate.png</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>images/Clone.png</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141227T145903Z" creationid="Photonoxx" creationdate="20141227T145903Z">
+        <seg>images/Clone.png</seg>
       </tuv>
     </tu>
     <tu>

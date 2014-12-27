@@ -262,6 +262,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(The color balance of your photo will shift towards the color you clicked on.)</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141227T152640Z" creationid="Photonoxx" creationdate="20141227T152640Z">
+        <seg>(La balance de couleur tirera vers la couleur sur laquelle vous avez cliqué.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(The color/luminosity selections as well as the &lt;a0&gt;Color Selection Viewer&lt;/a0&gt; will update to reflect the selected color/luminosity.)</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141118T100034Z" creationid="Photonoxx" creationdate="20141117T154043Z">
@@ -2258,6 +2266,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141201T095358Z" creationid="Photonoxx" creationdate="20141201T095358Z">
         <seg>Cliquez n'importe où sur l'aperçu de la photo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Click anywhere inside the color wheel.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141227T152532Z" creationid="Photonoxx" creationdate="20141227T152532Z">
+        <seg>Cliquez n'importe où dans la roue chromatique.</seg>
       </tuv>
     </tu>
     <tu>

@@ -86,6 +86,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(A new blur tool will appear at the top of the &lt;a1&gt;tool stack&lt;/a1&gt;.)</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141227T144205Z" creationid="Photonoxx" creationdate="20141227T144205Z">
+        <seg>(Un nouvel outil Flou apparaîtra en haut de la &lt;a1&gt;chaîne de développement&lt;/a1&gt;.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(For example, clicking somewhere in the yellow part of the color wheel applies yellow filter.)</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141227T142914Z" creationid="Photonoxx" creationdate="20141227T142914Z">
@@ -2298,6 +2306,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141227T142642Z" creationid="Photonoxx" creationdate="20141227T142622Z">
         <seg>Cliquez sur le bouton de l'Outil Noir et Blanc dans la &lt;a0&gt;barre d'outils&lt;/a0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Click the blur tool button in the &lt;a0&gt;tool bar&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141227T144133Z" creationid="Photonoxx" creationdate="20141227T144133Z">
+        <seg>Cliquez le bouton de l'outil Flou dans la &lt;a0&gt;barre d'outil&lt;/a0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11094,6 +11110,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This can be used to soften grainy or blemished areas, or to create out-of-focus areas.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141227T144026Z" creationid="Photonoxx" creationdate="20141227T144026Z">
+        <seg>Cela peut être utilisé pour adoucir des zones granuleuses ou tachées, ou pour créer des zones hors focus.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This can fix lots of problems, but loses your customizations.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141115T080015Z" creationid="Photonoxx" creationdate="20141115T080015Z">
@@ -11498,6 +11522,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141118T141801Z" creationid="Photonoxx" creationdate="20141118T141801Z">
         <seg>Pour convertir vos photos :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To blur your photo:</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141227T144041Z" creationid="Photonoxx" creationdate="20141227T144041Z">
+        <seg>Pour rendre floue votre photo :</seg>
       </tuv>
     </tu>
     <tu>
@@ -12314,6 +12346,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141118T143907Z" creationid="Photonoxx" creationdate="20141118T143907Z">
         <seg>Utilisez le bouton Choisir... pour définir le dossier de destination des images converties.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Use the Radius slider to adjust the blurring effect:</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141227T144235Z" creationid="Photonoxx" creationdate="20141227T144235Z">
+        <seg>Utilisez le contrôle de Rayon pour ajuster l'effet de flou :</seg>
       </tuv>
     </tu>
     <tu>
@@ -13170,6 +13210,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141227T142557Z" creationid="Photonoxx" creationdate="20141227T142557Z">
         <seg>images/Button-Black_and_White.png</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>images/Button-Blur.png</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141227T144043Z" creationid="Photonoxx" creationdate="20141227T144043Z">
+        <seg>images/Button-Blur.png</seg>
       </tuv>
     </tu>
     <tu>

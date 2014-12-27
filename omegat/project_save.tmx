@@ -1078,6 +1078,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Additionally, the &lt;b0&gt;Color Balance&lt;/b0&gt; tool also allows you to reduce color casts by selecting &lt;e1&gt;neutral gray points&lt;/e1&gt;, that is points that you want to be neutral gray in your photo.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141227T151902Z" creationid="Photonoxx" creationdate="20141227T151902Z">
+        <seg>De plus, l'outil &lt;b0&gt;Balance de Couleur&lt;/b0&gt; vous permet de réduire dominante de couleur en sélectionnant &lt;e1&gt;des points gris neutres&lt;/e1&gt;, qui sont des points que vous voulez rendre gris neutres dans votre photo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Additionally, the navigator tool buttons can be used to navigate.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141124T115756Z" creationid="Photonoxx" creationdate="20141124T115756Z">

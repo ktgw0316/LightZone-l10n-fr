@@ -206,6 +206,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(As you move the mouse, you can see the zones highlight in the ZoneFinder.)</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141228T183639Z" creationid="Photonoxx" creationdate="20141228T183639Z">
+        <seg>(En déplacant la souris, vous pouvez voir les zones se mettrent en évidence dans le ZoneFinder.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(Each has its own cross-hair cursor.) The advantage of doing this is that they all share the same &lt;a2&gt;blend mode&lt;/a2&gt;, &lt;a3&gt;opacity&lt;/a3&gt;, and &lt;a4&gt;color &amp; luminosity&lt;/a4&gt; selection.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141227T150609Z" creationid="Photonoxx" creationdate="20141227T150609Z">
@@ -3090,6 +3098,22 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141201T102241Z" creationid="Photonoxx" creationdate="20141201T102241Z">
         <seg>Cliquez et maintenez alors pour Glisser les vignettes sélectionnées vers la fenêtre d'une autre application et déposez les ici en relachant le bouton de la souris.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Click to add a &lt;e0&gt;zone lock&lt;/e0&gt; (a thin, blue line with a little 'X' at its right).</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141228T183728Z" creationid="Photonoxx" creationdate="20141228T183728Z">
+        <seg>Cliquez pour ajouter un &lt;e0&gt;verrou de zone&lt;/e0&gt; (une ligne fine et bleue avec un petit 'X' à sa droite).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Click to add a second zone lock.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141228T183823Z" creationid="Photonoxx" creationdate="20141228T183823Z">
+        <seg>Cliquez pour ajouter un second verrou de zone.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11498,6 +11522,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141228T172735Z" creationid="Photonoxx" creationdate="20141228T172735Z">
         <seg>De la même façon qu'avec l'outil Cloner, un point ou une poussière est effacé par la copie d'une autre partie de votre photo sur ce même point/poussière.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Similarly, move the mouse along the zones to locate the zone below which you do not want to adjust contrast.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141228T183801Z" creationid="Photonoxx" creationdate="20141228T183801Z">
+        <seg>De la même manière, déplacez la souris le long des zones dans le ZoneMapper pour trouver la zone en-dessous de laquelle vous ne souhaitez pas ajuster le contraste.</seg>
       </tuv>
     </tu>
     <tu>

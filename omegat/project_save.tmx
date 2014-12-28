@@ -11334,6 +11334,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The &lt;b0&gt;Red-Eye&lt;/b0&gt; tool allows you reduce "red-eye" that sometimes occurs in photos shot using a flash.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141228T155203Z" creationid="Photonoxx" creationdate="20141228T155203Z">
+        <seg>L'outil &lt;b0&gt;Yeux Rouges&lt;/b0&gt; permet de réduire l'effet d'"Yeux Rouges" qui survient parfois dans les photos faites en utilisant un flash.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The &lt;b0&gt;Send&lt;/b0&gt; button is equivalent to File &gt; &lt;a1&gt;Send&lt;/a1&gt;.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141117T152000Z" creationid="Photonoxx" creationdate="20141117T152000Z">

@@ -6534,6 +6534,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>LightZone: Noise Reduction</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141228T121059Z" creationid="Photonoxx" creationdate="20141228T121059Z">
+        <seg>LightZone : Réduction de Bruit</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>LightZone: Opening a Photo to Edit</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141201T093506Z" creationid="Photonoxx" creationdate="20141201T093506Z">
@@ -11194,6 +11202,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141124T103336Z" creationid="Photonoxx" creationdate="20141124T103336Z">
         <seg>Le format d'image TIFF offre la possibilité d'enregistrer plusieurs images dans le même fichier TIFF.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Vibrance slider adjusts along the radius of the wheel from the center to the edge, but only for the primary colors of red, green, and blue.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141228T121040Z" creationid="Photonoxx" creationdate="20141228T121040Z">
+        <seg>Le contrôle de Vibrance ajuste les valeurs selon le rayon de la roue chromatique, du centre vers le bord, mais cette fois, uniquement pour les couleurs primaires de rouge, vert et bleu.</seg>
       </tuv>
     </tu>
     <tu>

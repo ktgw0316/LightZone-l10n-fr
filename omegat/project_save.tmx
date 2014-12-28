@@ -2790,6 +2790,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Color Balance tool</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141228T154441Z" creationid="Photonoxx" creationdate="20141228T154441Z">
+        <seg>Outil Balance de Couleur</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Color Burn</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141117T165518Z" creationid="Photonoxx" creationdate="20141117T165518Z">
@@ -5262,6 +5270,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>How to reduce "red-eye" in your photos.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141228T154616Z" creationid="Photonoxx" creationdate="20141228T154616Z">
+        <seg>Comment réduire les "Yeux Rouges" dans vos photos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>How to reduce digital camera sensor noise in your photo.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141228T121329Z" creationid="Photonoxx" creationdate="20141228T121329Z">
@@ -6790,6 +6806,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>LightZone: Red-Eye Reduction</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141228T154550Z" creationid="Photonoxx" creationdate="20141228T154550Z">
+        <seg>LightZone : Réduction des Yeux Rouges</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>LightZone: Regions and Masks</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141226T123610Z" creationid="Photonoxx" creationdate="20141226T123610Z">
@@ -7658,6 +7682,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141115T094152Z" creationid="Photonoxx" creationdate="20141115T094152Z">
         <seg>Réduction de Bruit</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Noise Reduction tool</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141228T154455Z" creationid="Photonoxx" creationdate="20141228T154455Z">
+        <seg>Outil Réduction de Bruit</seg>
       </tuv>
     </tu>
     <tu>
@@ -8850,6 +8882,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141225T091015Z" creationid="Photonoxx" creationdate="20141225T091015Z">
         <seg>Yeux-Rouges</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Red-Eye reduction</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141228T154633Z" creationid="Photonoxx" creationdate="20141228T154633Z">
+        <seg>Réduction des Yeux Rouges</seg>
       </tuv>
     </tu>
     <tu>
@@ -12806,6 +12846,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>To reset the Temperature to its original value, click the As Shot button.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141228T154407Z" creationid="Photonoxx" creationdate="20141228T154407Z">
+        <seg>Pour réinitialiser la Température à sa valeur d'origine, cliquez sur le bouton Comme la Photo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>To rotate photos:</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141225T090555Z" creationid="Photonoxx" creationdate="20141225T090555Z">
@@ -14158,6 +14206,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>ZoneMapper: Adjusting exposure</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141228T154522Z" creationid="Photonoxx" creationdate="20141228T154522Z">
+        <seg>ZoneMapper : Ajuster l'exposition</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Zone_System.html</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141226T153731Z" creationid="Photonoxx" creationdate="20141226T153731Z">
@@ -14722,6 +14778,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141228T150101Z" creationid="Photonoxx" creationdate="20141228T150101Z">
         <seg>images/Tool-Raw_Adjustments-en.png</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>images/Tool-Red-Eye-en.png</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141228T154634Z" creationid="Photonoxx" creationdate="20141228T154634Z">
+        <seg>images/Tool-Red-Eye-en.png</seg>
       </tuv>
     </tu>
     <tu>

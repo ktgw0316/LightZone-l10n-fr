@@ -1238,6 +1238,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Additionally, there can be at most one proof tool, it is always placed at the top of the &lt;a1&gt;tool stack&lt;/a1&gt;, and its label can not be edited.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141228T124350Z" creationid="Photonoxx" creationdate="20141228T124350Z">
+        <seg>De plus, il ne peut y avoir qu'un seul outil Épreuvage, et celui-ci est toujours placé en haut de la &lt;a1&gt;chaîne de développement&lt;/a1&gt;, et son titre ne peut pas être édité.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Additionally, when you paste a region into one tool that has been copied from another, you can paste it &lt;e0&gt;linked&lt;/e0&gt;.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141225T173845Z" creationid="Photonoxx" creationdate="20141225T173845Z">
@@ -5842,6 +5850,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141226T153647Z" creationid="Photonoxx" creationdate="20141226T153647Z">
         <seg>Kodak</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Lastly, it is only in effect when shown.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141228T124430Z" creationid="Photonoxx" creationdate="20141228T124430Z">
+        <seg>Pour finir, il n'est actif que quand il est affiché.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12582,6 +12598,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>To proof your photo:</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141228T124458Z" creationid="Photonoxx" creationdate="20141228T124458Z">
+        <seg>Pour procéder à l'épreuvage :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>To rate photos:</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141204T180034Z" creationid="Photonoxx" creationdate="20141204T180034Z">
@@ -14138,6 +14162,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141226T122405Z" creationid="Photonoxx" creationdate="20141226T122405Z">
         <seg>images/Button-Polygon.png</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>images/Button-Proof.png</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141228T124459Z" creationid="Photonoxx" creationdate="20141228T124459Z">
+        <seg>images/Button-Proof.png</seg>
       </tuv>
     </tu>
     <tu>

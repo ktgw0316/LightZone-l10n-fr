@@ -11382,6 +11382,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The initial settings for thr noise reduction tool are good for reducing the noise introduced by the sensors in digital cameras.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141228T121808Z" creationid="Photonoxx" creationdate="20141228T121808Z">
+        <seg>Le réglage initial de l'outil Réduction de Bruit est adapté pour réduire le bruit introduit par le capteur des appareils photo numériques.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The major difference, however, is that only folders and disks are shown -- files are not.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141124T115000Z" creationid="Photonoxx" creationdate="20141124T115000Z">
@@ -11482,6 +11490,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141225T171135Z" creationid="Photonoxx" creationdate="20141225T171135Z">
         <seg>La forme d'une région dans Lightzone peut être ajustée à tout moment.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The tool reduces noise in either color or grain (or both).</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141228T121635Z" creationid="Photonoxx" creationdate="20141228T121635Z">
+        <seg>L'outil réduit le bruit chromatique ou le grain (ou les deux).</seg>
       </tuv>
     </tu>
     <tu>

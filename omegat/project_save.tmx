@@ -7942,6 +7942,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Move the mouse along the zones in the ZoneMapper to locate the zone above which you do not want to adjust contrast.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141228T183551Z" creationid="Photonoxx" creationdate="20141228T183551Z">
+        <seg>Déplacez la souris le long des zones dans le ZoneMapper pour trouver la zone au-dessus de laquelle vous ne souhaitez pas ajuster le contraste.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Move the mouse around the photo and click wherever you want a control point.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141226T112556Z" creationid="Photonoxx" creationdate="20141226T112556Z">
@@ -13554,6 +13562,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141228T182208Z" creationid="Photonoxx" creationdate="20141228T182208Z">
         <seg>Pour augmenter la luminosité de votre photo :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To increase the contrast of your photo:</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141228T183345Z" creationid="Photonoxx" creationdate="20141228T183345Z">
+        <seg>Pour augmenter le contraste de votre photo :</seg>
       </tuv>
     </tu>
     <tu>

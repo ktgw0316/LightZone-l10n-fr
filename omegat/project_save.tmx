@@ -11654,6 +11654,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The Shadows slider adjusts the lightness of those parts of your photo that are in shadow.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141228T161340Z" creationid="Photonoxx" creationdate="20141228T161340Z">
+        <seg>Le contrôle des Tons foncés ajuste la luminosité des parties de votre photo qui sont dans les tons foncés.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The TIFF image format allows multiple images to be stored in the same TIFF file.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141124T103336Z" creationid="Photonoxx" creationdate="20141124T103336Z">
@@ -13602,6 +13610,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141228T160731Z" creationid="Photonoxx" creationdate="20141228T160731Z">
         <seg>Utilisez le contrôle Tolérance pour régler quel niveau de "rouge" les pixels doivent avoir pour voir leurs rouges réduits.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Use the sliders to adjust the contrast:</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141228T161157Z" creationid="Photonoxx" creationdate="20141228T161157Z">
+        <seg>Utilisez les contrôles pour ajuster le contraste :</seg>
       </tuv>
     </tu>
     <tu>

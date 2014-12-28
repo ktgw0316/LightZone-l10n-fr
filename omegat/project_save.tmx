@@ -774,6 +774,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>4 of 8</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141228T184341Z" creationid="Photonoxx" creationdate="20141228T184341Z">
+        <seg>4 de 8</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>5 of 10</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141226T115551Z" creationid="Photonoxx" creationdate="20141226T115551Z">
@@ -2022,6 +2030,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>As you do so, your photo's exposure will increase.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141228T184552Z" creationid="Photonoxx" creationdate="20141228T184552Z">
+        <seg>En faisant cela, l'Exposition de votre photo augmentera.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>As you do, the smaller version of your photo above the styles will show what your photo would look like if the style were applied.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141226T160854Z" creationid="Photonoxx" creationdate="20141226T160854Z">
@@ -2730,6 +2746,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141118T144454Z" creationid="Photonoxx" creationdate="20141118T144454Z">
         <seg>Cliquez sur Démarrer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Click above that zone.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141228T184515Z" creationid="Photonoxx" creationdate="20141228T184515Z">
+        <seg>Cliquez au-dessus de cette zone.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5574,6 +5598,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>How to adjust the exposure of your photo using ZoneMapper.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141228T184338Z" creationid="Photonoxx" creationdate="20141228T184338Z">
+        <seg>Comment ajuster l'exposition de votre photo en utilisant le ZoneMapper.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>How to adjust the hue and saturation of colors in your photo.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141228T112044Z" creationid="Photonoxx" creationdate="20141228T112044Z">
@@ -7654,6 +7686,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>LightZone: ZoneMapper: Adjusting Exposure</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141228T184315Z" creationid="Photonoxx" creationdate="20141228T184315Z">
+        <seg>LightZone : ZoneMapper : Ajuster l'Exposition</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>LightZone: ZoneMapper: Adjusting the Black Point</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141228T180037Z" creationid="Photonoxx" creationdate="20141228T180037Z">
@@ -8514,6 +8554,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141228T183052Z" creationid="Photonoxx" creationdate="20141228T183052Z">
         <seg>Un des nombreux réglages que vous pouvez faire à votre photo avec l'outil ZoneMapper est celui du Contraste.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>One of several adjustments you can make to your photo using the ZoneMapper tool is exposure.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141228T184356Z" creationid="Photonoxx" creationdate="20141228T184356Z">
+        <seg>Un des nombreux réglages que vous pouvez faire à votre photo avec l'outil ZoneMapper est celui de L'Exposition</seg>
       </tuv>
     </tu>
     <tu>
@@ -11734,6 +11782,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Starting from the first zone, move the mouse downwards along the zones in the ZoneMapper until you find a zone that shows significant highlighting in the &lt;a0&gt;ZoneFinder&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141228T184458Z" creationid="Photonoxx" creationdate="20141228T184458Z">
+        <seg>En partant de la première zone, déplacez la souris vers le bas le long des zones dans le ZoneMapper jusqu'à ce que vous trouviez une zone qui mette en évidence une partie de votre photo dans le &lt;a0&gt;ZoneFinder&lt;/a0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Starting from the last zone, move the mouse upwards along the zones in the ZoneMapper until you find a zone that shows significant highlighting in the &lt;a0&gt;ZoneFinder&lt;/a0&gt;.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141228T181126Z" creationid="Photonoxx" creationdate="20141228T181126Z">
@@ -13634,6 +13690,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141228T183345Z" creationid="Photonoxx" creationdate="20141228T183345Z">
         <seg>Pour augmenter le contraste de votre photo :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To increase the exposure of your photo:</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141228T184410Z" creationid="Photonoxx" creationdate="20141228T184410Z">
+        <seg>Pour augmenter l'exposition de votre photo :</seg>
       </tuv>
     </tu>
     <tu>

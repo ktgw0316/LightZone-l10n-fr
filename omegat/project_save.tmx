@@ -5456,8 +5456,16 @@
       <tuv lang="EN-US">
         <seg>In (b), the vibrance has been increased by 50 resulting in more vivid make-up, but with the hair and background largely unchanged.</seg>
       </tuv>
-      <tuv lang="FR" changeid="Photonoxx" changedate="20141228T115950Z" creationid="Photonoxx" creationdate="20141228T115950Z">
-        <seg>Sur (b), la vibrance à été augmentée de 50 rendant le maquillage plus vif, mais épargnant pour l'essentiel les cheveux et l'arrière plan.</seg>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141228T120137Z" creationid="Photonoxx" creationdate="20141228T115950Z">
+        <seg>Pour (b), la vibrance a été augmentée de 50 rendant le maquillage plus vif, mais épargnant pour l'essentiel les cheveux et l'arrière plan.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In (c), the saturation has been increased by 50 instead resulting in unnaturally vivid colors overall.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141228T120254Z" creationid="Photonoxx" creationdate="20141228T120032Z">
+        <seg>Pour (c), la saturation a été augmentée de 50 et au contraire crée des couleurs artificiellement vives sur toute la photo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12030,6 +12038,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>To adjust the hue/saturation of your photo:</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141228T120330Z" creationid="Photonoxx" creationdate="20141228T120330Z">
+        <seg>Pour ajuster la Teinte/Saturation de votre photo :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>To adjust the shape of a region:</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141225T172649Z" creationid="Photonoxx" creationdate="20141225T172649Z">
@@ -13874,6 +13890,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141228T102553Z" creationid="Photonoxx" creationdate="20141228T102553Z">
         <seg>images/Button-Crop.png</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>images/Button-Hue_Saturation.png</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141228T120331Z" creationid="Photonoxx" creationdate="20141228T120331Z">
+        <seg>images/Button-Hue_Saturation.png</seg>
       </tuv>
     </tu>
     <tu>

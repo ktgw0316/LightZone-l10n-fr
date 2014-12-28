@@ -5502,6 +5502,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It is always applied to your entire photo and is not placed into the &lt;a0&gt;tool stack&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141228T102331Z" creationid="Photonoxx" creationdate="20141228T102331Z">
+        <seg>Il est toujours appliqué à la photo entière et n'est pas dans la &lt;a0&gt;chaîne de développement&lt;/a0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It is important to note that, for most printers, there isn't one setting that will always give the best results.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141225T164159Z" creationid="Photonoxx" creationdate="20141225T164159Z">
@@ -11910,6 +11918,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>To crop your photo:</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141228T102552Z" creationid="Photonoxx" creationdate="20141228T102552Z">
+        <seg>Pour recadrer votre photo :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>To delete a control point from a region:</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141226T114409Z" creationid="Photonoxx" creationdate="20141226T114409Z">
@@ -13610,6 +13626,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141227T152346Z" creationid="Photonoxx" creationdate="20141227T152346Z">
         <seg>images/Button-Color_Balance.png</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>images/Button-Crop.png</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141228T102553Z" creationid="Photonoxx" creationdate="20141228T102553Z">
+        <seg>images/Button-Crop.png</seg>
       </tuv>
     </tu>
     <tu>

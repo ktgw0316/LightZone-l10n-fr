@@ -11222,6 +11222,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The &lt;b0&gt;Raw Adjustments&lt;/b0&gt; tool allows you to adjust various settings of a raw photo.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141228T150253Z" creationid="Photonoxx" creationdate="20141228T150122Z">
+        <seg>L'outil &lt;b0&gt;Ajustements RAW&lt;/b0&gt; vous permet de régler différents paramètres à une photo brute (RAW).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The &lt;b0&gt;Send&lt;/b0&gt; button is equivalent to File &gt; &lt;a1&gt;Send&lt;/a1&gt;.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141117T152000Z" creationid="Photonoxx" creationdate="20141117T152000Z">
@@ -14578,6 +14586,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141228T123732Z" creationid="Photonoxx" creationdate="20141228T123732Z">
         <seg>images/Tool-Proof-en.png</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>images/Tool-Raw_Adjustments-en.png</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141228T150101Z" creationid="Photonoxx" creationdate="20141228T150101Z">
+        <seg>images/Tool-Raw_Adjustments-en.png</seg>
       </tuv>
     </tu>
     <tu>

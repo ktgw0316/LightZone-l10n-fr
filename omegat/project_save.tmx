@@ -446,6 +446,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(Your photo will appear as it did before and the proof tool will disappear from the &lt;a0&gt;tool stack&lt;/a0&gt;.)</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141228T125532Z" creationid="Photonoxx" creationdate="20141228T125532Z">
+        <seg>(Votre photo redeviendra comme avant et l'outil d'Épreuvage disparaîtra de la &lt;a0&gt;chaîne de développement&lt;/a0&gt;.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(Your photo's colors will shift accordingly.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141227T153110Z" creationid="Photonoxx" creationdate="20141227T153110Z">

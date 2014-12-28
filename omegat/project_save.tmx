@@ -166,6 +166,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(A new white balance tool will appear at the top of the &lt;a1&gt;tool stack&lt;/a1&gt;.)</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141228T175508Z" creationid="Photonoxx" creationdate="20141228T175508Z">
+        <seg>(Un nouvel outil Balance des Blancs apparaîtra en haut de la &lt;a1&gt;chaîne de développement&lt;/a1&gt;.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(A white crop rectangle and grid will appear over your photo and the crop tool's controls will appear to the right of the tool bar.)</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141228T103304Z" creationid="Photonoxx" creationdate="20141228T103304Z">
@@ -2914,6 +2922,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141226T122150Z" creationid="Photonoxx" creationdate="20141226T122150Z">
         <seg>Cochez la case Inverser le Masque de l'outil</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Click the white balance tool button in the &lt;a0&gt;tool bar&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141228T175451Z" creationid="Photonoxx" creationdate="20141228T175451Z">
+        <seg>Cliquez le bouton de l'outil Balance des Blancs dans la &lt;a0&gt;barre d'outil&lt;/a0&gt;.</seg>
       </tuv>
     </tu>
     <tu>

@@ -1590,6 +1590,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Alternatively, you can use the Rotate 90-degree buttons to rotate your photo.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141228T164054Z" creationid="Photonoxx" creationdate="20141228T164054Z">
+        <seg>Vous pouvez aussi utiliser les boutons Tourner de 90 degrés pour tourner votre photo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Always apply this Style</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141111T101050Z" creationid="Photonoxx" creationdate="20141111T101050Z">

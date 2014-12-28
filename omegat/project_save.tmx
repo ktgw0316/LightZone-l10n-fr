@@ -110,6 +110,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(A white crop rectangle and grid will appear over your photo and the crop tool's controls will appear to the right of the tool bar.)</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141228T103304Z" creationid="Photonoxx" creationdate="20141228T103304Z">
+        <seg>(Un rectangle blanc de recadrage ainsi qu'une grille apparaîtront au-dessus de votre photo et les contrôles de l'outil recadrage apparaîtront à droite de la barre d'outils</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(Each has its own cross-hair cursor.) The advantage of doing this is that they all share the same &lt;a2&gt;blend mode&lt;/a2&gt;, &lt;a3&gt;opacity&lt;/a3&gt;, and &lt;a4&gt;color &amp; luminosity&lt;/a4&gt; selection.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141227T150609Z" creationid="Photonoxx" creationdate="20141227T150609Z">
@@ -2448,8 +2456,8 @@
       <tuv lang="EN-US">
         <seg>Click the crop tool button in the &lt;a0&gt;tool bar&lt;/a0&gt;.</seg>
       </tuv>
-      <tuv lang="FR" changeid="Photonoxx" changedate="20141228T102738Z" creationid="Photonoxx" creationdate="20141228T102738Z">
-        <seg>Cliquez sur l'outil Recadrage dans la &lt;a0&gt;barre d'outil&lt;/a0&gt;.</seg>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141228T103307Z" creationid="Photonoxx" creationdate="20141228T102738Z">
+        <seg>Cliquez sur l'outil Recadrage dans la &lt;a0&gt;barre d'outils&lt;/a0&gt;.</seg>
       </tuv>
     </tu>
     <tu>

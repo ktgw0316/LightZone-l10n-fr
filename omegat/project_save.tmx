@@ -566,6 +566,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(a) before</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141228T181453Z" creationid="Photonoxx" creationdate="20141228T181453Z">
+        <seg>(a) Avant</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(a) no color selected</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141118T101754Z" creationid="Photonoxx" creationdate="20141118T101754Z">
@@ -586,6 +594,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141227T140206Z" creationid="Photonoxx" creationdate="20141227T140206Z">
         <seg>(a) Déplié</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>(b) after</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141228T181502Z" creationid="Photonoxx" creationdate="20141228T181457Z">
+        <seg>(b) Après</seg>
       </tuv>
     </tu>
     <tu>
@@ -714,6 +730,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141226T163347Z" creationid="Photonoxx" creationdate="20141226T163347Z">
         <seg>3 de 6</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>3 of 8</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141228T181652Z" creationid="Photonoxx" creationdate="20141228T181652Z">
+        <seg>3 de 8</seg>
       </tuv>
     </tu>
     <tu>
@@ -5406,6 +5430,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>How to adjust the brightness of your photo using ZoneMapper.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141228T181638Z" creationid="Photonoxx" creationdate="20141228T181638Z">
+        <seg>Comment ajuster la luminosité de votre photo en utilisant le ZoneMapper.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>How to adjust the color balance of your photo.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141227T151213Z" creationid="Photonoxx" creationdate="20141227T151213Z">
@@ -7486,6 +7518,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>LightZone: ZoneMapper: Adjusting Brightness</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141228T181621Z" creationid="Photonoxx" creationdate="20141228T181621Z">
+        <seg>LightZone : ZoneMapper : Ajuster la Luminosité</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>LightZone: ZoneMapper: Adjusting the Black Point</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141228T180037Z" creationid="Photonoxx" creationdate="20141228T180037Z">
@@ -8314,6 +8354,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141201T102604Z" creationid="Photonoxx" creationdate="20141201T102604Z">
         <seg>Quand vous avez trouvé une photo que vous voulez éditer à l'aide &lt;a0&gt;de Navigateur Photo&lt;/a0&gt;, vous pouvez l'éditer (ou seulement la voir en pleine résolution).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>One of several adjustments you can make to your photo using the ZoneMapper tool is brightness.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141228T181718Z" creationid="Photonoxx" creationdate="20141228T181718Z">
+        <seg>Un des nombreux réglages que vous pouvez faire à votre photo avec l'outil ZoneMapper est celui de la Luminosité.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13310,6 +13358,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>To delete a zone lock, click the little 'X' at its right.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141228T181548Z" creationid="Photonoxx" creationdate="20141228T181521Z">
+        <seg>Pour supprimer un verrou de zone, cliquez sur le petit 'X' à sa droite.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>To delete photos:</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141201T095603Z" creationid="Photonoxx" creationdate="20141201T095603Z">
@@ -15022,6 +15078,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>ZoneMapper: Adjusting brightness</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141228T181649Z" creationid="Photonoxx" creationdate="20141228T181649Z">
+        <seg>ZoneMapper : Ajuster la Luminosité</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>ZoneMapper: Adjusting contrast</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141228T162525Z" creationid="Photonoxx" creationdate="20141228T162525Z">
@@ -15738,6 +15802,30 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141228T174609Z" creationid="Photonoxx" creationdate="20141228T174609Z">
         <seg>images/Tool-White_Balance-en.png</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>images/Tool-ZoneMapper-Black_Point-after-en.png</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141228T181505Z" creationid="Photonoxx" creationdate="20141228T181505Z">
+        <seg>images/Tool-ZoneMapper-Black_Point-after-en.png</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>images/Tool-ZoneMapper-Black_Point-before-en.png</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141228T181504Z" creationid="Photonoxx" creationdate="20141228T181504Z">
+        <seg>images/Tool-ZoneMapper-Black_Point-before-en.png</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>images/Tool-ZoneMapper-X.png</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141228T181549Z" creationid="Photonoxx" creationdate="20141228T181549Z">
+        <seg>images/Tool-ZoneMapper-X.png</seg>
       </tuv>
     </tu>
     <tu>

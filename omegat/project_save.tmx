@@ -11118,6 +11118,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The Vibrance slider is better than the Saturation slider when you want to adjust only the saturation of foliage, the sky, water, clothing, make-up (things that contain reds, greens, and blues), but leave the saturation of skin and earth tones largely unchanged.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141228T115712Z" creationid="Photonoxx" creationdate="20141228T115712Z">
+        <seg>Le contrôle de Vibrance est préférable à celui de Saturation lorsque vous souhaitez ajuster la saturation uniquement des feuillages, du ciel, de l'eau, de vếtements, de maquillage (des éléments qui contiennent des rouges, des verts et des bleus), mais laisser les tons chairs et terres globalement intacts.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The ZoneFinder allows you to see where the highlights, midtones, and shadows in your photo are in order to make adjustments using the ZoneMapper.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141122T102652Z" creationid="Photonoxx" creationdate="20141122T102652Z">

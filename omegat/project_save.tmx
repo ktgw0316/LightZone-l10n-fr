@@ -7862,6 +7862,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Move the mouse along the zones in the ZoneMapper to approximately the middle zone.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141228T182334Z" creationid="Photonoxx" creationdate="20141228T182334Z">
+        <seg>Placez la souris le long des zones dans le ZoneMapper approximativement sur la zone médiane.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Move the mouse around the photo and click wherever you want a control point.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141226T112556Z" creationid="Photonoxx" creationdate="20141226T112556Z">
@@ -13462,6 +13470,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>To increase the brightness of your photo:</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141228T182208Z" creationid="Photonoxx" creationdate="20141228T182208Z">
+        <seg>Pour augmenter la luminosité de votre photo :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>To integrate with some other applications, LightZone can save your edited photos as a two-page TIFF file:</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141124T103714Z" creationid="Photonoxx" creationdate="20141124T103714Z">
@@ -15034,6 +15050,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141111T103451Z" creationid="Photonoxx" creationdate="20141111T103451Z">
         <seg>Votre ordinateur doit être connecté à internet pour recherche une mise à jour.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Your photo can be adjusted to appear brighter without increasing exposure by lifting up the midtones.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141228T182139Z" creationid="Photonoxx" creationdate="20141228T182139Z">
+        <seg>Votre photo peut être ajusté pour apparaître plus lumineuse sans pour autant augmenter l'exposition en élevant les tons moyens.</seg>
       </tuv>
     </tu>
     <tu>

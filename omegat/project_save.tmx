@@ -1142,6 +1142,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A &lt;e0&gt;zone lock&lt;/e0&gt; will appear (a thin, blue line with a little 'X' at its right).</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141228T181346Z" creationid="Photonoxx" creationdate="20141228T181346Z">
+        <seg>Un &lt;e0&gt;verrou de zone&lt;/e0&gt; apparaîtra (une ligne fine et bleue avec un petit 'X' à sa droite).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A &lt;i0&gt;style&lt;/i0&gt; is a &lt;a1&gt;tool stack&lt;/a1&gt; that was originally created for one photo that can be applied to other photos.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141226T172456Z" creationid="Photonoxx" creationdate="20141226T172456Z">
@@ -1926,6 +1934,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>As you do so, your photo's black point will decrease.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141228T181449Z" creationid="Photonoxx" creationdate="20141228T181449Z">
+        <seg>En le faisant, le point noir de votre photo décroit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>As you do, the smaller version of your photo above the styles will show what your photo would look like if the style were applied.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141226T160854Z" creationid="Photonoxx" creationdate="20141226T160854Z">
@@ -2666,6 +2682,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141227T152532Z" creationid="Photonoxx" creationdate="20141227T152532Z">
         <seg>Cliquez n'importe où dans la roue chromatique.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Click below that zone.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141228T181156Z" creationid="Photonoxx" creationdate="20141228T181156Z">
+        <seg>Cliquez sous cette zone.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4386,6 +4410,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141226T121055Z" creationid="Photonoxx" creationdate="20141226T121055Z">
         <seg>Faitez glisser le tracé intérieur pour agrandir ou rétrécir la taille de la zone d'adoucissement.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Drag the zone lock downwards.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141228T181411Z" creationid="Photonoxx" creationdate="20141228T181411Z">
+        <seg>Déplacez la zone vers le bas.</seg>
       </tuv>
     </tu>
     <tu>

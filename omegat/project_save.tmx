@@ -11496,8 +11496,8 @@
       <tuv lang="EN-US">
         <seg>The Temperature and Tint sliders adjust the temperature and tint of your photo to compensate for a color cast in the light source such as the blue cast of the sky or tungsten lighting.</seg>
       </tuv>
-      <tuv lang="FR" changeid="Photonoxx" changedate="20141228T153322Z" creationid="Photonoxx" creationdate="20141228T153322Z">
-        <seg>Les contrôles Température et Nuance ajustent la  the temperature and tint of your photo to compensate for a color cast in the light source such as the blue cast of the sky or tungsten lighting.</seg>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141228T153545Z" creationid="Photonoxx" creationdate="20141228T153322Z">
+        <seg>Les contrôles Température et Nuance ajustent la température et la nuance de votre photo pour compenser une teinte dominante de la source de lumière comme la dominante bleue du ciel ou la dominante jaune/orangée d'un éclairage incandescent.</seg>
       </tuv>
     </tu>
     <tu>

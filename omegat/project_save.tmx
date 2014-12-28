@@ -4654,6 +4654,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For raw photos, using the single Raw Adjustments tool yields better results than if you had used the &lt;a0&gt;ZoneMapper&lt;/a0&gt; (for an exposure adjustment), &lt;a1&gt;Noise Reduction&lt;/a1&gt;, and &lt;a2&gt;White Balance&lt;/a2&gt; tools separately.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141228T150825Z" creationid="Photonoxx" creationdate="20141228T150825Z">
+        <seg>Pour les photos brutes (RAW), utiliser le seul outil Ajustements RAW donne de meilleurs résultats que si vous aviez utilisé séparément les outils &lt;a0&gt;ZoneMapper&lt;/a0&gt; (pour l'ajustement de l'exposition), &lt;a1&gt;Réduction de bruit&lt;/a1&gt;, et &lt;a2&gt;Balance des Blancs&lt;/a2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For such raw files, LightZone automatically adds a &lt;a0&gt;ZoneMapper&lt;/a0&gt; containing the default tone curve to the &lt;a1&gt;tool stack&lt;/a1&gt;.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141122T090751Z" creationid="Photonoxx" creationdate="20141122T090044Z">

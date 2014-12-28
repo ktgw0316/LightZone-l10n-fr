@@ -11542,6 +11542,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The Depth slider adjusts how "flat" or "deep" the lighting of your photo is.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141228T162031Z" creationid="Photonoxx" creationdate="20141228T162031Z">
+        <seg>Le contrôle de Profondeur détermine si l'éclairage de votre photo est "plat" ou "Profond".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Detail slider controls the local contrast adjustment on the details in your photo.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141228T161853Z" creationid="Photonoxx" creationdate="20141228T161813Z">
+        <seg>Le contrôles des Détail opère des ajustements sur le contraste local des détails de votre photo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The Exposure slider adjusts the exposure.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141228T152643Z" creationid="Photonoxx" creationdate="20141228T152643Z">
@@ -11826,6 +11842,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141225T114920Z" creationid="Photonoxx" creationdate="20141225T114920Z">
         <seg>Ce dossier caché peut-être situé soit dans le même dossier que vos photos ("local") soit dans un emplacement centralisé ("global").</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The higher the detail value, the higher the detail.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141228T161925Z" creationid="Photonoxx" creationdate="20141228T161848Z">
+        <seg>Plus la valeur détail est haute, plus les détails sont forts.</seg>
       </tuv>
     </tu>
     <tu>

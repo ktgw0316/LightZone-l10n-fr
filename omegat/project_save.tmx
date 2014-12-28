@@ -3198,6 +3198,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Cropping a photo</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141228T101440Z" creationid="Photonoxx" creationdate="20141228T101440Z">
+        <seg>Recadrer une photo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Cut Region</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141111T143408Z" creationid="Photonoxx" creationdate="20141111T143408Z">
@@ -4846,6 +4854,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>How to crop your photo.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141228T101430Z" creationid="Photonoxx" creationdate="20141228T101430Z">
+        <seg>Comment recadrer votre photo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>How to delete control points from a region.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141226T114001Z" creationid="Photonoxx" creationdate="20141226T114001Z">
@@ -6170,6 +6186,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141118T144909Z" creationid="Photonoxx" creationdate="20141118T144909Z">
         <seg>LightZone: Conversion d'Images</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>LightZone: Cropping a Photo</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141228T101356Z" creationid="Photonoxx" creationdate="20141228T101356Z">
+        <seg>LightZone : Recadrer une Photo</seg>
       </tuv>
     </tu>
     <tu>
@@ -13834,6 +13858,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141227T151236Z" creationid="Photonoxx" creationdate="20141227T151236Z">
         <seg>images/Tool-Color_Balance-en.png</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>images/Tool-Crop-en.png</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141228T101442Z" creationid="Photonoxx" creationdate="20141228T101442Z">
+        <seg>images/Tool-Crop-en.png</seg>
       </tuv>
     </tu>
     <tu>

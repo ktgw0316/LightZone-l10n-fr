@@ -1238,6 +1238,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Adjusting hue/saturation</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141228T112103Z" creationid="Photonoxx" creationdate="20141228T112103Z">
+        <seg>Ajuster la Teinte/Saturation</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Adjusting the feathering area</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141226T125648Z" creationid="Photonoxx" creationdate="20141226T125648Z">
@@ -1314,6 +1322,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141111T145320Z" creationid="Photonoxx" creationdate="20141111T145320Z">
         <seg>Toutes les Couleurs</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>All adjustments are relative.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141228T112330Z" creationid="Photonoxx" creationdate="20141228T112330Z">
+        <seg>Tous les ajustements sont relatifs.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10878,6 +10894,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The &lt;b0&gt;Hue/Saturation&lt;/b0&gt; tool allows you to make color adjustments in hue, saturation, or vibrance.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141228T112307Z" creationid="Photonoxx" creationdate="20141228T112307Z">
+        <seg>L'outil &lt;b0&gt;Teinte/Saturation&lt;/b0&gt; vous permet de faire des ajustements de couleur de la teinte, de la saturation ou de la vibrance.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The &lt;b0&gt;Open&lt;/b0&gt; button is equivalent to File &gt; &lt;a1&gt;Open&lt;/a1&gt;.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141117T151711Z" creationid="Photonoxx" creationdate="20141117T151711Z">
@@ -14058,6 +14082,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141228T101442Z" creationid="Photonoxx" creationdate="20141228T101442Z">
         <seg>images/Tool-Crop-en.png</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>images/Tool-Hue_Saturation-en.png</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141228T112104Z" creationid="Photonoxx" creationdate="20141228T112104Z">
+        <seg>images/Tool-Hue_Saturation-en.png</seg>
       </tuv>
     </tu>
     <tu>

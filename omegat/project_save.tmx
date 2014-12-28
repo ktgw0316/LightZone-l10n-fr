@@ -2830,6 +2830,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Click the eyedropper button inside the tool (the mouse will change to an eyedropper), then click somewhere on your photo that you want to be neutral gray.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141228T175816Z" creationid="Photonoxx" creationdate="20141228T175816Z">
+        <seg>cliquez sur le bouton de la pipette dans l'outil (le curseur de la souris se transformera en pipette), pour ensuite cliquer un point de votre photo qui devrait être gris neutre.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Click the eyedropper button inside the tool.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141227T152934Z" creationid="Photonoxx" creationdate="20141227T152934Z">
@@ -11832,8 +11840,8 @@
       <tuv lang="EN-US">
         <seg>The &lt;b0&gt;White Balance&lt;/b0&gt; tool allows you to adjust the white balance and tint of your photo to compensate for a color cast in the light source such as the blue cast of the sky or tungsten lighting.</seg>
       </tuv>
-      <tuv lang="FR" changeid="Photonoxx" changedate="20141228T175211Z" creationid="Photonoxx" creationdate="20141228T174831Z">
-        <seg>L'outil &lt;b0&gt;Balance des Blancs&lt;/b0&gt; vous permet d'ajuster la balance des blancs sa nuance de votre photo pour compenser une teinte dominante de la source de lumière comme la dominante bleue du ciel ou la dominante jaune/orangée d'un éclairage incandescent.</seg>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141228T175742Z" creationid="Photonoxx" creationdate="20141228T174831Z">
+        <seg>L'outil &lt;b0&gt;Balance des Blancs&lt;/b0&gt; vous permet d'ajuster la balance des blancs et la Teinte de votre photo pour compenser une teinte dominante de la source de lumière comme la dominante bleue du ciel ou la dominante jaune/orangée d'un éclairage incandescent.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14066,6 +14074,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141227T144235Z" creationid="Photonoxx" creationdate="20141227T144235Z">
         <seg>Utilisez le contrôle de Rayon pour ajuster l'effet de flou :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Use the Temperature and Tint sliders to adjust the white balance and tint.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141228T175726Z" creationid="Photonoxx" creationdate="20141228T175726Z">
+        <seg>Utilisez les contrôles Température et Nuance pour ajuster la balances des blancs et la teinte.</seg>
       </tuv>
     </tu>
     <tu>

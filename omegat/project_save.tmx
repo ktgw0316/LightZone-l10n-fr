@@ -13470,6 +13470,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>When done, click the proof tool button again or select Tools &gt; Hide Proof Tool.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141228T125420Z" creationid="Photonoxx" creationdate="20141228T125420Z">
+        <seg>Un fois fait, cliquez le bouton de l'outil Épreuvage une nouvelle fois, ou choisissez Outils &gt; Masquer l'outil d'Épreuvage.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>When done, you can either click anywhere outside the region, or press either the &lt;b0&gt;return&lt;/b0&gt; or &lt;b1&gt;esc&lt;/b1&gt; (escape) key.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141225T172152Z" creationid="Photonoxx" creationdate="20141225T172152Z">
@@ -13938,6 +13946,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141111T103451Z" creationid="Photonoxx" creationdate="20141111T103451Z">
         <seg>Votre ordinateur doit être connecté à internet pour recherche une mise à jour.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Your photo will now appear on screen how it will look when printed.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141228T125251Z" creationid="Photonoxx" creationdate="20141228T125251Z">
+        <seg>Votre photo affiche désormais ce à quoi elle devrait ressembler une fois imprimée.</seg>
       </tuv>
     </tu>
     <tu>

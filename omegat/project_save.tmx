@@ -2766,6 +2766,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Click the rotate tool button in the &lt;a0&gt;tool bar&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141228T163300Z" creationid="Photonoxx" creationdate="20141228T163300Z">
+        <seg>Cliquez sur l'outil Rotation dans la &lt;a0&gt;barre d'outils&lt;/a0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Click the tool's invert-mask box.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141226T122150Z" creationid="Photonoxx" creationdate="20141226T122150Z">
@@ -5978,6 +5986,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141228T124125Z" creationid="Photonoxx" creationdate="20141228T124125Z">
         <seg>Il est toujours appliqué à la photo entière et ne peut être masqué à l'aide des &lt;a0&gt;régions&lt;/a0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It is always applied to the entire photo and is not placed into the &lt;a0&gt;tool stack&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141228T163219Z" creationid="Photonoxx" creationdate="20141228T163219Z">
+        <seg>Il est toujours appliqué à la photo entière et n'est pas dans la &lt;a0&gt;chaîne de développement&lt;/a0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11022,6 +11038,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Sometimes you need to rotate a photo, for example to make the horizon level.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141228T163020Z" creationid="Photonoxx" creationdate="20141228T163020Z">
+        <seg>Parfois, vous avez besoin de faire tourner une photo, pour, par exemple, ajuster le niveau de l'horizon.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Sony</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141226T153705Z" creationid="Photonoxx" creationdate="20141226T153705Z">
@@ -13086,6 +13110,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>To rotate your photo:</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141228T163238Z" creationid="Photonoxx" creationdate="20141228T163238Z">
+        <seg>Pour tourner votre photo:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>To save work, the browser saves previews in a special cache folder.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141111T150308Z" creationid="Photonoxx" creationdate="20141111T150308Z">
@@ -13570,6 +13602,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141228T124042Z" creationid="Photonoxx" creationdate="20141228T124042Z">
         <seg>Contrairement au autres outils, l'outil Épreuvage est spécial.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Unlike other tools, the rotate tool is special.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141228T163136Z" creationid="Photonoxx" creationdate="20141228T163136Z">
+        <seg>Contrairement au autres outils, l'outil Rotation est spécial.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14366,6 +14406,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You can use the &lt;b0&gt;Rotate&lt;/b0&gt; tool for this.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141228T163049Z" creationid="Photonoxx" creationdate="20141228T163049Z">
+        <seg>Vous pouvez utiliser l'Outil &lt;b0&gt;Rotation&lt;/b0&gt; pour cela.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You may have to restore orientations manually using the browser's rotate buttons.)</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141111T151027Z" creationid="Photonoxx" creationdate="20141111T151027Z">
@@ -14722,6 +14770,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141228T161056Z" creationid="Photonoxx" creationdate="20141228T161056Z">
         <seg>images/Button-Relight.png</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>images/Button-Rotate.png</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141228T163239Z" creationid="Photonoxx" creationdate="20141228T163239Z">
+        <seg>images/Button-Rotate.png</seg>
       </tuv>
     </tu>
     <tu>

@@ -5774,6 +5774,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It is always applied to the entire photo and can not be masked using &lt;a0&gt;regions&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141228T124125Z" creationid="Photonoxx" creationdate="20141228T124125Z">
+        <seg>Il est toujours appliqué à la photo entière et ne peut être masqué à l'aide des &lt;a0&gt;régions&lt;/a0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It is always applied to your entire photo and is not placed into the &lt;a0&gt;tool stack&lt;/a0&gt;.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141228T102331Z" creationid="Photonoxx" creationdate="20141228T102331Z">
@@ -11126,6 +11134,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The &lt;b0&gt;Proof&lt;/b0&gt; tool allows you to see on screen how your photo will look when &lt;a1&gt;printed&lt;/a1&gt;.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141228T124014Z" creationid="Photonoxx" creationdate="20141228T124014Z">
+        <seg>L'outil &lt;b0&gt;Épreuvage&lt;/b0&gt; vous permet d'avoir un aperçu de l'aspect de votre photo quand elle sera &lt;a1&gt;imprimée&lt;/a1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The &lt;b0&gt;Send&lt;/b0&gt; button is equivalent to File &gt; &lt;a1&gt;Send&lt;/a1&gt;.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141117T152000Z" creationid="Photonoxx" creationdate="20141117T152000Z">
@@ -13066,6 +13082,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141228T102246Z" creationid="Photonoxx" creationdate="20141228T102246Z">
         <seg>Contrairement au autres outils, l'outil Recadrage est spécial.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Unlike other tools, the proof tool is special.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141228T124042Z" creationid="Photonoxx" creationdate="20141228T124042Z">
+        <seg>Contrairement au autres outils, l'outil Épreuvage est spécial.</seg>
       </tuv>
     </tu>
     <tu>

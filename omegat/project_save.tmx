@@ -11366,6 +11366,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The Color Noise slider reduces the amount of "noise" that is often present in digital photos as a result of the sensors in digital cameras.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141228T153227Z" creationid="Photonoxx" creationdate="20141228T153227Z">
+        <seg>Le contrôle Bruit Couleur réduit la quantité de "bruit" résultant du capteur de l'appareil qu'on trouve souvent présent dans les photos numériques.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The Exposure slider adjusts the exposure.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141228T152643Z" creationid="Photonoxx" creationdate="20141228T152643Z">
@@ -11482,6 +11490,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141124T103336Z" creationid="Photonoxx" creationdate="20141124T103336Z">
         <seg>Le format d'image TIFF offre la possibilité d'enregistrer plusieurs images dans le même fichier TIFF.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Temperature and Tint sliders adjust the temperature and tint of your photo to compensate for a color cast in the light source such as the blue cast of the sky or tungsten lighting.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141228T153322Z" creationid="Photonoxx" creationdate="20141228T153322Z">
+        <seg>Les contrôles Température et Nuance ajustent la  the temperature and tint of your photo to compensate for a color cast in the light source such as the blue cast of the sky or tungsten lighting.</seg>
       </tuv>
     </tu>
     <tu>

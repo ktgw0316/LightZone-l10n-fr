@@ -734,6 +734,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;b0&gt;Hue&lt;/b0&gt;: The color of pixels.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141228T115209Z" creationid="Photonoxx" creationdate="20141228T115209Z">
+        <seg>&lt;b0&gt;Teinte&lt;/b0&gt; : La couleur des pixels.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;b0&gt;Note:&lt;/b0&gt; A filter of a certain color actually filters out its &lt;e1&gt;complementary&lt;/e1&gt; color (the color directly across from it in the color wheel).</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141227T142046Z" creationid="Photonoxx" creationdate="20141227T142046Z">
@@ -842,6 +850,22 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141225T170020Z" creationid="Photonoxx" creationdate="20141225T170020Z">
         <seg>&lt;b0&gt;Couleurs gérées par l'Imprimante :&lt;/b0&gt; l'imprimante fera la conversion de couleur.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;b0&gt;Saturation&lt;/b0&gt;: How vivid all colors are.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141228T115319Z" creationid="Photonoxx" creationdate="20141228T115303Z">
+        <seg>&lt;b0&gt;Saturation&lt;/b0&gt; : La vivacité de toutes les couleurs.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;b0&gt;Vibrance&lt;/b0&gt;: How vivid primary colors are.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141228T115341Z" creationid="Photonoxx" creationdate="20141228T115313Z">
+        <seg>&lt;b0&gt;Vibrance&lt;/b0&gt; : La vivacité des couleurs primaires.</seg>
       </tuv>
     </tu>
     <tu>

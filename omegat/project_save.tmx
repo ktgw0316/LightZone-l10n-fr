@@ -11102,6 +11102,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Similarly to the Clone tool, a spot is removed by copying another part of your photo over the spot.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141228T172735Z" creationid="Photonoxx" creationdate="20141228T172735Z">
+        <seg>De la même façon qu'avec l'outil Cloner, un point ou une poussière est effacé par la copie d'une autre partie de votre photo sur ce même point/poussière.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Simple (and small) workflow</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141122T122707Z" creationid="Photonoxx" creationdate="20141122T122707Z">

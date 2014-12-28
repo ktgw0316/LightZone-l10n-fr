@@ -5158,6 +5158,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>How to make raw adjustments to your photo.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141228T145940Z" creationid="Photonoxx" creationdate="20141228T145940Z">
+        <seg>Comment faire les ajustements bruts (RAW) à votre photo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>How to navigate the folders and browse photos.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141124T114136Z" creationid="Photonoxx" creationdate="20141124T114136Z">
@@ -6714,6 +6722,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141204T181117Z" creationid="Photonoxx" creationdate="20141201T104922Z">
         <seg>LightZone: Notez des Photos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>LightZone: Raw Adjustments</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141228T145835Z" creationid="Photonoxx" creationdate="20141228T145835Z">
+        <seg>LightZone : Ajustements RAW</seg>
       </tuv>
     </tu>
     <tu>
@@ -8634,6 +8650,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141227T153626Z" creationid="Photonoxx" creationdate="20141227T153626Z">
         <seg>Outil d'Ajustements RAW</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Raw adjustments</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141228T145957Z" creationid="Photonoxx" creationdate="20141228T145957Z">
+        <seg>Ajustements RAW</seg>
       </tuv>
     </tu>
     <tu>

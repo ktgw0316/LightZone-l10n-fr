@@ -5110,6 +5110,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>How to adjust the contrast of your photo.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141228T160808Z" creationid="Photonoxx" creationdate="20141228T160808Z">
+        <seg>Comment ajuster le contraste de votre photo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>How to adjust the hue and saturation of colors in your photo.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141228T112044Z" creationid="Photonoxx" creationdate="20141228T112044Z">
@@ -6938,6 +6946,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141226T122214Z" creationid="Photonoxx" creationdate="20141226T122214Z">
         <seg>LightZone : Régions : Types</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>LightZone: Relighting</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141228T160823Z" creationid="Photonoxx" creationdate="20141228T160750Z">
+        <seg>LightZone : Relight</seg>
       </tuv>
     </tu>
     <tu>
@@ -9202,6 +9218,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141226T152520Z" creationid="Photonoxx" creationdate="20141226T152520Z">
         <seg>Colorimétrie Relative</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Relighting</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141228T160816Z" creationid="Photonoxx" creationdate="20141228T160816Z">
+        <seg>Relight</seg>
       </tuv>
     </tu>
     <tu>
@@ -13538,6 +13562,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141227T144235Z" creationid="Photonoxx" creationdate="20141227T144235Z">
         <seg>Utilisez le contrôle de Rayon pour ajuster l'effet de flou :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Use the Tolerance slider to adjust how "red" pixels have to be in order to have their redness reduced.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141228T160731Z" creationid="Photonoxx" creationdate="20141228T160731Z">
+        <seg>Utilisez le contrôle Tolérance pour régler quel niveau de "rouge" les pixels doivent avoir pour voir leurs rouges réduits.</seg>
       </tuv>
     </tu>
     <tu>

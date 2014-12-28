@@ -5230,6 +5230,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If you want to constrain your photo to an aspect ratio, click the Constrain ratio button so that it shows a locked lock.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141228T103600Z" creationid="Photonoxx" creationdate="20141228T103600Z">
+        <seg>Si vous souhaitez contraindre votre photo à un rapport hauteur/largeur particuliers, cliquez sur le bouton Contraindre les proportions qui représente un cadenas fermé.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If your photo does not print well using a custom ICC profile for your printer, try using the standard or vivid settings in your printer driver instead.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141225T164716Z" creationid="Photonoxx" creationdate="20141225T164716Z">
@@ -11210,6 +11218,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141225T163653Z" creationid="Photonoxx" creationdate="20141225T163653Z">
         <seg>A ce moment, dans le dialogue des préférences de l'imprimante, réglez le pilote d'impression pour qu'il n'effectue pas de conversion de couleur.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Then, you can select the aspect ratio in one of two ways:</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141228T103716Z" creationid="Photonoxx" creationdate="20141228T103716Z">
+        <seg>À ce moment, vous pouvez choisir les proportions d'une de ces deux façons :</seg>
       </tuv>
     </tu>
     <tu>

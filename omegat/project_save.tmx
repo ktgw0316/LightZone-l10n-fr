@@ -1206,6 +1206,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Additionally, any "hot pixels" that are found are automatically removed.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141228T150349Z" creationid="Photonoxx" creationdate="20141228T150349Z">
+        <seg>De plus, tous les "points chauds" qui sont trouvés sont automatiquement effacés.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Additionally, color/luminosity selections have adjustable feathering thus eliminating sharp edges between where a selection is and isn't.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141117T152814Z" creationid="Photonoxx" creationdate="20141117T152814Z">

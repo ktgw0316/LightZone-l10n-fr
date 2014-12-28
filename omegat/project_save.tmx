@@ -5382,6 +5382,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>How to rotate your photo.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141228T162747Z" creationid="Photonoxx" creationdate="20141228T162747Z">
+        <seg>Comment faire tourner votre photo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>How to save the edits you've made to your photo.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141226T154342Z" creationid="Photonoxx" creationdate="20141226T154342Z">
@@ -7000,8 +7008,8 @@
       <tuv lang="EN-US">
         <seg>LightZone: Rotating a Photo</seg>
       </tuv>
-      <tuv lang="FR" changeid="Photonoxx" changedate="20141228T162604Z" creationid="Photonoxx" creationdate="20141228T162604Z">
-        <seg>LightZone : Rotating a Photo</seg>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141228T162805Z" creationid="Photonoxx" creationdate="20141228T162604Z">
+        <seg>LightZone : Rotation d'une Photo</seg>
       </tuv>
     </tu>
     <tu>
@@ -9722,6 +9730,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141225T093411Z" creationid="Photonoxx" creationdate="20141225T093411Z">
         <seg>Tourner des fichiers JPEG modifie seulement les métadonnés d'Orientation: les données de l'image ne sont pas modifiées.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Rotating a photo</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141228T162812Z" creationid="Photonoxx" creationdate="20141228T162812Z">
+        <seg>Rotation d'une Photo</seg>
       </tuv>
     </tu>
     <tu>
@@ -15066,6 +15082,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141228T160827Z" creationid="Photonoxx" creationdate="20141228T160827Z">
         <seg>images/Tool-Relight-en.png</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>images/Tool-Rotate-en.png</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141228T162813Z" creationid="Photonoxx" creationdate="20141228T162813Z">
+        <seg>images/Tool-Rotate-en.png</seg>
       </tuv>
     </tu>
     <tu>

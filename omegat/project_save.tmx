@@ -118,6 +118,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(A new noise reduction tool will appear at the top of the &lt;a1&gt;tool stack&lt;/a1&gt;.)</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141228T122858Z" creationid="Photonoxx" creationdate="20141228T122858Z">
+        <seg>(Un nouvel outil Réduction de Bruit apparaîtra en haut de la &lt;a1&gt;chaîne de développement&lt;/a1&gt;.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(A white crop rectangle and grid will appear over your photo and the crop tool's controls will appear to the right of the tool bar.)</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141228T103304Z" creationid="Photonoxx" creationdate="20141228T103304Z">
@@ -2618,6 +2626,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141122T164434Z" creationid="Photonoxx" creationdate="20141122T164434Z">
         <seg>Cliquez le nom d'une étape d'édition dans l'Historique.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Click the noise reduction tool button in the &lt;a0&gt;tool bar&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141228T122847Z" creationid="Photonoxx" creationdate="20141228T122847Z">
+        <seg>Cliquez le bouton de l'outil Réduction de Bruit dans la &lt;a0&gt;barre d'outil&lt;/a0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5410,6 +5426,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141228T104039Z" creationid="Photonoxx" creationdate="20141228T104039Z">
         <seg>Si vous souhaitez un rapport personnalisé, vous pouvez entrer vos propres largeur et hauteur dans les deux champs de texte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If you want further noise reduction on only part of your photo, then you can use the Noise Reduction tool with a &lt;a2&gt;mask&lt;/a2&gt;.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141228T122810Z" creationid="Photonoxx" creationdate="20141228T122810Z">
+        <seg>Si vous souhaitez plus de réduction de bruit sur une partie seulement de votre photo, alors vous pouvez utiliser l'outil Réduction de Bruit avec un &lt;a2&gt;masque&lt;/a2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11142,6 +11166,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The Color Noise slider controls the amount of color noise reduction.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141228T123029Z" creationid="Photonoxx" creationdate="20141228T123029Z">
+        <seg>Le contrôle Bruit Couleur pour la quantité de bruit chromatique à réduire.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The Folder Navigator allows you to navigate to, select, and view the thumbnails and &lt;a0&gt;metadata&lt;/a0&gt; for photos in folders on your computer.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141124T115407Z" creationid="Photonoxx" creationdate="20141124T115407Z">
@@ -12510,6 +12542,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>To reduce the noise of your photo:</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141228T122828Z" creationid="Photonoxx" creationdate="20141228T122828Z">
+        <seg>Pour réduire le bruit de votre photo:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>To rename a photo:</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141204T181240Z" creationid="Photonoxx" creationdate="20141204T181240Z">
@@ -13090,6 +13130,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141227T144235Z" creationid="Photonoxx" creationdate="20141227T144235Z">
         <seg>Utilisez le contrôle de Rayon pour ajuster l'effet de flou :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Use the sliders to adjust the noise reduction effect:</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141228T122929Z" creationid="Photonoxx" creationdate="20141228T122929Z">
+        <seg>Utilisez les contrôles pour ajuster l'effet de la réduction de bruit :</seg>
       </tuv>
     </tu>
     <tu>
@@ -14010,6 +14058,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141228T120331Z" creationid="Photonoxx" creationdate="20141228T120331Z">
         <seg>images/Button-Hue_Saturation.png</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>images/Button-Noise_Reduction.png</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141228T122829Z" creationid="Photonoxx" creationdate="20141228T122829Z">
+        <seg>images/Button-Noise_Reduction.png</seg>
       </tuv>
     </tu>
     <tu>

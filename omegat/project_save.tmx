@@ -22,6 +22,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>"Brightness" is what is perceived as the tonal range starting from the highest highlights down to the midtones.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141228T181924Z" creationid="Photonoxx" creationdate="20141228T181924Z">
+        <seg>La "Luminosité" est ce qui est perçu comme la gamme de tons débutant des plus hautes lumières et descendant jusqu'aux tons moyens.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>$1 files to process</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141106T105807Z" creationid="Photonoxx" creationdate="20141106T105807Z">

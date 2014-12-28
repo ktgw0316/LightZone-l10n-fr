@@ -1078,6 +1078,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;b0&gt;Note:&lt;/b0&gt; To decrease the brightness of you photo, drag the zone lock downwards rather than upwards.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141228T182951Z" creationid="Photonoxx" creationdate="20141228T182951Z">
+        <seg>&lt;b0&gt;Note:&lt;/b0&gt; Pour diminuer la luminosité de votrephoto, déplacer le verrou de zone vers le bas plutôt que vers le haut.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;b0&gt;Note&lt;/b0&gt;: Some preferences are effective only after LightZone is relaunched.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141225T161515Z" creationid="Photonoxx" creationdate="20141225T161515Z">
@@ -7554,6 +7562,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141228T181621Z" creationid="Photonoxx" creationdate="20141228T181621Z">
         <seg>LightZone : ZoneMapper : Ajuster la Luminosité</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>LightZone: ZoneMapper: Adjusting Contrast</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141228T183015Z" creationid="Photonoxx" creationdate="20141228T183015Z">
+        <seg>LightZone : ZoneMapper : Ajuster le Contraste</seg>
       </tuv>
     </tu>
     <tu>

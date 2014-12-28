@@ -11190,6 +11190,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The Grain Noise slider reduces how "grainy" your photo appears.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141228T123137Z" creationid="Photonoxx" creationdate="20141228T123137Z">
+        <seg>Le contrôle Bruit Grain pour réduire la quantité de "Grain" que présente votre photo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The History tab shows you the complete history of all the edits you have made to your photo since opening it for the current editing session.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141122T163915Z" creationid="Photonoxx" creationdate="20141122T163915Z">

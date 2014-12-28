@@ -784,8 +784,8 @@
       <tuv lang="EN-US">
         <seg>&lt;b0&gt;Note:&lt;/b0&gt; If you want to start over, you can click the Reset button in the crop tool.</seg>
       </tuv>
-      <tuv lang="FR" changeid="Photonoxx" changedate="20141228T105159Z" creationid="Photonoxx" creationdate="20141228T105159Z">
-        <seg>&lt;b0&gt;Note:&lt;/b0&gt; Si lors du recadrage vous souhaitez recommencer du début, vous pouvez cliquer If you want to start over, you can click the Reset button in the crop tool.</seg>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141228T111902Z" creationid="Photonoxx" creationdate="20141228T105159Z">
+        <seg>&lt;b0&gt;Note:&lt;/b0&gt; Si lors du recadrage vous souhaitez recommencer du début, vous pouvez cliquer sur le bouton Réinit. (Remettre à zéro le recadrage) de l'outil Recadrage.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4838,6 +4838,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>How to adjust the hue and saturation of colors in your photo.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141228T112044Z" creationid="Photonoxx" creationdate="20141228T112044Z">
+        <seg>Comment ajuster la teinte et la saturation dans votre photo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>How to adjust the shape of regions.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141225T172236Z" creationid="Photonoxx" creationdate="20141225T172236Z">
@@ -6210,6 +6218,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141227T150937Z" creationid="Photonoxx" creationdate="20141227T150857Z">
         <seg>LightZone : Ajuster la Balance de Couleur</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>LightZone: Adjusting Hue/Saturation</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141228T111935Z" creationid="Photonoxx" creationdate="20141228T111935Z">
+        <seg>LightZone : Ajuster la Teinte/Saturation</seg>
       </tuv>
     </tu>
     <tu>

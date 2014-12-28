@@ -11486,6 +11486,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Starting from the last zone, move the mouse upwards along the zones in the ZoneMapper until you find a zone that shows significant highlighting in the &lt;a0&gt;ZoneFinder&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141228T181126Z" creationid="Photonoxx" creationdate="20141228T181126Z">
+        <seg>En partant de la dernière zone, déplacez la souris vers le haut le long des zones dans le ZoneMapper jusqu'à ce que vous trouviez une zone qui mette en évidence une partie de votre photo dans le &lt;a0&gt;ZoneFinder&lt;/a0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Strength</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141115T090844Z" creationid="Photonoxx" creationdate="20141115T090844Z">

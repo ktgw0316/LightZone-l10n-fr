@@ -1238,6 +1238,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A &lt;i0&gt;zone divider&lt;/i0&gt; is the dividing line between any two zones.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141228T185754Z" creationid="Photonoxx" creationdate="20141228T185754Z">
+        <seg>Un &lt;i0&gt;Séparateur de zone&lt;/i0&gt; est la ligne qui divise n'importe quelles zones consécutives.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A LightZone JPEG still refers to your original photo (whether it's a raw, TIFF, or another JPEG).</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141226T155615Z" creationid="Photonoxx" creationdate="20141226T155615Z">
@@ -4090,6 +4098,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141114T182136Z" creationid="Photonoxx" creationdate="20141114T182136Z">
         <seg>Effacer...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Deletes the selected zone lock.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141228T185623Z" creationid="Photonoxx" creationdate="20141228T185623Z">
+        <seg>Effacer le verrou sélectionné.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15566,6 +15582,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>backspace/delete</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141228T185600Z" creationid="Photonoxx" creationdate="20141228T185535Z">
+        <seg>backspace/Suppr.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>en-US</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141225T092640Z">
@@ -16214,6 +16238,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>images/Tool-ZoneMapper-Divider.png</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141228T185624Z" creationid="Photonoxx" creationdate="20141228T185624Z">
+        <seg>images/Tool-ZoneMapper-Divider.png</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>images/Tool-ZoneMapper-Exposure-after-en.png</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141228T184601Z" creationid="Photonoxx" creationdate="20141228T184601Z">
@@ -16370,6 +16402,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141201T100904Z" creationid="Photonoxx" creationdate="20141201T100904Z">
         <seg>l'ouverture des fichiers images</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>up/down arrows</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141228T185520Z" creationid="Photonoxx" creationdate="20141228T185520Z">
+        <seg>Flèches Haut/Bas</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->

@@ -7310,6 +7310,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Often you want to crop a photo to remove unwanted areas or to focus attention on the main subject.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141228T101959Z" creationid="Photonoxx" creationdate="20141228T101959Z">
+        <seg>Il arrive que vous souhaitiez recadrer une photo pour enlever une partie non désirée ou pour concentrer l'attention sur le sujet principal.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Olympus</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141226T153655Z" creationid="Photonoxx" creationdate="20141226T153655Z">
@@ -12598,6 +12606,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Unlike other tools, the crop tool is special.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141228T102246Z" creationid="Photonoxx" creationdate="20141228T102246Z">
+        <seg>Contrairement au autres outils, l'outil Recadrage est spécial.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Unlock</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141115T091944Z" creationid="Photonoxx" creationdate="20141115T091944Z">
@@ -13338,6 +13354,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141225T164409Z" creationid="Photonoxx" creationdate="20141225T164409Z">
         <seg>Vous pourriez avoir des photos qui s'impriment très bien sur votre imprimante avec certains réglages et certains profils, et d'autres qui ne s'imprimeront pas correctement.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You use the &lt;b0&gt;Crop&lt;/b0&gt; tool for this.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141228T102155Z" creationid="Photonoxx" creationdate="20141228T102155Z">
+        <seg>Pour cela vous utiliserez l'outil &lt;b0&gt;Recadrage&lt;/b0&gt;.</seg>
       </tuv>
     </tu>
     <tu>

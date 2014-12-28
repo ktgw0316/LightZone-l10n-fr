@@ -3822,6 +3822,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Drag the edges or corners of the white crop rectangle to where you want them.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141228T104311Z" creationid="Photonoxx" creationdate="20141228T104311Z">
+        <seg>Déplacer les côtés ou les coins du rectangle de recadrage là où vous le souhaitez.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Drag the inner line out or in to increase or decrease the size of the feathering area.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141226T121055Z" creationid="Photonoxx" creationdate="20141226T121055Z">
@@ -5250,6 +5258,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141228T103600Z" creationid="Photonoxx" creationdate="20141228T103600Z">
         <seg>Si vous souhaitez contraindre votre photo à un rapport hauteur/largeur particuliers, cliquez sur le bouton Contraindre les proportions qui représente un cadenas fermé.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If you want to move the entire rectangle, you can click inside of it, then drag it.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141228T104404Z" creationid="Photonoxx" creationdate="20141228T104404Z">
+        <seg>Si vous souhaitez déplacer tout le rectangle, vous pouvez cliquer à l'intérieur et alors le déplacer.</seg>
       </tuv>
     </tu>
     <tu>

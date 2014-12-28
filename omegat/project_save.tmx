@@ -830,6 +830,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>7 of 8</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141228T190049Z" creationid="Photonoxx" creationdate="20141228T190049Z">
+        <seg>7 de 8</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>8 Bits/Channel</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141115T085926Z" creationid="Photonoxx" creationdate="20141115T085926Z">
@@ -7766,6 +7774,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>LightZone: ZoneMapper: Luminosity vs. RGB</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141228T185957Z" creationid="Photonoxx" creationdate="20141228T185905Z">
+        <seg>LightZone : ZoneMapper : Luminosité vs. RVB</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>LightZone_Help/images/app_icon-16.png</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141204T181539Z" creationid="Photonoxx" creationdate="20141204T181539Z">
@@ -12662,6 +12678,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The difference between luminosity and RGB adjustments using the ZoneMapper.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141228T190011Z" creationid="Photonoxx" creationdate="20141228T185954Z">
+        <seg>La différence entre l'ajustement de luminosité et RVB avec le ZoneMapper.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The different kinds of regions.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141226T122229Z" creationid="Photonoxx" creationdate="20141226T122229Z">
@@ -12826,6 +12850,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141124T104133Z" creationid="Photonoxx" creationdate="20141124T104105Z">
         <seg>La seconde page est votre photo originale et non éditée à laquelle sera appliqué la chaîne de développement.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The selected zone divider is shown by a blue line.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141228T185841Z" creationid="Photonoxx" creationdate="20141228T185841Z">
+        <seg>Le séparateur de zone sélectionné est affiché avec une ligne bleue.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14294,6 +14326,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Tool-ZoneMapper-Keys.html</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141228T190044Z" creationid="Photonoxx" creationdate="20141228T190044Z">
+        <seg>Tool-ZoneMapper-Keys.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Tool-ZoneMapper-Luminosity_RGB.html</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141228T180124Z" creationid="Photonoxx" creationdate="20141228T180124Z">
@@ -15118,6 +15158,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>X</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141228T185847Z" creationid="Photonoxx" creationdate="20141228T185847Z">
+        <seg>X</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Yellow-Blue</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141115T090912Z" creationid="Photonoxx" creationdate="20141115T090912Z">
@@ -15482,6 +15530,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141228T184851Z" creationid="Photonoxx" creationdate="20141228T184851Z">
         <seg>ZoneMapper : Raccourcis Clavier</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>ZoneMapper: Luminosity vs. RGB</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141228T190043Z" creationid="Photonoxx" creationdate="20141228T190043Z">
+        <seg>ZoneMapper : Luminosité vs. RVB</seg>
       </tuv>
     </tu>
     <tu>
@@ -16362,6 +16418,22 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141111T095505Z" creationid="Photonoxx" creationdate="20141106T105328Z">
         <seg>Enregistré sous $1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>shift-tab</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141228T185846Z" creationid="Photonoxx" creationdate="20141228T185846Z">
+        <seg>shift-tab</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>tab</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141228T185844Z" creationid="Photonoxx" creationdate="20141228T185844Z">
+        <seg>tab</seg>
       </tuv>
     </tu>
     <tu>

@@ -550,6 +550,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(Your photo's colors will then shift accordingly.) When satisfied with the color cast reduction, click the eyedropper button again to complete the adjustment.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141228T180002Z" creationid="Photonoxx" creationdate="20141228T180002Z">
+        <seg>(Les couleurs de votre photo seront modifiées en conséquence.) Si vous êtes satisfait avec le réglage de la balance des blancs, cliquez une fois de plus sur la pipette pour valider l'ajustement.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(a) no color selected</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141118T101754Z" creationid="Photonoxx" creationdate="20141118T101754Z">
@@ -738,6 +746,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141225T171053Z" creationid="Photonoxx" creationdate="20141225T171053Z">
         <seg>6 de 10</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>6 of 8</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141228T180128Z" creationid="Photonoxx" creationdate="20141228T180128Z">
+        <seg>6 de 8</seg>
       </tuv>
     </tu>
     <tu>
@@ -5318,6 +5334,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>How to adjust the black point of your photo using ZoneMapper.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141228T180103Z" creationid="Photonoxx" creationdate="20141228T180103Z">
+        <seg>Comment ajuster le point noir de votre photo en utilisant le ZoneMapper.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>How to adjust the color balance of your photo.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141227T151213Z" creationid="Photonoxx" creationdate="20141227T151213Z">
@@ -7394,6 +7418,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141122T170348Z" creationid="Photonoxx" creationdate="20141122T170348Z">
         <seg>LightZone: Intégration à un flux de travail : iView MediaPro</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>LightZone: ZoneMapper: Adjusting the Black Point</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141228T180037Z" creationid="Photonoxx" creationdate="20141228T180037Z">
+        <seg>LightZone : ZoneMapper : Ajustement du Point Noir</seg>
       </tuv>
     </tu>
     <tu>
@@ -13766,6 +13798,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Tool-ZoneMapper-Luminosity_RGB.html</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141228T180124Z" creationid="Photonoxx" creationdate="20141228T180124Z">
+        <seg>Tool-ZoneMapper-Luminosity_RGB.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Tool-ZoneMapper.html</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141204T181940Z" creationid="Photonoxx" creationdate="20141204T181940Z">
@@ -14906,6 +14946,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141228T154522Z" creationid="Photonoxx" creationdate="20141228T154522Z">
         <seg>ZoneMapper : Ajuster l'exposition</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>ZoneMapper: Adjusting the black point</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141228T180119Z" creationid="Photonoxx" creationdate="20141228T180119Z">
+        <seg>ZoneMapper : Ajustement du Point Noir</seg>
       </tuv>
     </tu>
     <tu>

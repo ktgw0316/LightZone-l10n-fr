@@ -10110,6 +10110,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Select the &lt;a0&gt;rendering intent&lt;/a0&gt; you will use from the Rendering Intent pop-up menu.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141228T125124Z" creationid="Photonoxx" creationdate="20141228T125124Z">
+        <seg>Choisissez l'&lt;a0&gt;Intention de rendu&lt;/a0&gt; que vous utiliserez avec le menu déroulant Intention de rendu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Select the &lt;a0&gt;rendering intent&lt;/a0&gt;.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141118T152611Z" creationid="Photonoxx" creationdate="20141118T152611Z">
@@ -10170,6 +10178,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141201T094155Z" creationid="Photonoxx" creationdate="20141201T094155Z">
         <seg>Choisissez la photo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Select the printer profile you will use from the Printer Profile pop-up menu.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141228T124948Z" creationid="Photonoxx" creationdate="20141228T124948Z">
+        <seg>Choisissez le profil d'imprimante que vous utiliserez avec le menu déroulant Profil d'imprimante.</seg>
       </tuv>
     </tu>
     <tu>

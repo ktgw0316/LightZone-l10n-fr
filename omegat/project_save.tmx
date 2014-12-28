@@ -5150,6 +5150,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>How to proff your photo on screen.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141228T123721Z" creationid="Photonoxx" creationdate="20141228T123721Z">
+        <seg>Comment faire un aperçu d'épreuvage à l'écran de votre photo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>How to rate photos directly in the Photo Browser.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141225T084912Z" creationid="Photonoxx" creationdate="20141225T084912Z">
@@ -8442,6 +8450,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141225T165525Z" creationid="Photonoxx" creationdate="20141225T165525Z">
         <seg>L'Outil d'Épreuvage</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Proofing</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141228T123730Z" creationid="Photonoxx" creationdate="20141228T123730Z">
+        <seg>Épreuvage</seg>
       </tuv>
     </tu>
     <tu>
@@ -14418,6 +14434,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141228T121342Z" creationid="Photonoxx" creationdate="20141228T121342Z">
         <seg>images/Tool-Noise_Reduction-en.png</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>images/Tool-Proof-en.png</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141228T123732Z" creationid="Photonoxx" creationdate="20141228T123732Z">
+        <seg>images/Tool-Proof-en.png</seg>
       </tuv>
     </tu>
     <tu>

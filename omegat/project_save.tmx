@@ -918,6 +918,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;b0&gt;Note:&lt;/b0&gt; For raw photos, you should use the Temperature and Tint sliders of the &lt;a1&gt;Raw Adjustments&lt;/a1&gt; tool instead.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141228T174952Z" creationid="Photonoxx" creationdate="20141228T174952Z">
+        <seg>&lt;b0&gt;Note:&lt;/b0&gt; pour une photo Brute (RAW), vous devriez  les contrôles Température et and Tint sliders of the &lt;a1&gt;Raw Adjustments&lt;/a1&gt; tool instead.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;b0&gt;Note:&lt;/b0&gt; If you have a multi-button mouse, you can alternatively right-click to pop-up the menu rather than control-click.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141226T114737Z" creationid="Photonoxx" creationdate="20141201T104850Z">
@@ -11802,6 +11810,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141227T143509Z" creationid="Photonoxx" creationdate="20141227T140427Z">
         <seg>Le contrôle &lt;b0&gt;Taille des Vignettes&lt;/b0&gt; contrôle la taille des vignettes affichées dans le navigateur.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The &lt;b0&gt;White Balance&lt;/b0&gt; tool allows you to adjust the white balance and tint of your photo to compensate for a color cast in the light source such as the blue cast of the sky or tungsten lighting.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141228T174831Z" creationid="Photonoxx" creationdate="20141228T174831Z">
+        <seg>L'outil &lt;b0&gt;Balance des Blancs&lt;/b0&gt; vous permet d'ajuster la balance des Blancs et la teinte de votre photo pour compenser une teinte dominante de la source de lumière comme la dominante bleue du ciel ou la dominante jaune/orangée d'un éclairage incandescent.</seg>
       </tuv>
     </tu>
     <tu>

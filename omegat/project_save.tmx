@@ -1118,6 +1118,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;b0&gt;Note:&lt;/b0&gt; To decrease the exposure of you photo, create a zone lock above the first zone and drag it downwards.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141228T184754Z" creationid="Photonoxx" creationdate="20141228T184754Z">
+        <seg>&lt;b0&gt;Note:&lt;/b0&gt; pour diminuer l'exposition de votre photo, créez un verrou de zone  au-dessus de la première zone et déplacez la vers le bas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;b0&gt;Note&lt;/b0&gt;: Some preferences are effective only after LightZone is relaunched.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141225T161515Z" creationid="Photonoxx" creationdate="20141225T161515Z">
@@ -6542,6 +6550,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Keyboard shortcuts for the ZoneMapper tool.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141228T184839Z" creationid="Photonoxx" creationdate="20141228T184839Z">
+        <seg>Les Racourcis Clavier de l'outil ZoneMapper.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Kodak</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141226T153647Z" creationid="Photonoxx" creationdate="20141226T153647Z">
@@ -7698,6 +7714,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141228T180037Z" creationid="Photonoxx" creationdate="20141228T180037Z">
         <seg>LightZone : ZoneMapper : Ajustement du Point Noir</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>LightZone: ZoneMapper: Keyboard Shortcuts</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141228T184819Z" creationid="Photonoxx" creationdate="20141228T184819Z">
+        <seg>LightZone : ZoneMapper : Raccourcis Clavier</seg>
       </tuv>
     </tu>
     <tu>
@@ -15374,6 +15398,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>ZoneMapper: Keyboard shortcuts</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141228T184851Z" creationid="Photonoxx" creationdate="20141228T184851Z">
+        <seg>ZoneMapper : Raccourcis Clavier</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Zone_System.html</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141226T153731Z" creationid="Photonoxx" creationdate="20141226T153731Z">
@@ -16114,6 +16146,22 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141228T184059Z" creationid="Photonoxx" creationdate="20141228T184059Z">
         <seg>images/Tool-ZoneMapper-Contrast-before-en.png</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>images/Tool-ZoneMapper-Exposure-after-en.png</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141228T184601Z" creationid="Photonoxx" creationdate="20141228T184601Z">
+        <seg>images/Tool-ZoneMapper-Exposure-after-en.png</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>images/Tool-ZoneMapper-Exposure-before-en.png</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141228T184559Z" creationid="Photonoxx" creationdate="20141228T184559Z">
+        <seg>images/Tool-ZoneMapper-Exposure-before-en.png</seg>
       </tuv>
     </tu>
     <tu>

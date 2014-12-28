@@ -3838,6 +3838,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Creates a zone lock at the selected divider.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141228T185401Z" creationid="Photonoxx" creationdate="20141228T185303Z">
+        <seg>Créer un verrou de zone au niveau du séparateur en cours.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Creates an effect similar to, but lower in contrast than, the Difference blending mode.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141117T111333Z" creationid="Photonoxx" creationdate="20141117T111333Z">
@@ -8510,6 +8518,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Nudges the selected zone lock up/down.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141228T185458Z" creationid="Photonoxx" creationdate="20141228T185458Z">
+        <seg>Déplacer le verrou de zone vers le haut ou vers le bas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>OK</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141111T095939Z" creationid="Photonoxx" creationdate="20141111T095939Z">
@@ -11248,8 +11264,16 @@
       <tuv lang="EN-US">
         <seg>Selects the next zone divider.</seg>
       </tuv>
-      <tuv lang="FR" changeid="Photonoxx" changedate="20141228T185209Z" creationid="Photonoxx" creationdate="20141228T185209Z">
-        <seg>Choisir la limite de zone suivante.</seg>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141228T185315Z" creationid="Photonoxx" creationdate="20141228T185209Z">
+        <seg>Choisir le séparateur de zone suivant.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Selects the previous zone divider.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141228T185329Z" creationid="Photonoxx" creationdate="20141228T185224Z">
+        <seg>Choisir le séparateur de zone précédent.</seg>
       </tuv>
     </tu>
     <tu>

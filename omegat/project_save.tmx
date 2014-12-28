@@ -11670,6 +11670,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The &lt;b0&gt;Spot&lt;/b0&gt; tool allows you to remove dust, scratches, blemishes, or other unwanted items from your photo.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141228T172355Z" creationid="Photonoxx" creationdate="20141228T172355Z">
+        <seg>L'outil &lt;b0&gt;Poussière&lt;/b0&gt; vous permet d'effacer poussières, griffures, saletés ou d'autres éléments indésirables de votre photo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The &lt;b0&gt;Styles&lt;/b0&gt; button allows you to apply a style to the photos of the currently selected thumbnails.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141117T151915Z" creationid="Photonoxx" creationdate="20141117T151915Z">
@@ -12194,6 +12202,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141225T171135Z" creationid="Photonoxx" creationdate="20141225T171135Z">
         <seg>La forme d'une région dans Lightzone peut être ajustée à tout moment.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The spot tool is a specialized version of the &lt;a0&gt;Clone tool&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141228T172456Z" creationid="Photonoxx" creationdate="20141228T172456Z">
+        <seg>L'outil Poussière est une version spécialisée de l'&lt;a0&gt;outil Cloner&lt;/a0&gt;.</seg>
       </tuv>
     </tu>
     <tu>

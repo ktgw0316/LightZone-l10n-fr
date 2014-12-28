@@ -14262,6 +14262,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>When done, you can either click anywhere outside the spot, or press either the &lt;b0&gt;return&lt;/b0&gt; or &lt;b1&gt;esc&lt;/b1&gt; (escape) key to complete the adjustments.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141228T173656Z" creationid="Photonoxx" creationdate="20141228T173656Z">
+        <seg>Quand vous avez fini, vous pouvez soit cliquer n'importe où en dehors du point/poussière, ou appuyer la touche &lt;b0&gt;Entrée&lt;/b0&gt; ou &lt;b1&gt;Échap&lt;/b1&gt; pour valider les ajustements.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>When drawing regions, LightZone can update the photo in real time, it can update only between changes, or it can wait until regions are done.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141115T081547Z" creationid="Photonoxx" creationdate="20141115T081547Z">

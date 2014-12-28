@@ -110,6 +110,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(A new hue/saturation tool will appear at the top of the &lt;a1&gt;tool stack&lt;/a1&gt;.)</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141228T120420Z" creationid="Photonoxx" creationdate="20141228T120420Z">
+        <seg>(Un nouvel outil Teinte/Saturation apparaîtra en haut de la &lt;a1&gt;chaîne de développement&lt;/a1&gt;.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(A white crop rectangle and grid will appear over your photo and the crop tool's controls will appear to the right of the tool bar.)</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141228T103304Z" creationid="Photonoxx" creationdate="20141228T103304Z">
@@ -2586,6 +2594,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141117T153231Z" creationid="Photonoxx" creationdate="20141117T153231Z">
         <seg>Cliquez sur le bouton de la pipette.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Click the hue/saturation tool button in the &lt;a0&gt;tool bar&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141228T120406Z" creationid="Photonoxx" creationdate="20141228T120406Z">
+        <seg>Cliquez le bouton de l'outil Teinte/Saturation dans la &lt;a0&gt;barre d'outil&lt;/a0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12990,6 +13006,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Use the sliders to make adjustments:</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141228T120445Z" creationid="Photonoxx" creationdate="20141228T120439Z">
+        <seg>Utilisez les contrôles pour faire des ajustements :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>User Interface</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141201T090146Z" creationid="Photonoxx" creationdate="20141201T090146Z">
@@ -13970,6 +13994,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141226T153524Z" creationid="Photonoxx" creationdate="20141226T153524Z">
         <seg>images/Color_Selection_Preview-before.jpg</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>images/Color_Wheel.png</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141228T120445Z" creationid="Photonoxx" creationdate="20141228T120445Z">
+        <seg>images/Color_Wheel.png</seg>
       </tuv>
     </tu>
     <tu>

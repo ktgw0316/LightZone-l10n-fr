@@ -1966,6 +1966,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>As you do so, your photo will get brighter.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141228T182553Z" creationid="Photonoxx" creationdate="20141228T182553Z">
+        <seg>En faisant cela, votre photo deviendra plus lumineuse.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>As you do so, your photo's black point will decrease.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141228T181449Z" creationid="Photonoxx" creationdate="20141228T181449Z">
@@ -2722,6 +2730,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141228T181156Z" creationid="Photonoxx" creationdate="20141228T181156Z">
         <seg>Cliquez sous cette zone.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Click between two zones.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141228T182456Z" creationid="Photonoxx" creationdate="20141228T182456Z">
+        <seg>Cliquez entre deux zones.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4450,6 +4466,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141228T181411Z" creationid="Photonoxx" creationdate="20141228T181411Z">
         <seg>Déplacez la zone vers le bas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Drag the zone lock upwards.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141228T182516Z" creationid="Photonoxx" creationdate="20141228T182516Z">
+        <seg>Déplacer le verrou de zone vers le haut.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15850,6 +15874,22 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141228T181504Z" creationid="Photonoxx" creationdate="20141228T181504Z">
         <seg>images/Tool-ZoneMapper-Black_Point-before-en.png</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>images/Tool-ZoneMapper-Brightness-after-en.png</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141228T182600Z" creationid="Photonoxx" creationdate="20141228T182600Z">
+        <seg>images/Tool-ZoneMapper-Brightness-after-en.png</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>images/Tool-ZoneMapper-Brightness-before-en.png</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141228T182558Z" creationid="Photonoxx" creationdate="20141228T182558Z">
+        <seg>images/Tool-ZoneMapper-Brightness-before-en.png</seg>
       </tuv>
     </tu>
     <tu>

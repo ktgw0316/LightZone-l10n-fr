@@ -5230,6 +5230,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If you want a common aspect ratio, e.g., 3 x 5, you can select it from the Common Ratios menu.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141228T103908Z" creationid="Photonoxx" creationdate="20141228T103908Z">
+        <seg>Si vous souhaitez un rapport courant, par exemple, 3 x 5, vous pouvez le choisir depuis le menu Proportions courantes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If you want a custom aspect ratio, you can enter your own width and height into the two text fields.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141228T104039Z" creationid="Photonoxx" creationdate="20141228T104039Z">
+        <seg>Si vous souhaitez un rapport personnalisé, vous pouvez entrer vos propres largeur et hauteur dans les deux champs de texte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If you want to constrain your photo to an aspect ratio, click the Constrain ratio button so that it shows a locked lock.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141228T103600Z" creationid="Photonoxx" creationdate="20141228T103600Z">

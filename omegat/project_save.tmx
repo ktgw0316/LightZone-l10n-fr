@@ -6998,6 +6998,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>LightZone: Rotating a Photo</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141228T162604Z" creationid="Photonoxx" creationdate="20141228T162604Z">
+        <seg>LightZone : Rotating a Photo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>LightZone: Sampler</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141226T153334Z" creationid="Photonoxx" creationdate="20141226T153334Z">
@@ -11582,6 +11590,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The Fuzz slider adjusts how "fuzzy" the edges between light and dark areas are.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141228T162505Z" creationid="Photonoxx" creationdate="20141228T162505Z">
+        <seg>Le contrôle des Arrêtes (##Fuzz##) détermine à quel point les arrêtes entre les zones claires et sombres doivent être nettes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The Grain Noise slider reduces how "grainy" your photo appears.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141228T123137Z" creationid="Photonoxx" creationdate="20141228T123137Z">
@@ -13326,6 +13342,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Tool-ZoneMapper-Contrast.html</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141228T162510Z" creationid="Photonoxx" creationdate="20141228T162510Z">
+        <seg>Tool-ZoneMapper-Contrast.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Tool-ZoneMapper-Exposure.html</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141226T115144Z" creationid="Photonoxx" creationdate="20141226T115144Z">
@@ -14418,6 +14442,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141204T181733Z" creationid="Photonoxx" creationdate="20141204T181733Z">
         <seg>ZoneFinder.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>ZoneMapper: Adjusting contrast</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141228T162525Z" creationid="Photonoxx" creationdate="20141228T162525Z">
+        <seg>ZoneMapper : Ajuster le contraste</seg>
       </tuv>
     </tu>
     <tu>

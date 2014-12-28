@@ -2078,6 +2078,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Black point adjustments are sometimes necessary for scanned positive color film images since the density of the film is never truly black.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141228T180503Z" creationid="Photonoxx" creationdate="20141228T180503Z">
+        <seg>L'ajustement du Point Noir est parfois nécessaire pour les diapositives numérisées puisque la densité du film n'est jamais réellement noir.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Black point compensation</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141117T094425Z" creationid="Photonoxx" creationdate="20141117T094425Z">
@@ -8250,6 +8258,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141201T102604Z" creationid="Photonoxx" creationdate="20141201T102604Z">
         <seg>Quand vous avez trouvé une photo que vous voulez éditer à l'aide &lt;a0&gt;de Navigateur Photo&lt;/a0&gt;, vous pouvez l'éditer (ou seulement la voir en pleine résolution).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>One of several adjustments you can make to your photo using the ZoneMapper tool is the black point.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141228T180238Z" creationid="Photonoxx" creationdate="20141228T180238Z">
+        <seg>Un des nombreux réglages que vous pouvez faire à votre photo avec l'outil ZoneMapper est celui du Point Noir.</seg>
       </tuv>
     </tu>
     <tu>

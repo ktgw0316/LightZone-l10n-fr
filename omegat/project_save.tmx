@@ -894,6 +894,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;b0&gt;Note:&lt;/b0&gt; After adjusting the size of a spot, all subsequently created spots will have the new size.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141228T174503Z" creationid="Photonoxx" creationdate="20141228T174503Z">
+        <seg>&lt;b0&gt;Note:&lt;/b0&gt; Après avoir régler la taille d'un point/poussière, tous les prochains points/poussières créés auront cette nouvelle taille.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;b0&gt;Note:&lt;/b0&gt; Alternatively, you can save your work as "LightZone TIFF" files by changing the &lt;a1&gt;save preference&lt;/a1&gt;.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141226T160010Z" creationid="Photonoxx" creationdate="20141226T160010Z">
@@ -1458,6 +1466,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141226T125648Z" creationid="Photonoxx" creationdate="20141226T125648Z">
         <seg>Ajuster la zone d'adoucissement</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Adjusting white balance</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141228T174608Z" creationid="Photonoxx" creationdate="20141228T174608Z">
+        <seg>Ajuster la Balance des Blancs</seg>
       </tuv>
     </tu>
     <tu>
@@ -2914,6 +2930,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141115T094200Z" creationid="Photonoxx" creationdate="20141115T094200Z">
         <seg>Cloner</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Clone tool</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141228T174522Z" creationid="Photonoxx" creationdate="20141228T174522Z">
+        <seg>Outil Cloner</seg>
       </tuv>
     </tu>
     <tu>
@@ -5294,6 +5318,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>How to adjust the white balance of your photo.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141228T174554Z" creationid="Photonoxx" creationdate="20141228T174554Z">
+        <seg>Comment ajuster la balance des blancs de votre photo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>How to apply a style.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141226T160105Z" creationid="Photonoxx" creationdate="20141226T160105Z">
@@ -6778,6 +6810,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141228T111935Z" creationid="Photonoxx" creationdate="20141228T111935Z">
         <seg>LightZone : Ajuster la Teinte/Saturation</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>LightZone: Adjusting White Balance</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141228T174540Z" creationid="Photonoxx" creationdate="20141228T174540Z">
+        <seg>LightZone : Ajuster la Balance des Blancs</seg>
       </tuv>
     </tu>
     <tu>
@@ -15482,6 +15522,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141228T171616Z" creationid="Photonoxx" creationdate="20141228T171616Z">
         <seg>images/Tool-Spot-en.png</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>images/Tool-White_Balance-en.png</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141228T174609Z" creationid="Photonoxx" creationdate="20141228T174609Z">
+        <seg>images/Tool-White_Balance-en.png</seg>
       </tuv>
     </tu>
     <tu>

@@ -126,6 +126,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(A new red-eye tool will appear at the top of the &lt;a1&gt;tool stack&lt;/a1&gt;.)</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141228T155554Z" creationid="Photonoxx" creationdate="20141228T155554Z">
+        <seg>(Un nouvel outil Yeux Rouges apparaîtra en haut de la &lt;a1&gt;chaîne de développement&lt;/a1&gt;.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(A white crop rectangle and grid will appear over your photo and the crop tool's controls will appear to the right of the tool bar.)</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141228T103304Z" creationid="Photonoxx" creationdate="20141228T103304Z">
@@ -2706,6 +2714,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141204T180351Z" creationid="Photonoxx" creationdate="20141204T180351Z">
         <seg>Cliquez sur le bouton Notation et choisissez la note que vous souhaitez donner.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Click the red-eye tool button in the &lt;a0&gt;tool bar&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141228T155544Z" creationid="Photonoxx" creationdate="20141228T155544Z">
+        <seg>Cliquez sur l'outil Yeux Rouges dans la &lt;a0&gt;barre d'outils&lt;/a0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7050,6 +7066,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141117T112524Z" creationid="Photonoxx" creationdate="20141117T112524Z">
         <seg>Éclaircir</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Like the Spot tool, the regions for the Red-Eye tool can not be &lt;a1&gt;inverted&lt;/a1&gt;.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141228T155435Z" creationid="Photonoxx" creationdate="20141228T155435Z">
+        <seg>Comme l'outil Poussière, les régions pour l'outil Yeux Rouges ne peuvent être &lt;a1&gt;inversées&lt;/a1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11766,6 +11790,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The red-eye tool works similarly to the &lt;a0&gt;Spot tool&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141228T155352Z" creationid="Photonoxx" creationdate="20141228T155352Z">
+        <seg>L'outil Yeux Rouges fonctionne de façon similaire à l'&lt;a0&gt;Outil Poussière&lt;/a0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The rending intents you can select are described below.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141226T145855Z" creationid="Photonoxx" creationdate="20141226T145855Z">
@@ -12826,6 +12858,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141204T180034Z" creationid="Photonoxx" creationdate="20141204T180034Z">
         <seg>Pour noter vos photos:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To reduce red-eye in your photo:</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141228T155506Z" creationid="Photonoxx" creationdate="20141228T155506Z">
+        <seg>Pour réduire les yeux rouges dans votre photo :</seg>
       </tuv>
     </tu>
     <tu>
@@ -14450,6 +14490,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141228T124459Z" creationid="Photonoxx" creationdate="20141228T124459Z">
         <seg>images/Button-Proof.png</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>images/Button-Red-Eye.png</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141228T155508Z" creationid="Photonoxx" creationdate="20141228T155508Z">
+        <seg>images/Button-Red-Eye.png</seg>
       </tuv>
     </tu>
     <tu>

@@ -13182,6 +13182,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Unlike other tools, the Raw Adjustments tool is special.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141228T151210Z" creationid="Photonoxx" creationdate="20141228T151210Z">
+        <seg>Contrairement au autres outils, l'outil Ajustements RAW est spécial.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Unlike other tools, the clone tool is special in that it needs at least one &lt;a0&gt;region&lt;/a0&gt;.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141227T145309Z" creationid="Photonoxx" creationdate="20141227T145309Z">

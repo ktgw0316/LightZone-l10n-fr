@@ -302,6 +302,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(The mouse will change to a rotate icon.)</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141228T104603Z" creationid="Photonoxx" creationdate="20141228T104603Z">
+        <seg>(Le curseur changera pour une icône de rotation.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(The mouse will change to an eyedropper.)</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141117T153307Z" creationid="Photonoxx" creationdate="20141117T153307Z">
@@ -2290,6 +2298,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141227T145901Z" creationid="Photonoxx" creationdate="20141227T145901Z">
         <seg>Cliquez et déplacez le réticule au centre de la partie à copier sur l'autre.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Click and drag the mouse in the direction you want to rotate your photo.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141228T104649Z" creationid="Photonoxx" creationdate="20141228T104649Z">
+        <seg>Cliquez et déplacez la souris dans la direction vers laquelle vous souaitez tourner votre photo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6966,6 +6982,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Move the mouse outside of the crop rectangle.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141228T104536Z" creationid="Photonoxx" creationdate="20141228T104536Z">
+        <seg>Amener la souris en dehors du rectangle de recadrage.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Move the mouse to an area of interest and click to learn more about it.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141117T093130Z" creationid="Photonoxx" creationdate="20141117T093130Z">
@@ -7586,6 +7610,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141122T123313Z" creationid="Photonoxx" creationdate="20141122T123313Z">
         <seg>Optionnellement, vous pouvez aussi convertir vos photos éditées vers des fichiers TIFF (pour le partage avec d'autres applications).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Optionally, you can also rotate your photo to align it.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141228T104451Z" creationid="Photonoxx" creationdate="20141228T104451Z">
+        <seg>Optionnellement, vous pouvez aussi tourner votre photo pour l'aligner.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12026,6 +12058,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141122T172039Z" creationid="Photonoxx" creationdate="20141122T172039Z">
         <seg>Pour afficher les métadonnées d'une photo :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To do so:</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141228T104501Z" creationid="Photonoxx" creationdate="20141228T104501Z">
+        <seg>Pour ce faire :</seg>
       </tuv>
     </tu>
     <tu>

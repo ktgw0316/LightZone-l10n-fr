@@ -11822,6 +11822,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The Radius slider controls how widely the sharpening effect is done around each pixel.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141228T170703Z" creationid="Photonoxx" creationdate="20141228T170703Z">
+        <seg>Le contrôle de Rayon définit avec quelle ampleur est calculé le filtre de netteté autour de chaque pixel.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The Relight tool allows you to "relight" all or parts of your photo as if the lighting were different when you took it.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141122T095707Z" creationid="Photonoxx" creationdate="20141122T095707Z">
@@ -11874,6 +11882,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141228T153545Z" creationid="Photonoxx" creationdate="20141228T153322Z">
         <seg>Les contrôles Température et Nuance ajustent la température et la nuance de votre photo pour compenser une teinte dominante de la source de lumière comme la dominante bleue du ciel ou la dominante jaune/orangée d'un éclairage incandescent.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Threshold slider controls how different each pixel must be from its surrounding area before it is considered an edge pixel and therefore sharpened.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141228T170936Z" creationid="Photonoxx" creationdate="20141228T170936Z">
+        <seg>Le contrôle du Seuil  détermine à partir de quel degrés de différence avec son environnement chaque pixel est considéré comme un pixel de "bordure" et de ce fait être accentué.</seg>
       </tuv>
     </tu>
     <tu>

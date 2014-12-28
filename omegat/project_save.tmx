@@ -342,6 +342,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(The proof tool will appear at the top of the &lt;a1&gt;tool stack&lt;/a1&gt;.)</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141228T124753Z" creationid="Photonoxx" creationdate="20141228T124708Z">
+        <seg>(L'outil Épreuvage apparaîtra en haut de la &lt;a1&gt;chaîne de développement&lt;/a1&gt;.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(The region kind buttons will appear to the right of the tool bar and the regions for the tool will become visible on your photo.)</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141225T171619Z" creationid="Photonoxx" creationdate="20141225T171619Z">
@@ -2650,6 +2658,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141228T122847Z" creationid="Photonoxx" creationdate="20141228T122847Z">
         <seg>Cliquez le bouton de l'outil Réduction de Bruit dans la &lt;a0&gt;barre d'outil&lt;/a0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Click the proof tool button in the &lt;a0&gt;tool bar&lt;/a0&gt; or select Tools &gt; Show Proof Tool.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141228T124640Z" creationid="Photonoxx" creationdate="20141228T124640Z">
+        <seg>Cliquez sur le bouton de l'outil Épreuvage dans la &lt;a0&gt;barre d'outils&lt;/a0&gt; ou choisissez Outils &gt; Afficher l'outil d'Épreuvage</seg>
       </tuv>
     </tu>
     <tu>

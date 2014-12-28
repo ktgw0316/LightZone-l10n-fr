@@ -1102,6 +1102,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;b0&gt;Note:&lt;/b0&gt; To decrease the contrast of you photo, drag the zone locks towards each other rather than away from each other.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141228T184237Z" creationid="Photonoxx" creationdate="20141228T184237Z">
+        <seg>&lt;b0&gt;Note:&lt;/b0&gt; Pour diminuer le contraste de votre photo, rapprochez les verrous de zone l'un de l'autre plutôt que de les écarter.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;b0&gt;Note&lt;/b0&gt;: Some preferences are effective only after LightZone is relaunched.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141225T161515Z" creationid="Photonoxx" creationdate="20141225T161515Z">
@@ -1986,6 +1994,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141115T095050Z" creationid="Photonoxx" creationdate="20141115T094602Z">
         <seg>Comme la Photo </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>As you do so, the contrast of the midtones of your photo will increase.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141228T184054Z" creationid="Photonoxx" creationdate="20141228T184054Z">
+        <seg>En faisant ceci, le contraste des tons moyens augmentera.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4514,6 +4530,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141226T121055Z" creationid="Photonoxx" creationdate="20141226T121055Z">
         <seg>Faitez glisser le tracé intérieur pour agrandir ou rétrécir la taille de la zone d'adoucissement.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Drag the upper zone lock upwards and the lower zone lock downwards.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141228T183945Z" creationid="Photonoxx" creationdate="20141228T183945Z">
+        <seg>Déplacez le verrou de zone le plus haut vers le haut et le verrou de zone le plus bas vers le bas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9794,6 +9818,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141226T152520Z" creationid="Photonoxx" creationdate="20141226T152520Z">
         <seg>Colorimétrie Relative</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Relight tool</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141228T184244Z" creationid="Photonoxx" creationdate="20141228T184244Z">
+        <seg>Outil Relight</seg>
       </tuv>
     </tu>
     <tu>
@@ -16002,6 +16034,22 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141228T182558Z" creationid="Photonoxx" creationdate="20141228T182558Z">
         <seg>images/Tool-ZoneMapper-Brightness-before-en.png</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>images/Tool-ZoneMapper-Contrast-after-en.png</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141228T184101Z" creationid="Photonoxx" creationdate="20141228T184101Z">
+        <seg>images/Tool-ZoneMapper-Contrast-after-en.png</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>images/Tool-ZoneMapper-Contrast-before-en.png</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141228T184059Z" creationid="Photonoxx" creationdate="20141228T184059Z">
+        <seg>images/Tool-ZoneMapper-Contrast-before-en.png</seg>
       </tuv>
     </tu>
     <tu>

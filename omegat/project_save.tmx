@@ -11574,6 +11574,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The Highlights slider adjusts the lightness of those part of your photo that are brightly lit.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141228T161451Z" creationid="Photonoxx" creationdate="20141228T161451Z">
+        <seg>Le contrôle des Hautes Lumières ajuste la luminosité des parties de votre photo qui sont fortement éclairées.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The History tab shows you the complete history of all the edits you have made to your photo since opening it for the current editing session.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141122T163915Z" creationid="Photonoxx" creationdate="20141122T163915Z">

@@ -390,6 +390,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(The white crop rectangle and the crop tool's controls will disappear and your photo will be cropped.)</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141228T104937Z" creationid="Photonoxx" creationdate="20141228T104937Z">
+        <seg>(Le Rectangle de recadrage et les contrôles de recadrage disparaissent et votre photo est recadrée.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(There is no significance to the order.) There is no limit to the number of control points a region may have.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141226T125326Z" creationid="Photonoxx" creationdate="20141226T125326Z">
@@ -2434,6 +2442,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141226T154151Z" creationid="Photonoxx" creationdate="20141226T154151Z">
         <seg>Cliquez sur l'onglet Pipette.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Click the arrow button to commit the crop.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141228T104750Z" creationid="Photonoxx" creationdate="20141228T104750Z">
+        <seg>Cliquez sur le bouton de la flêche dans la barre d'outils pour soumettre le recadrage.</seg>
       </tuv>
     </tu>
     <tu>

@@ -78,6 +78,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(A &lt;a0&gt;region&lt;/a0&gt; will appear every time you click.)</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141228T155940Z" creationid="Photonoxx" creationdate="20141228T155940Z">
+        <seg>(Une &lt;a0&gt;région&lt;/a0&gt; est créée à chaque clic.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(A new black &amp; white tool will appear at the top of the &lt;a1&gt;tool stack&lt;/a1&gt;.)</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141227T142729Z" creationid="Photonoxx" creationdate="20141227T142729Z">
@@ -306,6 +314,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141118T100034Z" creationid="Photonoxx" creationdate="20141117T154043Z">
         <seg>(La Sélection de Couleur/Luminosité de même que  &lt;a0&gt;le visionneur de la Sélection Couleur&lt;/a0&gt; se mettront à jour pour refléter la couleur/luminosité sélectionnée.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>(The control points and &lt;a0&gt;inner feathering line&lt;/a0&gt; will become visible.)</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141228T160115Z" creationid="Photonoxx" creationdate="20141228T160115Z">
+        <seg>(Les points de contrôle et le &lt;a0&gt;tracé intérieur&lt;/a0&gt; deviendront visibles.)</seg>
       </tuv>
     </tu>
     <tu>
@@ -2502,6 +2518,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Click on every eye in your photo that you want redness removed from.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141228T155915Z" creationid="Photonoxx" creationdate="20141228T155915Z">
+        <seg>Cliquez sur tous les yeux desquels vous souhaitez effacer du rouge sur votre photo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Click on the contour of the region where you want to add a control point: a new control point will be added.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141225T171846Z" creationid="Photonoxx" creationdate="20141225T171846Z">
@@ -3994,6 +4018,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141225T172731Z" creationid="Photonoxx" creationdate="20141225T172731Z">
         <seg>Double-cliquez sur la région dont vous souhaitez ajuster la forme.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Double-click the region you want to adjust.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141228T160041Z" creationid="Photonoxx" creationdate="20141228T160041Z">
+        <seg>Double-cliquez sur la région que vous souhaitez ajuster.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12510,6 +12542,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>To adjust the size or shape of a region:</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141228T160005Z" creationid="Photonoxx" creationdate="20141228T160005Z">
+        <seg>Pour ajuster la taille et la forme d'une région:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>To apply a colored filter, click in the color wheel.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141227T142811Z" creationid="Photonoxx" creationdate="20141227T142811Z">
@@ -14650,6 +14690,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141225T165331Z" creationid="Photonoxx" creationdate="20141225T165331Z">
         <seg>images/Print_Dialog-en.png</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>images/Red-Eye-Control_Points.png</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141228T160116Z" creationid="Photonoxx" creationdate="20141228T160116Z">
+        <seg>images/Red-Eye-Control_Points.png</seg>
       </tuv>
     </tu>
     <tu>

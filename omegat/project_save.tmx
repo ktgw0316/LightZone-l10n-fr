@@ -94,6 +94,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(A new ZoneMapper tool will appear at the top of the &lt;a1&gt;tool stack&lt;/a1&gt;.)</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141228T180745Z" creationid="Photonoxx" creationdate="20141228T180745Z">
+        <seg>(Un nouvel outil ZoneMapper apparaîtra en haut de la &lt;a1&gt;chaîne de développement&lt;/a1&gt;.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(A new black &amp; white tool will appear at the top of the &lt;a1&gt;tool stack&lt;/a1&gt;.)</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141227T142729Z" creationid="Photonoxx" creationdate="20141227T142729Z">
@@ -1402,6 +1410,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141228T124350Z" creationid="Photonoxx" creationdate="20141228T124350Z">
         <seg>De plus, il ne peut y avoir qu'un seul outil Épreuvage, et celui-ci est toujours placé en haut de la &lt;a1&gt;chaîne de développement&lt;/a1&gt;, et son titre ne peut pas être édité.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Additionally, there is always the possibility of having used an incorrectly profiled scanner that might have led to a black point that is too high.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141228T180635Z" creationid="Photonoxx" creationdate="20141228T180635Z">
+        <seg>De plus, il reste toujours la possibilité d'avoir utilisé un scanner mal calibré qui a pu mener à un point noir trop lumineux.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2786,6 +2802,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141226T154151Z" creationid="Photonoxx" creationdate="20141226T154151Z">
         <seg>Cliquez sur l'onglet Pipette.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Click the ZoneMapper tool button in the &lt;a0&gt;tool bar&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141228T180730Z" creationid="Photonoxx" creationdate="20141228T180730Z">
+        <seg>Cliquez le bouton de l'outil ZoneMapper dans la &lt;a0&gt;barre d'outil&lt;/a0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13030,6 +13054,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>To adjust the black point of your photo:</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141228T180658Z" creationid="Photonoxx" creationdate="20141228T180658Z">
+        <seg>Pour ajuster le point noir de votre photo :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>To adjust the color balance or cast of your photo:</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141227T152344Z" creationid="Photonoxx" creationdate="20141227T152210Z">
@@ -13888,8 +13920,8 @@
       <tuv lang="EN-US">
         <seg>Tools-Editing.html</seg>
       </tuv>
-      <tuv lang="FR" changeid="Photonoxx" changedate="20141204T181742Z" creationid="Photonoxx" creationdate="20141204T181742Z">
-        <seg>Tools-Editing.html</seg>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141228T180708Z" creationid="Photonoxx" creationdate="20141204T181742Z">
+        <seg> Tools-Editing.html</seg>
       </tuv>
     </tu>
     <tu>
@@ -15282,6 +15314,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141228T175214Z" creationid="Photonoxx" creationdate="20141228T175214Z">
         <seg>images/Button-White_Balance.png</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>images/Button-ZoneMapper.png</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141228T180659Z" creationid="Photonoxx" creationdate="20141228T180659Z">
+        <seg>images/Button-ZoneMapper.png</seg>
       </tuv>
     </tu>
     <tu>

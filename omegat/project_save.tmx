@@ -150,6 +150,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(A new sharpen tool will appear at the top of the &lt;a1&gt;tool stack&lt;/a1&gt;.)</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141228T170229Z" creationid="Photonoxx" creationdate="20141228T170229Z">
+        <seg>(Un nouvel outil Netteté apparaîtra en haut de la &lt;a1&gt;chaîne de développement&lt;/a1&gt;.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(A white crop rectangle and grid will appear over your photo and the crop tool's controls will appear to the right of the tool bar.)</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141228T103304Z" creationid="Photonoxx" creationdate="20141228T103304Z">
@@ -2810,6 +2818,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141228T163300Z" creationid="Photonoxx" creationdate="20141228T163300Z">
         <seg>Cliquez sur l'outil Rotation dans la &lt;a0&gt;barre d'outils&lt;/a0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Click the sharpen tool button in the &lt;a0&gt;tool bar&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141228T170213Z" creationid="Photonoxx" creationdate="20141228T170213Z">
+        <seg>Cliquez le bouton de l'outil Netteté dans la &lt;a0&gt;barre d'outil&lt;/a0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7498,6 +7514,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141122T101902Z" creationid="Photonoxx" creationdate="20141122T101902Z">
         <seg>En savoir plus sur le ZoneMapper...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Most digital photos have a slight softness in the fine details and would benefit from sharpening.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141228T170119Z" creationid="Photonoxx" creationdate="20141228T170119Z">
+        <seg>La plupart des photos numériques présente une légère douceur dans les détails fins et pourraient bénéficier d'un peu de netteté.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13246,6 +13270,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>To sharpen your photo:</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141228T170143Z" creationid="Photonoxx" creationdate="20141228T170143Z">
+        <seg>Pour augmenter la netteté de votre photo :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>To show the Color Selection Preview:</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141118T102519Z" creationid="Photonoxx" creationdate="20141118T102203Z">
@@ -13826,6 +13858,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141228T122929Z" creationid="Photonoxx" creationdate="20141228T122929Z">
         <seg>Utilisez les contrôles pour ajuster l'effet de la réduction de bruit :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Use the sliders to adjust the sharpness:</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141228T170254Z" creationid="Photonoxx" creationdate="20141228T170254Z">
+        <seg>Utilisez les contrôles pour ajuster la netteté :</seg>
       </tuv>
     </tu>
     <tu>
@@ -14882,6 +14922,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141225T112859Z" creationid="Photonoxx" creationdate="20141225T112859Z">
         <seg>images/Button-Select_Recent.png</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>images/Button-Sharpen.png</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141228T170145Z" creationid="Photonoxx" creationdate="20141228T170145Z">
+        <seg>images/Button-Sharpen.png</seg>
       </tuv>
     </tu>
     <tu>

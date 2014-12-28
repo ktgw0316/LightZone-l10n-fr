@@ -320,8 +320,8 @@
       <tuv lang="EN-US">
         <seg>(The control points and &lt;a0&gt;inner feathering line&lt;/a0&gt; will become visible.)</seg>
       </tuv>
-      <tuv lang="FR" changeid="Photonoxx" changedate="20141228T160115Z" creationid="Photonoxx" creationdate="20141228T160115Z">
-        <seg>(Les points de contrôle et le &lt;a0&gt;tracé intérieur&lt;/a0&gt; deviendront visibles.)</seg>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141228T160316Z" creationid="Photonoxx" creationdate="20141228T160115Z">
+        <seg>(Les points de contrôle et le &lt;a0&gt;tracé intérieur de la zone d'adoucissement&lt;/a0&gt; deviendront visibles.)</seg>
       </tuv>
     </tu>
     <tu>
@@ -4074,6 +4074,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141204T181724Z" creationid="Photonoxx" creationdate="20141204T181724Z">
         <seg>Glisser et Déposer des photos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Drag a control point or the feathering line until it's in the desired location.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141228T160414Z" creationid="Photonoxx" creationdate="20141228T160227Z">
+        <seg>Déplacer un point de contrôle ou ajustez le tracé de la zone d'adoucissement jusqu'à ce qu'ils soient en positions voulues.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13762,6 +13770,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141228T125420Z" creationid="Photonoxx" creationdate="20141228T125420Z">
         <seg>Un fois fait, cliquez le bouton de l'outil Épreuvage une nouvelle fois, ou choisissez Outils &gt; Masquer l'outil d'Épreuvage.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When done, you can either click anywhere outside the region, or press either the &lt;b0&gt;return&lt;/b0&gt; or &lt;b1&gt;esc&lt;/b1&gt; (escape) key to complete the adjustments.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141228T160506Z" creationid="Photonoxx" creationdate="20141228T160506Z">
+        <seg>Quand vous avez fini, vous pouvez soit cliquer n'importe où en dehors de la région, ou appuyer la touche &lt;b0&gt;Entrée&lt;/b0&gt; ou &lt;b1&gt;Échap&lt;/b1&gt; pour valider les ajustements.</seg>
       </tuv>
     </tu>
     <tu>

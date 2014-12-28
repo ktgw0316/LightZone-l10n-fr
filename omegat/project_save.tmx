@@ -7390,6 +7390,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Moving the exposure slider to the left (yielding a negative value) performs highlight recovery in "blown out" areas of your photo.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141228T153051Z" creationid="Photonoxx" creationdate="20141228T153051Z">
+        <seg>Déplacer le contrôle d'exposition vers la gauche (assignant des valeurs négatives) opère une récupération des hautes lumières dans les parties surexposées de votre photo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Multipage TIFF images</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141122T165951Z" creationid="Photonoxx" creationdate="20141122T165951Z">

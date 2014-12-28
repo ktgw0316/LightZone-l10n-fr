@@ -4654,6 +4654,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For raw photos, it is always present at the bottom of the &lt;a0&gt;tool stack&lt;/a0&gt; and can neither be disabled nor deleted.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141228T151551Z" creationid="Photonoxx" creationdate="20141228T151551Z">
+        <seg>Pour les photos brutes (RAW), il est toujours présent au bas de la &lt;a0&gt;chaîne de développement&lt;/a0&gt; et ne peut ni être désactivé ni supprimé.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For raw photos, using the single Raw Adjustments tool yields better results than if you had used the &lt;a0&gt;ZoneMapper&lt;/a0&gt; (for an exposure adjustment), &lt;a1&gt;Noise Reduction&lt;/a1&gt;, and &lt;a2&gt;White Balance&lt;/a2&gt; tools separately.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141228T150825Z" creationid="Photonoxx" creationdate="20141228T150825Z">

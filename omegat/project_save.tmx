@@ -3534,6 +3534,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Crop tool</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141228T164246Z" creationid="Photonoxx" creationdate="20141228T164246Z">
+        <seg>Outil de Recadrage</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Cropping a photo</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141228T101440Z" creationid="Photonoxx" creationdate="20141228T101440Z">
@@ -5462,6 +5470,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>How to sharpen all or parts of your photo.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141228T164412Z" creationid="Photonoxx" creationdate="20141228T164412Z">
+        <seg>Comment régler la netteté de tout ou partie de votre photo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>However, because the luminosity range is compressed, information from your photo is still lost: the loss is just evenly spread out over the entire luminosity range (and thus less noticeable) rather than being truncated at the black end.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141117T100832Z" creationid="Photonoxx" creationdate="20141117T100832Z">
@@ -5714,6 +5730,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141228T104404Z" creationid="Photonoxx" creationdate="20141228T104404Z">
         <seg>Si vous souhaitez déplacer tout le rectangle, vous pouvez cliquer à l'intérieur et alors le déplacer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If you want to start over, you can click the Reset button in the rotate tool.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141228T164228Z" creationid="Photonoxx" creationdate="20141228T164228Z">
+        <seg>Si lors de la rotation vous souhaitez recommencer du début, vous pouvez cliquer sur le bouton Réinit. (Remettre à zéro la rotation) de l'outil Rotation.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7090,6 +7114,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141225T093445Z" creationid="Photonoxx" creationdate="20141225T093445Z">
         <seg>LightZone: Envoyer des Photos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>LightZone: Sharpening a Photo</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141228T164343Z" creationid="Photonoxx" creationdate="20141228T164343Z">
+        <seg>LightZone : Régler la Netteté d'une Photo</seg>
       </tuv>
     </tu>
     <tu>
@@ -10762,6 +10794,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141225T091108Z" creationid="Photonoxx" creationdate="20141225T091108Z">
         <seg>Netteté</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Sharpening a photo</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141228T164422Z" creationid="Photonoxx" creationdate="20141228T164422Z">
+        <seg>Régler la Netteté d'une Photo</seg>
       </tuv>
     </tu>
     <tu>
@@ -15194,6 +15234,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141228T162813Z" creationid="Photonoxx" creationdate="20141228T162813Z">
         <seg>images/Tool-Rotate-en.png</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>images/Tool-Sharpen-en.png</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141228T164423Z" creationid="Photonoxx" creationdate="20141228T164423Z">
+        <seg>images/Tool-Sharpen-en.png</seg>
       </tuv>
     </tu>
     <tu>

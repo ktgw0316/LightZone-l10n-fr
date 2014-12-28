@@ -7150,6 +7150,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>LightZone: Spot Removal</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141228T171552Z" creationid="Photonoxx" creationdate="20141228T171552Z">
+        <seg>LightZone : Correction de Poussière</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>LightZone: Styles</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141226T172244Z" creationid="Photonoxx" creationdate="20141226T172244Z">

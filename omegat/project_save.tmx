@@ -5126,6 +5126,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>How to reduce digital camera sensor noise in your photo.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141228T121329Z" creationid="Photonoxx" creationdate="20141228T121329Z">
+        <seg>Comment réduire le bruit du capteur de l'appareil numérique dans votre photo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>How to rename photos directly in LightZone.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141204T181036Z" creationid="Photonoxx" creationdate="20141204T181036Z">
@@ -7457,6 +7465,14 @@
         <seg>Noise Reduction</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141115T094152Z" creationid="Photonoxx" creationdate="20141115T094152Z">
+        <seg>Réduction de Bruit</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Noise reduction</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141228T121340Z" creationid="Photonoxx" creationdate="20141228T121340Z">
         <seg>Réduction de Bruit</seg>
       </tuv>
     </tu>
@@ -10998,6 +11014,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The &lt;b0&gt;Noise Reduction&lt;/b0&gt; tool allows you to reduce "noise" that is often present in digital photos as a result of the sensors in digital cameras.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141228T121540Z" creationid="Photonoxx" creationdate="20141228T121540Z">
+        <seg>L'outil &lt;b0&gt;Réduction de Bruit&lt;/b0&gt; vous permet de réduire le "Bruit" résultant du capteur de l'appareil qu'on trouve souvent présent dans les photos numériques.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The &lt;b0&gt;Open&lt;/b0&gt; button is equivalent to File &gt; &lt;a1&gt;Open&lt;/a1&gt;.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141117T151711Z" creationid="Photonoxx" creationdate="20141117T151711Z">
@@ -14274,6 +14298,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141228T112104Z" creationid="Photonoxx" creationdate="20141228T112104Z">
         <seg>images/Tool-Hue_Saturation-en.png</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>images/Tool-Noise_Reduction-en.png</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141228T121342Z" creationid="Photonoxx" creationdate="20141228T121342Z">
+        <seg>images/Tool-Noise_Reduction-en.png</seg>
       </tuv>
     </tu>
     <tu>

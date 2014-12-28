@@ -800,8 +800,8 @@
       <tuv lang="EN-US">
         <seg>&lt;b0&gt;Note:&lt;/b0&gt; For raw photos, you should use the Color Noise slider in the &lt;a1&gt;Raw Adjustments&lt;/a1&gt; tool first.</seg>
       </tuv>
-      <tuv lang="FR" changeid="Photonoxx" changedate="20141228T122309Z" creationid="Photonoxx" creationdate="20141228T122309Z">
-        <seg>&lt;b0&gt;Note:&lt;/b0&gt; Pour les photos brutes (RAW), vous devriez utiliser en premier le contrôle Bruit Couleur dans l'outil &lt;a1&gt;Ajustement RAW&lt;/a1&gt;.</seg>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141228T122611Z" creationid="Photonoxx" creationdate="20141228T122309Z">
+        <seg>&lt;b0&gt;Note:&lt;/b0&gt; Pour les photos brutes (RAW), vous devriez utiliser en premier les contrôles Bruit Couleur (*et Bruit Grain*) dans l'outil &lt;a1&gt;Ajustements RAW&lt;/a1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4704,8 +4704,8 @@
       <tuv lang="EN-US">
         <seg>Grain Noise</seg>
       </tuv>
-      <tuv lang="FR" changeid="Photonoxx" changedate="20141228T122421Z" creationid="Photonoxx" creationdate="20141115T090836Z">
-        <seg>Grain</seg>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141228T122520Z" creationid="Photonoxx" creationdate="20141115T090836Z">
+        <seg>Bruit Grain</seg>
       </tuv>
     </tu>
     <tu>

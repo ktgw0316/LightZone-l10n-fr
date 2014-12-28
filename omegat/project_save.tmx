@@ -3854,6 +3854,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Do either of the following:</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141228T151908Z" creationid="Photonoxx" creationdate="20141228T151908Z">
+        <seg>Procédez à un ou plusieurs des réglages suivant :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Do one of the following:</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141204T180153Z" creationid="Photonoxx" creationdate="20141204T180153Z">
@@ -13354,6 +13362,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141228T122929Z" creationid="Photonoxx" creationdate="20141228T122929Z">
         <seg>Utilisez les contrôles pour ajuster l'effet de la réduction de bruit :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Use the sliders to adjust your photo:</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141228T152253Z" creationid="Photonoxx" creationdate="20141228T152253Z">
+        <seg>Utilisez les contrôles pour ajuster votre photo :</seg>
       </tuv>
     </tu>
     <tu>

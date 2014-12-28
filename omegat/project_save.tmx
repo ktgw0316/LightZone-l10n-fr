@@ -158,6 +158,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(A new spot tool will appear at the top of the &lt;a1&gt;tool stack&lt;/a1&gt;.)</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141228T172920Z" creationid="Photonoxx" creationdate="20141228T172920Z">
+        <seg>(Un nouvel outil Poussière apparaîtra en haut de la &lt;a1&gt;chaîne de développement&lt;/a1&gt;.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(A white crop rectangle and grid will appear over your photo and the crop tool's controls will appear to the right of the tool bar.)</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141228T103304Z" creationid="Photonoxx" creationdate="20141228T103304Z">
@@ -1566,6 +1574,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Also like the Clone tool, the regions for the Spot tool can not be &lt;a1&gt;inverted&lt;/a1&gt;.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141228T172817Z" creationid="Photonoxx" creationdate="20141228T172817Z">
+        <seg>Comme l'outil Cloner, les régions pour l'outil Poussière ne peuvent être &lt;a1&gt;inversées&lt;/a1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Alternatively, by clicking the Stack button, thumbnails of your photos can be shown stacked where only the latest edited version of your photo is shown.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141227T140054Z" creationid="Photonoxx" creationdate="20141227T140054Z">
@@ -2582,6 +2598,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Click on every spot in your photo that you want removed.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141228T172951Z" creationid="Photonoxx" creationdate="20141228T172951Z">
+        <seg>Cliquez sur toutes les poussières que vous souhaitez effacer de votre photo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Click on the contour of the region where you want to add a control point: a new control point will be added.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141225T171846Z" creationid="Photonoxx" creationdate="20141225T171846Z">
@@ -2834,6 +2858,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141228T170213Z" creationid="Photonoxx" creationdate="20141228T170213Z">
         <seg>Cliquez le bouton de l'outil Netteté dans la &lt;a0&gt;barre d'outil&lt;/a0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Click the spot tool button in the &lt;a0&gt;tool bar&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141228T172910Z" creationid="Photonoxx" creationdate="20141228T172910Z">
+        <seg>Cliquez le bouton de l'outil Poussière dans la &lt;a0&gt;barre d'outil&lt;/a0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4122,6 +4154,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141228T160041Z" creationid="Photonoxx" creationdate="20141228T160041Z">
         <seg>Double-cliquez sur la région que vous souhaitez ajuster.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Double-click the spot you want to adjust.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141228T173046Z" creationid="Photonoxx" creationdate="20141228T173046Z">
+        <seg>Double-cliquez sur le point/poussière que vous souhaitez ajuster.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12894,6 +12934,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>To adjust the size or shape of a spot:</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141228T173025Z" creationid="Photonoxx" creationdate="20141228T173025Z">
+        <seg>Pour ajuster la taille et la forme d'un point/poussière :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>To apply a colored filter, click in the color wheel.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141227T142811Z" creationid="Photonoxx" creationdate="20141227T142811Z">
@@ -13266,6 +13314,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141228T122828Z" creationid="Photonoxx" creationdate="20141228T122828Z">
         <seg>Pour réduire le bruit de votre photo:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To remove spots from your photo:</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141228T172848Z" creationid="Photonoxx" creationdate="20141228T172848Z">
+        <seg>Pour effacer des poussières de votre photo:</seg>
       </tuv>
     </tu>
     <tu>
@@ -15010,6 +15066,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141226T122852Z" creationid="Photonoxx" creationdate="20141226T122852Z">
         <seg>images/Button-Spline.png</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>images/Button-Spot.png</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141228T172849Z" creationid="Photonoxx" creationdate="20141228T172849Z">
+        <seg>images/Button-Spot.png</seg>
       </tuv>
     </tu>
     <tu>

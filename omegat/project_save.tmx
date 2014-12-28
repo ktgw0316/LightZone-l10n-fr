@@ -11118,6 +11118,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The Hue slider adjusts around the wheel.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141228T120721Z" creationid="Photonoxx" creationdate="20141228T120721Z">
+        <seg>Le contrôle de Teinte ajuste en tournant la roue chromatique.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The LightZone file, "$1" can't locate its image file, "$2", but it found "$3" instead.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141111T100234Z" creationid="Photonoxx" creationdate="20141111T100234Z">
@@ -11162,6 +11170,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141122T095951Z" creationid="Photonoxx" creationdate="20141122T095951Z">
         <seg>L'Outil Relight accomplit cela en réduisant le contraste global tout en augmentant le contraste local.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Saturation slider adjusts along the radius of the wheel from the center to the edge for all colors.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141228T120904Z" creationid="Photonoxx" creationdate="20141228T120904Z">
+        <seg>Le contrôle de Saturation ajuste les valeurs de toutes les couleurs selon le rayon de la roue chromatique, du centre vers le bord.</seg>
       </tuv>
     </tu>
     <tu>

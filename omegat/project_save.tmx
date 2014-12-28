@@ -86,6 +86,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(A new Relight tool will appear at the top of the &lt;a1&gt;tool stack&lt;/a1&gt;.)</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141228T161126Z" creationid="Photonoxx" creationdate="20141228T161126Z">
+        <seg>(Un nouvel outil Relight apparaîtra en haut de la &lt;a1&gt;chaîne de développement&lt;/a1&gt;.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(A new black &amp; white tool will appear at the top of the &lt;a1&gt;tool stack&lt;/a1&gt;.)</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141227T142729Z" creationid="Photonoxx" creationdate="20141227T142729Z">
@@ -2618,6 +2626,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141225T171431Z" creationid="Photonoxx" creationdate="20141225T171431Z">
         <seg>Cliquez sur le bouton Régions de la &lt;a0&gt;barre d'outils&lt;/a0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Click the Relight tool button in the &lt;a0&gt;tool bar&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141228T161115Z" creationid="Photonoxx" creationdate="20141228T161115Z">
+        <seg>Cliquez le bouton de l'outil Relight dans la &lt;a0&gt;barre d'outil&lt;/a0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11430,6 +11446,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The &lt;b0&gt;Relight&lt;/b0&gt; tool allows you to "relight" all or parts of your photo as if the lighting were different when you took it.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141228T161006Z" creationid="Photonoxx" creationdate="20141228T161006Z">
+        <seg>L'outil &lt;b0&gt;Relight&lt;/b0&gt; vous permet de "ré-éclairer" (relight) tout ou partie de votre photo comme si l'éclairage était différent du moment où la photo avait été prise.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The &lt;b0&gt;Send&lt;/b0&gt; button is equivalent to File &gt; &lt;a1&gt;Send&lt;/a1&gt;.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141117T152000Z" creationid="Photonoxx" creationdate="20141117T152000Z">
@@ -12546,6 +12570,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141227T152505Z" creationid="Photonoxx" creationdate="20141227T152505Z">
         <seg>Pour ajuster la balance de couleur :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To adjust the contrast of your photo:</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141228T161054Z" creationid="Photonoxx" creationdate="20141228T161054Z">
+        <seg>Pour ajuster le contraste de votre photo:</seg>
       </tuv>
     </tu>
     <tu>
@@ -14590,6 +14622,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>images/Button-Relight.png</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141228T161056Z" creationid="Photonoxx" creationdate="20141228T161056Z">
+        <seg>images/Button-Relight.png</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>images/Button-Select_Recent.png</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141225T112859Z" creationid="Photonoxx" creationdate="20141225T112859Z">
@@ -14938,6 +14978,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141228T154634Z" creationid="Photonoxx" creationdate="20141228T154634Z">
         <seg>images/Tool-Red-Eye-en.png</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>images/Tool-Relight-en.png</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141228T160827Z" creationid="Photonoxx" creationdate="20141228T160827Z">
+        <seg>images/Tool-Relight-en.png</seg>
       </tuv>
     </tu>
     <tu>

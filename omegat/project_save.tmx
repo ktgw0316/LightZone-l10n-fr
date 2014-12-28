@@ -7152,8 +7152,8 @@
       <tuv lang="EN-US">
         <seg>LightZone: Spot Removal</seg>
       </tuv>
-      <tuv lang="FR" changeid="Photonoxx" changedate="20141228T171552Z" creationid="Photonoxx" creationdate="20141228T171552Z">
-        <seg>LightZone : Correction de Poussière</seg>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141228T171613Z" creationid="Photonoxx" creationdate="20141228T171552Z">
+        <seg>LightZone : Correction de Poussières</seg>
       </tuv>
     </tu>
     <tu>
@@ -9450,6 +9450,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141115T103138Z" creationid="Photonoxx" creationdate="20141115T103138Z">
         <seg>Supprimer ce Style</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Removing spots</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141228T171610Z" creationid="Photonoxx" creationdate="20141228T171610Z">
+        <seg>Correction de Poussières</seg>
       </tuv>
     </tu>
     <tu>
@@ -15338,6 +15346,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141228T164423Z" creationid="Photonoxx" creationdate="20141228T164423Z">
         <seg>images/Tool-Sharpen-en.png</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>images/Tool-Spot-en.png</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141228T171616Z" creationid="Photonoxx" creationdate="20141228T171616Z">
+        <seg>images/Tool-Spot-en.png</seg>
       </tuv>
     </tu>
     <tu>

@@ -438,6 +438,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(a) original</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141228T115739Z" creationid="Photonoxx" creationdate="20141228T115739Z">
+        <seg>(a) originale</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(a) unstacked</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141227T140206Z" creationid="Photonoxx" creationdate="20141227T140206Z">
@@ -458,6 +466,22 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141227T140213Z" creationid="Photonoxx" creationdate="20141227T140213Z">
         <seg>(b) Replié</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>(b) vibrance +50</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141228T115750Z" creationid="Photonoxx" creationdate="20141228T115750Z">
+        <seg>(b) vibrance +50</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>(c) saturation +50</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141228T115752Z" creationid="Photonoxx" creationdate="20141228T115752Z">
+        <seg>(c) saturation +50</seg>
       </tuv>
     </tu>
     <tu>
@@ -4510,6 +4534,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For example, compare the photos below.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141228T115733Z" creationid="Photonoxx" creationdate="20141228T115733Z">
+        <seg>Par exemple, coperez la photo ci-dessous.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For example, compare what is shown below.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141118T101737Z" creationid="Photonoxx" creationdate="20141118T101737Z">
@@ -5418,6 +5450,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141118T102155Z" creationid="Photonoxx" creationdate="20141118T102155Z">
         <seg>Sur (b), les bleus ont été sélectionnés, donc, les parties de la photo qui sont bleues sont affichées en blanc (sélectionnées) et le reste est affiché en noir (non sélectionné).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In (b), the vibrance has been increased by 50 resulting in more vivid make-up, but with the hair and background largely unchanged.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141228T115950Z" creationid="Photonoxx" creationdate="20141228T115950Z">
+        <seg>Sur (b), la vibrance à été augmentée de 50 rendant le maquillage plus vif, mais épargnant pour l'essentiel les cheveux et l'arrière plan.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13938,6 +13978,30 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141226T115154Z" creationid="Photonoxx" creationdate="20141226T115154Z">
         <seg>images/History-en.png</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>images/Hue_Saturation-original.jpg</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141228T115754Z" creationid="Photonoxx" creationdate="20141228T115754Z">
+        <seg>images/Hue_Saturation-original.jpg</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>images/Hue_Saturation-saturation.jpg</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141228T115755Z" creationid="Photonoxx" creationdate="20141228T115755Z">
+        <seg>images/Hue_Saturation-saturation.jpg</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>images/Hue_Saturation-vibrance.jpg</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141228T115755Z" creationid="Photonoxx" creationdate="20141228T115755Z">
+        <seg>images/Hue_Saturation-vibrance.jpg</seg>
       </tuv>
     </tu>
     <tu>

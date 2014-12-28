@@ -462,6 +462,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(The white rotate rectangle and the rotate tool's controls will disappear and your photo will be rotated.)</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141228T163848Z" creationid="Photonoxx" creationdate="20141228T163848Z">
+        <seg>(Le Rectangle de rotation et les contrôles de rotation disparaissent et votre photo est tournée.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(There is no significance to the order.) There is no limit to the number of control points a region may have.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141226T125326Z" creationid="Photonoxx" creationdate="20141226T125326Z">
@@ -2502,6 +2510,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Click and drag the mouse anywhere on your photo to rotate the rectangle so that the grid aligns with something in your photo that should be either horizontal or vertical.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141228T163744Z" creationid="Photonoxx" creationdate="20141228T163744Z">
+        <seg>Cliquez et déplacer la souris n'importe où sur votre photo pour faire tourner le rectangle de telle manière que la grille s'aligne avec un élément de votre photo qui devrait être horizontal ou vertical.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Click and drag the mouse in the direction you want to rotate your photo.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141228T104649Z" creationid="Photonoxx" creationdate="20141228T104649Z">
@@ -2658,6 +2674,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141228T104750Z" creationid="Photonoxx" creationdate="20141228T104750Z">
         <seg>Cliquez sur le bouton de la flêche dans la barre d'outils pour soumettre le recadrage.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Click the arrow button to commit the rotate.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141228T163810Z" creationid="Photonoxx" creationdate="20141228T163810Z">
+        <seg>Cliquez sur le bouton de la flêche dans la barre d'outils pour soumettre la rotation.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14786,6 +14810,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141228T163239Z" creationid="Photonoxx" creationdate="20141228T163239Z">
         <seg>images/Button-Rotate.png</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>images/Button-Rotate_90.png</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141228T163853Z" creationid="Photonoxx" creationdate="20141228T163853Z">
+        <seg>images/Button-Rotate_90.png</seg>
       </tuv>
     </tu>
     <tu>

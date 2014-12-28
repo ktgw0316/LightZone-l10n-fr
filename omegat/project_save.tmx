@@ -854,6 +854,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;b0&gt;Note:&lt;/b0&gt; Noise, and reductions to it, are most easily seen while looking at a digital photo at the pixel level by selecting View &gt; Actual Pixels.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141228T123530Z" creationid="Photonoxx" creationdate="20141228T123530Z">
+        <seg>&lt;b0&gt;Note:&lt;/b0&gt; Le Bruit, et la réduction qui lui est appliquée, sont bien plus facile à observer en regardant une photo au zoom 100% (un pixel de la photo correspond à un pixel de l'écran) en choisissant Affichage &gt; Taille réelle des pixels (100%).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;b0&gt;Note:&lt;/b0&gt; Rating either raw or TIFF files does not modify them in any way; instead, the rating information is stored in sidecar XMP files.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141204T180829Z" creationid="Photonoxx" creationdate="20141204T180829Z">
@@ -6634,6 +6642,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141225T165258Z" creationid="Photonoxx" creationdate="20141225T165258Z">
         <seg>LightZone: Impressions</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>LightZone: Proofing</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141228T123550Z" creationid="Photonoxx" creationdate="20141228T123550Z">
+        <seg>LightZone : Épreuvage</seg>
       </tuv>
     </tu>
     <tu>

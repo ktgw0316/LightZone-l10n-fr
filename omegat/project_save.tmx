@@ -11590,6 +11590,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The &lt;b0&gt;Sharpen&lt;/b0&gt; tool allows you to sharpen all or parts of your photo using a technique based on the tradition of using an unsharp mask in a darkroom to increase the perception of sharpness by emphasizing edges.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141228T165436Z" creationid="Photonoxx" creationdate="20141228T165436Z">
+        <seg>L'outil &lt;b0&gt;Netteté&lt;/b0&gt; vous permet de rendre net tout ou partie de votre photo, en s'inspirant de la technique traditionnelle de l'utilisation hoto using a technique based on the tradition d'un masque flou en chambre noire pour accroître la percéption de la netteté en accentuant les bords.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The &lt;b0&gt;Sort criteria&lt;/b0&gt; pop-up menu allows you to change the order by which the thumbnails for your photos are displayed.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141227T141145Z" creationid="Photonoxx" creationdate="20141227T141145Z">

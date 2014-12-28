@@ -782,6 +782,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>5 of 8</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141228T183031Z" creationid="Photonoxx" creationdate="20141228T183031Z">
+        <seg>5 de 8</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>6 of 10</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141225T171053Z" creationid="Photonoxx" creationdate="20141225T171053Z">
@@ -2094,6 +2102,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Before adjusting contrast, however, you first need to identify the luminance range you want to adjust.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141228T183251Z" creationid="Photonoxx" creationdate="20141228T183251Z">
+        <seg>Avant d'ajuster le contraste, cependant, vous devez avant tout déterminer  la gamme de luminance que vous souhaitez ajuster.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Being an ordinary JPEG file, it can be opened by any application that works with JPEG files, be e-mailed, or displayed on the web.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141226T155103Z" creationid="Photonoxx" creationdate="20141226T155103Z">
@@ -3354,6 +3370,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141115T093738Z" creationid="Photonoxx" creationdate="20141115T093738Z">
         <seg>Masque de Contraste</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Contrast adjustments using the ZoneMapper tool are performed by stretching or compressing the luminance range.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141228T183153Z" creationid="Photonoxx" creationdate="20141228T183153Z">
+        <seg>L'ajustement du Contraste avec l'outil ZoneMapper est réalisé en étirant ou compressant la gamme de luminance.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5482,6 +5506,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141227T151213Z" creationid="Photonoxx" creationdate="20141227T151213Z">
         <seg>Comment ajuster la balance de couleur de votre photo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>How to adjust the constrast of your photo using ZoneMapper.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141228T183027Z" creationid="Photonoxx" creationdate="20141228T183027Z">
+        <seg>Comment ajuster le Contraste de votre photo en utilisant le ZoneMapper.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8418,6 +8450,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141228T181718Z" creationid="Photonoxx" creationdate="20141228T181718Z">
         <seg>Un des nombreux réglages que vous pouvez faire à votre photo avec l'outil ZoneMapper est celui de la Luminosité.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>One of several adjustments you can make to your photo using the ZoneMapper tool is contrast.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141228T183052Z" creationid="Photonoxx" creationdate="20141228T183052Z">
+        <seg>Un des nombreux réglages que vous pouvez faire à votre photo avec l'outil ZoneMapper est celui du Contraste.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15034,6 +15074,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141106T135700Z" creationid="Photonoxx" creationdate="20141106T135700Z">
         <seg>Vous pouvez le désactiver dans les préférences de LightZone.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can use the &lt;a0&gt;ZoneFinder&lt;/a0&gt; for this.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141228T183320Z" creationid="Photonoxx" creationdate="20141228T183320Z">
+        <seg>Pour ce faire vous pouvez utiliser le &lt;a0&gt;ZoneFinder&lt;/a0&gt;.</seg>
       </tuv>
     </tu>
     <tu>

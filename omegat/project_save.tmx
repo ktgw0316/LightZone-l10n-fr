@@ -782,6 +782,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;b0&gt;Note:&lt;/b0&gt; If you want to start over, you can click the Reset button in the crop tool.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141228T105159Z" creationid="Photonoxx" creationdate="20141228T105159Z">
+        <seg>&lt;b0&gt;Note:&lt;/b0&gt; Si lors du recadrage vous souhaitez recommencer du début, vous pouvez cliquer If you want to start over, you can click the Reset button in the crop tool.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;b0&gt;Note:&lt;/b0&gt; It is often useful to have multiple instances of the color balance tool in the &lt;a1&gt;tool stack&lt;/a1&gt; to remove color casts from multiple areas of your photo.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141227T153608Z" creationid="Photonoxx" creationdate="20141227T153608Z">

@@ -11358,6 +11358,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The Exposure slider adjusts the exposure.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141228T152643Z" creationid="Photonoxx" creationdate="20141228T152643Z">
+        <seg>Le contrôle d'Exposition règle l'exposition.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The Folder Navigator allows you to navigate to, select, and view the thumbnails and &lt;a0&gt;metadata&lt;/a0&gt; for photos in folders on your computer.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141124T115407Z" creationid="Photonoxx" creationdate="20141124T115407Z">

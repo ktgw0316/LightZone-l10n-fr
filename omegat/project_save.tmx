@@ -926,6 +926,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;b0&gt;Note:&lt;/b0&gt; It's best to be viewing your photo fully zoomed-in before sharpening it by selecting View &gt; Actual Pixels.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141228T171127Z" creationid="Photonoxx" creationdate="20141228T171127Z">
+        <seg>&lt;b0&gt;Note:&lt;/b0&gt; Il est mieux pour observer le résultat de l'outil Netteté de la regarder au zoom 100% (un pixel de la photo correspond à un pixel de l'écran) en choisissant Affichage &gt; Taille réelle des pixels (100%).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;b0&gt;Note:&lt;/b0&gt; Noise, and reductions to it, are most easily seen while looking at a digital photo at the pixel level by selecting View &gt; Actual Pixels.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141228T123530Z" creationid="Photonoxx" creationdate="20141228T123530Z">

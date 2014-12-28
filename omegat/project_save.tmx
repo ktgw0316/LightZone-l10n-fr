@@ -5238,6 +5238,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If additional noise is present, for example as the result of a high ISO setting being used, then you may need to use the sliders to reduce noise further.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141228T122038Z" creationid="Photonoxx" creationdate="20141228T122038Z">
+        <seg>Si du bruit supplémentaire est présent, par exemple lorsque des réglages en haut ISO sont utilisés, vous pourriez devoir jouer sur les contrôles pour une réduction de bruit plus poussée.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If checked, LightZone will automatically check to see if a new software version is available when launched.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141225T115111Z" creationid="Photonoxx" creationdate="20141225T115111Z">

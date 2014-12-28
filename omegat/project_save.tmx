@@ -1238,6 +1238,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Additionally, it is always applied to the entire photo and can not be masked using &lt;a1&gt;regions&lt;/a1&gt;.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141228T151703Z" creationid="Photonoxx" creationdate="20141228T151703Z">
+        <seg>De plus, il est toujours appliqué à la photo entière et ne peut être masqué à l'aide des &lt;a1&gt;régions&lt;/a1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Additionally, metadata can also include information about the content of a photo such as its title, caption, copyright, creator, and location.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141122T171356Z" creationid="Photonoxx" creationdate="20141122T171342Z">
@@ -3954,6 +3962,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141201T102757Z" creationid="Photonoxx" creationdate="20141201T102757Z">
         <seg>Double-cliquez sur la vignette de la photo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Double-click the title bar of the Raw Adjustments tool to expand it.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141228T151826Z" creationid="Photonoxx" creationdate="20141228T151826Z">
+        <seg>Double-cliquez la barre de titre de l'outil Ajustements RAW pour l'ouvrir.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12658,6 +12674,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141117T152834Z" creationid="Photonoxx" creationdate="20141117T152834Z">
         <seg>Pour définir une Sélection de Couleur/Luminosité :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To make raw adjustments to your photo:</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141228T151739Z" creationid="Photonoxx" creationdate="20141228T151739Z">
+        <seg>Pour faire des ajustements à votre photo brute (RAW) :</seg>
       </tuv>
     </tu>
     <tu>

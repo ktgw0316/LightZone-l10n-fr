@@ -2446,6 +2446,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Click the crop tool button in the &lt;a0&gt;tool bar&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141228T102738Z" creationid="Photonoxx" creationdate="20141228T102738Z">
+        <seg>Cliquez sur l'outil Recadrage dans la &lt;a0&gt;barre d'outil&lt;/a0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Click the desired region button (polygon, spline, or Bézier) from the &lt;a0&gt;tool bar&lt;/a0&gt;.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141226T112318Z" creationid="Photonoxx" creationdate="20141226T112318Z">

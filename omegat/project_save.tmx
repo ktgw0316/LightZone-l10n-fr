@@ -1254,6 +1254,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A ZoneMapper tool has a number of keyboard shortcuts that can be used to manipulate it.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141228T184940Z" creationid="Photonoxx" creationdate="20141228T184940Z">
+        <seg>L'outil ZoneMapper a un certain nombre de raccourcis clavier qui peuvent être utilisés pour le manipuler.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A blending mode controls how the effects of tools in the &lt;a1&gt;tool stack&lt;/a1&gt; blend together to form the final photo.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141117T101535Z" creationid="Photonoxx" creationdate="20141117T101535Z">
@@ -6542,6 +6550,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Key</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141228T185023Z" creationid="Photonoxx" creationdate="20141228T185023Z">
+        <seg>Touche</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Key Features</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141122T092841Z" creationid="Photonoxx" creationdate="20141122T092841Z">
@@ -9374,6 +9390,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Purpose</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141228T185033Z" creationid="Photonoxx" creationdate="20141228T185033Z">
+        <seg>Action</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Quality</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141115T085910Z" creationid="Photonoxx" creationdate="20141115T085910Z">
@@ -11222,6 +11246,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Selects the next zone divider.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141228T185209Z" creationid="Photonoxx" creationdate="20141228T185209Z">
+        <seg>Choisir la limite de zone suivante.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Send</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141106T110523Z" creationid="Photonoxx" creationdate="20141106T110523Z">
@@ -12890,6 +12922,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141226T155701Z" creationid="Photonoxx" creationdate="20141226T155701Z">
         <seg>C'est pourquoi vous ne devez jamais effacer le fichier original de votre photo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>These are given in the table below.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141228T185018Z" creationid="Photonoxx" creationdate="20141228T185018Z">
+        <seg>Ils sont indiqués dans le tableau ci-dessous.</seg>
       </tuv>
     </tu>
     <tu>

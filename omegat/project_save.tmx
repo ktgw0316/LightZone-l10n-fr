@@ -1510,6 +1510,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Alternatively, click the eyedropper button inside the tool (the mouse will change to an eyedropper), then click somewhere on your photo that you want to be neutral gray.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141228T154115Z" creationid="Photonoxx" creationdate="20141228T154115Z">
+        <seg>Une autre méthode est de cliquer sur le bouton de la pipette dans l'outil (le curseur de la souris se transformera en pipette), pour ensuite cliquer un point de votre photo qui devrait être gris neutre.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Alternatively, if you have edited a photo recently, select File &gt; Open Recent... and the name of the photo from the menu.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141201T094420Z" creationid="Photonoxx" creationdate="20141201T094420Z">
@@ -13678,6 +13686,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>When satisfied with the raw adjustments, click the eyedropper button again to complete the adjustment.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141228T154258Z" creationid="Photonoxx" creationdate="20141228T154258Z">
+        <seg>Quand vous êtes satisfait par les Ajustements RAW, cliquez de nouveau sur la pipette pour terminer les ajustements.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>When saving your photo for the first time, the file chooser can automatically display the folder where your original photo came from, or it can display the last folder where LightZone saved something.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141115T080723Z" creationid="Photonoxx" creationdate="20141115T080723Z">
@@ -14098,6 +14114,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141228T125251Z" creationid="Photonoxx" creationdate="20141228T125251Z">
         <seg>Votre photo affiche désormais ce à quoi elle devrait ressembler une fois imprimée.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Your photo's colors will then shift accordingly.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141228T154133Z" creationid="Photonoxx" creationdate="20141228T154133Z">
+        <seg>Les couleurs de votre photo seront modifiées en conséquence.</seg>
       </tuv>
     </tu>
     <tu>

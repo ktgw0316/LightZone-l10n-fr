@@ -374,6 +374,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(The control points, cross-hair cursor, and &lt;a0&gt;inner feathering line&lt;/a0&gt; will become visible.)</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141228T173132Z" creationid="Photonoxx" creationdate="20141228T173132Z">
+        <seg>(Les points de contrôle le réticule et le &lt;a0&gt;tracé intérieur de la zone d'adoucissement&lt;/a0&gt; deviendront visibles.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>(The cross-hair cursor designates the center of the area to copy from.)</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141228T173259Z" creationid="Photonoxx" creationdate="20141228T173259Z">
+        <seg>(Le réticule désigne le centre de la zone à copier.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(The mouse will change to a rotate icon.)</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141228T104603Z" creationid="Photonoxx" creationdate="20141228T104603Z">
@@ -4226,6 +4242,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141225T172812Z" creationid="Photonoxx" creationdate="20141225T172812Z">
         <seg>Déplacez un point de contrôle jusqu'à la position désirée.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Drag a control point, the cross-hair cursor, or the feathering line until it's in the desired location.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141228T173210Z" creationid="Photonoxx" creationdate="20141228T173210Z">
+        <seg>Déplacer un point de contrôle le réticule ou ajustez le tracé de la zone d'adoucissement jusqu'à ce qu'ils soient en positions voulues.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15298,6 +15322,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141226T115200Z" creationid="Photonoxx" creationdate="20141226T115200Z">
         <seg>images/Screenshot-Editor-Cover.jpg</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>images/Spot-Control_Points.png</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141228T173133Z" creationid="Photonoxx" creationdate="20141228T173133Z">
+        <seg>images/Spot-Control_Points.png</seg>
       </tuv>
     </tu>
     <tu>

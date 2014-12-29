@@ -558,6 +558,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(This is the same as clicking the &lt;b1&gt;Delete&lt;/b1&gt; button in a tool's title bar.)</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141229T095921Z" creationid="Photonoxx" creationdate="20141229T095921Z">
+        <seg>(Identique à un clic sur le bouton &lt;b1&gt;Effacer&lt;/b1&gt; de la barre de titre d'un outil.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(This is the same as double-clicking in an collapsed tool's title bar.)</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141229T095335Z" creationid="Photonoxx" creationdate="20141229T095335Z">
@@ -4290,6 +4298,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141228T185623Z" creationid="Photonoxx" creationdate="20141228T185623Z">
         <seg>Effacer le verrou sélectionné.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Deletes the tool from the &lt;a0&gt;tool stack&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141229T095755Z" creationid="Photonoxx" creationdate="20141229T095755Z">
+        <seg>Supprime l'outil de la &lt;a0&gt;chaîne de développement&lt;/a0&gt;.</seg>
       </tuv>
     </tu>
     <tu>

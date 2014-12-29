@@ -598,6 +598,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(Use the Shift key to select multiple, contiguous thumbnails or the &lt;s1&gt;Command&lt;/s1&gt; &lt;s2&gt;Control&lt;/s2&gt; key to select multiple, non-contiguous thumbnails.)</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141229T113405Z" creationid="Photonoxx" creationdate="20141229T113405Z">
+        <seg>(Utilisez la touche Maj pour sélectionner plusieurs vignettes consécutives ou la touche &lt;s1&gt;Commande&lt;/s1&gt; &lt;s2&gt;Contrôle&lt;/s2&gt; pour sélectionner plusieurs vignettes non contigues.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(Your photo will appear as it did before and the proof tool will disappear from the &lt;a0&gt;tool stack&lt;/a0&gt;.)</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141228T125532Z" creationid="Photonoxx" creationdate="20141228T125532Z">
@@ -1402,6 +1410,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141117T101535Z" creationid="Photonoxx" creationdate="20141117T101535Z">
         <seg>Un mode de fusion contrôle la façon dont les résultats des outils dans la &lt;a1&gt;chaîne de développement&lt;/a1&gt; seront fusionnés ensemble pour former la photo finale.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A dialog box will appear where you specify how you want the paste to be done.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141229T113545Z" creationid="Photonoxx" creationdate="20141229T113545Z">
+        <seg>Une boîte de dialogue apparaîtra où vous pourrez spécifier comment vous souhaitez que le collage soit effectué.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11483,6 +11499,14 @@ couleurs&lt;/e0&gt;.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141201T095831Z" creationid="Photonoxx" creationdate="20141201T095831Z">
         <seg>Allez dans Navigateur &gt; Déplacer vers &lt;s0&gt;La Poubelle...&lt;/s0&gt; &lt;s1&gt;La Corbeille...&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Select Browser &gt; Paste Tools...</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141229T113430Z" creationid="Photonoxx" creationdate="20141229T113430Z">
+        <seg>Choisissez Navigateur &gt; Coller le Développement...</seg>
       </tuv>
     </tu>
     <tu>

@@ -2222,6 +2222,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Auto Expand</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141229T095443Z" creationid="Photonoxx" creationdate="20141229T095443Z">
+        <seg>Dépliage Auto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Auto Save</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141111T145711Z" creationid="Photonoxx" creationdate="20141111T145711Z">
@@ -5210,6 +5218,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141115T092846Z" creationid="Photonoxx" creationdate="20141115T092846Z">
         <seg>Déplier cet Outil</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Expands all collapsed tools.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141229T095430Z" creationid="Photonoxx" creationdate="20141229T095415Z">
+        <seg>Déplie tous les outils repliés</seg>
       </tuv>
     </tu>
     <tu>
@@ -15379,6 +15395,14 @@ couleurs&lt;/e0&gt;.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141225T120322Z" creationid="Photonoxx" creationdate="20141115T082154Z">
         <seg>Si coché, utiliser LightZone comme un éditeur externe pour une autre application mène LightZone à enregistrer directement votre photo vers l'autre application en sélectionnant Fichier &gt; Enregistrer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When checked, when you select a tool in the &lt;a0&gt;tool stack&lt;/a0&gt;, it will automatically expand and the previously selected tool will automatically collapse.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141229T095615Z" creationid="Photonoxx" creationdate="20141229T095615Z">
+        <seg>Si coché, lorsque vous choisissez un outil dans la &lt;a0&gt;chaîne de développement&lt;/a0&gt;, il sera  automatiquement déplié et l'outil précédent sera automatiquement replié.</seg>
       </tuv>
     </tu>
     <tu>

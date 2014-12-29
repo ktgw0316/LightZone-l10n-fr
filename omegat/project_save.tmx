@@ -8526,6 +8526,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Normally, adjustments using a ZoneMapper are done using luminosity values because there are virtually no unintended hue or saturation changes.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141229T085022Z" creationid="Photonoxx" creationdate="20141229T084928Z">
+        <seg>Normalement, les ajustements du ZoneMapper sont faits en utilisant les valeurs de luminosité parce qu'elles ne produisent en principe aucun changement accidentel de teinte ou de saturation.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Not enough memory</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141106T105450Z" creationid="Photonoxx" creationdate="20141106T105450Z">

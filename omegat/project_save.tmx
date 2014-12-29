@@ -5974,6 +5974,15 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>However, on occasion, luminosity-based adjustments can result in problems such as &lt;e0&gt;color-clipping&lt;/e0&gt;.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141229T090604Z" creationid="Photonoxx" creationdate="20141229T090604Z">
+        <seg>Cependant, dans certain cas, les ajustements basés sur la luminosité peuvent produire des problèmes d'&lt;e0&gt;écrêtage des
+couleurs&lt;/e0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>However, since some digital cameras do not have such a sensor, photos shot in portrait mode appear sideways in the &lt;a0&gt;Photo Browser&lt;/a0&gt;.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141225T090525Z" creationid="Photonoxx" creationdate="20141225T090525Z">

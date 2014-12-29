@@ -4272,8 +4272,8 @@
       <tuv lang="EN-US">
         <seg>Description of the LightZone tool menu.</seg>
       </tuv>
-      <tuv lang="FR" changeid="Photonoxx" changedate="20141229T093447Z" creationid="Photonoxx" creationdate="20141229T093447Z">
-        <seg>Description du menu Outils de LightZone.</seg>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141229T093618Z" creationid="Photonoxx" creationdate="20141229T093447Z">
+        <seg>Description du menu des outils de LightZone.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12407,6 +12407,14 @@ couleurs&lt;/e0&gt;.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The &lt;b0&gt;Menu&lt;/b0&gt; button in a tool's title bar pops-up a menu when clicked.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141229T093752Z" creationid="Photonoxx" creationdate="20141229T093752Z">
+        <seg>Le bouton &lt;b0&gt;Menu&lt;/b0&gt; de la barre de titre d'un outil se déroule en cliquant dessus.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The &lt;b0&gt;Noise Reduction&lt;/b0&gt; tool allows you to reduce "noise" that is often present in digital photos as a result of the sensors in digital cameras.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141228T121540Z" creationid="Photonoxx" creationdate="20141228T121540Z">
@@ -14435,6 +14443,14 @@ couleurs&lt;/e0&gt;.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141122T091033Z" creationid="Photonoxx" creationdate="20141122T091033Z">
         <seg>Présentation des Outils</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Tool menu</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141229T093649Z" creationid="Photonoxx" creationdate="20141229T093649Z">
+        <seg>Menu des Outils</seg>
       </tuv>
     </tu>
     <tu>

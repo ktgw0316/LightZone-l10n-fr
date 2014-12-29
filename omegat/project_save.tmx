@@ -12671,6 +12671,14 @@ couleurs&lt;/e0&gt;.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The &lt;b0&gt;Color Preset&lt;/b0&gt; radio buttons allow you to select all red, yellow, green, blue, indigo, or violet hues directly.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141229T105042Z" creationid="Photonoxx" creationdate="20141229T105042Z">
+        <seg>Les boutons radio de &lt;b0&gt;Préselection de couleur&lt;/b0&gt; vous permet de sélectionner toutes les teintes rouges, jaunes, vertes, bleues, indigo, ou violettes directement.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The &lt;b0&gt;Color Selection&lt;/b0&gt; tab contains various controls that allow you select the colors (and luminosities) to which the affect of the tool is applied.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141229T104147Z" creationid="Photonoxx" creationdate="20141229T104147Z">
@@ -12803,6 +12811,14 @@ couleurs&lt;/e0&gt;.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141228T124014Z" creationid="Photonoxx" creationdate="20141228T124014Z">
         <seg>L'outil &lt;b0&gt;Épreuvage&lt;/b0&gt; vous permet d'avoir un aperçu de l'aspect de votre photo quand elle sera &lt;a1&gt;imprimée&lt;/a1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The &lt;b0&gt;Range&lt;/b0&gt; slider increases or decreases the range of colors selected around the color shown by the color swatch.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141229T105208Z" creationid="Photonoxx" creationdate="20141229T105208Z">
+        <seg>Le contrôle &lt;b0&gt;Gamme&lt;/b0&gt; étend ou restreint la gamme de couleurs sélectionnées autour de la couleur affichée par l'indicateur de couleur.</seg>
       </tuv>
     </tu>
     <tu>

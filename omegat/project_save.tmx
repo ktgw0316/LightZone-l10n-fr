@@ -206,6 +206,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(As you do so, the corresponding zones in the &lt;a0&gt;ZoneFinder&lt;/a0&gt; will highlight.)</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141229T092533Z" creationid="Photonoxx" creationdate="20141229T092533Z">
+        <seg>(Ce faisant, les zones correspondantes seront mises en évidence dans le &lt;a0&gt;ZoneFinder&lt;/a0&gt;.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(As you move the mouse, you can see the zones highlight in the ZoneFinder.)</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141228T183639Z" creationid="Photonoxx" creationdate="20141228T183639Z">
@@ -5302,6 +5310,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For example, you can quickly find both the white and black points in your photo allowing you to &lt;a0&gt;fix the exposure&lt;/a0&gt; and &lt;a1&gt;get deeper blacks&lt;/a1&gt;.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141229T092320Z" creationid="Photonoxx" creationdate="20141229T092320Z">
+        <seg>Par exemple, vous pouvez rapidement déterminer le point blanc et le point noir de votre photo vous permettant ainsi de &lt;a0&gt;corriger l'exposition&lt;/a0&gt; et d'&lt;a1&gt;obtenir des noirs plus profonds&lt;/a1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For raw photos, it is always present at the bottom of the &lt;a0&gt;tool stack&lt;/a0&gt; and can neither be disabled nor deleted.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141228T151551Z" creationid="Photonoxx" creationdate="20141228T151551Z">
@@ -8203,6 +8219,14 @@ couleurs&lt;/e0&gt;.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141228T104536Z" creationid="Photonoxx" creationdate="20141228T104536Z">
         <seg>Amener la souris en dehors du rectangle de recadrage.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Move the mouse over the zones in the ZoneMapper.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141229T092411Z" creationid="Photonoxx" creationdate="20141229T092411Z">
+        <seg>Déplacer la souris au-dessus des zones du ZoneMapper.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13891,6 +13915,14 @@ couleurs&lt;/e0&gt;.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141226T171309Z" creationid="Photonoxx" creationdate="20141226T171309Z">
         <seg>Pour exporter un style :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To find zones on your photo:</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141229T092338Z" creationid="Photonoxx" creationdate="20141229T092338Z">
+        <seg>Pour trouver les zones sur votre photo:</seg>
       </tuv>
     </tu>
     <tu>

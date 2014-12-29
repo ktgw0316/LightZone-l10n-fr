@@ -998,6 +998,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;a1&gt;More on cloning...&lt;/a1&gt;</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141229T171833Z" creationid="Photonoxx" creationdate="20141229T171833Z">
+        <seg>&lt;a1&gt;En savoir plus sur le clonage...&lt;/a1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;a1&gt;More on color balance...&lt;/a1&gt;</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141229T171137Z" creationid="Photonoxx" creationdate="20141229T171137Z">
@@ -1050,6 +1058,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141229T170722Z" creationid="Photonoxx" creationdate="20141229T170722Z">
         <seg>&lt;a1&gt;En savoir plus sur l'amélioration de la netteté...&lt;/a1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;a1&gt;More on spot removal...&lt;/a1&gt;</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141229T171939Z" creationid="Photonoxx" creationdate="20141229T171939Z">
+        <seg>&lt;a1&gt;En savoir plus sur la Correction de Poussières...&lt;/a1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -14203,6 +14219,14 @@ couleurs&lt;/e0&gt;.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141225T090546Z" creationid="Photonoxx" creationdate="20141225T090546Z">
         <seg>Ceci peut être corrigé en les tournant.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This can be used to remove dust, scratches, blemishes, or other unwanted items from your photo.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141229T171814Z" creationid="Photonoxx" creationdate="20141229T171814Z">
+        <seg>Cela peut être utilisé pour effacer poussières, griffures, saletés ou autres éléments indésirables de votre photo.</seg>
       </tuv>
     </tu>
     <tu>

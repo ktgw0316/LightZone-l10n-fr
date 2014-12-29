@@ -1022,6 +1022,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;a1&gt;More on noise reduction...&lt;/a1&gt;</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141229T171536Z" creationid="Photonoxx" creationdate="20141229T171536Z">
+        <seg>&lt;a1&gt;En savoir plus sur la réduction de bruit...&lt;/a1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;a1&gt;More on regions...&lt;/a1&gt;</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141229T112037Z" creationid="Photonoxx" creationdate="20141229T112037Z">
@@ -12967,6 +12975,14 @@ couleurs&lt;/e0&gt;.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The &lt;b0&gt;Clone&lt;/b0&gt; tool allows you to copy one area of your photo to another area.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141229T171608Z" creationid="Photonoxx" creationdate="20141229T171608Z">
+        <seg>L'outil &lt;b0&gt;Cloner&lt;/b0&gt; vous permet de copier une partie de votre photo vers une autre partie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The &lt;b0&gt;Color Balance&lt;/b0&gt; tool allows you to adjust the color balance around a specified point of the tonal range or reduce color casts by selecting neutral gray points.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141229T171053Z" creationid="Photonoxx" creationdate="20141229T171053Z">
@@ -13923,6 +13939,14 @@ couleurs&lt;/e0&gt;.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141229T105956Z" creationid="Photonoxx" creationdate="20141229T105956Z">
         <seg>La Barre de Titre de l'outil sélectionné est orange.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The tool reduces noise in either chromaticity or luminance (or both).</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141229T171517Z" creationid="Photonoxx" creationdate="20141229T171517Z">
+        <seg>L'outil réduit le bruit chromatique ou **de luminance** (ou les deux).</seg>
       </tuv>
     </tu>
     <tu>

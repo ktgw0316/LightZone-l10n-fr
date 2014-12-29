@@ -974,6 +974,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;a1&gt;More on regions...&lt;/a1&gt;</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141229T112037Z" creationid="Photonoxx" creationdate="20141229T112037Z">
+        <seg>&lt;a1&gt;En savoir plus sur les régions...&lt;/a1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;a1&gt;More on rotating...&lt;/a1&gt;</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141229T111853Z" creationid="Photonoxx" creationdate="20141229T111853Z">
+        <seg>&lt;a1&gt;En savoir plus sur la Rotation...&lt;/a1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;a1&gt;More on styles...&lt;/a1&gt;</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141117T151929Z" creationid="Photonoxx" creationdate="20141117T151929Z">
@@ -12951,10 +12967,26 @@ couleurs&lt;/e0&gt;.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The &lt;b0&gt;Regions&lt;/b0&gt; button shows or hides all the regions comprising the mask for the currently selected tool.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141229T112025Z" creationid="Photonoxx" creationdate="20141229T112025Z">
+        <seg>Le bouton &lt;b0&gt;Régions&lt;/b0&gt; affiche ou masque toutes les régions comprises dans le masque de l'outil en cours.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The &lt;b0&gt;Relight&lt;/b0&gt; tool allows you to "relight" all or parts of your photo as if the lighting were different when you took it.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141228T161006Z" creationid="Photonoxx" creationdate="20141228T161006Z">
         <seg>L'outil &lt;b0&gt;Relight&lt;/b0&gt; vous permet de "ré-éclairer" (relight) tout ou partie de votre photo comme si l'éclairage était différent du moment où la photo avait été prise.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The &lt;b0&gt;Rotate&lt;/b0&gt; tool allows you to rotate your photo, for example to make the horizon perfectly level.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141229T111834Z" creationid="Photonoxx" creationdate="20141229T111834Z">
+        <seg>L'outil &lt;b0&gt;Rotation&lt;/b0&gt; vous permet de tourner votre photo, par exemple pour mettre l'horizon parfaitement à niveau.</seg>
       </tuv>
     </tu>
     <tu>

@@ -9271,6 +9271,14 @@ couleurs&lt;/e0&gt;.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Notably, LightZone saves the &lt;a0&gt;tool stack&lt;/a0&gt; as part of your edited photos' metadata.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141229T172635Z" creationid="Photonoxx" creationdate="20141229T172635Z">
+        <seg>Notamment, LightZone enregistre la &lt;a0&gt;chaîne de développement&lt;/a0&gt; comme une partie des métadonnées de votre photo éditée.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Note that after a reset is performed, LightZone must quit.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141225T160028Z" creationid="Photonoxx" creationdate="20141225T160028Z">
@@ -16339,6 +16347,14 @@ couleurs&lt;/e0&gt;.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141226T154501Z" creationid="Photonoxx" creationdate="20141226T154501Z">
         <seg>Quand vous enregistrez votre travail, LightZone enregistre votre photo comme un fichier "JPEG LightZone".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>While LightZone is an all-in-one application for your digital photography workflow from raw conversion to printing, you can integrate LightZone into your existing workflow with other applications if you prefer.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141229T172503Z" creationid="Photonoxx" creationdate="20141229T172503Z">
+        <seg>Bien que LightZone soit une application tout en un pour vos photographies numériques, de la conversion des fichiers bruts (RAW) à l'impression, vous pouvez aussi intégrer LightZone dans votre flux de travail existant avec d'autres applications si vous le souhaitez.</seg>
       </tuv>
     </tu>
     <tu>

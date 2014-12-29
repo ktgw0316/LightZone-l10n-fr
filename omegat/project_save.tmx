@@ -6542,6 +6542,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>However, Light Crafts makes no representations regarding these applications or any information related thereto.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141229T173315Z" creationid="Photonoxx" creationdate="20141229T173315Z">
+        <seg>Cependant, Light Crafts ne fournit aucune intervention concernant ces applications ou toutes informations les concernant.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>However, because the luminosity range is compressed, information from your photo is still lost: the loss is just evenly spread out over the entire luminosity range (and thus less noticeable) rather than being truncated at the black end.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141117T100832Z" creationid="Photonoxx" creationdate="20141117T100832Z">
@@ -16415,6 +16423,14 @@ couleurs&lt;/e0&gt;.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>While questions about integrating LightZone with these applications will be gladly answered, other questions, complaints, or claims regarding these applications must be directed to the appropriate software vendor.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141229T173812Z" creationid="Photonoxx" creationdate="20141229T173812Z">
+        <seg>Si les questions concernant l'intégration de LightZone avec ces applications seront considérées, les autres questions, mplaints, or claims regarding these applications must be directed to the appropriate software vendor.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>White Balance</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141115T094105Z" creationid="Photonoxx" creationdate="20141115T094105Z">
@@ -17073,8 +17089,8 @@ couleurs&lt;/e0&gt;.</seg>
       <tuv lang="EN-US">
         <seg>en-US</seg>
       </tuv>
-      <tuv lang="FR" changeid="Photonoxx" changedate="20141225T092640Z">
-        <seg>fr-FRE</seg>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141229T173835Z">
+        <seg>fr-FR</seg>
       </tuv>
     </tu>
     <tu>

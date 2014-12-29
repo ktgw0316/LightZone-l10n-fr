@@ -8759,6 +8759,14 @@ couleurs&lt;/e0&gt;.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Middle (or 18%) gray falls onto zone 5.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141229T180453Z" creationid="Photonoxx" creationdate="20141229T180453Z">
+        <seg>Le gris Moyen (ou 18%) se situe sur la zone 5.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Midpoint</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141115T090923Z" creationid="Photonoxx" creationdate="20141115T090923Z">
@@ -14091,6 +14099,14 @@ couleurs&lt;/e0&gt;.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141228T121635Z" creationid="Photonoxx" creationdate="20141228T121635Z">
         <seg>L'outil réduit le bruit chromatique ou le grain (ou les deux).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The traditional Zone System was developed for negative film and has 11 zones where each zone differs by one &lt;e0&gt;exposure value&lt;/e0&gt; (one "EV" which is equivalent to one f-stop).</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141229T180417Z" creationid="Photonoxx" creationdate="20141229T180417Z">
+        <seg>Le Zone System traditionnel a été développé pour le film négatif et a 11 zones où chaque zone diffère d'une &lt;e0&gt;valeur d'exposition&lt;/e0&gt; (un "EV" qui est l'équivalent d'un f-stop).</seg>
       </tuv>
     </tu>
     <tu>

@@ -12671,6 +12671,14 @@ couleurs&lt;/e0&gt;.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The &lt;b0&gt;Color Selection&lt;/b0&gt; tab contains various controls that allow you select the colors (and luminosities) to which the affect of the tool is applied.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141229T104147Z" creationid="Photonoxx" creationdate="20141229T104147Z">
+        <seg>L'onglet &lt;b0&gt;Sélection Couleur&lt;/b0&gt; contient divers contrôles qui vous permettent de choisir à quelles gammes de couleurs (et/ou de luminosité) vous souhaitez appliquer l'outil.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The &lt;b0&gt;Convert&lt;/b0&gt; button is equivalent to File &gt; &lt;a1&gt;Convert&lt;/a1&gt;.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141117T152039Z" creationid="Photonoxx" creationdate="20141117T152039Z">
@@ -16115,6 +16123,14 @@ couleurs&lt;/e0&gt;.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141228T183320Z" creationid="Photonoxx" creationdate="20141228T183320Z">
         <seg>Pour ce faire vous pouvez utiliser le &lt;a0&gt;ZoneFinder&lt;/a0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can use the &lt;b0&gt;Eyedropper&lt;/b0&gt; to select a color directly from your photo.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141229T104238Z" creationid="Photonoxx" creationdate="20141229T104238Z">
+        <seg>Vous pouvez utiliser la &lt;b0&gt;Pipette&lt;/b0&gt; pour choisir une couleur directement depuis votre photo.</seg>
       </tuv>
     </tu>
     <tu>

@@ -16519,6 +16519,14 @@ couleurs&lt;/e0&gt;.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>With the &lt;a0&gt;ZoneFinder&lt;/a0&gt; and &lt;a1&gt;ZoneMapper&lt;/a1&gt; tool, LightZone offers a unique implementation of the Zone System that has been adapted from negative film to digital media and interactive image processing allowed by modern computers.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141229T180029Z" creationid="Photonoxx" creationdate="20141229T180029Z">
+        <seg>Avec le &lt;a0&gt;ZoneFinder&lt;/a0&gt; et l'outil &lt;a1&gt;ZoneMapper&lt;/a1&gt;, LightZone propose un mise en oeuvre unique du Zone System qui a été adapté du film négatif vers les médias numériques et le traitement d'image intéractif que rend possible les ordinateurs mordernes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>With the photo selected, press either &lt;b0&gt;enter&lt;/b0&gt; or &lt;b1&gt;return&lt;/b1&gt;.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141201T102915Z" creationid="Photonoxx" creationdate="20141201T102915Z">

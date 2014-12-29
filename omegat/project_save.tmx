@@ -13287,6 +13287,14 @@ couleurs&lt;/e0&gt;.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The currently &lt;b0&gt;Selected Color&lt;/b0&gt; is shown by the color swatch.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141229T104846Z" creationid="Photonoxx" creationdate="20141229T104846Z">
+        <seg>La &lt;b0&gt;Couleur Sélectionnée&lt;/b0&gt; en cours est affichée par l'indicateur de couleur.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The difference between luminosity and RGB adjustments using the ZoneMapper.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141228T190011Z" creationid="Photonoxx" creationdate="20141228T185954Z">

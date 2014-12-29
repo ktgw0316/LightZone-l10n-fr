@@ -5590,6 +5590,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For example, if there are the &lt;a0&gt;Hue/Saturation&lt;/a0&gt; and &lt;a1&gt;Blur&lt;/a1&gt; tools in the tool stack, what you see is your original photo modified by the the Hue/Saturation tool further modified by the the blur tool.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141229T110538Z" creationid="Photonoxx" creationdate="20141229T110538Z">
+        <seg>Par exemple, si il y a les outils &lt;a0&gt;Teinte/Saturation&lt;/a0&gt; et &lt;a1&gt;Flou&lt;/a1&gt; dans la chaîne de développement, ce que vous voyez est votre photo originale modifiée par l'outil Teinte/Saturation et ensuite par modifiée par l'outil Flou.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For example, if your photo has saturated highlights such as a clear blue sky, then increasing brightness will clip colors in portions of the sky because pixels that are already saturated blue can't become more blue.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141229T090943Z" creationid="Photonoxx" creationdate="20141229T090943Z">
@@ -7679,6 +7687,14 @@ couleurs&lt;/e0&gt;.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>LightZone: Control Tools Overview</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141229T110609Z" creationid="Photonoxx" creationdate="20141229T110609Z">
+        <seg>LightZone : Vue d'ensemble des Outils de Contrôle</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>LightZone: Converting Images</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141118T144909Z" creationid="Photonoxx" creationdate="20141118T144909Z">
@@ -9475,6 +9491,14 @@ couleurs&lt;/e0&gt;.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141117T140423Z" creationid="Photonoxx" creationdate="20141117T140423Z">
         <seg>Incrustation</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Overview of the control tools.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141229T110637Z" creationid="Photonoxx" creationdate="20141229T110637Z">
+        <seg>Vue d'ensemble des Outils de Contrôle</seg>
       </tuv>
     </tu>
     <tu>
@@ -17267,6 +17291,14 @@ couleurs&lt;/e0&gt;.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141229T105806Z" creationid="Photonoxx" creationdate="20141229T105806Z">
         <seg>images/Tool_Stack-en.png</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>images/Tool_Stack_Illustration-en.png</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141229T110539Z" creationid="Photonoxx" creationdate="20141229T110539Z">
+        <seg>images/Tool_Stack_Illustration-en.png</seg>
       </tuv>
     </tu>
     <tu>

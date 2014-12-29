@@ -702,6 +702,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>1 of 8</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141229T092707Z" creationid="Photonoxx" creationdate="20141229T092707Z">
+        <seg>1 de 8</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>16</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141118T154208Z" creationid="Photonoxx" creationdate="20141118T154208Z">
@@ -6519,6 +6527,14 @@ couleurs&lt;/e0&gt;.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Introduction to the ZoneMapper, a tool for adjusting the brightness and contrast of your photo.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141229T092659Z" creationid="Photonoxx" creationdate="20141229T092659Z">
+        <seg>Présentation du ZoneMapper, un outil pour l'ajustement de la luminosité et du contraste de votre photo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Introduction to the breakthrough features of LightZone.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141122T091157Z" creationid="Photonoxx" creationdate="20141122T091157Z">
@@ -7811,6 +7827,14 @@ couleurs&lt;/e0&gt;.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141122T170348Z" creationid="Photonoxx" creationdate="20141122T170348Z">
         <seg>LightZone: Intégration à un flux de travail : iView MediaPro</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>LightZone: ZoneMapper</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141229T092601Z" creationid="Photonoxx" creationdate="20141229T092601Z">
+        <seg>LightZone : ZoneMapper</seg>
       </tuv>
     </tu>
     <tu>
@@ -12703,6 +12727,14 @@ couleurs&lt;/e0&gt;.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The Zone System</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141229T092554Z" creationid="Photonoxx" creationdate="20141229T092554Z">
+        <seg>Le Système de Zone</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The ZoneFinder allows you to see where the highlights, midtones, and shadows in your photo are in order to make adjustments using the ZoneMapper.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141122T102652Z" creationid="Photonoxx" creationdate="20141122T102652Z">
@@ -14487,6 +14519,14 @@ couleurs&lt;/e0&gt;.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Tool-ZoneMapper-ZoneFinder.html</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141229T092704Z" creationid="Photonoxx" creationdate="20141229T092704Z">
+        <seg>Tool-ZoneMapper-ZoneFinder.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Tool-ZoneMapper.html</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141204T181940Z" creationid="Photonoxx" creationdate="20141204T181940Z">
@@ -15647,6 +15687,14 @@ couleurs&lt;/e0&gt;.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>ZoneMapper</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141229T092702Z" creationid="Photonoxx" creationdate="20141229T092702Z">
+        <seg>ZoneMapper</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>ZoneMapper: Adjusting brightness</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141228T181649Z" creationid="Photonoxx" creationdate="20141228T181649Z">
@@ -16491,6 +16539,14 @@ couleurs&lt;/e0&gt;.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141228T181549Z" creationid="Photonoxx" creationdate="20141228T181549Z">
         <seg>images/Tool-ZoneMapper-X.png</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>images/Tool-ZoneMapper-en.png</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141229T092708Z" creationid="Photonoxx" creationdate="20141229T092708Z">
+        <seg>images/Tool-ZoneMapper-en.png</seg>
       </tuv>
     </tu>
     <tu>

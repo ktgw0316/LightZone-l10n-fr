@@ -1038,6 +1038,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;a1&gt;More on red-eye reduction...&lt;/a1&gt;</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141229T172048Z" creationid="Photonoxx" creationdate="20141229T172048Z">
+        <seg>&lt;a1&gt;En savoir plus sur la Réduction des Yeux Rouges...&lt;/a1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;a1&gt;More on regions...&lt;/a1&gt;</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141229T112037Z" creationid="Photonoxx" creationdate="20141229T112037Z">
@@ -3874,6 +3882,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141228T183153Z" creationid="Photonoxx" creationdate="20141228T183153Z">
         <seg>L'ajustement du Contraste avec l'outil ZoneMapper est réalisé en étirant ou compressant la gamme de luminance.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Control tools</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141229T172103Z" creationid="Photonoxx" creationdate="20141229T172103Z">
+        <seg>Outils de Contrôle</seg>
       </tuv>
     </tu>
     <tu>
@@ -8355,6 +8371,14 @@ couleurs&lt;/e0&gt;.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141229T105744Z" creationid="Photonoxx" creationdate="20141229T105744Z">
         <seg>LightZone : La chaîne de développement.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>LightZone: Workflow Integration</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141229T172146Z" creationid="Photonoxx" creationdate="20141229T172146Z">
+        <seg>LightZone : Intégration à un flux de travail</seg>
       </tuv>
     </tu>
     <tu>
@@ -12867,6 +12891,14 @@ couleurs&lt;/e0&gt;.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141114T184245Z" creationid="Photonoxx" creationdate="20141114T184245Z">
         <seg>Intervertir Hauteur et Largeur</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Switching between multiple versions of your photo.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141229T172243Z" creationid="Photonoxx" creationdate="20141229T172243Z">
+        <seg>Passer entre plusieurs versions de votre photo.</seg>
       </tuv>
     </tu>
     <tu>

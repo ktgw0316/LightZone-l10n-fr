@@ -6719,6 +6719,14 @@ couleurs&lt;/e0&gt;.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If you are familiar with the Zone System, you probably have noticed that there are differences between the traditional Zone System and LightZone.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141229T180206Z" creationid="Photonoxx" creationdate="20141229T180206Z">
+        <seg>Si vous êtes familier avec le Zone System, vous avez probablement noté qu'il y a des différences entre le Zone System traditionnel et LightZone.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If you are satisfied with the color cast reduction, click the eyedropper button again to complete the reduction; otherwise repeat step (b) until you are satisfied.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141227T153407Z" creationid="Photonoxx" creationdate="20141227T153407Z">
@@ -13683,6 +13691,14 @@ couleurs&lt;/e0&gt;.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141228T170936Z" creationid="Photonoxx" creationdate="20141228T170936Z">
         <seg>Le contrôle du Seuil  détermine à partir de quel degrés de différence avec son environnement chaque pixel est considéré comme un pixel de "bordure" et de ce fait être accentué.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Traditional Zone System</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141229T180219Z" creationid="Photonoxx" creationdate="20141229T180219Z">
+        <seg>Le Zone System traditionnel</seg>
       </tuv>
     </tu>
     <tu>

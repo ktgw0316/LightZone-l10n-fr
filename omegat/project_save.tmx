@@ -3886,6 +3886,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Copying the tools from a tool stack copies all tools except &lt;a0&gt;Crop&lt;/a0&gt;, &lt;a1&gt;Proof&lt;/a1&gt;, and &lt;a2&gt;Rotate&lt;/a2&gt;.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141229T112817Z" creationid="Photonoxx" creationdate="20141229T112817Z">
+        <seg>Copier les outils de la chaîne de développement copie tous les outils à l'exception du &lt;a0&gt;Recadrage&lt;/a0&gt;, de l'&lt;a1&gt;Épreuvage&lt;/a1&gt;, et de la &lt;a2&gt;Rotation&lt;/a2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Copyright</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141118T154110Z" creationid="Photonoxx" creationdate="20141118T154110Z">
@@ -14567,6 +14575,14 @@ couleurs&lt;/e0&gt;.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>To copy and paste the tools in the tool stack:</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141229T112924Z" creationid="Photonoxx" creationdate="20141229T112924Z">
+        <seg>Pour copier et coller  les outils dans la chaîne de développement :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>To create a region:</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141226T111643Z" creationid="Photonoxx" creationdate="20141226T111643Z">
@@ -15347,6 +15363,14 @@ couleurs&lt;/e0&gt;.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141111T103750Z" creationid="Photonoxx" creationdate="20141111T103750Z">
         <seg>Outils</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Tools' &lt;a3&gt;regions&lt;/a3&gt; are also copied.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141229T112851Z" creationid="Photonoxx" creationdate="20141229T112851Z">
+        <seg>Les &lt;a3&gt;régions&lt;/a3&gt; des outils sont également copiées.</seg>
       </tuv>
     </tu>
     <tu>

@@ -1638,6 +1638,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Adjusting brightness</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141229T093305Z" creationid="Photonoxx" creationdate="20141229T093305Z">
+        <seg>Ajuster la Luminosité</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Adjusting color balance</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141227T151234Z" creationid="Photonoxx" creationdate="20141227T151234Z">
@@ -1646,10 +1654,34 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Adjusting contrast</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141229T093321Z" creationid="Photonoxx" creationdate="20141229T093321Z">
+        <seg>Ajuster le contraste</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Adjusting exposure</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141229T093313Z" creationid="Photonoxx" creationdate="20141229T093313Z">
+        <seg>Ajuster l'exposition</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Adjusting hue/saturation</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141228T112103Z" creationid="Photonoxx" creationdate="20141228T112103Z">
         <seg>Ajuster la Teinte/Saturation</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Adjusting the black point</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141229T093339Z" creationid="Photonoxx" creationdate="20141229T093339Z">
+        <seg>Ajustement du Point Noir</seg>
       </tuv>
     </tu>
     <tu>
@@ -4238,6 +4270,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Description of the LightZone tool menu.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141229T093447Z" creationid="Photonoxx" creationdate="20141229T093447Z">
+        <seg>Description du menu Outils de LightZone.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Description of the Sampler.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141226T153349Z" creationid="Photonoxx" creationdate="20141226T153349Z">
@@ -5154,6 +5194,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141111T100413Z" creationid="Photonoxx" creationdate="20141111T100413Z">
         <seg>Trouver $1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Finding zones in your photo</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141229T093254Z" creationid="Photonoxx" creationdate="20141229T093254Z">
+        <seg>Trouver les zones dans votre photo</seg>
       </tuv>
     </tu>
     <tu>
@@ -6695,6 +6743,14 @@ couleurs&lt;/e0&gt;.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Keyboard shortcuts</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141229T093356Z" creationid="Photonoxx" creationdate="20141229T093356Z">
+        <seg>Raccourcis Clavier</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Keyboard shortcuts for the ZoneMapper tool.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141228T184839Z" creationid="Photonoxx" creationdate="20141228T184839Z">
@@ -7799,6 +7855,14 @@ couleurs&lt;/e0&gt;.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>LightZone: Tool Anatomy</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141229T093420Z" creationid="Photonoxx" creationdate="20141229T093420Z">
+        <seg>LightZone : Présentation des Outils</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>LightZone: Workflow Integration: Aperture</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141122T165119Z" creationid="Photonoxx" creationdate="20141122T165119Z">
@@ -7979,6 +8043,14 @@ couleurs&lt;/e0&gt;.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141115T091051Z" creationid="Photonoxx" creationdate="20141115T091051Z">
         <seg>Luminosité</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Luminosity vs. RGB adjustments</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141229T093349Z" creationid="Photonoxx" creationdate="20141229T093349Z">
+        <seg>Luminosité vs. RVB</seg>
       </tuv>
     </tu>
     <tu>
@@ -14059,6 +14131,14 @@ couleurs&lt;/e0&gt;.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141226T173352Z" creationid="Photonoxx" creationdate="20141226T173352Z">
         <seg>Pour en savoir plus sur le travail avec les styles, cliquez un lien ci-dessous.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To learn more about working with the ZoneMapper, click a link below.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141229T093213Z" creationid="Photonoxx" creationdate="20141229T093213Z">
+        <seg>Pour en savoir plus sur le travail avec le ZoneMapper, cliquez un des liens ci-dessous.</seg>
       </tuv>
     </tu>
     <tu>

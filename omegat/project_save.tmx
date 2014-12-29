@@ -6343,6 +6343,14 @@ couleurs&lt;/e0&gt;.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If a tool is locked, a lock icon replaces the Delete button.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141229T102651Z" creationid="Photonoxx" creationdate="20141229T102651Z">
+        <seg>Si un outil est verrouillé, un cadenas le bouton Effacer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If additional noise is present, for example as the result of a high ISO setting being used, then you may need to use the sliders to reduce noise further.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141228T122038Z" creationid="Photonoxx" creationdate="20141228T122038Z">
@@ -8249,8 +8257,8 @@ couleurs&lt;/e0&gt;.</seg>
       <tuv lang="EN-US">
         <seg>Locks (or unlocks) the tool.</seg>
       </tuv>
-      <tuv lang="FR" changeid="Photonoxx" changedate="20141229T102451Z" creationid="Photonoxx" creationdate="20141229T094224Z">
-        <seg>Verrouille (ou déboque) l'outil.</seg>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141229T102518Z" creationid="Photonoxx" creationdate="20141229T094224Z">
+        <seg>Verrouille (ou déverrouille) l'outil.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16819,6 +16827,14 @@ couleurs&lt;/e0&gt;.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141228T101442Z" creationid="Photonoxx" creationdate="20141228T101442Z">
         <seg>images/Tool-Crop-en.png</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>images/Tool-Disabled-en.png</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141229T102559Z" creationid="Photonoxx" creationdate="20141229T102559Z">
+        <seg>images/Tool-Disabled-en.png</seg>
       </tuv>
     </tu>
     <tu>

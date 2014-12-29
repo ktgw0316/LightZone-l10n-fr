@@ -7847,6 +7847,14 @@ couleurs&lt;/e0&gt;.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>LightZone: Editing Tools Overview</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141229T165156Z" creationid="Photonoxx" creationdate="20141229T165156Z">
+        <seg>LightZone : Vue d'ensemble des Outils d'Édition</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>LightZone: Editing a Photo</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141201T102315Z" creationid="Photonoxx" creationdate="20141201T102315Z">
@@ -9611,6 +9619,14 @@ couleurs&lt;/e0&gt;.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141229T110637Z" creationid="Photonoxx" creationdate="20141229T110637Z">
         <seg>Vue d'ensemble des Outils de Contrôle</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Overview of the editing tools.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141229T165205Z" creationid="Photonoxx" creationdate="20141229T165205Z">
+        <seg>Vue d'ensemble des Outils d'Édition.</seg>
       </tuv>
     </tu>
     <tu>

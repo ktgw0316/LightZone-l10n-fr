@@ -3870,6 +3870,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Copying &amp; pasting tools</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141229T112204Z" creationid="Photonoxx" creationdate="20141229T112204Z">
+        <seg>Copier &amp; Coller des Outils</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Copying regions</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141226T125816Z" creationid="Photonoxx" creationdate="20141226T125816Z">
@@ -6134,6 +6142,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>How to copy &amp; paste tools from one photo to others.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141229T112154Z" creationid="Photonoxx" creationdate="20141229T112154Z">
+        <seg>Comme copier &amp; coller les outils d'une photo sur une autre.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>How to copy and paste regions.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141225T172919Z" creationid="Photonoxx" creationdate="20141225T172919Z">
@@ -7731,6 +7747,14 @@ couleurs&lt;/e0&gt;.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141118T144909Z" creationid="Photonoxx" creationdate="20141118T144909Z">
         <seg>LightZone: Conversion d'Images</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>LightZone: Copy &amp; Paste Tools</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141229T112114Z" creationid="Photonoxx" creationdate="20141229T112114Z">
+        <seg>LightZone : Copier &amp; Coller des Outils</seg>
       </tuv>
     </tu>
     <tu>

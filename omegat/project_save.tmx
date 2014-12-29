@@ -990,6 +990,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;a2&gt;More on the proof tool...&lt;/a2&gt;</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141229T111303Z" creationid="Photonoxx" creationdate="20141229T111303Z">
+        <seg>&lt;a2&gt;En savoir plus sur l'outil d'Épreuvage...&lt;/a2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;a2&gt;More on the tool stack...&lt;/a2&gt;</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141122T122605Z" creationid="Photonoxx" creationdate="20141122T122605Z">
@@ -12691,6 +12699,14 @@ couleurs&lt;/e0&gt;.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141124T120012Z" creationid="Photonoxx" creationdate="20141124T120012Z">
         <seg>Le bouton &lt;b0&gt;Précédent/Suivant&lt;/b0&gt; peut être utilisé pour naviguer dans l'historique des dossiers que vous avez consultés précédemment.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The &lt;b0&gt;Before/After&lt;/b0&gt; button toggles the effects of all the tools in the &lt;a1&gt;tool stack&lt;/a1&gt; so you can see your photo before and after the tools are applied.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141229T111229Z" creationid="Photonoxx" creationdate="20141229T111229Z">
+        <seg>Le bouton &lt;b0&gt;Orig (Avant/Après)&lt;/b0&gt; intervertit l'effet de tous les outils de la &lt;a1&gt;chaîne de développement&lt;/a1&gt; et vous pouvez ainsi comparer votre photo avant et après l'application des outils.</seg>
       </tuv>
     </tu>
     <tu>

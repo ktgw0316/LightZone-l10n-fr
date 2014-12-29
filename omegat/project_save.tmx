@@ -982,10 +982,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;a1&gt;More on black &amp; white conversion...&lt;/a1&gt;</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141229T171412Z" creationid="Photonoxx" creationdate="20141229T171412Z">
+        <seg>&lt;a1&gt;En savoir plus sur la conversion Noir &amp; Blanc...&lt;/a1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;a1&gt;More on blurring...&lt;/a1&gt;</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141229T170756Z" creationid="Photonoxx" creationdate="20141229T170756Z">
         <seg>&lt;a1&gt;En savoir plus sur l'application de flou...&lt;/a1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;a1&gt;More on color balance...&lt;/a1&gt;</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141229T171137Z" creationid="Photonoxx" creationdate="20141229T171137Z">
+        <seg>&lt;a1&gt;En savoir plus sur la Balance de Couleur...&lt;/a1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -1050,6 +1066,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141229T170647Z" creationid="Photonoxx" creationdate="20141229T170647Z">
         <seg>&lt;a1&gt;En savoir plus sur l'Outil Relight...&lt;/a1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;a1&gt;More on white balance...&lt;/a1&gt;</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141229T171234Z" creationid="Photonoxx" creationdate="20141229T171234Z">
+        <seg>&lt;a1&gt;En savoir plus sur la Balance des Blancs...&lt;/a1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -12903,6 +12927,14 @@ couleurs&lt;/e0&gt;.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The &lt;b0&gt;Black &amp; White&lt;/b0&gt; tool allows you to convert your color photo into a black-and-white photo and can control the conversion as if a colored filter were placed in front of the lens when the photo was taken.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141229T171346Z" creationid="Photonoxx" creationdate="20141229T171346Z">
+        <seg>L'outil &lt;b0&gt;Noir et Blanc&lt;/b0&gt; vous permet de convertir une photo couleur en une photo Noir et Blanc et de procéder à la conversion comme si un filtre coloré se trouvait devant l'objectif au moment de la prise de vue.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The &lt;b0&gt;Blending Mode&lt;/b0&gt; pop-up menu allows you to select how the tool's effect is blended with previous tools in the &lt;a1&gt;tool stack&lt;/a1&gt;.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141229T103324Z" creationid="Photonoxx" creationdate="20141229T103324Z">
@@ -13258,6 +13290,14 @@ couleurs&lt;/e0&gt;.</seg>
         <seg>The &lt;b0&gt;White Balance&lt;/b0&gt; tool allows you to adjust the white balance and tint of your photo to compensate for a color cast in the light source such as the blue cast of the sky or tungsten lighting.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141228T175742Z" creationid="Photonoxx" creationdate="20141228T174831Z">
+        <seg>L'outil &lt;b0&gt;Balance des Blancs&lt;/b0&gt; vous permet d'ajuster la balance des blancs et la Teinte de votre photo pour compenser une teinte dominante de la source de lumière comme la dominante bleue du ciel ou la dominante jaune/orangée d'un éclairage incandescent.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The &lt;b0&gt;White Balance&lt;/b0&gt; tool allows you to adjust the white balance of your photo to compensate for a color cast in the light source such as the blue cast of the sky or tungsten lighting.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141229T171217Z" creationid="Photonoxx" creationdate="20141229T171217Z">
         <seg>L'outil &lt;b0&gt;Balance des Blancs&lt;/b0&gt; vous permet d'ajuster la balance des blancs et la Teinte de votre photo pour compenser une teinte dominante de la source de lumière comme la dominante bleue du ciel ou la dominante jaune/orangée d'un éclairage incandescent.</seg>
       </tuv>
     </tu>

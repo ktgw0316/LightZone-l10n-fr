@@ -4414,6 +4414,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Disable/Enable</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141229T093908Z" creationid="Photonoxx" creationdate="20141229T093908Z">
+        <seg>Désactiver/Activer</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Disables (or enables) the tool.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141229T093935Z" creationid="Photonoxx" creationdate="20141229T093935Z">
+        <seg>Déactive (ou Active) l'outil.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Discard changes to this image and start over</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141111T105248Z" creationid="Photonoxx" creationdate="20141111T105248Z">
@@ -13003,6 +13019,14 @@ couleurs&lt;/e0&gt;.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141124T115000Z" creationid="Photonoxx" creationdate="20141124T115000Z">
         <seg>La différence majeure, toutefois, est que seuls les dossiers et les disques sont affichés -- les fichiers ne l'étant pas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The menu items are described below.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141229T093821Z" creationid="Photonoxx" creationdate="20141229T093821Z">
+        <seg>Les éléments du menu sont décrits ci-dessous.</seg>
       </tuv>
     </tu>
     <tu>

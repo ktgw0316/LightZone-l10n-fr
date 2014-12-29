@@ -12751,6 +12751,14 @@ couleurs&lt;/e0&gt;.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The &lt;b0&gt;Luminosity range&lt;/b0&gt; slider controls which parts of the luminosity range are selected.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141229T105342Z" creationid="Photonoxx" creationdate="20141229T105342Z">
+        <seg>Le Contrôle de la &lt;b0&gt;Gamme de Luminosité&lt;/b0&gt; définit quelle portion de la gamme de luminosités est sélectionnée.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The &lt;b0&gt;Menu&lt;/b0&gt; button in a tool's title bar pops-up a menu when clicked.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141229T093752Z" creationid="Photonoxx" creationdate="20141229T093752Z">
@@ -13299,6 +13307,14 @@ couleurs&lt;/e0&gt;.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141227T153238Z" creationid="Photonoxx" creationdate="20141227T153238Z">
         <seg>La roue chromatique ainsi que les valeurs Rouge, Vert, et Bleu de l'outil seront aussi mis à jour.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The control has two sliders: one each for the lower and upper bounds of the luminosity range.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141229T105503Z" creationid="Photonoxx" creationdate="20141229T105503Z">
+        <seg>Le contrôle a deux curseurs : un pour chacune des limites hautes et basses de la gamme de luminosités.</seg>
       </tuv>
     </tu>
     <tu>

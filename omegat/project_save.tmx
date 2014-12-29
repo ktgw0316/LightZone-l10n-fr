@@ -9055,6 +9055,14 @@ couleurs&lt;/e0&gt;.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Once locked, you can also click the lock icon to pop-up the menu.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141229T102915Z" creationid="Photonoxx" creationdate="20141229T102915Z">
+        <seg>Une fois verrouillé, vous pouvez aussi cliquer sur le cadenas pour ouvrir le menu déroulant.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Once you have found a photo you want to edit using the &lt;a0&gt;Photo Browser&lt;/a0&gt;, you can edit it (or simply view it at full size).</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141201T102604Z" creationid="Photonoxx" creationdate="20141201T102604Z">
@@ -12831,6 +12839,14 @@ couleurs&lt;/e0&gt;.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The &lt;b0&gt;Tool Settings&lt;/b0&gt; tab contains various controls that affect &lt;i1&gt;how&lt;/i1&gt; the tool is applied to your photo.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141229T103013Z" creationid="Photonoxx" creationdate="20141229T103013Z">
+        <seg>L'onglet &lt;b0&gt;Réglages Outils&lt;/b0&gt; tab contains various controls that affect &lt;i1&gt;how&lt;/i1&gt; the tool is applied to your photo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The &lt;b0&gt;White Balance&lt;/b0&gt; tool allows you to adjust the white balance and tint of your photo to compensate for a color cast in the light source such as the blue cast of the sky or tungsten lighting.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141228T175742Z" creationid="Photonoxx" creationdate="20141228T174831Z">
@@ -14487,6 +14503,14 @@ couleurs&lt;/e0&gt;.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>To lock a tool, select Lock from the pop-up &lt;a0&gt;menu&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141229T102808Z" creationid="Photonoxx" creationdate="20141229T102808Z">
+        <seg>Pour verrouiller un outil, choisissez Verrouiller dans le &lt;a0&gt;menu&lt;/a0&gt; déroulant.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>To make RGB rather than luminosity adjustments:</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141229T091327Z" creationid="Photonoxx" creationdate="20141229T091327Z">
@@ -14771,6 +14795,14 @@ couleurs&lt;/e0&gt;.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141229T093649Z" creationid="Photonoxx" creationdate="20141229T093649Z">
         <seg>Menu des Outils</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Tool settings</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141229T102954Z" creationid="Photonoxx" creationdate="20141229T102954Z">
+        <seg>Réglages Outils</seg>
       </tuv>
     </tu>
     <tu>
@@ -17027,6 +17059,14 @@ couleurs&lt;/e0&gt;.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141226T115117Z" creationid="Photonoxx" creationdate="20141226T115117Z">
         <seg>images/Tool_Stack_Illustration-small.png</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>images/Tool_Tab-Tool_Settings-en.png</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141229T102955Z" creationid="Photonoxx" creationdate="20141229T102955Z">
+        <seg>images/Tool_Tab-Tool_Settings-en.png</seg>
       </tuv>
     </tu>
     <tu>

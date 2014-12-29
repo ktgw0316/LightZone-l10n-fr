@@ -990,6 +990,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;a3&gt;More about the menu...&lt;/a3&gt;</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141229T101754Z" creationid="Photonoxx" creationdate="20141229T101754Z">
+        <seg>&lt;a3&gt;En savoir plus à propos du menu...&lt;/a3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;a3&gt;More on regions...&lt;/a3&gt;</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141122T104256Z" creationid="Photonoxx" creationdate="20141122T104256Z">
@@ -1282,6 +1290,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141226T154759Z" creationid="Photonoxx" creationdate="20141226T154759Z">
         <seg>Un fichier "JPEG LightZone" est un fichier JPEG classique qui est un aperçu d'une version de votre photo mais qui contient également la &lt;a0&gt; chaîne de développement&lt;/a0&gt; que vous avez créée en éditant votre photo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A &lt;b0&gt;Menu&lt;/b0&gt; can be popped-up by &lt;s1&gt;control-clicking&lt;/s1&gt; &lt;s2&gt;right-clicking&lt;/s2&gt; in any blank space in the title bar.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141229T101720Z" creationid="Photonoxx" creationdate="20141229T101720Z">
+        <seg>Un &lt;b0&gt;Menu&lt;/b0&gt; peut être déroulé en faisant un &lt;s1&gt;contrôle clic&lt;/s1&gt; &lt;s2&gt;clic droit&lt;/s2&gt; sur n'importe quel espace vide de la barre de titre.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8223,6 +8239,14 @@ couleurs&lt;/e0&gt;.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Locked tools</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141229T101835Z" creationid="Photonoxx" creationdate="20141229T101828Z">
+        <seg>Outils Verrouillés</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Locks (or unlocks) the tool.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141229T094224Z" creationid="Photonoxx" creationdate="20141229T094224Z">
@@ -12601,8 +12625,8 @@ couleurs&lt;/e0&gt;.</seg>
       <tuv lang="EN-US">
         <seg>The &lt;b0&gt;Delete&lt;/b0&gt; button deletes the tool from the &lt;a1&gt;tool stack&lt;/a1&gt;.</seg>
       </tuv>
-      <tuv lang="FR" changeid="Photonoxx" changedate="20141229T101508Z" creationid="Photonoxx" creationdate="20141229T101508Z">
-        <seg>Le bouton &lt;b0&gt;Delete&lt;/b0&gt; button deletes the tool from the &lt;a1&gt;tool stack&lt;/a1&gt;.</seg>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141229T101555Z" creationid="Photonoxx" creationdate="20141229T101508Z">
+        <seg>Le bouton &lt;b0&gt;Effacer&lt;/b0&gt; supprime l'outil de la &lt;a1&gt;chaîne de développement&lt;/a1&gt;.</seg>
       </tuv>
     </tu>
     <tu>

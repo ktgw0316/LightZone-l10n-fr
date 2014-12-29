@@ -1502,6 +1502,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Additionally, a locked tool can not have &lt;a0&gt;regions&lt;/a0&gt; added to or deleted from it, nor can they be selected or edited.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141229T094651Z" creationid="Photonoxx" creationdate="20141229T094651Z">
+        <seg>De plus, on ne peut ni ajouter ni supprimer des &lt;a0&gt;régions&lt;/a0&gt; dans un outil protégé, de la même façon qu'elles ne peuvent être ni sélectionnées ni modifiées.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Additionally, any "hot pixels" that are found are automatically removed.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141228T150349Z" creationid="Photonoxx" creationdate="20141228T150349Z">
@@ -10235,6 +10243,14 @@ couleurs&lt;/e0&gt;.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141115T092226Z" creationid="Photonoxx" creationdate="20141115T092226Z">
         <seg>Se souvenir du réglage</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Remembers the current settings for the tool.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141229T094719Z" creationid="Photonoxx" creationdate="20141229T094719Z">
+        <seg>Mémorise les réglages actuels de l'outil.</seg>
       </tuv>
     </tu>
     <tu>

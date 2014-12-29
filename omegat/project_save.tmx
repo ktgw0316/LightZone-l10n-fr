@@ -4670,6 +4670,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Description of the ZoneFinder.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141229T182251Z" creationid="Photonoxx" creationdate="20141229T182251Z">
+        <seg>Description du ZoneFinder.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Description of the histogram.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141122T162242Z" creationid="Photonoxx" creationdate="20141122T162242Z">
@@ -8475,6 +8483,14 @@ couleurs&lt;/e0&gt;.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141229T174502Z" creationid="Photonoxx" creationdate="20141229T174050Z">
         <seg>LightZone : Le Zone System</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>LightZone: ZoneFinder</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141229T182243Z" creationid="Photonoxx" creationdate="20141229T182243Z">
+        <seg>LightZone : Le ZoneFinder</seg>
       </tuv>
     </tu>
     <tu>
@@ -14023,6 +14039,14 @@ couleurs&lt;/e0&gt;.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The reason for the differences are that digital cameras and computers use a linear representation for values of light and that computer displays have a dynamic range that is less than 8 EVs.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141229T182021Z" creationid="Photonoxx" creationdate="20141229T182021Z">
+        <seg>La raison de ces différences est que les appareils numériques et les ordinateurs utilisent une réprésentation linéaire des valeurs de lumière et que les affichages d'ordinateur ont une gamme dynamique inférieure à 8 EVs.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The red-eye tool works similarly to the &lt;a0&gt;Spot tool&lt;/a0&gt;.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141228T155352Z" creationid="Photonoxx" creationdate="20141228T155352Z">
@@ -16187,6 +16211,14 @@ couleurs&lt;/e0&gt;.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141117T152542Z" creationid="Photonoxx" creationdate="20141117T152542Z">
         <seg>En utilisant une Sélection de Couleur/Luminosité, vous pouvez restreindre l'effet de l'outil à une gamme de teinte et/ou de luminosité sélectionnée.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Using half EV spacing for zones in LightZone results in 16 zones and gives the best compromise between screen space and precision.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141229T182233Z" creationid="Photonoxx" creationdate="20141229T182233Z">
+        <seg>L'utilisation d'un espacement de la moitié d'un EV  pour les zones dans LightZone résulte en 16 zones et offre le meilleur compromis entre espace de l'écran et précision.</seg>
       </tuv>
     </tu>
     <tu>

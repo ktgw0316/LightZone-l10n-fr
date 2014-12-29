@@ -1334,6 +1334,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A pixel's &lt;e0&gt;luminosity&lt;/e0&gt; ("brightness") value is a weighted average of those three values.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141229T084651Z" creationid="Photonoxx" creationdate="20141229T084651Z">
+        <seg>La valeur de la &lt;e0&gt;luminosité&lt;/e0&gt; d'un pixel est la mesure moyenne de ces trois valeurs.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>AG M8 Digital, AG R9 Digital Back DMR, D-Lux 2, Digilux 2, Digilux 3, V-Lux 1</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141226T153651Z" creationid="Photonoxx" creationdate="20141226T153651Z">

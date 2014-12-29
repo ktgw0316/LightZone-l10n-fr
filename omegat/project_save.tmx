@@ -4414,6 +4414,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Description of the parts of photo editing tools.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141229T100249Z" creationid="Photonoxx" creationdate="20141229T100249Z">
+        <seg>Description des éléments des outils d'édition.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Description of the parts of the browser window.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141117T092957Z" creationid="Photonoxx" creationdate="20141117T092957Z">

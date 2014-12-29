@@ -14103,6 +14103,14 @@ couleurs&lt;/e0&gt;.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The traditional Zone System takes into account the nonlinear nature of both film and photographic paper that compresses the tonal values of highlights and shadows (the "shoulder" and "toe" of photographic media).</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141229T180838Z" creationid="Photonoxx" creationdate="20141229T180838Z">
+        <seg>Le Zone System traditionnel prend en compte la nature non-linéaire du film et du papier photographique qui compressent les valeurs tonales des hautes lumières et des ombres ("l'épaule" et "l'orteil" du médium photographique).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The traditional Zone System was developed for negative film and has 11 zones where each zone differs by one &lt;e0&gt;exposure value&lt;/e0&gt; (one "EV" which is equivalent to one f-stop).</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141229T180417Z" creationid="Photonoxx" creationdate="20141229T180417Z">

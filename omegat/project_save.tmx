@@ -4710,6 +4710,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Each pixel in a digital photo is comprised of red, green, and blue (RGB) values.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141229T084419Z" creationid="Photonoxx" creationdate="20141229T084419Z">
+        <seg>Chaque pixel d'une photo numérique est constitué de valeurs rouge, verte et bleue (RVB).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Edit</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141111T104054Z" creationid="Photonoxx" creationdate="20141111T104054Z">
@@ -16314,6 +16322,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141228T184559Z" creationid="Photonoxx" creationdate="20141228T184559Z">
         <seg>images/Tool-ZoneMapper-Exposure-before-en.png</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>images/Tool-ZoneMapper-Luminosity_RGB-en.png</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141229T084259Z" creationid="Photonoxx" creationdate="20141229T084259Z">
+        <seg>images/Tool-ZoneMapper-Luminosity_RGB-en.png</seg>
       </tuv>
     </tu>
     <tu>

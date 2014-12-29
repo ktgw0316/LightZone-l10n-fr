@@ -12751,6 +12751,14 @@ couleurs&lt;/e0&gt;.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The &lt;b0&gt;Title bar&lt;/b0&gt; of the selected tool is orange.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141229T100507Z" creationid="Photonoxx" creationdate="20141229T100507Z">
+        <seg>La &lt;b0&gt;Barre de Titre&lt;/b0&gt; de l'outil sélectionné est orange.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The &lt;b0&gt;White Balance&lt;/b0&gt; tool allows you to adjust the white balance and tint of your photo to compensate for a color cast in the light source such as the blue cast of the sky or tungsten lighting.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141228T175742Z" creationid="Photonoxx" creationdate="20141228T174831Z">
@@ -13931,6 +13939,14 @@ couleurs&lt;/e0&gt;.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141115T091236Z" creationid="Photonoxx" creationdate="20141115T091236Z">
         <seg>Nuance</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Title bar</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141229T100428Z" creationid="Photonoxx" creationdate="20141229T100428Z">
+        <seg>La Barre de Titre</seg>
       </tuv>
     </tu>
     <tu>
@@ -15543,6 +15559,14 @@ couleurs&lt;/e0&gt;.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>While all LightZone tools perform their own unique operation, almost all share common controls.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141229T100413Z" creationid="Photonoxx" creationdate="20141229T100413Z">
+        <seg>Bien que tous les outils de LightZone opèrent chacun à leur manière, presque tous partagent des contrôles communs.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>While descriptions for each are below, it's best to experiment.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141117T105611Z" creationid="Photonoxx" creationdate="20141117T105611Z">
@@ -16875,6 +16899,14 @@ couleurs&lt;/e0&gt;.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141229T092708Z" creationid="Photonoxx" creationdate="20141229T092708Z">
         <seg>images/Tool-ZoneMapper-en.png</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>images/Tool_Anatomy-en.png</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141229T100428Z" creationid="Photonoxx" creationdate="20141229T100428Z">
+        <seg>images/Tool_Anatomy-en.png</seg>
       </tuv>
     </tu>
     <tu>

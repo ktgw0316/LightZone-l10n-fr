@@ -558,6 +558,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(This is the same as double-clicking in an collapsed tool's title bar.)</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141229T095335Z" creationid="Photonoxx" creationdate="20141229T095335Z">
+        <seg>(Cela est équivalent à double-cliquer sur la barre de titre d'un outil replié.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(This is the same as double-clicking in an expanded tool's title bar.)</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141229T094933Z" creationid="Photonoxx" creationdate="20141229T094933Z">
@@ -3358,6 +3366,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Collapse Others</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141229T095137Z" creationid="Photonoxx" creationdate="20141229T095137Z">
+        <seg>Replie les autres</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Collapse Tool</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141115T092439Z" creationid="Photonoxx" creationdate="20141115T092439Z">
@@ -3378,6 +3394,22 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141115T092855Z" creationid="Photonoxx" creationdate="20141115T092855Z">
         <seg>Replier cet Outil</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Collapses all the tools except the current one.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141229T095158Z" creationid="Photonoxx" creationdate="20141229T095158Z">
+        <seg>Replie tous les outils excepté celui en cours.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Collapses all tools.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141229T095126Z" creationid="Photonoxx" creationdate="20141229T095126Z">
+        <seg>Replie tous les outils.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5142,6 +5174,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Expand</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141229T095312Z" creationid="Photonoxx" creationdate="20141229T095312Z">
+        <seg>Déplier</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Expand All</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141229T095341Z" creationid="Photonoxx" creationdate="20141229T095341Z">
+        <seg>Déplier tout</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Expand Tool</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141115T092430Z" creationid="Photonoxx" creationdate="20141115T092430Z">
@@ -5162,6 +5210,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141115T092846Z" creationid="Photonoxx" creationdate="20141115T092846Z">
         <seg>Déplier cet Outil</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Expands the tool.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141229T095321Z" creationid="Photonoxx" creationdate="20141229T095321Z">
+        <seg>Déplie l'outil.</seg>
       </tuv>
     </tu>
     <tu>

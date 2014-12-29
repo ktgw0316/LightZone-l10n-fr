@@ -974,6 +974,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;a2&gt;More on blending modes...&lt;/a2&gt;</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141229T103343Z" creationid="Photonoxx" creationdate="20141229T103343Z">
+        <seg>&lt;a2&gt;En savoir plus sur les modes de fusion...&lt;/a2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;a2&gt;More on the tool stack...&lt;/a2&gt;</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141122T122605Z" creationid="Photonoxx" creationdate="20141122T122605Z">
@@ -12599,6 +12607,14 @@ couleurs&lt;/e0&gt;.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The &lt;b0&gt;Blending Mode&lt;/b0&gt; pop-up menu allows you to select how the tool's effect is blended with previous tools in the &lt;a1&gt;tool stack&lt;/a1&gt;.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141229T103324Z" creationid="Photonoxx" creationdate="20141229T103324Z">
+        <seg>Le menu déroulant &lt;b0&gt;Mode de fusion&lt;/b0&gt; vous permet de choisir la façon dont l'effet de l'outil est mélangé avec les outils précédents de la &lt;a1&gt;chaîne de développement&lt;/a1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The &lt;b0&gt;Blur&lt;/b0&gt; tool allows you to blur all or parts of your photo by a specified radius.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141227T143842Z" creationid="Photonoxx" creationdate="20141227T143842Z">
@@ -12841,8 +12857,8 @@ couleurs&lt;/e0&gt;.</seg>
       <tuv lang="EN-US">
         <seg>The &lt;b0&gt;Tool Settings&lt;/b0&gt; tab contains various controls that affect &lt;i1&gt;how&lt;/i1&gt; the tool is applied to your photo.</seg>
       </tuv>
-      <tuv lang="FR" changeid="Photonoxx" changedate="20141229T103013Z" creationid="Photonoxx" creationdate="20141229T103013Z">
-        <seg>L'onglet &lt;b0&gt;Réglages Outils&lt;/b0&gt; tab contains various controls that affect &lt;i1&gt;how&lt;/i1&gt; the tool is applied to your photo.</seg>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141229T103117Z" creationid="Photonoxx" creationdate="20141229T103013Z">
+        <seg>L'onglet &lt;b0&gt;Réglages Outils&lt;/b0&gt; contient divers contrôle qui affectent &lt;i1&gt;comment&lt;/i1&gt; l'outil est appliqué à votre photo.</seg>
       </tuv>
     </tu>
     <tu>

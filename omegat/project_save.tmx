@@ -2798,6 +2798,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>By default when editing a photo, in the upper-right corner of the LightZone window is the ZoneFinder that shows a miniature version of your photo that has been segmented into 16 grayscale zones each differing by 50% brightness or half an &lt;e0&gt;exposure value&lt;/e0&gt; (or half an f-stop) from the next.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141229T182704Z" creationid="Photonoxx" creationdate="20141229T182654Z">
+        <seg>Par défaut, lors de l'édition d'une photo, en haut à droite de la fenêtre de Lightzone se trouve le ZoneFinder qui affiche une version miniature de votre photo qui a été segmentée en 16 zones en niveaux de gris chacune différant de 50% de luminosité ou une demie &lt;e0&gt;valeur d'exposition&lt;/e0&gt; (ou un demi f-stop) de la suivante.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>By default, LightZone appends &lt;t1&gt;_lzn&lt;/t1&gt; to the file name to indicate that it's a LightZone JPEG.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141226T154911Z" creationid="Photonoxx" creationdate="20141226T154911Z">
@@ -13791,10 +13799,26 @@ couleurs&lt;/e0&gt;.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The ZoneFinder allows you to see where the highlights, midtones, and shadows in your photo are in order to make adjustments using the &lt;a0&gt;ZoneMapper&lt;/a0&gt; tool.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141229T182841Z" creationid="Photonoxx" creationdate="20141229T182709Z">
+        <seg>Le ZoneFinder vous permet de voir où se situent les tons clairs, moyens et foncés dans votre photo en vue de faire des ajustements à l'aide de l'outil &lt;a0&gt;ZoneMapper&lt;/a0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The ZoneFinder allows you to see where the highlights, midtones, and shadows in your photo are in order to make adjustments using the ZoneMapper.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141122T102652Z" creationid="Photonoxx" creationdate="20141122T102652Z">
         <seg>Le ZoneFinder vous permet de voir où se trouvent les tons clairs, moyens et foncés dans votre photo de façon à faire des ajustements en utilisant le ZoneMapper.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The ZoneFinder is based on the &lt;a0&gt;Zone System&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141229T182859Z" creationid="Photonoxx" creationdate="20141229T182859Z">
+        <seg>Le ZoneFinder est basé sur le &lt;a0&gt;Zone System&lt;/a0&gt;.</seg>
       </tuv>
     </tu>
     <tu>

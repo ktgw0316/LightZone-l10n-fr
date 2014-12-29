@@ -726,6 +726,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>2 of 8</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141229T091618Z" creationid="Photonoxx" creationdate="20141229T091618Z">
+        <seg>2 de 8</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>3 of 10</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141226T111612Z" creationid="Photonoxx" creationdate="20141226T111612Z">
@@ -5846,6 +5854,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>How to find zones in your photo using the ZoneFinder.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141229T091514Z" creationid="Photonoxx" creationdate="20141229T091514Z">
+        <seg>Comment trouver les zones dans votre photo en utilisant le ZoneFinder.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>How to fix problem areas of your photo using cloning.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141227T144757Z" creationid="Photonoxx" creationdate="20141227T144640Z">
@@ -7811,6 +7827,14 @@ couleurs&lt;/e0&gt;.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141228T180037Z" creationid="Photonoxx" creationdate="20141228T180037Z">
         <seg>LightZone : ZoneMapper : Ajustement du Point Noir</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>LightZone: ZoneMapper: Finding Zones</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141229T091600Z" creationid="Photonoxx" creationdate="20141229T091426Z">
+        <seg>LightZone : ZoneMapper : Identifier des Zones</seg>
       </tuv>
     </tu>
     <tu>
@@ -11175,6 +11199,14 @@ couleurs&lt;/e0&gt;.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Select the RGB radio button for a ZoneMapper tool.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141229T091412Z" creationid="Photonoxx" creationdate="20141229T091412Z">
+        <seg>Choisissez le bouton radio RVB dans l'outil ZoneMapper.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Select the Styles tab.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141226T160648Z" creationid="Photonoxx" creationdate="20141226T160648Z">
@@ -14375,6 +14407,14 @@ couleurs&lt;/e0&gt;.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Tool-ZoneMapper-Brightness.html</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141229T091615Z" creationid="Photonoxx" creationdate="20141229T091615Z">
+        <seg>Tool-ZoneMapper-Brightness.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Tool-ZoneMapper-Contrast.html</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141228T162510Z" creationid="Photonoxx" creationdate="20141228T162510Z">
@@ -15591,6 +15631,14 @@ couleurs&lt;/e0&gt;.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>ZoneMapper: Finding zones</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141229T091612Z" creationid="Photonoxx" creationdate="20141229T091534Z">
+        <seg>ZoneMapper : Identifier des Zones</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>ZoneMapper: Keyboard shortcuts</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141228T184851Z" creationid="Photonoxx" creationdate="20141228T184851Z">
@@ -16419,6 +16467,14 @@ couleurs&lt;/e0&gt;.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141226T115126Z" creationid="Photonoxx" creationdate="20141226T115126Z">
         <seg>images/Workflow-en.png</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>images/ZoneFinder-Highlighted.png</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141229T091620Z" creationid="Photonoxx" creationdate="20141229T091620Z">
+        <seg>images/ZoneFinder-Highlighted.png</seg>
       </tuv>
     </tu>
     <tu>

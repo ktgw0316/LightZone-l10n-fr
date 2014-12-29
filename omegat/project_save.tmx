@@ -294,6 +294,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(New LightZone JPEG or TIFF files will be created that contain the tools.)</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141229T114107Z" creationid="Photonoxx" creationdate="20141229T114107Z">
+        <seg>(De nouveaux fichiers JPEG ou TIFF LightZone contenant les outils seront créés.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(Opposite of Color Burn.)</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141117T165801Z" creationid="Photonoxx" creationdate="20141117T110353Z">
@@ -6515,6 +6523,14 @@ couleurs&lt;/e0&gt;.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141117T095931Z" creationid="Photonoxx" creationdate="20141117T095931Z">
         <seg>Si aucune Compensation du Point Noir n'est effectuée, alors des détails seront perdus dans les zones d'ombre les plus sombres de votre photo car les parties plus sombres que la capacité de restitution du périphérique seront tronquées.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If specified, the Batch Label forms part of the new file names and is inserted just before the extension.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141229T114009Z" creationid="Photonoxx" creationdate="20141229T114009Z">
+        <seg>##Si spécifié, Le nom du traitement formera une partie des nouveaux noms de fichiers et sera inséré juste avant l'extension.</seg>
       </tuv>
     </tu>
     <tu>

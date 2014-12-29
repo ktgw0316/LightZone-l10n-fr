@@ -982,6 +982,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;a1&gt;More on blurring...&lt;/a1&gt;</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141229T170756Z" creationid="Photonoxx" creationdate="20141229T170756Z">
+        <seg>&lt;a1&gt;En savoir plus sur l'application de flou...&lt;/a1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;a1&gt;More on cropping...&lt;/a1&gt;</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141229T111725Z" creationid="Photonoxx" creationdate="20141229T111725Z">
@@ -1006,6 +1014,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;a1&gt;More on sharpening...&lt;/a1&gt;</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141229T170722Z" creationid="Photonoxx" creationdate="20141229T170722Z">
+        <seg>&lt;a1&gt;En savoir plus sur l'amélioration de la netteté...&lt;/a1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;a1&gt;More on styles...&lt;/a1&gt;</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141117T151929Z" creationid="Photonoxx" creationdate="20141117T151929Z">
@@ -1018,6 +1034,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141229T170438Z" creationid="Photonoxx" creationdate="20141229T170438Z">
         <seg>&lt;a1&gt;En savoir plus sur le ZoneMapper...&lt;/a1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;a1&gt;More on the relighting...&lt;/a1&gt;</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141229T170647Z" creationid="Photonoxx" creationdate="20141229T170647Z">
+        <seg>&lt;a1&gt;En savoir plus sur l'Outil Relight...&lt;/a1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -13107,6 +13131,14 @@ couleurs&lt;/e0&gt;.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141228T161006Z" creationid="Photonoxx" creationdate="20141228T161006Z">
         <seg>L'outil &lt;b0&gt;Relight&lt;/b0&gt; vous permet de "ré-éclairer" (relight) tout ou partie de votre photo comme si l'éclairage était différent du moment où la photo avait été prise.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The &lt;b0&gt;Relight&lt;/b0&gt; tool does this by reducing the large scale contrast and, at the same time, increasing the local contrast.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141229T170612Z" creationid="Photonoxx" creationdate="20141229T170612Z">
+        <seg>L'Outil &lt;b0&gt;Relight&lt;/b0&gt; accomplit son action en réduisant le contraste global tout en augmentant le contraste local.</seg>
       </tuv>
     </tu>
     <tu>

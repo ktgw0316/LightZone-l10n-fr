@@ -1590,6 +1590,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Additionally, each slider splits in two that allows you to control the &lt;b1&gt;luminosity feathering&lt;/b1&gt;.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141229T105640Z" creationid="Photonoxx" creationdate="20141229T105640Z">
+        <seg>De plus, chaque curseur se divise en deux vous permettant de régler l'&lt;b1&gt;adoucissement de la gamme de luminosités&lt;/b1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Additionally, every region has a &lt;e2&gt;feathering area&lt;/e2&gt; that smoothly blends the region into the surrounding area preventing sharp edges.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141226T115038Z" creationid="Photonoxx" creationdate="20141122T104236Z">
@@ -4502,6 +4510,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Description of the tool stack.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141229T105804Z" creationid="Photonoxx" creationdate="20141229T105804Z">
+        <seg>Description de la chaîne de développement.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Description of the various blending modes.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141117T100915Z" creationid="Photonoxx" creationdate="20141117T100915Z">
@@ -5066,6 +5082,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141122T163710Z" creationid="Photonoxx" creationdate="20141122T163710Z">
         <seg>Manipuler l'historique.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Editing tools</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141229T105720Z" creationid="Photonoxx" creationdate="20141229T105720Z">
+        <seg>Outils d'Édition</seg>
       </tuv>
     </tu>
     <tu>
@@ -8103,6 +8127,14 @@ couleurs&lt;/e0&gt;.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>LightZone: Tool Stack</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141229T105744Z" creationid="Photonoxx" creationdate="20141229T105744Z">
+        <seg>LightZone : La chaîne de développement.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>LightZone: Workflow Integration: Aperture</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141122T165119Z" creationid="Photonoxx" creationdate="20141122T165119Z">
@@ -8483,6 +8515,14 @@ couleurs&lt;/e0&gt;.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141122T094738Z" creationid="Photonoxx" creationdate="20141122T094738Z">
         <seg>En savoir plus sur les Styles...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>More on color/luminosity selection...</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141229T105709Z" creationid="Photonoxx" creationdate="20141229T105709Z">
+        <seg>En savoir plus sur la Sélection de Couleur/Luminosité...</seg>
       </tuv>
     </tu>
     <tu>
@@ -17179,6 +17219,14 @@ couleurs&lt;/e0&gt;.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141229T100428Z" creationid="Photonoxx" creationdate="20141229T100428Z">
         <seg>images/Tool_Anatomy-en.png</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>images/Tool_Stack-en.png</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141229T105806Z" creationid="Photonoxx" creationdate="20141229T105806Z">
+        <seg>images/Tool_Stack-en.png</seg>
       </tuv>
     </tu>
     <tu>

@@ -9119,6 +9119,14 @@ couleurs&lt;/e0&gt;.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Notes:</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141229T112642Z" creationid="Photonoxx" creationdate="20141229T112636Z">
+        <seg>Notes :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Notice how the color channels now extend all the way from the darkest zone to the lightest.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141122T163502Z" creationid="Photonoxx" creationdate="20141122T163502Z">
@@ -14191,6 +14199,14 @@ couleurs&lt;/e0&gt;.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This is useful when you've taken a set of photos of the same scene under the same conditions: edit one of the photos of the set to your liking, then apply those edits to the remainder of the photos in the set.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141229T112633Z" creationid="Photonoxx" creationdate="20141229T112633Z">
+        <seg>C'est utile lorsque vous avez pris une série de photos de la même scène avec les mêmes conditions : éditez une de ces photos de la série selon votre souhait, et à ce moment appliquez ces éditions au reste des photos de la série.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This is very useful in a couple of situations:</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141225T173033Z" creationid="Photonoxx" creationdate="20141225T173033Z">
@@ -16219,6 +16235,14 @@ couleurs&lt;/e0&gt;.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141118T145608Z" creationid="Photonoxx" creationdate="20141118T145608Z">
         <seg>Vous pouvez convertir vos photos vers les formats JPEG ou TIFF et ce dans différentes tailles en fonction de vos besoins.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can copy the tools from the &lt;a0&gt;tool stack&lt;/a0&gt; from one photo to others using the &lt;a1&gt;thumbnails&lt;/a1&gt; of the &lt;a2&gt;Photo Browser&lt;/a2&gt;.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141229T112434Z" creationid="Photonoxx" creationdate="20141229T112434Z">
+        <seg>Vous pouvez copier les outils de la &lt;a0&gt;chaîne de développement&lt;/a0&gt; d'une photo vers une ou plusieurs autres en utilisant les &lt;a1&gt;vignettes&lt;/a1&gt; du &lt;a2&gt;Navigateur Photo&lt;/a2&gt;.</seg>
       </tuv>
     </tu>
     <tu>

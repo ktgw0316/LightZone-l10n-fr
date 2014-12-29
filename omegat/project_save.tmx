@@ -15839,6 +15839,14 @@ couleurs&lt;/e0&gt;.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>When editing a photo, there is a toolbar along the top of the LightZone window containing the set of control tools shown below.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141229T110920Z" creationid="Photonoxx" creationdate="20141229T110920Z">
+        <seg>Lors de l'édition d'une photo, il y a une barre d'outils en haut de la fenêtre de LightZone contenant un set d'outils de contrôle affichés ci-dessous.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>When either &lt;a0&gt;converting&lt;/a0&gt; or &lt;a1&gt;printing&lt;/a1&gt; your photos using application managed colors, you can enable &lt;e2&gt;black point compensation&lt;/e2&gt; when the &lt;a3&gt;rendering intent&lt;/a3&gt; is Relative Colorimetric.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141117T094921Z" creationid="Photonoxx" creationdate="20141117T094921Z">
@@ -17323,6 +17331,14 @@ couleurs&lt;/e0&gt;.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141229T102955Z" creationid="Photonoxx" creationdate="20141229T102955Z">
         <seg>images/Tool_Tab-Tool_Settings-en.png</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>images/Tools-Controls-en.png</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141229T110921Z" creationid="Photonoxx" creationdate="20141229T110921Z">
+        <seg>images/Tools-Controls-en.png</seg>
       </tuv>
     </tu>
     <tu>

@@ -1886,6 +1886,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Again using the &lt;a0&gt;Photo Browser&lt;/a0&gt;, select one or more thumbnails of the photos that you want to paste the tools to.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141229T113207Z" creationid="Photonoxx" creationdate="20141229T113207Z">
+        <seg>Encore depuis le &lt;a0&gt;Navigateur Photo&lt;/a0&gt;, choisissez une ou plusieurs vignettes des photos auxquelles vous souhaitez appliquer les outils.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>All</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141111T103134Z" creationid="Photonoxx" creationdate="20141111T103134Z">
@@ -11455,6 +11463,14 @@ couleurs&lt;/e0&gt;.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Select Browser &gt; Copy Tools.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141229T113057Z" creationid="Photonoxx" creationdate="20141229T113057Z">
+        <seg>Choisissez Navigateur &gt; Copier le Développement.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Select Browser &gt; Edit.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141201T102945Z" creationid="Photonoxx" creationdate="20141201T102945Z">
@@ -15779,6 +15795,14 @@ couleurs&lt;/e0&gt;.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141226T172841Z" creationid="Photonoxx" creationdate="20141226T172841Z">
         <seg>L'utilisation des styles revient à &lt;a2&gt;copier et coller&lt;/a2&gt; une &lt;a3&gt;chaîne de développement&lt;/a3&gt; à l'expection qu'un style est enregistré avec un nom pour l'utiliser à n'importe quel moment futur.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Using the &lt;a0&gt;Photo Browser&lt;/a0&gt;, select the thumbnail of the photo you want copy the tools from.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141229T113022Z" creationid="Photonoxx" creationdate="20141229T113022Z">
+        <seg>Dans le &lt;a0&gt;Navigateur Photo&lt;/a0&gt;, choisissez la vignette de la photo dont vous souhaitez copier les outils.</seg>
       </tuv>
     </tu>
     <tu>

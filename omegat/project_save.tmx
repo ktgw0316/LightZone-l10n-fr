@@ -998,6 +998,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;a1&gt;More on hue/saturation...&lt;/a1&gt;</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141229T171120Z" creationid="Photonoxx" creationdate="20141229T170933Z">
+        <seg>&lt;a1&gt;En savoir plus sur la Teinte/Saturation...&lt;/a1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;a1&gt;More on regions...&lt;/a1&gt;</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141229T112037Z" creationid="Photonoxx" creationdate="20141229T112037Z">
@@ -12927,6 +12935,14 @@ couleurs&lt;/e0&gt;.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The &lt;b0&gt;Color Balance&lt;/b0&gt; tool allows you to adjust the color balance around a specified point of the tonal range or reduce color casts by selecting neutral gray points.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141229T171053Z" creationid="Photonoxx" creationdate="20141229T171053Z">
+        <seg>L'outil &lt;b0&gt;Balance de Couleur&lt;/b0&gt; vous permet d'ajuster la balance de couleur de votre photo autour d'un point spécifié de la gamme des tons ou de corriger une dominante de couleur en sélectionnant un point gris neutre.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The &lt;b0&gt;Color Balance&lt;/b0&gt; tool allows you to adjust the color balance of your photo around a specified point of the tonal range.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141227T151451Z" creationid="Photonoxx" creationdate="20141227T151451Z">
@@ -12995,6 +13011,14 @@ couleurs&lt;/e0&gt;.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141229T101216Z" creationid="Photonoxx" creationdate="20141229T101216Z">
         <seg>Le bouton &lt;b0&gt;Aide&lt;/b0&gt; ouvre une fenêtre qui vous affiche l'aide pour cet outil.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The &lt;b0&gt;Hue/Saturation&lt;/b0&gt; tool allows you to make color adjustments in hue, saturation, or luminance.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141229T170904Z" creationid="Photonoxx" creationdate="20141229T170904Z">
+        <seg>L'outil &lt;b0&gt;Teinte/Saturation&lt;/b0&gt; vous permet de faire des ajustements de couleur de la teinte, de la saturation, **de la vibrance** ou de la luminance.</seg>
       </tuv>
     </tu>
     <tu>

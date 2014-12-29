@@ -742,6 +742,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>1 of 4</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141229T182302Z" creationid="Photonoxx" creationdate="20141229T182302Z">
+        <seg>1 de 4</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>1 of 6</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141226T172315Z" creationid="Photonoxx" creationdate="20141226T172315Z">
@@ -17047,6 +17055,14 @@ couleurs&lt;/e0&gt;.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>ZoneFinder</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141229T182255Z" creationid="Photonoxx" creationdate="20141229T182255Z">
+        <seg>Le ZoneFinder</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>ZoneFinder.html</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141204T181733Z" creationid="Photonoxx" creationdate="20141204T181733Z">
@@ -18035,6 +18051,14 @@ couleurs&lt;/e0&gt;.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141226T115100Z" creationid="Photonoxx" creationdate="20141226T115100Z">
         <seg>images/ZoneFinder-small.png</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>images/ZoneFinder.png</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141229T182303Z" creationid="Photonoxx" creationdate="20141229T182303Z">
+        <seg>images/ZoneFinder.png</seg>
       </tuv>
     </tu>
     <tu>

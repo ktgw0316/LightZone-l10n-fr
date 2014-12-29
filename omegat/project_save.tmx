@@ -2254,6 +2254,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Aperture (from Apple)</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141229T172938Z" creationid="Photonoxx" creationdate="20141229T172938Z">
+        <seg>Aperture (d'Apple)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Aperture (from Apple) allows you to select another application as an "external editor" for editing your photos.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141122T165246Z" creationid="Photonoxx" creationdate="20141122T165246Z">
@@ -8495,6 +8503,14 @@ couleurs&lt;/e0&gt;.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Lightroom (from Adobe Systems)</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141229T172956Z" creationid="Photonoxx" creationdate="20141229T172956Z">
+        <seg>Lightroom (d'Adobe Systems)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Like the Spot tool, the regions for the Red-Eye tool can not be &lt;a1&gt;inverted&lt;/a1&gt;.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141228T155435Z" creationid="Photonoxx" creationdate="20141228T155435Z">
@@ -14167,6 +14183,14 @@ couleurs&lt;/e0&gt;.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This allows you to edit photos across multiple sessions each time picking up from where you left off.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141229T172830Z" creationid="Photonoxx" creationdate="20141229T172830Z">
+        <seg>Ceci vous permet d'éditer des photos au cours de plusieurs sessions repartant chaque fois de là où vous en étiez la fois précédente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This blending mode causes only the shadows to be affected.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141117T142609Z" creationid="Photonoxx" creationdate="20141117T142609Z">
@@ -15059,6 +15083,14 @@ couleurs&lt;/e0&gt;.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141201T084037Z" creationid="Photonoxx" creationdate="20141201T084037Z">
         <seg>Pour en savoir plus sur les fonctions clés, consultez la page &lt;a0&gt;Découvrir LightZone&lt;/a0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To learn how to use LightZone and one of the applications listed below together, click the relevant link.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141229T172930Z" creationid="Photonoxx" creationdate="20141229T172930Z">
+        <seg>Pour apprendre comment utiliser LightZone avec une des applications listées ci-dessous, cliquez le lien correspondant.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17075,6 +17107,22 @@ couleurs&lt;/e0&gt;.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141226T115330Z" creationid="Photonoxx" creationdate="20141226T115330Z">
         <seg>http://www.lightcrafts.com/learning/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>iPhoto (from Apple)</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141229T172943Z" creationid="Photonoxx" creationdate="20141229T172943Z">
+        <seg>iPhoto (d'Apple)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>iView MediaPro (from Microsoft)</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141229T172949Z" creationid="Photonoxx" creationdate="20141229T172949Z">
+        <seg>iView MediaPro (de Microsoft)</seg>
       </tuv>
     </tu>
     <tu>

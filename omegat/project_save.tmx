@@ -14111,10 +14111,26 @@ couleurs&lt;/e0&gt;.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>To change the ordering of a tool in the &lt;a1&gt;tool stack&lt;/a1&gt;, drag it by its title bar.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141229T100831Z" creationid="Photonoxx" creationdate="20141229T100831Z">
+        <seg>Pour modifier la place d'un outil dans la &lt;a1&gt;chaîne de développement&lt;/a1&gt;, déplacez le par sa barre de titre.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>To clone an area of your photo:</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141227T145410Z" creationid="Photonoxx" creationdate="20141227T145410Z">
         <seg>Pour cloner une partie de votre photo :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To collapse and subsequently expand a tool, click the triangle on the left.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141229T100624Z" creationid="Photonoxx" creationdate="20141229T100624Z">
+        <seg>Pour replier et par la suite déplier un outil, cliquez le triangle à gauche.</seg>
       </tuv>
     </tu>
     <tu>

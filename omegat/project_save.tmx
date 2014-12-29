@@ -15607,6 +15607,22 @@ couleurs&lt;/e0&gt;.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>When checked, the &lt;b0&gt;Enable hue&lt;/b0&gt; checkbox restricts the tool's effect to the selected hue range; when unchecked, all hues (for the currently selected luminosity range) are selected.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141229T104519Z" creationid="Photonoxx" creationdate="20141229T104519Z">
+        <seg>Si elle est cochée, la case &lt;b0&gt;Activer le filtre de teinte&lt;/b0&gt; restreint l'effet de l'outil à la gamme chromatique sélectionnée ; décochée, toutes les teintes (pour la gamme de luminosité sélectionnée) sont affectées.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When checked, the &lt;b0&gt;Enable luminosity&lt;/b0&gt; checkbox restricts the tool's effect to the selected luminosity range; when unchecked, all luminosities (for the currently selected hue range) are selected.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141229T104640Z" creationid="Photonoxx" creationdate="20141229T104640Z">
+        <seg>Si elle est cochée, la case &lt;b0&gt;Activer le filtre de luminosité&lt;/b0&gt; restreint l'effet de l'outil à la gamme de luminosités sélectionnée ; décochée, toutes les luminosités (pour la gamme chromatique sélectionnée) sont affectées.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>When checked, the user interface shows titles for the buttons; when unchecked, only the buttons themselves are shown.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141225T160235Z" creationid="Photonoxx" creationdate="20141225T160235Z">

@@ -12479,6 +12479,14 @@ couleurs&lt;/e0&gt;.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The &lt;b0&gt;ZoneMapper&lt;/b0&gt; tool allows you to adjust the brightness and contrast of all or parts of your photo for any combination of the highlights, midtones, or shadows.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141229T092931Z" creationid="Photonoxx" creationdate="20141229T092931Z">
+        <seg>L'Outil &lt;b0&gt;ZoneMapper&lt;/b0&gt; vous permet d'ajuster la luminosité et le contraste de tout ou partie de votre photo pour n'importe quelles combinaisons des tons clairs, moyens ou foncés.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The &lt;b0&gt;selected thumbnail&lt;/b0&gt; is shown with a white border and a large preview is shown in the &lt;a1&gt;Photo Viewer&lt;/a1&gt;.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141227T075007Z" creationid="Photonoxx" creationdate="20141227T075007Z">
@@ -12755,6 +12763,14 @@ couleurs&lt;/e0&gt;.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141122T101839Z" creationid="Photonoxx" creationdate="20141122T101839Z">
         <seg>Le ZoneMapper est basé sur le &lt;a0&gt;Système de Zones&lt;/a0&gt; inventé par Ansel Adams et Fred Archer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The ZoneMapper is based on the &lt;a0&gt;Zone System&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141229T093020Z" creationid="Photonoxx" creationdate="20141229T093020Z">
+        <seg>Le ZoneMapper est basé sur le &lt;a0&gt;Système de Zone&lt;/a0&gt;.</seg>
       </tuv>
     </tu>
     <tu>

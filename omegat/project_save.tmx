@@ -9103,6 +9103,14 @@ couleurs&lt;/e0&gt;.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>On the lower-right side of the LightZone window is the tool stack that shows all the tools created for your photo.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141229T105937Z" creationid="Photonoxx" creationdate="20141229T105937Z">
+        <seg>En bas à droite du mode édition de la fenêtre de LightZone se trouve la chaîne de développement qui montre tous les outils créés pour votre photo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>On the other hand, if black point compensation is done, the luminosity range of your photo is compressed to fit into the luminosity range of the device.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141117T100222Z" creationid="Photonoxx" creationdate="20141117T100222Z">
@@ -13575,6 +13583,14 @@ couleurs&lt;/e0&gt;.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The title bar of the selected tool is orange.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141229T105956Z" creationid="Photonoxx" creationdate="20141229T105956Z">
+        <seg>La Barre de Titre de l'outil sélectionné est orange.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The tool reduces noise in either color or grain (or both).</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141228T121635Z" creationid="Photonoxx" creationdate="20141228T121635Z">
@@ -14355,6 +14371,14 @@ couleurs&lt;/e0&gt;.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141229T100831Z" creationid="Photonoxx" creationdate="20141229T100831Z">
         <seg>Pour modifier la place d'un outil dans la &lt;a1&gt;chaîne de développement&lt;/a1&gt;, déplacez le par sa barre de titre.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To change the ordering of a tool in the tool stack, drag it by its title bar.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141229T110148Z" creationid="Photonoxx" creationdate="20141229T110148Z">
+        <seg>Pour modifier l'ordre des outils dans la chaîne de développement, déplacez les par leur barre de titre.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15683,6 +15707,14 @@ couleurs&lt;/e0&gt;.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141115T081652Z" creationid="Photonoxx" creationdate="20141115T081652Z">
         <seg>Quand les Régions sont validées</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When a new tool is created, it is placed on the top of the stack.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141229T110047Z" creationid="Photonoxx" creationdate="20141229T110047Z">
+        <seg>Quand un nouvel outil est créé, il est placé en haut de la chaîne.</seg>
       </tuv>
     </tu>
     <tu>

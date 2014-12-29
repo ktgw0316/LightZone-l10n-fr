@@ -12719,6 +12719,14 @@ couleurs&lt;/e0&gt;.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The ZoneMapper tool works with the &lt;a0&gt;ZoneFinder&lt;/a0&gt;: as you move the mouse over the zones in a ZoneMapper, the corresponding zones in the ZoneFinder highlight in yellow.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141229T091907Z" creationid="Photonoxx" creationdate="20141229T091907Z">
+        <seg>L'outil ZoneMapper fonctionne avec le &lt;a0&gt;ZoneFinder&lt;/a0&gt; (trouveur de zone) : En même temps que vous déplacez la souris au-dessus des zones d'un ZoneMapper, les zones correspondantes sont mises en évidence en jaune dans le ZoneFinder.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The amount of memory LightZone should use</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141111T102053Z" creationid="Photonoxx" creationdate="20141111T102053Z">

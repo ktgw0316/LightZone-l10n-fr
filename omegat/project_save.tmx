@@ -7727,6 +7727,14 @@ couleurs&lt;/e0&gt;.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>LightZone instead was developed for digital cameras and computers and has 16 zones where each zone differs by &lt;i0&gt;half&lt;/i0&gt; an EV.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141229T181634Z" creationid="Photonoxx" creationdate="20141229T181634Z">
+        <seg>LightZone à la place a été développé pour les appareils numériques et mes ordinateurs et a 16 zones où chaque zone diffère de la &lt;i0&gt;moitié&lt;/i0&gt; d'un EV.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>LightZone is a breakthrough in photo editing software that makes it easier to edit digital photos and quickly achieve professional quality results.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141122T091600Z" creationid="Photonoxx" creationdate="20141122T091600Z">
@@ -7819,6 +7827,14 @@ couleurs&lt;/e0&gt;.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141122T092815Z" creationid="Photonoxx" creationdate="20141122T092815Z">
         <seg>LightZone utilise un modèle basé sur les propriétés de la lumière et des méthodes dérivées de l'expérience de photographes à travers les décennies -- sur le terrain, derrière l'appareil, et dans la chambre noire.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>LightZone's Digital Adaptation of the Zone System</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141229T181422Z" creationid="Photonoxx" creationdate="20141229T181422Z">
+        <seg>L'Adaptation numérique du Zone System de LightZone</seg>
       </tuv>
     </tu>
     <tu>
@@ -14105,8 +14121,8 @@ couleurs&lt;/e0&gt;.</seg>
       <tuv lang="EN-US">
         <seg>The traditional Zone System takes into account the nonlinear nature of both film and photographic paper that compresses the tonal values of highlights and shadows (the "shoulder" and "toe" of photographic media).</seg>
       </tuv>
-      <tuv lang="FR" changeid="Photonoxx" changedate="20141229T180838Z" creationid="Photonoxx" creationdate="20141229T180838Z">
-        <seg>Le Zone System traditionnel prend en compte la nature non-linéaire du film et du papier photographique qui compressent les valeurs tonales des hautes lumières et des ombres ("l'épaule" et "l'orteil" du médium photographique).</seg>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141229T181345Z" creationid="Photonoxx" creationdate="20141229T180838Z">
+        <seg>Le Zone System traditionnel prend en compte la nature non-linéaire du film et du papier photographique qui compressent les valeurs tonales des hautes lumières et des ombres ("l'épaule" et "les doigts de pied"(the "shoulder" and "toe") du médium photographique).</seg>
       </tuv>
     </tu>
     <tu>

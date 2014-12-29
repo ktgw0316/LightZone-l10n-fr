@@ -8233,8 +8233,8 @@ couleurs&lt;/e0&gt;.</seg>
       <tuv lang="EN-US">
         <seg>Lock/Unlock</seg>
       </tuv>
-      <tuv lang="FR" changeid="Photonoxx" changedate="20141229T102004Z" creationid="Photonoxx" creationdate="20141229T094159Z">
-        <seg>Verrouillé/Déverrouiller</seg>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141229T102210Z" creationid="Photonoxx" creationdate="20141229T094159Z">
+        <seg>Verrouiller/Déverrouiller</seg>
       </tuv>
     </tu>
     <tu>
@@ -8249,8 +8249,8 @@ couleurs&lt;/e0&gt;.</seg>
       <tuv lang="EN-US">
         <seg>Locks (or unlocks) the tool.</seg>
       </tuv>
-      <tuv lang="FR" changeid="Photonoxx" changedate="20141229T094224Z" creationid="Photonoxx" creationdate="20141229T094224Z">
-        <seg>Protège (ou déboque) l'outil.</seg>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141229T102451Z" creationid="Photonoxx" creationdate="20141229T094224Z">
+        <seg>Verrouille (ou déboque) l'outil.</seg>
       </tuv>
     </tu>
     <tu>

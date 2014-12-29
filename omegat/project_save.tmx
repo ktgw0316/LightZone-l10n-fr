@@ -1982,6 +1982,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Along the top-right of the LightZone editor window is a toolbar containing the set of editing tools shown below.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141229T170127Z" creationid="Photonoxx" creationdate="20141229T170127Z">
+        <seg>Vers le haut à droite de la fenêtre de l'éditeur de LightZone se trouve une barre d'outils contenant l'ensemble des outils d'édition ci-dessous.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Alpha-7 Digital, Dimage A1, Dimage A2, Dimage A200, Dimage 5, Dimage 7, Dimage 7 HI, Dynax 5D, Dynax 7D, Maxxum 7D</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141226T153652Z" creationid="Photonoxx" creationdate="20141226T153652Z">
@@ -15223,6 +15231,14 @@ couleurs&lt;/e0&gt;.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Tool-Black_and_white.html</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141229T170132Z" creationid="Photonoxx" creationdate="20141229T170132Z">
+        <seg>Tool-Black_and_white.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Tool-Blur.html</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141204T181823Z" creationid="Photonoxx" creationdate="20141204T181816Z">
@@ -17563,6 +17579,14 @@ couleurs&lt;/e0&gt;.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141229T110921Z" creationid="Photonoxx" creationdate="20141229T110921Z">
         <seg>images/Tools-Controls-en.png</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>images/Tools-Editing-en.png</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141229T170129Z" creationid="Photonoxx" creationdate="20141229T170129Z">
+        <seg>images/Tools-Editing-en.png</seg>
       </tuv>
     </tu>
     <tu>

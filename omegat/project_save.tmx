@@ -1646,6 +1646,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Adjustments using the ZoneMapper can alternatively be done using RGB values directly to address problems such as color-clipping.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141229T091135Z" creationid="Photonoxx" creationdate="20141229T091135Z">
+        <seg>Les ajustements du ZoneMapper peuvent donc être faits alternativement sur les valeurs RVB directement en réponse à des problèmes comme l'écrêtage des couleurs.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Advanced Options</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141115T090019Z" creationid="Photonoxx" creationdate="20141115T090019Z">
@@ -5218,6 +5226,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141111T103739Z" creationid="Photonoxx" creationdate="20141111T103739Z">
         <seg>Dossiers</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For a given photo, it's best to experiment to see which type of adjustment looks better.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141229T091244Z" creationid="Photonoxx" creationdate="20141229T091244Z">
+        <seg>Pour une photo donnée, il est préférable d'expérimenter pour voir quel type d'ajustement produit le meilleur rendu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13939,6 +13955,14 @@ couleurs&lt;/e0&gt;.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141225T164024Z" creationid="Photonoxx" creationdate="20141225T164024Z">
         <seg>Pour laisser le pilote d'impression se charger de la conversion de couleur, choisissez "Couleur gérée par l'imprimante" dans LightZone, puis choisissez le réglage couleur approprié dans le dialogue des préférences de l'imprimante.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To make RGB rather than luminosity adjustments:</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141229T091327Z" creationid="Photonoxx" creationdate="20141229T091327Z">
+        <seg>Pour faire des ajustements sur les valeurs RVB plutôt que sur la luminosité :</seg>
       </tuv>
     </tu>
     <tu>

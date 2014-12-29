@@ -13407,6 +13407,14 @@ couleurs&lt;/e0&gt;.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The effect of tools is applied from the bottom of the tool stack to the top.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141229T110245Z" creationid="Photonoxx" creationdate="20141229T110245Z">
+        <seg>L'effet des outils est appliqué depuis le bas de la chaîne jusqu'en haut.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The first page is your edited photo along with the LightZone &lt;a0&gt;tool stack&lt;/a0&gt; you created.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141124T104112Z" creationid="Photonoxx" creationdate="20141124T103931Z">

@@ -6359,6 +6359,14 @@ couleurs&lt;/e0&gt;.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If the &lt;b0&gt;Regions&lt;/b0&gt; icon is present, it means that the tool has at least one &lt;a1&gt;region&lt;/a1&gt;.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141229T100924Z" creationid="Photonoxx" creationdate="20141229T100924Z">
+        <seg>Si l'icône de &lt;b0&gt;Régions&lt;/b0&gt; est affichée, cela signifie que cet outil a au moins une &lt;a1&gt;région&lt;/a1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If the blend color is lighter than 50% gray, the color is lightened (screened); if the blend color is darker than 50% gray, the color is darkened (multiplied).</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141117T111827Z" creationid="Photonoxx" creationdate="20141117T111827Z">
@@ -12599,10 +12607,26 @@ couleurs&lt;/e0&gt;.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The &lt;b0&gt;Help&lt;/b0&gt; button opens a window that gives help for the tool.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141229T101216Z" creationid="Photonoxx" creationdate="20141229T101216Z">
+        <seg>Le bouton &lt;b0&gt;Aide&lt;/b0&gt; ouvre une fenêtre qui vous affiche l'aide pour cet outil.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The &lt;b0&gt;Hue/Saturation&lt;/b0&gt; tool allows you to make color adjustments in hue, saturation, or vibrance.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141228T112307Z" creationid="Photonoxx" creationdate="20141228T112307Z">
         <seg>L'outil &lt;b0&gt;Teinte/Saturation&lt;/b0&gt; vous permet de faire des ajustements de couleur de la teinte, de la saturation ou de la vibrance.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The &lt;b0&gt;Label&lt;/b0&gt; contains the name of the tool by default.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141229T101005Z" creationid="Photonoxx" creationdate="20141229T101005Z">
+        <seg>Le &lt;b0&gt;Titre&lt;/b0&gt; contient le nom de l'outil par défaut.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15803,6 +15827,14 @@ couleurs&lt;/e0&gt;.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141122T172020Z" creationid="Photonoxx" creationdate="20141122T172020Z">
         <seg>Vous pouvez éditer les métadonnées qui se trouvent sur fond gris foncé.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can edit the label by double-clicking it to give it a descriptive name, for example "Face" or "Foreground rocks".</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141229T101128Z" creationid="Photonoxx" creationdate="20141229T101128Z">
+        <seg>Vous pouvez l'éditer en double-cliquant dessus pour lui donner un nom descriptif, par exemple "Visage" ou "Rocher d'arrière-plan".</seg>
       </tuv>
     </tu>
     <tu>

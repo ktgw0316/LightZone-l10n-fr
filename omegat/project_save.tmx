@@ -966,6 +966,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;a1&gt;More on cropping...&lt;/a1&gt;</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141229T111725Z" creationid="Photonoxx" creationdate="20141229T111725Z">
+        <seg>&lt;a1&gt;En savoir plus sur le Recadrage...&lt;/a1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;a1&gt;More on styles...&lt;/a1&gt;</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141117T151929Z" creationid="Photonoxx" creationdate="20141117T151929Z">
@@ -12783,6 +12791,14 @@ couleurs&lt;/e0&gt;.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The &lt;b0&gt;Crop&lt;/b0&gt; tool allows you to crop out unwanted parts of your photo.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141229T111710Z" creationid="Photonoxx" creationdate="20141229T111710Z">
+        <seg>L'outil &lt;b0&gt;Recadrage&lt;/b0&gt; vous permet de recadrer les parties non désirées de votre photo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The &lt;b0&gt;Delete&lt;/b0&gt; button deletes the tool from the &lt;a1&gt;tool stack&lt;/a1&gt;.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141229T101555Z" creationid="Photonoxx" creationdate="20141229T101508Z">
@@ -13035,6 +13051,14 @@ couleurs&lt;/e0&gt;.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141229T092931Z" creationid="Photonoxx" creationdate="20141229T092931Z">
         <seg>L'Outil &lt;b0&gt;ZoneMapper&lt;/b0&gt; vous permet d'ajuster la luminosité et le contraste de tout ou partie de votre photo pour n'importe quelles combinaisons des tons clairs, moyens ou foncés.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The &lt;b0&gt;Zoom&lt;/b0&gt; buttons allow you to zoom 1:1, to fit, in, or out to see more or less detail, respectively.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141229T111549Z" creationid="Photonoxx" creationdate="20141229T111549Z">
+        <seg>Les boutons de &lt;b0&gt;Zoom&lt;/b0&gt; vous permettent de choisir les niveaux d'agrandissement 1:1 et Adapter à l'image ou  zoom + et zoom - pour voir respectivement plus ou moins de détails.</seg>
       </tuv>
     </tu>
     <tu>

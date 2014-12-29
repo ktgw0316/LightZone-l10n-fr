@@ -13711,6 +13711,14 @@ couleurs&lt;/e0&gt;.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The Zone System is a framework that photographers can use to think about their photos and perform meaningful operations on them, such as altering exposure, contrast, and most all other visual aspects of a photo.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141229T175608Z" creationid="Photonoxx" creationdate="20141229T175608Z">
+        <seg>Le Zone System est un cadre de travail que les photographes peuvent utiliser pour concevoir leurs photos et y accomplir des opérations significatives, comme d'altérer l'exposition, le contraste, et la plupart des autres aspects visuels d'une photographie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The ZoneFinder allows you to see where the highlights, midtones, and shadows in your photo are in order to make adjustments using the ZoneMapper.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141122T102652Z" creationid="Photonoxx" creationdate="20141122T102652Z">

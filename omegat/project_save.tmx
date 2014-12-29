@@ -14871,6 +14871,14 @@ couleurs&lt;/e0&gt;.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Using a ZoneMapper tool with the ZoneFinder allows you to find zones in your photo quickly in order to make adjustments.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141229T092051Z" creationid="Photonoxx" creationdate="20141229T092051Z">
+        <seg>Utiliser l'outil ZoneMapper conjointement avec le ZoneFinder vous permet d'identifier rapidement les zones dans votre photo de façon à procéder à leur ajustement.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Using a color/luminosity selection, you can restrict a tool's effect to just a selected hue or luminosity range.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141117T152542Z" creationid="Photonoxx" creationdate="20141117T152542Z">

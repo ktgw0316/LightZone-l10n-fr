@@ -982,6 +982,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;a2&gt;More on inverting masks...&lt;/a2&gt;</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141229T103923Z" creationid="Photonoxx" creationdate="20141229T103923Z">
+        <seg>&lt;a2&gt;En savoir plus sur l'inversion des masques...&lt;/a2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;a2&gt;More on the tool stack...&lt;/a2&gt;</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141122T122605Z" creationid="Photonoxx" creationdate="20141122T122605Z">
@@ -3610,6 +3618,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141115T092626Z" creationid="Photonoxx" creationdate="20141115T092626Z">
         <seg>Sélecteur de Couleur</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Color selection</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141229T103938Z" creationid="Photonoxx" creationdate="20141229T103938Z">
+        <seg>Sélection Couleur</seg>
       </tuv>
     </tu>
     <tu>
@@ -12703,6 +12719,14 @@ couleurs&lt;/e0&gt;.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The &lt;b0&gt;Invert mask&lt;/b0&gt; check-box inverts the tool's effect to be outside all of the &lt;a1&gt;regions of the mask&lt;/a1&gt; for that tool rather than the default of inside.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141229T103904Z" creationid="Photonoxx" creationdate="20141229T103904Z">
+        <seg>La case à cocher &lt;b0&gt;Inverser masque&lt;/b0&gt; inverse l'effet de l'outil pour ne l'appliquer qu'en dehors des &lt;a1&gt;régions du masque&lt;/a1&gt; au lieu de ne l'appliquer qu'à l'intérieur comme par défaut.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The &lt;b0&gt;Label&lt;/b0&gt; contains the name of the tool by default.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141229T101005Z" creationid="Photonoxx" creationdate="20141229T101005Z">
@@ -17091,6 +17115,14 @@ couleurs&lt;/e0&gt;.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141226T115117Z" creationid="Photonoxx" creationdate="20141226T115117Z">
         <seg>images/Tool_Stack_Illustration-small.png</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>images/Tool_Tab-Color_Selection-en.png</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141229T103939Z" creationid="Photonoxx" creationdate="20141229T103939Z">
+        <seg>images/Tool_Tab-Color_Selection-en.png</seg>
       </tuv>
     </tu>
     <tu>

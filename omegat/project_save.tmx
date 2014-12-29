@@ -4662,6 +4662,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Description of the Zone System.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141229T174101Z" creationid="Photonoxx" creationdate="20141229T174101Z">
+        <seg>Description du Système de Zone.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Description of the histogram.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141122T162242Z" creationid="Photonoxx" creationdate="20141122T162242Z">
@@ -8435,6 +8443,14 @@ couleurs&lt;/e0&gt;.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141122T170348Z" creationid="Photonoxx" creationdate="20141122T170348Z">
         <seg>LightZone: Intégration à un flux de travail : iView MediaPro</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>LightZone: Zone System</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141229T174050Z" creationid="Photonoxx" creationdate="20141229T174050Z">
+        <seg>LightZone : Le Système de Zone</seg>
       </tuv>
     </tu>
     <tu>
@@ -16425,8 +16441,8 @@ couleurs&lt;/e0&gt;.</seg>
       <tuv lang="EN-US">
         <seg>While questions about integrating LightZone with these applications will be gladly answered, other questions, complaints, or claims regarding these applications must be directed to the appropriate software vendor.</seg>
       </tuv>
-      <tuv lang="FR" changeid="Photonoxx" changedate="20141229T173812Z" creationid="Photonoxx" creationdate="20141229T173812Z">
-        <seg>Si les questions concernant l'intégration de LightZone avec ces applications seront considérées, les autres questions, mplaints, or claims regarding these applications must be directed to the appropriate software vendor.</seg>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141229T174020Z" creationid="Photonoxx" creationdate="20141229T173812Z">
+        <seg>Si les questions concernant l'intégration de LightZone avec ces applications seront considérées, les autres questions, plaintes, ou réclamations concernant ces applications doivent être directement adressées à leurs éditeurs respectifs.</seg>
       </tuv>
     </tu>
     <tu>

@@ -1014,6 +1014,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;a1&gt;More on the ZoneMapper...&lt;/a1&gt;</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141229T170438Z" creationid="Photonoxx" creationdate="20141229T170438Z">
+        <seg>&lt;a1&gt;En savoir plus sur le ZoneMapper...&lt;/a1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;a2&gt;More on blending modes...&lt;/a2&gt;</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141229T103343Z" creationid="Photonoxx" creationdate="20141229T103343Z">
@@ -13203,6 +13211,14 @@ couleurs&lt;/e0&gt;.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141229T092931Z" creationid="Photonoxx" creationdate="20141229T092931Z">
         <seg>L'Outil &lt;b0&gt;ZoneMapper&lt;/b0&gt; vous permet d'ajuster la luminosité et le contraste de tout ou partie de votre photo pour n'importe quelles combinaisons des tons clairs, moyens ou foncés.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The &lt;b0&gt;ZoneMapper&lt;/b0&gt; tool allows you to adjust the brightness and contrast of your entire photo or any combination of the highlights, midtones, or shadows.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141229T170406Z" creationid="Photonoxx" creationdate="20141229T170406Z">
+        <seg>L'Outil &lt;b0&gt;ZoneMapper&lt;/b0&gt; vous permet d'ajuster la luminosité et le contraste de toute de votre photo ou de n'importe quelles combinaisons des tons clairs, moyens ou foncés.</seg>
       </tuv>
     </tu>
     <tu>

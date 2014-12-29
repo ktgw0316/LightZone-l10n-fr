@@ -2246,6 +2246,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>At 0%, the tool has no effect; at 100%, the tool has full effect.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141229T103606Z" creationid="Photonoxx" creationdate="20141229T103606Z">
+        <seg>à 0%, l'outil n'a aucun effet ; à 100%, l'effet de l'outil est complet.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Auto</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141118T154322Z" creationid="Photonoxx" creationdate="20141118T154322Z">
@@ -12715,6 +12723,14 @@ couleurs&lt;/e0&gt;.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141228T121540Z" creationid="Photonoxx" creationdate="20141228T121540Z">
         <seg>L'outil &lt;b0&gt;Réduction de Bruit&lt;/b0&gt; vous permet de réduire le "Bruit" résultant du capteur de l'appareil qu'on trouve souvent présent dans les photos numériques.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The &lt;b0&gt;Opacity&lt;/b0&gt; slider allows you to control how strongly the &lt;a1&gt;blending mode&lt;/a1&gt; is applied to your photo.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141229T103512Z" creationid="Photonoxx" creationdate="20141229T103512Z">
+        <seg>Le contrôle d'&lt;b0&gt;Opacité&lt;/b0&gt; vous permet de régler à quel degré le &lt;a1&gt;mode de fusion&lt;/a1&gt; est appliqué à votre photo.</seg>
       </tuv>
     </tu>
     <tu>

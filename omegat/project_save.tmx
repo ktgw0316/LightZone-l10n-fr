@@ -12599,10 +12599,26 @@ couleurs&lt;/e0&gt;.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The &lt;b0&gt;Delete&lt;/b0&gt; button deletes the tool from the &lt;a1&gt;tool stack&lt;/a1&gt;.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141229T101508Z" creationid="Photonoxx" creationdate="20141229T101508Z">
+        <seg>Le bouton &lt;b0&gt;Delete&lt;/b0&gt; button deletes the tool from the &lt;a1&gt;tool stack&lt;/a1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The &lt;b0&gt;Edit&lt;/b0&gt; button is equivalent to Browser &gt; Edit.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141117T151626Z" creationid="Photonoxx" creationdate="20141117T151626Z">
         <seg>Le bouton &lt;b0&gt;Éditer&lt;/b0&gt; est équivalent à Navigateur &gt; Éditer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The &lt;b0&gt;Enable/Disable&lt;/b0&gt; checkbox enables or disables the effect of the tool.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141229T101325Z" creationid="Photonoxx" creationdate="20141229T101325Z">
+        <seg>La case à cocher &lt;b0&gt;Activer/Désactiver&lt;/b0&gt; active ou désactive l'effet de l'outil.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13715,6 +13731,14 @@ couleurs&lt;/e0&gt;.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141226T114347Z" creationid="Photonoxx" creationdate="20141226T114347Z">
         <seg>Ceci comprend la suppression des points de contrôle qui ne sont plus nécessaires.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This includes when &lt;a1&gt;converting&lt;/a1&gt; and &lt;a2&gt;printing&lt;/a2&gt;.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141229T101439Z" creationid="Photonoxx" creationdate="20141229T101439Z">
+        <seg>Ceci inclut lors de la &lt;a1&gt;conversion&lt;/a1&gt; et de l'&lt;a2&gt;impression&lt;/a2&gt;.</seg>
       </tuv>
     </tu>
     <tu>

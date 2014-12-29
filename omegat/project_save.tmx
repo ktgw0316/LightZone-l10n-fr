@@ -2798,6 +2798,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Buttons-Photo.html</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141229T183057Z" creationid="Photonoxx" creationdate="20141229T183057Z">
+        <seg>Buttons-Photo.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>By default when editing a photo, in the upper-right corner of the LightZone window is the ZoneFinder that shows a miniature version of your photo that has been segmented into 16 grayscale zones each differing by 50% brightness or half an &lt;e0&gt;exposure value&lt;/e0&gt; (or half an f-stop) from the next.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141229T182704Z" creationid="Photonoxx" creationdate="20141229T182654Z">
@@ -13951,6 +13959,14 @@ couleurs&lt;/e0&gt;.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The effect is similar to drawing on the image with multiple marking pens.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141229T183142Z" creationid="Photonoxx" creationdate="20141229T183142Z">
+        <seg>L'effet The effect is similar to drawing on the image with multiple marking pens.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The effect is similar to projecting multiple photographic slides onto the same screen.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141117T135626Z" creationid="Photonoxx" creationdate="20141117T135626Z">
@@ -14401,8 +14417,8 @@ couleurs&lt;/e0&gt;.</seg>
       <tuv lang="EN-US">
         <seg>This blending mode is similar to the Exclusion blending mode except that it shows brighter and more vibrant colors.</seg>
       </tuv>
-      <tuv lang="FR" changeid="Photonoxx" changedate="20141117T135850Z" creationid="Photonoxx" creationdate="20141117T135850Z">
-        <seg>Ce mode de fusion est similaire au mode de fusion Exclusion excepté un rendu  de couleurs plus claires et plus vives.</seg>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141229T183145Z" creationid="Photonoxx" creationdate="20141117T135850Z">
+        <seg>Ce mode de fusion est similaire au mode de fusion Exclusion excepté un rendu de couleurs plus claires et plus vives.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17331,6 +17347,38 @@ couleurs&lt;/e0&gt;.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141226T115108Z" creationid="Photonoxx" creationdate="20141226T115108Z">
         <seg>images/16_bit.png</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>images/Anatomy-Browser-en.jpg</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141229T183054Z" creationid="Photonoxx" creationdate="20141229T183054Z">
+        <seg>images/Anatomy-Browser-en.jpg</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>images/Anatomy-Editor-en.jpg</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141229T183101Z" creationid="Photonoxx" creationdate="20141229T183101Z">
+        <seg>images/Anatomy-Editor-en.jpg</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>images/Black_Point_Compensation-en.png</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141229T183105Z" creationid="Photonoxx" creationdate="20141229T183105Z">
+        <seg>images/Black_Point_Compensation-en.png</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>images/Blend_Modes_Illustration-en.png</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141229T183111Z" creationid="Photonoxx" creationdate="20141229T183111Z">
+        <seg>images/Blend_Modes_Illustration-en.png</seg>
       </tuv>
     </tu>
     <tu>

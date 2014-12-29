@@ -7359,6 +7359,14 @@ couleurs&lt;/e0&gt;.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Light Crafts is providing information about these applications to help customers integrate LightZone into their existing workflow.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141229T173150Z" creationid="Photonoxx" creationdate="20141229T173150Z">
+        <seg>Light Crafts fournit des informations à propos de ces applications pour aider les utilisateurs à intégrer LightZone dans leur flux de travail existant.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Light Crafts would like to acknowledge the following people who contributed to LightZone:</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141117T092723Z" creationid="Photonoxx" creationdate="20141117T092723Z">

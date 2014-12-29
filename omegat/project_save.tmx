@@ -550,6 +550,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(This is the same as clicking the &lt;b0&gt;Enable/Disable&lt;/b0&gt; checkbox in a tool's title bar.)</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141229T094132Z" creationid="Photonoxx" creationdate="20141229T094132Z">
+        <seg>(Cela est l'équivalent de cliquer sur la case à cocher &lt;b0&gt;Activer/Désactiver&lt;/b0&gt; de la barre de titre.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(Use the Shift key to select multiple, contiguous thumbnails or the &lt;s0&gt;Command&lt;/s0&gt; &lt;s1&gt;Control&lt;/s1&gt; key to select multiple, non-contiguous thumbnails.)</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141118T143452Z" creationid="Photonoxx" creationdate="20141118T143452Z">
@@ -1338,6 +1346,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141225T121739Z" creationid="Photonoxx" creationdate="20141225T121712Z">
         <seg>Une limite élevée permet à LightZone des opérations plus rapides et fluides ; Une limite basse laisse plus de mémoire pour les autres applications.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A locked tool's settings can not be modified.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141229T094325Z" creationid="Photonoxx" creationdate="20141229T094325Z">
+        <seg>Les réglages d'un outil protégé ne peuvent être modifiés.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8043,6 +8059,22 @@ couleurs&lt;/e0&gt;.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141115T091932Z" creationid="Photonoxx" creationdate="20141115T091932Z">
         <seg>Protéger</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Lock/Unlock</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141229T094159Z" creationid="Photonoxx" creationdate="20141229T094159Z">
+        <seg>Protéger/Débloquer</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Locks (or unlocks) the tool.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141229T094224Z" creationid="Photonoxx" creationdate="20141229T094224Z">
+        <seg>Protège (ou déboque) l'outil.</seg>
       </tuv>
     </tu>
     <tu>

@@ -9671,6 +9671,14 @@ couleurs&lt;/e0&gt;.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Opening.html</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141229T183302Z" creationid="Photonoxx" creationdate="20141229T183302Z">
+        <seg>Opening.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Operating System Support</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141201T085012Z" creationid="Photonoxx" creationdate="20141201T085012Z">
@@ -13961,8 +13969,8 @@ couleurs&lt;/e0&gt;.</seg>
       <tuv lang="EN-US">
         <seg>The effect is similar to drawing on the image with multiple marking pens.</seg>
       </tuv>
-      <tuv lang="FR" changeid="Photonoxx" changedate="20141229T183142Z" creationid="Photonoxx" creationdate="20141229T183142Z">
-        <seg>L'effet The effect is similar to drawing on the image with multiple marking pens.</seg>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141229T183255Z" creationid="Photonoxx" creationdate="20141229T183142Z">
+        <seg>L'effet est similaire au fait de dessiner sur l'images avec plusieurs marqueurs.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15855,6 +15863,14 @@ couleurs&lt;/e0&gt;.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Tool_Anatomy.html#Tool_Tab-Color_Selection</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141229T183309Z" creationid="Photonoxx" creationdate="20141229T183309Z">
+        <seg>Tool_Anatomy.html#Tool_Tab-Color_Selection</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Tool_Stack.html</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141204T181751Z" creationid="Photonoxx" creationdate="20141204T181751Z">
@@ -17547,6 +17563,14 @@ couleurs&lt;/e0&gt;.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141228T180659Z" creationid="Photonoxx" creationdate="20141228T180659Z">
         <seg>images/Button-ZoneMapper.png</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>images/Buttons-Photo-en.png</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141229T183259Z" creationid="Photonoxx" creationdate="20141229T183259Z">
+        <seg>images/Buttons-Photo-en.png</seg>
       </tuv>
     </tu>
     <tu>

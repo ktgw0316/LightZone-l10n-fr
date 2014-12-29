@@ -1392,8 +1392,8 @@
       <tuv lang="EN-US">
         <seg>A locked tool's settings can not be modified.</seg>
       </tuv>
-      <tuv lang="FR" changeid="Photonoxx" changedate="20141229T094325Z" creationid="Photonoxx" creationdate="20141229T094325Z">
-        <seg>Les réglages d'un outil protégé ne peuvent être modifiés.</seg>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141229T102046Z" creationid="Photonoxx" creationdate="20141229T094325Z">
+        <seg>Les réglages d'un outil verrouillé ne peuvent être modifiés.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1544,8 +1544,8 @@
       <tuv lang="EN-US">
         <seg>Additionally, a locked tool can not have &lt;a0&gt;regions&lt;/a0&gt; added to or deleted from it, nor can they be selected or edited.</seg>
       </tuv>
-      <tuv lang="FR" changeid="Photonoxx" changedate="20141229T094651Z" creationid="Photonoxx" creationdate="20141229T094651Z">
-        <seg>De plus, on ne peut ni ajouter ni supprimer des &lt;a0&gt;régions&lt;/a0&gt; dans un outil protégé, de la même façon qu'elles ne peuvent être ni sélectionnées ni modifiées.</seg>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141229T102046Z" creationid="Photonoxx" creationdate="20141229T094651Z">
+        <seg>De plus, on ne peut ni ajouter ni supprimer des &lt;a0&gt;régions&lt;/a0&gt; dans un outil verrouillé, de la même façon qu'elles ne peuvent être ni sélectionnées ni modifiées.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8225,16 +8225,16 @@ couleurs&lt;/e0&gt;.</seg>
       <tuv lang="EN-US">
         <seg>Lock</seg>
       </tuv>
-      <tuv lang="FR" changeid="Photonoxx" changedate="20141115T091932Z" creationid="Photonoxx" creationdate="20141115T091932Z">
-        <seg>Protéger</seg>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141229T102146Z" creationid="Photonoxx" creationdate="20141115T091932Z">
+        <seg>Verrouiller</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Lock/Unlock</seg>
       </tuv>
-      <tuv lang="FR" changeid="Photonoxx" changedate="20141229T094159Z" creationid="Photonoxx" creationdate="20141229T094159Z">
-        <seg>Protéger/Débloquer</seg>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141229T102004Z" creationid="Photonoxx" creationdate="20141229T094159Z">
+        <seg>Verrouillé/Déverrouiller</seg>
       </tuv>
     </tu>
     <tu>
@@ -15161,8 +15161,8 @@ couleurs&lt;/e0&gt;.</seg>
       <tuv lang="EN-US">
         <seg>Unlock</seg>
       </tuv>
-      <tuv lang="FR" changeid="Photonoxx" changedate="20141115T091944Z" creationid="Photonoxx" creationdate="20141115T091944Z">
-        <seg>Débloquer</seg>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20141229T102004Z" creationid="Photonoxx" creationdate="20141115T091944Z">
+        <seg>Déverrouiller</seg>
       </tuv>
     </tu>
     <tu>

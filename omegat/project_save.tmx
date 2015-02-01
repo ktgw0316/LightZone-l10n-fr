@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.7" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.8" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -722,6 +722,22 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141106T110046Z" creationid="Photonoxx" creationdate="20141106T105746Z">
         <seg>1 fichier à traiter</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>1 image</seg>
+      </tuv>
+      <tuv lang="FR" changeid="ktgw0316" changedate="20150201T021519Z" creationid="ktgw0316" creationdate="20150201T021519Z">
+        <seg>1 image</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>1 image selected</seg>
+      </tuv>
+      <tuv lang="FR" changeid="ktgw0316" changedate="20150201T021838Z" creationid="ktgw0316" creationdate="20150201T021838Z">
+        <seg>1 image sélectionnées</seg>
       </tuv>
     </tu>
     <tu>
@@ -9303,6 +9319,22 @@ couleurs&lt;/e0&gt;.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>No images</seg>
+      </tuv>
+      <tuv lang="FR" changeid="ktgw0316" changedate="20150201T021546Z" creationid="ktgw0316" creationdate="20150201T021546Z">
+        <seg>Aucune images</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>No images selected</seg>
+      </tuv>
+      <tuv lang="FR" changeid="ktgw0316" changedate="20150201T021931Z" creationid="ktgw0316" creationdate="20150201T021931Z">
+        <seg>Aucune images sélectionnées</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>No internet connection</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141111T103409Z" creationid="Photonoxx" creationdate="20141111T103409Z">
@@ -10407,6 +10439,14 @@ couleurs&lt;/e0&gt;.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>RAW Settings</seg>
+      </tuv>
+      <tuv lang="FR" changeid="ktgw0316" changedate="20150201T021501Z" creationid="ktgw0316" creationdate="20150201T021501Z">
+        <seg>Réglages RAW</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>RGB</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141115T091303Z" creationid="Photonoxx" creationdate="20141115T091303Z">
@@ -10899,6 +10939,14 @@ couleurs&lt;/e0&gt;.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141226T152520Z" creationid="Photonoxx" creationdate="20141226T152520Z">
         <seg>Colorimétrie Relative</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Relight</seg>
+      </tuv>
+      <tuv lang="FR" changeid="ktgw0316" changedate="20150201T020944Z" creationid="ktgw0316" creationdate="20150201T020944Z">
+        <seg>Relight</seg>
       </tuv>
     </tu>
     <tu>
@@ -15591,6 +15639,14 @@ couleurs&lt;/e0&gt;.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>ToneMapper</seg>
+      </tuv>
+      <tuv lang="FR" changeid="ktgw0316" changedate="20150201T022200Z" creationid="ktgw0316" creationdate="20150201T022200Z">
+        <seg>ToneMapper</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Tool Change</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141115T092607Z" creationid="Photonoxx" creationdate="20141115T092607Z">
@@ -17087,6 +17143,14 @@ couleurs&lt;/e0&gt;.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Zone</seg>
+      </tuv>
+      <tuv lang="FR" changeid="ktgw0316" changedate="20150201T021142Z" creationid="ktgw0316" creationdate="20150201T021142Z">
+        <seg>Zone</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Zone Mapper Zones</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141115T084741Z" creationid="Photonoxx" creationdate="20141115T084741Z">
@@ -17355,6 +17419,22 @@ couleurs&lt;/e0&gt;.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141229T172949Z" creationid="Photonoxx" creationdate="20141229T172949Z">
         <seg>iView MediaPro (de Microsoft)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>images</seg>
+      </tuv>
+      <tuv lang="FR" changeid="ktgw0316" changedate="20150201T021540Z" creationid="ktgw0316" creationdate="20150201T021540Z">
+        <seg>images</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>images selected</seg>
+      </tuv>
+      <tuv lang="FR" changeid="ktgw0316" changedate="20150201T021844Z" creationid="ktgw0316" creationdate="20150201T021844Z">
+        <seg>images sélectionnées</seg>
       </tuv>
     </tu>
     <tu>

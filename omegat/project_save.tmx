@@ -7023,6 +7023,14 @@ couleurs&lt;/e0&gt;.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In Crop/Rotate mode, you can now rotate the image with mouse wheel, and change the rotation grid origin with a click.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20150427T070522Z" creationid="Photonoxx" creationdate="20150427T070522Z">
+        <seg>En mode Recadrage/Rotation, vous pouvez désormais faire tourner l'image avec la molette de la souris, et changer le point central de la grille de rotation d'un simple clic.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In addition to being able to &lt;a0&gt;convert images individually&lt;/a0&gt;, you can use the &lt;a1&gt;Photo Browser&lt;/a1&gt; to convert multiple images as a batch.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141118T141743Z" creationid="Photonoxx" creationdate="20141118T141743Z">
@@ -17107,6 +17115,14 @@ couleurs&lt;/e0&gt;.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141201T091355Z" creationid="Photonoxx" creationdate="20141201T091355Z">
         <seg>Vous pouvez désormais sélectionner la version la plus récente de vos photos dans un répértoire donné.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can now zoom in/out with Ctrl-wheel, and move the zoomed image with Ctrl-drag.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20150427T070258Z" creationid="Photonoxx" creationdate="20150427T070258Z">
+        <seg>Vous pouvez désormais zoomer/dézoomer avec Ctrl-molette, et déplacer l'image zoomée avec Ctrl-Glisser.</seg>
       </tuv>
     </tu>
     <tu>

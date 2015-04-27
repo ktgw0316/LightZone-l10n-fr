@@ -6110,6 +6110,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Help files are translated in Danish, Dutch, French, Japanese, and Spanish.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20150427T071123Z" creationid="Photonoxx" creationdate="20150427T071123Z">
+        <seg>Les fichiers d'aides ont été traduits en Danois, Néerlandais, Français, Japonais, et Espanol.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Help.css</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141122T170205Z" creationid="Photonoxx" creationdate="20141122T170205Z">
@@ -8755,6 +8763,14 @@ couleurs&lt;/e0&gt;.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141118T154025Z" creationid="Photonoxx" creationdate="20141118T154025Z">
         <seg>Local</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Localization</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20150427T070849Z" creationid="Photonoxx" creationdate="20150427T070849Z">
+        <seg>Localisation</seg>
       </tuv>
     </tu>
     <tu>
@@ -16143,6 +16159,14 @@ couleurs&lt;/e0&gt;.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>UI messages are translated in Danish, Dutch, French, German, Japanese, and Spanish.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20150427T071027Z" creationid="Photonoxx" creationdate="20150427T071027Z">
+        <seg>L'interface utilisateur a été traduite en Danois, Néerlandais, Français, Allemand, Japonais, et Espanol.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Undo</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141111T143353Z" creationid="Photonoxx" creationdate="20141111T143353Z">
@@ -16283,6 +16307,14 @@ couleurs&lt;/e0&gt;.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141106T105633Z" creationid="Photonoxx" creationdate="20141106T105633Z">
         <seg>Profil de couleur non supporté</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Upresolution is now possible when converting an edited image.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20150427T070846Z" creationid="Photonoxx" creationdate="20150427T070846Z">
+        <seg>L'agrandissement de résolution est désormais possible lors de la conversion d'une image éditée.</seg>
       </tuv>
     </tu>
     <tu>

@@ -5942,6 +5942,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Full-screen mode is now supported on 10.7 (Lion) or newer.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20150427T065945Z" creationid="Photonoxx" creationdate="20150427T065945Z">
+        <seg>Le mode plein écran est désormais supporté sous 10.7 (Lion) ou plus récent.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Fuzz</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141201T092437Z" creationid="Photonoxx" creationdate="20141201T092437Z">
@@ -6098,6 +6106,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141117T100358Z" creationid="Photonoxx" creationdate="20141117T100358Z">
         <seg>Il en résultera que le noir le plus sombre de votre photo deviendra le noir le plus sombre que le périphérique pourra restituer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>HiDPI retina mode is now supported.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20150427T070012Z" creationid="Photonoxx" creationdate="20150427T070012Z">
+        <seg>Le mode retina HiDPI est désormais supporté.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17075,6 +17091,14 @@ couleurs&lt;/e0&gt;.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141201T085359Z" creationid="Photonoxx" creationdate="20141201T085359Z">
         <seg>Vous pouvez désormais restreindre tous les outils à une &lt;a0&gt;gamme de couleur ou de luminosité&lt;/a0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can now select multiple thumbnails with Ctrl-Shift-Click.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20150427T070116Z" creationid="Photonoxx" creationdate="20150427T070116Z">
+        <seg>Vous pouvez désormais sélectionner de aperçus multiples avec Ctrl-Maj-Clic.</seg>
       </tuv>
     </tu>
     <tu>

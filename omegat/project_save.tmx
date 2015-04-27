@@ -4806,6 +4806,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Developers</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20150427T065333Z" creationid="Photonoxx" creationdate="20150427T065333Z">
+        <seg>Développeurs</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Difference</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141117T111027Z" creationid="Photonoxx" creationdate="20141117T111027Z">
@@ -7343,6 +7351,14 @@ couleurs&lt;/e0&gt;.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Lars Henrik Ørn (Danish), Andreas Rother (German), Roberto Quintero (Spanish), Nicolas Boulesteix (French), Hans Cremers (Dutch), and Masahiro Kitagawa (Japanese).</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20150427T065455Z" creationid="Photonoxx" creationdate="20150427T065455Z">
+        <seg>Lars Henrik Ørn (Danois), Andreas Rother (Allemand), Roberto Quintero (Espagnol), Nicolas Boulesteix (Français), Hans Cremers (Néerlandais), and Masahiro Kitagawa (Japonais).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Lastly, it is only in effect when shown.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141228T124430Z" creationid="Photonoxx" creationdate="20141228T124430Z">
@@ -8811,6 +8827,14 @@ couleurs&lt;/e0&gt;.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141111T143014Z" creationid="Photonoxx" creationdate="20141111T143014Z">
         <seg>Gérer les Styles...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Masahiro Kitagawa, Michael Schulze, Pavel Benak, Andreas Rother, Jedd Rashbrooke, Ron Goldthwaite, Doug Pardee, William Andrews, Anton Kast, Visa Jokelainen, Peter Wolbink, Yannick Martel, and others.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20150427T065357Z" creationid="Photonoxx" creationdate="20150427T065357Z">
+        <seg>Masahiro Kitagawa, Michael Schulze, Pavel Benak, Andreas Rother, Jedd Rashbrooke, Ron Goldthwaite, Doug Pardee, William Andrews, Anton Kast, Visa Jokelainen, Peter Wolbink, Yannick Martel, et les autres.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16023,6 +16047,14 @@ couleurs&lt;/e0&gt;.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Translators</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20150427T065407Z" creationid="Photonoxx" creationdate="20150427T065407Z">
+        <seg>Traducteurs</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Tries to preserve the visual relationship between colors so it is perceived as natural to the human eye even though the color values themselves may change.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141226T153049Z" creationid="Photonoxx" creationdate="20141226T153049Z">
@@ -17443,6 +17475,14 @@ couleurs&lt;/e0&gt;.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141226T115330Z" creationid="Photonoxx" creationdate="20141226T115330Z">
         <seg>http://www.lightcrafts.com/learning/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>https://github.com/ktgw0316/LightZone/wiki/ChangeLog</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20150427T065552Z" creationid="Photonoxx" creationdate="20150427T065552Z">
+        <seg>https://github.com/ktgw0316/LightZone/wiki/ChangeLog</seg>
       </tuv>
     </tu>
     <tu>

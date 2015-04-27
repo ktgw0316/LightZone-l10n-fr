@@ -2942,6 +2942,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Canon: EOS 1D-X, EOS 6D, EOS 7D Mark II, EOS 70D, EOS 100D / SL1 / X7, EOS 700D / T5i / X7i, EOS 1200D / Rabel T5, Powershot G7 X, Powershot G12, Powershot G16, Powershot S120</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20150427T071219Z" creationid="Photonoxx" creationdate="20150427T071219Z">
+        <seg>Canon: EOS 1D-X, EOS 6D, EOS 7D Mark II, EOS 70D, EOS 100D / SL1 / X7, EOS 700D / T5i / X7i, EOS 1200D / Rabel T5, Powershot G7 X, Powershot G12, Powershot G16, Powershot S120</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Caplio GX100</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141226T153702Z" creationid="Photonoxx" creationdate="20141226T153702Z">
@@ -5502,6 +5510,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Epson: R-D1</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20150427T071221Z" creationid="Photonoxx" creationdate="20150427T071221Z">
+        <seg>Epson: R-D1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Error Details</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141111T100858Z" creationid="Photonoxx" creationdate="20141111T100858Z">
@@ -5954,6 +5970,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141226T153644Z" creationid="Photonoxx" creationdate="20141226T153644Z">
         <seg>Fuji</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Fujifilm: Finepix S1, X-A1, X-E2, X-M1, X-T1, X20, X30, X100s, X100T, XQ1</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20150427T071228Z" creationid="Photonoxx" creationdate="20150427T071228Z">
+        <seg>Fujifilm: Finepix S1, X-A1, X-E2, X-M1, X-T1, X20, X30, X100s, X100T, XQ1</seg>
       </tuv>
     </tu>
     <tu>
@@ -7487,10 +7511,26 @@ couleurs&lt;/e0&gt;.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Leica: M9, X VARIO (TYP 107)</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20150427T071230Z" creationid="Photonoxx" creationdate="20150427T071230Z">
+        <seg>Leica: M9, X VARIO (TYP 107)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Lens</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141114T181252Z" creationid="Photonoxx" creationdate="20141114T181252Z">
         <seg>Objectif</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>License Change</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20150427T071328Z" creationid="Photonoxx" creationdate="20150427T071328Z">
+        <seg>Changement de License</seg>
       </tuv>
     </tu>
     <tu>
@@ -7611,6 +7651,14 @@ couleurs&lt;/e0&gt;.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141201T084324Z" creationid="Photonoxx" creationdate="20141201T084324Z">
         <seg>LightZone 3.8</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>LightZone 4.0.0</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20150427T071315Z" creationid="Photonoxx" creationdate="20150427T071315Z">
+        <seg>LightZone 4.0.0</seg>
       </tuv>
     </tu>
     <tu>
@@ -9359,6 +9407,14 @@ couleurs&lt;/e0&gt;.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Nikon: 1 AW1, 1 J3, 1 S1, 1 V2, 1 V3, Coolpix A, Coolpix P340, Coolpix P7800, D4S, D600, D810, D750, D800, D800E, D3300, D5300, D5200, D5500, D7100, D7200, DF</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20150427T071233Z" creationid="Photonoxx" creationdate="20150427T071233Z">
+        <seg>Nikon: 1 AW1, 1 J3, 1 S1, 1 V2, 1 V3, Coolpix A, Coolpix P340, Coolpix P7800, D4S, D600, D810, D750, D800, D800E, D3300, D5300, D5200, D5500, D7100, D7200, DF</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>No Browser</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141111T144025Z" creationid="Photonoxx" creationdate="20141111T144025Z">
@@ -9627,6 +9683,14 @@ couleurs&lt;/e0&gt;.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141226T153655Z" creationid="Photonoxx" creationdate="20141226T153655Z">
         <seg>Olympus</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Olympus: E-M10, E-M1, E-P3, E-P5, E-PL1S, E-PL2, E-PL3, E-PL7, E-PM1, STYLUS1, XZ-1, XZ-2</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20150427T071234Z" creationid="Photonoxx" creationdate="20150427T071234Z">
+        <seg>Olympus: E-M10, E-M1, E-P3, E-P5, E-PL1S, E-PL2, E-PL3, E-PL7, E-PM1, STYLUS1, XZ-1, XZ-2</seg>
       </tuv>
     </tu>
     <tu>
@@ -10087,6 +10151,14 @@ couleurs&lt;/e0&gt;.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Panasonic: DMC-FZ70, DMC-FZ200, DMC-FZ1000, DMC-G6, DMC-GF6, DMC-GM1, DMC-GX7, DMC-LF1, DMC-LX100</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20150427T071235Z" creationid="Photonoxx" creationdate="20150427T071235Z">
+        <seg>Panasonic: DMC-FZ70, DMC-FZ200, DMC-FZ1000, DMC-G6, DMC-GF6, DMC-GM1, DMC-GX7, DMC-LF1, DMC-LX100</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Paste Region</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141111T143423Z" creationid="Photonoxx" creationdate="20141111T143423Z">
@@ -10131,6 +10203,14 @@ couleurs&lt;/e0&gt;.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141226T153659Z" creationid="Photonoxx" creationdate="20141226T153659Z">
         <seg>Pentax</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Pentax: 645D, GR, K100D Super, K-3, K-5 II, K-5 IIs, K-50, K-500, Q7</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20150427T071237Z" creationid="Photonoxx" creationdate="20150427T071237Z">
+        <seg>Pentax: 645D, GR, K100D Super, K-3, K-5 II, K-5 IIs, K-50, K-500, Q7</seg>
       </tuv>
     </tu>
     <tu>
@@ -10703,6 +10783,14 @@ couleurs&lt;/e0&gt;.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Raw files from the following cameras are now supported:</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20150427T071217Z" creationid="Photonoxx" creationdate="20150427T071217Z">
+        <seg>Les fichiers bruts (Raw) des appareils suivant sont désormais supportés :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Raw files from the following cameras are now supported: Canon EOS 1Ds Mark III, Panasonic DMC-L10.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141201T084736Z" creationid="Photonoxx" creationdate="20141201T084736Z">
@@ -10747,6 +10835,14 @@ couleurs&lt;/e0&gt;.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141201T084314Z" creationid="Photonoxx" creationdate="20141201T084314Z">
         <seg>Les fichiers bruts (Raw) des appareils suivant sont désormais supportés : Olympus E-P1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Raw processing is now multi-threaded with OpenMP.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20150427T071313Z" creationid="Photonoxx" creationdate="20150427T071313Z">
+        <seg>Le développement Raw est désormais multi-threadé avec OpenMP.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11643,6 +11739,14 @@ couleurs&lt;/e0&gt;.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141226T153703Z" creationid="Photonoxx" creationdate="20141226T153703Z">
         <seg>Samsung</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Samsung: EK-GN120, EX2F, NX1, NX10, NX20, NX200, NX300, NX1000, NX Mini</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20150427T071238Z" creationid="Photonoxx" creationdate="20150427T071238Z">
+        <seg>Samsung: EK-GN120, EX2F, NX1, NX10, NX20, NX200, NX300, NX1000, NX Mini</seg>
       </tuv>
     </tu>
     <tu>
@@ -12955,6 +13059,14 @@ couleurs&lt;/e0&gt;.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141226T153705Z" creationid="Photonoxx" creationdate="20141226T153705Z">
         <seg>Sony</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Sony: A99, DSC-RX1R, DSC-RX10, DSC-RX100M2, DSC-RX100M3, DSLR-A230, DSLR-A290, DSLR-A380, DSLR-A500, DSLR-A580, ILCE-7, ILCE-7R, ILCE-3000, ILCE-5000, ILCE-5100, ILCE-6000, ILCE-QX1, SLT-A58 NEX-3, NEX-3N, NEX-5, NEX-5T, NEX-C3</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20150427T071239Z" creationid="Photonoxx" creationdate="20150427T071239Z">
+        <seg>Sony: A99, DSC-RX1R, DSC-RX10, DSC-RX100M2, DSC-RX100M3, DSLR-A230, DSLR-A290, DSLR-A380, DSLR-A500, DSLR-A580, ILCE-7, ILCE-7R, ILCE-3000, ILCE-5000, ILCE-5100, ILCE-6000, ILCE-QX1, SLT-A58 NEX-3, NEX-3N, NEX-5, NEX-5T, NEX-C3</seg>
       </tuv>
     </tu>
     <tu>
@@ -16899,6 +17011,14 @@ couleurs&lt;/e0&gt;.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141111T102308Z" creationid="Photonoxx" creationdate="20141111T102135Z">
         <seg>La Position et taille de la fenêtre</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Windows (64-bit), Mac OS X 10.10, FreeBSD, and OpenIndiana are now supported.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20150427T071147Z" creationid="Photonoxx" creationdate="20150427T071147Z">
+        <seg>Windows (64-bit), Mac OS X 10.10, FreeBSD, et OpenIndiana sont désormais supportés.</seg>
       </tuv>
     </tu>
     <tu>

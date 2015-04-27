@@ -30,6 +30,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>"Info" tab is now also available in Editor mode.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20150427T070626Z" creationid="Photonoxx" creationdate="20150427T070626Z">
+        <seg>L'onglet "Info" est désormais disponible en mode Éditeur.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>$1 files to process</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141106T105807Z" creationid="Photonoxx" creationdate="20141106T105807Z">
@@ -1978,6 +1986,14 @@
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141115T090019Z" creationid="Photonoxx" creationdate="20141115T090019Z">
         <seg>Options Avancées</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>AdvancedNoiseReduction is updated to V4.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20150427T070726Z" creationid="Photonoxx" creationdate="20150427T070726Z">
+        <seg>AdvancedNoiseReduction (réduction de bruit avancée) est mise à jour dans sa version V4.</seg>
       </tuv>
     </tu>
     <tu>

@@ -7567,6 +7567,14 @@ couleurs&lt;/e0&gt;.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>LightZone 4.1.0</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20150427T065710Z" creationid="Photonoxx" creationdate="20150427T065710Z">
+        <seg>LightZone 4.1.0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>LightZone Batch Processing</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141106T105313Z" creationid="Photonoxx" creationdate="20141106T105313Z">
@@ -9563,6 +9571,14 @@ couleurs&lt;/e0&gt;.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141226T153655Z" creationid="Photonoxx" creationdate="20141226T153655Z">
         <seg>Olympus</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>On Mac OS X:</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20150427T065900Z" creationid="Photonoxx" creationdate="20150427T065900Z">
+        <seg>Sur Mac OS X:</seg>
       </tuv>
     </tu>
     <tu>
@@ -15143,6 +15159,14 @@ couleurs&lt;/e0&gt;.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>To check all fixed bugs, see the &lt;a1&gt; ChangeLog on github&lt;/a1&gt;.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20150427T065708Z" creationid="Photonoxx" creationdate="20150427T065708Z">
+        <seg>Pour vérifier tous les bugs corrigés, consultez le &lt;a1&gt; ChangeLog sur github&lt;/a1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>To clone an area of your photo:</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141227T145410Z" creationid="Photonoxx" creationdate="20141227T145410Z">
@@ -17027,6 +17051,14 @@ couleurs&lt;/e0&gt;.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141201T091201Z" creationid="Photonoxx" creationdate="20141201T091201Z">
         <seg>Vous pouvez désormais déplacer vos photos par glisser/déposer dans les dossiers du &lt;a0&gt;Navigateur de Dossiers&lt;/a0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can now open an image via command line, OS context menu, or drag &amp; drop on LightZone shortcut icon.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20150427T065856Z" creationid="Photonoxx" creationdate="20150427T065856Z">
+        <seg>Vous pouvez désormais ouvrir une image via une ligne de commande, le menu contextuel, ou en faisant un glisser-déposer sur l'îcone du raccourci de LightZone.</seg>
       </tuv>
     </tu>
     <tu>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.8" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.4" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -5078,6 +5078,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Doug Pardee, and William Andrews.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20150427T065301Z" creationid="Photonoxx" creationdate="20150427T065301Z">
+        <seg>Doug Pardee, et William Andrews.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Download Now</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141111T103353Z" creationid="Photonoxx" creationdate="20141111T103353Z">
@@ -7287,6 +7295,14 @@ couleurs&lt;/e0&gt;.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Keepers</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20150427T065255Z" creationid="Photonoxx" creationdate="20150427T065255Z">
+        <seg>Mainteneurs</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Key</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141228T185023Z" creationid="Photonoxx" creationdate="20141228T185023Z">
@@ -7419,6 +7435,14 @@ couleurs&lt;/e0&gt;.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141114T180815Z" creationid="Photonoxx" creationdate="20141114T180756Z">
         <seg>Presse Papier de Réglages</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Light Crafts and the LightZone Project would like to acknowledge the following people who contributed to LightZone:</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20150427T065147Z" creationid="Photonoxx" creationdate="20150427T065147Z">
+        <seg>Light Crafts et l'équipe du Projet LightZone souhaitent remercier les personnes suivantes pour leurs contributions à LightZone :</seg>
       </tuv>
     </tu>
     <tu>
@@ -9663,6 +9687,14 @@ couleurs&lt;/e0&gt;.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Open Source Team</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20150427T065244Z" creationid="Photonoxx" creationdate="20150427T065244Z">
+        <seg>L'équipe Open Source</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Open an Image</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141106T135251Z" creationid="Photonoxx" creationdate="20141106T135251Z">
@@ -9843,6 +9875,14 @@ couleurs&lt;/e0&gt;.</seg>
       </tuv>
       <tuv lang="FR" changeid="Photonoxx" changedate="20141115T080739Z" creationid="Photonoxx" creationdate="20141115T080739Z">
         <seg>Dossier Original</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Original LightZone from Light Crafts</seg>
+      </tuv>
+      <tuv lang="FR" changeid="Photonoxx" changedate="20150427T065223Z" creationid="Photonoxx" creationdate="20150427T065223Z">
+        <seg>LightZone  version originale de Light Crafts</seg>
       </tuv>
     </tu>
     <tu>
